@@ -1,7 +1,7 @@
 ---
 layout: page
-title: The Opportunity Project
-tagline: Health Tech Sprint
+title: TOP HEALTH
+tagline: TOP HEALTH Tech Sprint
 description: Website for Opportunity project
 ---
 
@@ -20,22 +20,28 @@ data design, iteratively released data for training and testing, health-specific
 resources to foster a new AI-centric ecosystem. As part of this process, several industry partners have been chosen
 to participate
 
+### Tracks
+1. Lyme decease - more info coming soon
+1. Trial match - more info coming soon
+
 ### Data
 
 Github repository/data/code will be made available and updated [here](https://tophealth.github.io/data/)
 
 The data is encoded using [NCIt](https://ncit.nci.nih.gov/ncitbrowser/pages/home.jsf) where possible (with mappings possible to others, such as SNOMED, etc.).
-For the data set 1 (eligibility data) format, an example is for [HIV](./sample/dataset1_example_struct_elig_criteria_hiv_format.xlsx>dataset1_example_struct_elig_criteria_hiv_format.xlsx)
 
-1. For data set 2 (participant data) format, please see [dataset2_example_participant_format.xlsx](./sample/dataset2_example_participant_format.xlsx).  
+1. For the data set 1 (eligibility data) format, an example is for [HIV](data/sample/dataset1_example_struct_elig_criteria_hiv_format.xlsx)
 
-1. For data set 3 (clinician-based match) data, please see [dataset3_example_match_format.xlsx](./sample/dataset3_example_match_format.xlsx).
+1. For data set 2 (participant data) format, please see [dataset2_example_participant_format.xlsx](data/sample/dataset2_example_participant_format.xlsx).  
+
+1. For data set 3 (clinician-based match) data, please see [dataset3_example_match_format.xlsx](data/sample/dataset3_example_match_format.xlsx).
 
 ##### Data First Batch:
 
- - [Data Set 1 First Batch](./batch1/Dataset1_First.zip)
- - [Data Set 2 First Batch](./batch1/Dataset2_First.zip)
+ - [Data Set 1 First Batch](data/batch1/Dataset1_First.zip)
+ - [Data Set 2 First Batch](data/batch1/Dataset2_First.zip)
+ - [Data Set 3 First Batch](data/batch3/Dataset3_First.zip)
 
 ### Press
 
-- Digital.gov https://digital.gov/2018/11/02/health-tech-sprint-aims-at-improving-care-access-experience/
+- [Digital.gov](https://digital.gov/2018/11/02/health-tech-sprint-aims-at-improving-care-access-experience/)
