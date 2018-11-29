@@ -1,7 +1,7 @@
 ---
 layout: page
 title: TOP HEALTH
-tagline: TOP HEALTH Tech Sprint
+tagline: Tech Sprint
 description: Website for Opportunity project
 ---
 
