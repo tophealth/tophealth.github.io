@@ -38,4 +38,4 @@ For the data set 1 (eligibility data) format, an example is for [HIV](./sample/d
 
 ### Press
 
-[digital.gov]("https://digital.gov/2018/11/02/health-tech-sprint-aims-at-improving-care-access-experience/)
+- Digital.gov https://digital.gov/2018/11/02/health-tech-sprint-aims-at-improving-care-access-experience/
