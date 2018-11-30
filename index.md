@@ -26,7 +26,7 @@ to participate
 
 ### Data
 
-Github repository/data/code will be made available and updated [here](https://tophealth.github.io/data/)
+Github repository/data/code will be made available and updated [here](https://github.com/tophealth/tophealth.github.io/tree/master/data)
 
 The data is encoded using [NCIt](https://ncit.nci.nih.gov/ncitbrowser/pages/home.jsf) where possible (with mappings possible to others, such as SNOMED, etc.).
 
@@ -40,7 +40,7 @@ The data is encoded using [NCIt](https://ncit.nci.nih.gov/ncitbrowser/pages/home
 
  - [Data Set 1 First Batch](data/batch1/Dataset1_First.zip)
  - [Data Set 2 First Batch](data/batch1/Dataset2_First.zip)
- - [Data Set 3 First Batch](data/batch3/Dataset3_First.zip)
+ - [Data Set 3 First Batch](data/batch3/DataSet3_First.zip)
 
 ### Press
 
