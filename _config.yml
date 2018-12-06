@@ -1,9 +1,5 @@
-# This is the default format.
-# For more see: https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink: /:categories/:year/:month/:day/:title
-
-exclude: [".rvmrc", ".rbenv-version", "ReadMe.md", "Rakefile", "changelog.md", "License.md"]
-highlighter: rouge
+#url: https://y7kim.github.io
+#baseurl: /
 
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
@@ -15,6 +11,32 @@ author :
   github : imuchnik
   twitter : girly_bits
   feedburner : nil
+
+people:
+- name: Kristen Honey, PhD, PMP
+  pic: 1
+  position: Innovator in Residence, HHS
+  social:
+    - title: twitter
+      url: https://twitter.com/khoney
+
+
+- name: Gil Alterovitz, PhD, FACMI
+  pic: 2
+  position: Presidential Innovation Fellow, GSA
+  social:
+    - title: twitter
+      url: https://twitter.com/GilAlterov
+
+
+- name: Irina Muchnik
+  pic: 3
+  position: Developer, Data Scientist, CFPB
+  social:
+    - title: twitter
+      url: https://twitter.com/girly_bits
+
+
 
 # NOTE: Replacing this next line with your own URL
 production_url : https://tophealth.github.io
