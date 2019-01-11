@@ -1,0 +1,378 @@
+Patients who have had chemotherapy or radiotherapy within 4 weeks (6 weeks for nitrosoureas or mitomycin C) prior to entering the study or those who have not recovered from adverse events due to agents administered more than 4 weeks earlier; patients who have been administered ABT-888 as part of a single or limited dosing study, such as a phase 0 study, should not necessarily be excluded from participating in this study solely because of receiving prior ABT-888
+36.0
+Patients who have had chemotherapy or radiotherapy within 4 weeks (6 weeks for nitrosoureas or mitomycin C) prior to entering the study or those whose adverse event due to agents administered more than 4 weeks earlier have not resolved or stabilized; patients who have been administered ABT-888 as part of a single or combination, phase 0 or I study, should not necessarily be excluded from participating in this study solely because of receiving prior ABT-888
+276.0
+Patients who have had chemotherapy or radiotherapy within 4 weeks (6 weeks for nitrosoureas or mitomycin C, 3 weeks for rituximab) prior to entering the study or those who have not recovered from adverse events due to agents administered more than 4 weeks earlier
+24.0
+Patients who have had anticancer therapy, including kinase inhibitors or any investigational agent within 4 weeks or 5 half-lives (whichever is shorter) (6 weeks for nitrosoureas or mitomycin C) prior to entering the study or those who have not recovered to baseline from adverse events (except alopecia and other non-clinically significant adverse events [AEs]); patients who have received prior cabozantinib or inhibitors of c-MET or HGF are ineligible
+55.0
+Participants who have had anti-tumor therapy or other investigational agents within 4 weeks prior to registration (6 weeks for nitrosoureas or mitomycin C), or those who have not recovered from adverse events due to agents administered more than 4 weeks prior to registration
+113.0
+Patients who have had chemotherapy (including investigational cytotoxic chemotherapy), biologic agents (e.g., cytokines or antibodies) or radiotherapy within 4 weeks (6 weeks for nitrosoureas or mitomycin C) before the first dose of study treatment or those who have not recovered from adverse events due to agents administered more than 4 weeks earlier
+72.0
+Patients who have had chemotherapy, radiation therapy, or other investigational agents within 3 weeks prior to entering study, 6 weeks for nitrosoureas or mitomycin
+42.0
+Patients who have had chemotherapy within 4 weeks (6 weeks for nitrosoureas or mitomycin C) prior to entering the study or those who have not recovered from adverse events due to agents administered more than 4 weeks earlier; there will be at least a 3 week delay from the time of a previous bladder biopsy/transurethral resection of bladder tumor (TURBT) to allow for adequate bladder healing prior to enrollment
+54.0
+Patients who have had chemotherapy or radiotherapy within 4 weeks (6 weeks for nitrosoureas or mitomycin C) prior to entering the study or those who have not recovered from adverse events due to agents administered more than 4 weeks earlier
+250.0
+Patients who have had chemotherapy or radiotherapy within 4 weeks (6 weeks for nitrosoureas or mitomycin C) prior to entering the study or those who have not recovered to =< grade 1 adverse events due to agents administered more than 4 weeks earlier
+57.0
+Patients must have discontinued chemotherapy, immunotherapy or other investigational agents used in the adjuvant setting >= 4 weeks prior to entering the study and recovered from adverse events due to those agents; mitomycin and nitrosoureas must have been discontinued at least 6 weeks prior to entering the study; patients must have discontinued radiation therapy >= 2 weeks prior to entering the study and recovered from any adverse events associated with treatment; prior surgery must be >= 4 weeks from registration and patients must be fully recovered from post-surgical complications
+300.0
+Patients who have had chemotherapy, targeted small molecule therapy, or radiotherapy within 4 weeks (6 weeks for nitrosoureas or mitomycin C) prior to entering the study or those who have not recovered from adverse events due to agents administered more than 4 weeks earlier* Note: patients with =< grade 2 neuropathy are an exception to this criterion and may qualify for the study* Note: if patients received major surgery, they must have recovered adequately from the toxicity and/or complications from the intervention prior to starting therapy
+36.0
+Has had a prior monoclonal antibody within 4 weeks prior to study day 1 or who has not recovered (i.e., =< grade 1 or at baseline) from adverse events (AEs) due to agents administered more than 4 weeks earlier
+36.0
+Patients who have had chemotherapy or radiotherapy within 4 weeks (6 weeks for nitrosoureas or mitomycin C) prior to entering the study or those who have not recovered from adverse events (AEs) due to agents administered more than 4 weeks earlier
+80.0
+Patients who have had chemotherapy or radiotherapy within 4 weeks (6 weeks for nitrosoureas or mitomycin C) or targeted therapies within 2 weeks prior to entering the study or those who have not recovered (=< grade 1) from adverse events due to agents administered with the exception of any grade of alopecia
+66.0
+Patients who have had chemotherapy or radiotherapy within 4 weeks (6 weeks for nitrosoureas or mitomycin C) prior to entering the study or those who have not recovered from adverse events due to agents administered more than 4 weeks earlier
+12.0
+Patients must have discontinued chemotherapy, immunotherapy or other investigational agents used in the adjuvant setting >= 4 weeks prior to randomization and recovered from adverse events due to those agents; mitomycin and nitrosoureas must have been discontinued at least 6 weeks prior to entering the study; patients must have discontinued radiation therapy >= 2 weeks prior to entering the study and recovered from any adverse events associated with treatment; prior surgery must be >= 4 weeks from randomization and patients must be fully recovered from post-surgical complications
+400.0
+Participants who have had anti-neoplastic treatment for KS (including chemotherapy, radiotherapy, local treatment including topical fluorouracil [5-FU], biological therapy or investigational therapy) within 4 weeks (6 weeks for nitrosoureas or mitomycin C) prior to entering the study OR those who have not recovered from adverse events due to agents administered more than 4 weeks earlier
+42.0
+Patients who have had chemotherapy or radiotherapy within 4 weeks (6 weeks for nitrosoureas or mitomycin C) prior to entering the study or those who have not recovered from adverse events due to agents administered more than 4 weeks earlier; patients who have had targeted therapy will be required to wait 2 weeks due to short half-life of the drugs; treatment with bisphosphonates is permitted
+58.0
+Patients who have had chemotherapy or radiotherapy within 4 weeks (6 weeks for nitrosoureas or mitomycin C) prior to entering the study or those who have not recovered from adverse events due to agents administered more than 4 weeks earlier
+30.0
+Patients who have had chemotherapy or radiotherapy within 2 weeks prior to entering the study or those who have not recovered from adverse events from prior treatments
+30.0
+Patients who have had chemotherapy or radiotherapy within 4 weeks (6 weeks for nitrosoureas or mitomycin C) of starting treatment or those who have not recovered from adverse events due to agents administered more than 4 weeks earlier; patients may not have had hormonal therapy within 2 weeks prior to entering the study; patients receiving raloxifene for bone health as per Food and Drug Administration (FDA) indication may remain on raloxifene absent other drug interactions
+549.0
+Patients who have had chemotherapy or radiotherapy within 4 weeks (6 weeks for nitrosoureas or mitomycin C) of starting treatment or those who have not recovered from adverse events due to agents administered more than 4 weeks earlier; patients may not have had hormonal therapy within 2 weeks prior to entering the study; patients receiving raloxifene for bone health as per Food and Drug Administration (FDA) indication may remain on raloxifene absent other drug interactions
+680.0
+Patients who have had chemotherapy within 4 weeks (6 weeks for nitrosoureas or mitomycin C) prior to entering the study
+33.0
+Patients who have had chemotherapy or radiotherapy =< 4 weeks prior to entering the study or those who have not recovered from adverse events due to agents administered more than 4 weeks earlier; treatment with glucocorticoids, hydroxyurea, and tyrosine kinase inhibitors is allowed up to 24 hour prior to initiation of therapy
+35.0
+Patients who have had chemotherapy or RT within 3 weeks prior to start of the study agents, or those who have not recovered from adverse events due to agents administered more than 3 weeks earlier
+126.0
+Patients who have had chemotherapy or radiotherapy within 4 weeks prior to entering the study or those who have not recovered from adverse events due to agents administered more than 4 weeks earlier
+36.0
+Patients who have had chemotherapy or radiotherapy within 4 weeks (6 weeks for nitrosoureas or mitomycin C) prior to entering the study or those who have not recovered from adverse events due to agents administered more than 4 weeks earlier
+45.0
+Patients who have had chemotherapy or radiotherapy within 4 weeks (6 weeks for nitrosoureas or mitomycin C) prior to entering the study or those who have not recovered from adverse events due to agents administered more than 4 weeks earlier; steroids for symptom palliation are allowed, but must be either discontinued or on stable doses at the time of initiation of protocol therapy
+50.0
+Patients who have received systemic cytotoxic chemotherapy, immunotherapy for 3 weeks before initiation of planned WBRT or patients who have not recovered from serious (Common Terminology Criteria for Adverse Events [CTCAE] grade 3 or more) adverse events from the previously received agents; for oral targeted agents or any other investigational agents, at least 4 half-lives of the agent (6 weeks for nitrosoureas or mitomycin C) should have elapsed prior to starting study treatment
+46.0
+Patients who have had chemotherapy within 4 weeks or five half-lives, whichever is shorter, (6 weeks for nitrosoureas or mitomycin C) prior to entering the study or those who have not recovered from adverse events due to agents administered more than 4 weeks earlier
+70.0
+Patients who have had chemotherapy or other systemic therapy or radiotherapy or patients who have not recovered from adverse events due to prior administered agents as follows:* Chemotherapy < 4 weeks prior to entering the study* Radiotherapy < 4 weeks prior to entering the study* Nitrosoureas/mitomycin C < 6 weeks prior to entering the study* Targeted therapy < 2 weeks (or 5 half-lives, whichever is longer) prior to entering the study* Those who have not recovered from clinically significant adverse events due to prior agents administered to grade =< 1 or baseline, with exception of alopecia and peripheral neuropathy, unless approved by the protocol chair
+51.0
+Patients who have had chemotherapy or radiotherapy within 4 weeks prior to entering the study or those who have not recovered from adverse events due to agents administered more than 4 weeks earlier, excluding alopecia; patients with treatment related effects, such as peripheral neuropathy, that are grade 1 or less are eligible
+150.0
+Patients who have had chemotherapy or radiotherapy within 4 weeks (6 weeks for nitrosoureas or mitomycin C) prior to entering the study or those who have not recovered from adverse events due to agents administered more than 4 weeks earlier
+20.0
+Participants who have had chemotherapy or radiotherapy within 4 weeks (6 weeks for nitrosoureas or mitomycin C) prior to study enrollment or those who have not recovered from adverse events due to agents administered more than 4 weeks prior to study enrollment
+36.0
+Patients who have had chemotherapy or radiotherapy within 4 weeks (6 weeks for nitrosoureas or mitomycin C) prior to entering the study or those who have not recovered from adverse events due to agents administered more than 4 weeks earlier
+40.0
+Use of any other experimental drug or therapy within 21 days of baseline - patients who have had chemotherapy or radiotherapy within 4 weeks of entering the study or those who have not recovered from adverse events due to agents administered more than 4 weeks earlier
+27.0
+Patients who have had chemotherapy or radiotherapy including complementary and alternative medicine treatments (CAMs) within 4 weeks prior to entering the study or those who have not recovered from adverse events (other than alopecia) due to agents administered more than 4 weeks earlier
+78.0
+No prior mediastinal or thoracic radiotherapy
+729.0
+Prior chemotherapy is allowed; patients must not have received chemotherapy for 4 weeks prior to the initiation of study treatment and must have full recovery from any acute effects of any prior chemotherapy; patients must not have had nitrosoureas or mitomycin C for 6 weeks prior to the initiation of study treatment
+36.0
+Must have completed radiotherapy at least 12 months prior to entry
+240.0
+REGISTRATION #2 - PRIOR TO CONSOLIDATION CHEMOTHERAPY: Patients must have completed chemoradiotherapy per protocol and at least four weeks but no more than six weeks must have elapsed from the last day of induction therapy (the last day of radiation)
+162.0
+Patients must not have received prior chemotherapy, radiotherapy, or antibody therapy for lymphoma
+155.0
+Prior chemotherapy is allowed; patients must not have received chemotherapy for 3 weeks prior to the initiation of study treatment and must have full recovery from any acute effects of any prior chemotherapy; patients must not have had nitrosoureas or mitomycin C for 6 weeks prior to the initiation of study treatment
+130.0
+Patients may have had any number of prior therapies; at least 3 weeks must have elapsed since the last dose of systemic therapy; at least 6 weeks must have elapsed if the last regimen included BCNU or mitomycin C; at least 6 weeks must have elapsed if the last regimen included an anti-cytotoxic T-lymphocyte-associated protein 4 (CTLA4) antibody; patients must have experienced disease progression on their prior therapy in the opinion of the treating investigator
+40.0
+Patients who have had chemotherapy or radiotherapy within 3 weeks (6 weeks for nitrosoureas or mitomycin C) prior to entering the study or those who have not recovered from adverse events due to agents administered more than 3 weeks earlier* For Part I, prior adjuvant therapy with gemcitabine or a fluoropyrimidine therapy is permitted if completed > 6 months prior to recurrence; no prior PARP inhibitor therapy is allowed* For Part II, no prior PARP inhibitor therapy is permitted; up to two prior treatment regimens are permitted as follows: 1 adjuvant and 1 metastatic; 1 locally advanced and 1 metastatic; or 2 metastatic, or a variation thereof
+107.0
+Patients who have had (prior to entering the study): major surgery and biologic/antibody therapies (including immunotherapies) are not permitted within 4 weeks of romidepsin administration; anti-cancer therapy including chemotherapy, radiotherapy, hormonal (with the exception of hormones for thyroid conditions), and other investigational agents will not be allowed within 14 days or five (5) half-lives (whichever is longer) prior to the first dose of romidepsin (6 weeks for nitrosoureas or mitomycin C); additionally, participants must have recovered to less than grade 2 clinically significant adverse effect(s)/toxicity(ies) of the previous therapy, with the exception of alopecia, unless approved by the principal investigator
+132.0
+Patients may have received prior radiotherapy for symptomatic localized bone lesions or impending spinal cord compression only; radiotherapy must be completed at least 14 days prior to registration and all toxicities must have resolved to =< grade 1
+130.0
+Patients must have fully recovered from the acute toxic effects of all prior chemotherapy, immunotherapy, or radiotherapy prior to study enrollment
+62.0
+Patients must have received prior therapy other than surgery and must have fully recovered from the acute toxic effects of all prior chemotherapy, immunotherapy, biologic therapy or radiotherapy prior to study entry
+180.0
+All patients must have a Medical Oncology evaluation within 4 weeks prior to registration
+252.0
+Participants must have known HIV infection and histologically confirmed solid malignancy that is metastatic or unresectable and for which standard curative or palliative measures do not exist or are no longer effective; any number of prior cancer therapies will be permitted; at least 4 weeks must have elapsed since prior chemotherapy or biological therapy, 6 weeks if the regimen included carmustine (BCNU) or mitomycin C; prior radiation therapy to the thoracic cavity, abdomen, or pelvis must be completed at least 3 months prior to registration; radiotherapy to any other site (including bone or brain metastases) must be completed at least 28 days prior to registration
+42.0
+Patients must have recovered from severe toxicity of prior therapy; the following intervals from previous treatments are required to be eligible:* 12 weeks from the completion of radiation * 6 weeks from a nitrosourea chemotherapy* 3 weeks from a non-nitrosourea chemotherapy* 4 weeks from any investigational (not Food and Drug Administration [FDA]-approved) agents * 2 weeks from administration of a non-cytotoxic, FDA-approved agent (e.g., Tarceva, hydroxychloroquine, bevacizumab, etc.)
+36.0
+Patients must be off radiation therapy or chemotherapy 4 weeks (6 weeks for nitrosoureas or mitomycin C) of starting induction chemotherapy
+63.0
+Patients who relapse on frontline therapy in phases other than maintenance must have fully recovered from the acute toxic effects of all prior chemotherapy, immunotherapy, or radiotherapy prior to entering this study
+598.0
+Patients must have received no more than 2 prior chemotherapy regimens and/or focal radiotherapy for their brain tumor and fully recovered from the acute treatment related toxicities of all prior therapies prior to entering this study; for those acute baseline adverse events attributable to prior therapy, patients must meet organ function criteria
+40.0
+Radiotherapy: patients must have had their last fraction of: * Focal irradiation > 2 weeks prior to enrollment
+40.0
+Patient should be randomized in the trial ideally within a maximum of 8 weeks of completion of their last treatment (surgery, chemotherapy or radiotherapy), but in no case longer than 12 weeks
+1500.0
+Patients receiving systemic chemotherapy within 3 weeks prior to randomization
+1500.0
+Patients receiving adjuvant radiotherapy within 2 weeks prior to randomization
+1500.0
+No prior radiotherapy or chemotherapy, with the exception of dexamethasone, which is allowed
+621.0
+Prior palliative radiotherapy to metastases
+84.0
+Patients must have recovered from severe toxicity of prior therapy; the following intervals from previous treatments are required to be eligible:* 12 weeks from the completion of radiation * 6 weeks from a nitrosourea chemotherapy or mitomycin C* 3 weeks from a non-nitrosourea chemotherapy* 4 weeks from any investigational (not Food and Drug Administration [FDA]-approved) agents * 2 weeks from administration of a non-cytotoxic, FDA-approved agent except bevacizumab/vascular endothelial growth factor receptor (VEGFR) inhibitors (e.g., erlotinib, hydroxychloroquine, etc.)* 6 weeks from bevacizumab/VEGFR inhibitors
+40.0
+Patients must be >= 4 weeks beyond treatment of any chemotherapy, other investigational therapy, hormonal, biological, targeted agents or radiotherapy, and must have recovered to =< grade 1 toxicity or previous baseline for each toxicity; exception: patients may have received palliative low dose radiotherapy to the limbs 1-4 weeks before this therapy provided pelvis, sternum, scapulae, vertebrae, or skull were not included in the radiotherapy field
+57.0
+Prior Therapy:* Patients must have had no prior anthracycline (e.g., doxorubicin, daunorubicin) or ifosfamide chemotherapy* Patients must have had no prior use of pazopanib or similar multi-targeted tyrosine kinase inhibitors (TKI)* Patients must have had no prior radiotherapy to tumor-involved sites* Note: patients previously treated for a non-NRSTS cancer are eligible provided they meet the prior therapy requirements; patients who have had chemotherapy or radiotherapy within 4 weeks (6 weeks for nitrosoureas or mitomycin C) prior to entering the study or those who have not recovered from adverse events due to agents administered more than 4 weeks earlier are excluded
+340.0
+Patients must have completed any prior adjuvant chemotherapy or radiation therapy 2 or more weeks (6 or more weeks for mitomycin and nitrosoureas) prior to randomization and be adequately recovered at the time of randomization* NOTE: Patients taking low dose methotrexate for non-malignant conditions and other cytotoxic agents for non-malignant conditions are allowed to continue treatment while on study* NOTE: Neo-adjuvant chemotherapy or radiation therapy for the resected lung cancer is not permitted
+NONE
+Patients must be at least 2 weeks and within 12 weeks from documented progressive disease (PD) on Step 1 of current study; all sites of disease must be evaluated within 4 weeks prior to registration
+300.0
+ELIGIBILITY CRITERIA FOR RANDOMIZATION (STEP 1): Radiotherapy may be given before or after protocol treatment. when radiotherapy is planned prior to protocol treatment administration, patients must have completed adjuvant radiotherapy >= 2 weeks prior to randomization for protocol therapy, if applicable
+562.0
+The subject has received cytotoxic chemotherapy (including investigational cytotoxic chemotherapy) or biologic agents (e.g., cytokines or antibodies) within 3 weeks, or nitrosoureas/mitomycin C within 6 weeks before the first dose of study treatment
+90.0
+Patients must have recovered from severe toxicity of prior therapy; the following intervals from previous treatments are required to be eligible:* 12 weeks from the completion of radiation* 6 weeks from a nitrosourea chemotherapy* 3 weeks from a non-nitrosourea chemotherapy* 4 weeks from any investigational (not Food and Drug Administration [FDA]-approved) agents * 2 weeks from administration of a non-cytotoxic, FDA-approved agent (e.g., erlotinib, hydroxychloroquine, etc.)* 4 weeks from prior antiangiogenesis therapy (approved or investigational) (e.g., bevacizumab, aflibercept, ramucirumab, cediranib, cabozantinib, etc.)
+23.0
+The subject has received cytotoxic chemotherapy (including investigational cytotoxic chemotherapy) or biologic agents (e.g., cytokines or antibodies) within 3 weeks, or nitrosoureas/mitomycin C within 6 weeks before the first dose of study treatment
+135.0
+Patients who have had chemotherapy or radiotherapy within 4 weeks (6 weeks for nitrosoureas or mitomycin C) prior to entering the study or those who have not recovered from adverse events (AEs) due to agents administered more than 3 weeks earlier; patients who have had prior pelvic radiation may be at increased risk for bowel perforation, and therefore may not have residual inflammatory disease of the bowel or residual bowel toxicity based on baseline imaging and clinical assessment; palliative (limited-field) radiation therapy is permitted, if all of the following criteria are met:* Repeat imaging demonstrates no new sites of bone metastases* The lesion being considered for palliative radiation is not a target lesion* Bowel toxicity is not expected from the target field due to increased risk of perforation
+37.0
+Appropriate for study entry based on the following diagnostic workup:* History/physical examination within 28 days prior to registration* Imaging of target lesion(s) within 28 days prior to registration* Further protocol-specific assessments:** Recovery from effects of recent surgery, radiotherapy or chemotherapy** Free of active infection requiring antibiotics (with the exception of uncomplicated urinary tract infection [UTI])** Any hormonal therapy directed at the malignant tumor must be discontinued at least one week prior to registration** Any other prior therapy directed at the malignant tumor including chemotherapy, targeted agents, immunologic agents, and any investigational agents, must be discontinued at least 4 weeks prior to registration (6 weeks for nitrosoureas or mitomycin C) ** Any prior radiation therapy must be completed at least 4 weeks prior to registration** At least 4 weeks must have elapsed since major surgery
+96.0
+Patients who have had chemotherapy, immunotherapy, or investigational therapy, within 4 weeks (6 weeks for nitrosoureas or mitomycin C), or palliative radiotherapy within 2 weeks prior to the first dose of the study drug
+209.0
+Patients must have received prior radiation therapy and/or chemotherapy and recovered from the acute treatment related toxicities (defined as =< grade 1 if not defined in eligibility criteria) of all prior chemotherapy, immunotherapy or radiotherapy prior to entering this study; there is no upper limit to the number of prior therapies that is allowed
+110.0
+INCLUSION CRITERIA FOR STRATUM C: Patients must have received prior radiotherapy and/or chemotherapy with the following exceptions:* Patients with secondary CNS cancers after a previous medical problem/malignancy who cannot receive full dose of radiotherapy (> 50 Gy) as long as they meet all other eligibility criteria* Patients with progressive low-grade gliomas and CMMRD or Lynch syndromePatients must have recovered from the acute treatment related toxicities (defined as =< grade 1 if not defined in eligibility criteria) of all prior chemotherapy, immunotherapy or radiotherapy prior to entering this study; there is no upper limit to the number of prior therapies that is allowed
+110.0
+Prior therapy for metastatic disease permitted; at least 4 weeks must have elapsed since prior chemotherapy or biological therapy, 6 weeks if the regimen included carmustine (BCNU) or mitomycin C; radiotherapy must be completed at least 4 weeks prior to registration
+84.0
+Any prior surgeries must have been completed at least 4 weeks prior to randomization
+126.0
+Patients who have had chemotherapy or other systemic therapy or radiotherapy, or those who have not recovered from adverse events due to prior administered agents as follows:* Chemotherapy < 3 weeks prior to registration* Hormone therapy < 2 weeks prior to registration* Targeted therapy (other than below) < 2 weeks prior to registration (e.g., tyrosine kinase inhibitors)* Trastuzumab < 6 weeks prior to registration* Bevacizumab < 6 weeks prior to registration* Nitrosoureas/mitomycin C < 6 weeks prior to registration* Radiotherapy < 3 weeks prior to registration (NOTE: a previously irradiated lesion may not be used as a target lesion unless there is evidence of post-radiation progression)* Surgery < 3 weeks prior to registration* Other approved or investigational agents < 3 weeks prior to registration unless otherwise noted by the protocol chair* Patients who have received prior epigenetic (e.g., histone deacetylase [HDAC] inhibitors such as entinostat, panobinostat, vorinostat, romidepsin or demethylating agents such as 5-azacitidine or decitabine) immunomodulatory or other checkpoint inhibitors should only be considered after discussion with the protocol chair* Those who have not recovered from acute adverse events to grade < 2 or baseline due to agents administered, with exception of alopecia, unless approved by the protocol chair
+45.0
+Patients must have completed last chemotherapy >= 3 weeks or radiotherapy >= 2 weeks prior to receiving study drugs
+82.0
+Patients who have had chemotherapy or radiotherapy within 3 weeks (6 weeks for nitrosoureas or mitomycin C) prior to entering the study; patients who have had prior onalespib or AT7519M as a monotherapy will not be excluded
+37.0
+Patients must have completed last chemotherapy >= 3 weeks or radiotherapy >= 2 weeks prior to receiving study drugs
+50.0
+Patients who have had prior chemotherapy or any other investigational drug within 30 days of registration or prior radiotherapy to the study treatment volume; prior surgery is allowed; there must be at least 6 weeks between mitomycin or nitrosoureas and any new therapy
+15.0
+Patients must have completed last chemotherapy >= 3 weeks or radiotherapy >= 2 weeks prior to receiving study drugs
+46.0
+Patients must be registered on study no earlier than 7 days and no later than 56 days prior to Step 1 registration after completing chemotherapy, Note:* Post-chemotherapy restaging imaging must be completed no earlier than 56 days prior to Step 1 registration� For patients with limited-stage small cell lung cancer who receive thoracic radiotherapy concomitant with chemotherapy, patients must be registered on study no earlier than 7 days and no later than 56 days prior to Step 1 registration after completing thoracic radiotherapy� For patients with extensive-stage small cell lung cancer who are being considered for consolidative thoracic radiotherapy after chemotherapy, concomitant administration of consolidative thoracic radiotherapy and protocol-specified prophylactic cranial irradiation with or without hippocampal avoidance is permitted; if consolidative thoracic radiotherapy is performed prior to study registration, then patients must be registered on study no earlier than 7 days and no later than 56 days prior to Step 1 registration after completing thoracic radiotherapy
+302.0
+Prior treatment with lenalidomide within 8 weeks prior to entering the study
+36.0
+Radiotherapy within 4 weeks of protocol therapy
+90.0
+Patients who have had chemotherapy or immunotherapy within 4 weeks (6 weeks for nitrosoureas or mitomycin C) or radiotherapy within 2 weeks prior to cycle 1 day 1; patients who have had tyrosine kinase inhibitors (such as Braf or MEK inhibitors) within 15 days of cycle 1 day 1
+32.0
+Patients who have had radiotherapy within 4 weeks
+70.0
+Patients must have completed and recovered from any adjuvant chemotherapy 2 or more weeks prior to randomization (6 weeks for mitomycin and nitrosoureas; 4 weeks for post-operative radiation therapy) (NOTE: adjuvant chemotherapy and/or radiation is not required)
+714.0
+Patients must have recovered from the acute toxic effects of all prior chemotherapy, immunotherapy, stem cell transplant or radiotherapy prior to entering this study; all prior treatment-related toxicities must have resolved to =< grade 2 prior to enrollment
+56.0
+Patients who have had chemotherapy or radiotherapy within 4 weeks (6 weeks for nitrosoureas or mitomycin C) prior to entering the study or those whose adverse events have not resolved to grade 1 or less (except alopecia) from agents administered more than 4 weeks earlier; patients must have completed prior biological therapies and/or targeted therapies >= 2 weeks prior to study enrollment; patients who have had radiation to the pelvis or other bone marrow-bearing sites will be considered on a case by case basis and may be excluded if the bone marrow reserve is not considered adequate (i.e. radiation to > 25% of bone marrow)
+48.0
+Patients must have no previous radiotherapy or chemotherapy other than corticosteroids
+45.0
+Concomitant radiotherapy
+84.0
+Patients must have recovered from the acute treatment related toxicities (defined as =< grade 1) of all prior chemotherapy, immunotherapy, or radiotherapy prior to entering this study
+25.0
+Prior Therapies:* There is no maximum number of prior medical therapies* There must be no curative or life prolonging treatments available* Patients who have received other IGF-1R antibodies or inhibitors are eligible, as long as an appropriate washout period has elapsed * Participants must have had their last fraction of external beam radiation therapy that is local and palliative at least 2 weeks prior to enrollment, and had their last substantial bone marrow radiation at least 6 weeks prior to enrollment* Participants must have had their last dose of temozolomide at least 4 weeks prior to enrollment; their last dose of other cytotoxic chemotherapy at least 3 weeks prior to enrollment; their last dose of biological therapy, such as biological response modifiers (e.g., cytokines), immunomodulatory agents, vaccines, differentiating agents, used to treat their cancer at least 7 days prior to enrollment, their last dose of a monoclonal antibody at least 3 half-lives prior to enrollment, and their last dose of any investigational agent at least 4 weeks prior to enrollment* Participants must have recovered from the acute toxic effects of prior therapy to a grade 1 (Common Terminology Criteria for Adverse Events [CTCAE] version [v.]4.0) level prior to enrollment (does not apply to alopecia)
+24.0
+Prior radiotherapy to the abdomen or pelvis
+488.0
+Patients must have fully recovered from the acute toxic effects of all prior chemotherapy, immunotherapy, or radiotherapy prior to entering this study
+90.0
+Prior chemotherapy is allowed, including platinum therapy; patients must not have received chemotherapy for 4 weeks prior to the initiation of study treatment and must have recovery =< grade 1 from any adverse events from any prior chemotherapy (other than alopecia); patients must not have had nitrosoureas or mitomycin C for 6 weeks prior to the initiation of study treatment
+72.0
+Patients must have fully recovered from the acute toxic effects of all prior chemotherapy, immunotherapy, or radiotherapy prior to entering this study
+146.0
+Patients who have had chemotherapy or other systemic therapy or radiotherapy, or those who have not recovered from adverse events due to prior administered agents as follows: chemotherapy, radiotherapy or surgery =< 3 weeks prior to entering the study, targeted therapy (e.g., TKI) =< 1 week prior to entering the study; autologous HSCT =< 6 weeks prior to entering the study; investigational drug or immunotherapy (e.g. rituximab) =< 4 weeks prior to entering the study; prophylactic intrathecal chemotherapy within one week of enrollment allowed; patients will be allowed to receive cytoreduction with hydroxyurea, 6-mercaptopurine, corticosteroids (dexamethasone, prednisone or similar) or cyclophosphamide provided that it is discontinued at least 24 hours prior to the initiation of study treatment; pre-phase treatment with dexamethasone 10 mg/m^2 (maximum total 24 mg per day) for up to 5 days is required for patients with bone marrow blasts more than 50%, peripheral blood blasts of 15,000/uL or higher, or elevated lactate dehydrogenase suggesting rapidly progressing disease as per investigator�s assessment; pre-phase treatment must be stopped at least 24 hours prior to the initiation of blinatumomab
+30.0
+Patients who have had systemic (chemotherapy, biologic therapy or radiotherapy) within 3 weeks (6 weeks for nitrosoureas or mitomycin C) prior to entering the study
+180.0
+Participants who have had chemotherapy or radiotherapy within 2 weeks prior to treatment start or those who have not recovered from adverse events due to agents administered more than 2 weeks prior to treatment start; hydroxyurea is allowed for symptomatic leukocytosis during screening, lead in, and cycle 1 only if clinically necessary; a total white blood cell (WBC) count < 25 x 10^9/L prior to first dose of decitabine on trial is required; prior leukapheresis and/or prior or concurrent treatment with hydroxyurea to achieve this level are allowed
+48.0
+Patients who have had radiotherapy within 14 days prior to entering the study
+132.0
+Patients must have had no prior radiotherapy to tumor-involved sites
+40.0
+Previous therapy with at least radiotherapy and temozolomide
+70.0
+Must be 12 weeks from radiotherapy; if patients are within 12 weeks of radiotherapy, then the progressive lesion must be outside of the high-dose radiation target volume or have unequivocal evidence of progressive tumor on a biopsy specimen
+70.0
+Patients who have had systemic therapy or radiotherapy within 3 weeks prior to the first dose of study therapy
+68.0
+Patients who have had radiotherapy within < 4 weeks are ineligible
+21.0
+Patients must have recovered from severe toxicity of prior therapy; the following intervals from previous treatments are required to be eligible:* 12 weeks from the completion of radiation* 6 weeks from a nitrosourea chemotherapy* 3 weeks from a non-nitrosourea chemotherapy* 4 weeks from any investigational (not Food and Drug Administration [FDA]-approved) agents * 2 weeks from administration of a non-cytotoxic, FDA-approved agent (e.g., erlotinib, hydroxychloroquine, etc.)
+35.0
+Prior cranial radiotherapy or radiotherapy to the head and neck where potential field overlaps would exist
+120.0
+Prior chemotherapy or radiotherapy for any brain tumor
+120.0
+Histological evidence of World Health Organization (WHO) grade III anaplastic glioma or WHO grade II low grade glioma with locally diagnosed combined 1p/19q loss and the presence of an either IDH1 or IDH2, both as established by a local or referenced laboratory qualified for the study* Note: mixed gliomas are eligible, regardless of the degree of astrocytic or oligodendrocytic predominance, as long as the tumor is also co-deleted for 1p and 19q
+360.0
+Patients must have a creatinine and AST =< grade 1
+747.0
+Patients must have recovered from the effects of induction, re-induction, or consolidation chemotherapy (all toxicities =< grade I with the exception of reversible electrolyte abnormalities), and have no ongoing active infection requiring treatment
+747.0
+AST =< grade 1
+747.0
+Must have received bilateral radiation therapy, and subsequently developed grade 2 or 3 xerostomia, according to modified Radiation Therapy Oncology Group (RTOG) scale:* Grade 0 � None* Grade 1 � Slight dryness of mouth (good response on stimulation and no significant dietary alterations necessary)* Grade 2 � Moderate dryness of mouth (poor response on stimulation and altered oral intake required such as frequent water, oral lubricants, or soft-moist foods)* Grade 3 � Complete dryness of mouth (no response on stimulation and difficult oral alimentation; intravenous (IV) fluids, pureed diet or tube feedings may be required)* Grade 4 � Fibrosis
+240.0
+Grade 2 or greater rash of any cause at time of study entry
+143.0
+Grade 2 or greater diarrhea of any cause at time of study entry
+143.0
+=< grade 2 hematuria (criteria applicable only for dose levels that include isotretinoin) and =< grade 2 proteinuria
+62.0
+Skin toxicity =< grade 1
+62.0
+Patients must not have >= grade 2 diarrhea
+74.0
+Patients with prior history of or active severe (grade 3 or 4) acute graft-versus-host disease (GVHD)
+113.0
+Patients who have had chemotherapy, targeted therapy, or radiotherapy, and have not recovered from acute toxicity to their pretreatment baseline or to a grade 1 level within 4 weeks (6 weeks for nitrosoureas or mitomycin C) prior to entering the study * Note: patients with chronic residual prior therapy-related toxicity (e.g. vitiligo, alopecia, low grade neuropathy), or in the consensus opinion of the Cancer Immunotherapy Trials Network (CITN)/Cancer Therapy Evaluation Program (CTEP) investigators would not impact the safety of the patient or the integrity of the study, are not excluded* Note: for resolution of autoimmune toxicity from prior immune therapy, patients must be off steroids for at least 30 days without relapse of autoimmune toxicity, or it must be at least 30 days from their last dose of infliximab or related immunosuppressive therapy without relapse of autoimmune toxicity
+12.0
+All adverse events (excluding alopecia, acne, rash) due to agents administered more than 2 weeks earlier should recover to =< grade 1; patients with hematologic malignancies are expected to have hematologic abnormalities at study entry; these abnormalities which are thought to be primarily related to the underlying leukemia, are not considered to be toxicities (adverse events [AE]) and do not need to resolve to =< grade 1
+63.0
+>= 21 days must have elapsed from infusion of lase dose of antibody, and toxicity related to prior antibody therapy must be recovered to grade =< 1
+154.0
+Confirmation by central pathology review of WHO grade IV glioblastoma or gliosarcoma
+440.0
+Patients must have completed any prior chemotherapy, radiotherapy or major surgery at least 4 weeks before receiving study treatment; ongoing toxicities related to treatment must be =< grade 1 and patients with grade 2 alopecia or peripheral neuropathy can also be included; palliative radiation to < 10% of bone marrow is permissible if completed within one week of commencing study treatment as long as the toxicities secondary to palliative radiotherapy are limited to grade 1; the lesions that have received radiation treatment immediately before will be excluded as target lesions; previously irradiated lesions can be considered as targeted lesions, as long as there is prove of radiological progression
+100.0
+All prior treatment-related toxicities must be CTCAE v4 grade =< 1 (except alopecia) at the time of randomization
+250.0
+Patients with low grade gliomas and Rb1 negative tumors
+40.0
+Patients must have recovered from all clinically relevant adverse events to grade 1 or baseline due to previous agents administered (except alopecia)
+600.0
+Patients must not have a clinically relevant hearing impairment > grade 2
+230.0
+Patients must not have active pericardial effusion, ascites or pleural effusion of any grade based on chest x-ray and echocardiogram within 28 days prior to registration; exception: if the effusion is suspected to be related to the leukemia, the patient may have pericardial effusion =< grade 2 or pleural effusion =< grade 1
+44.0
+All non-hematologic treatment related toxicities that are deemed clinically significant by the treating investigator must have resolved to =< grade 2
+44.0
+Registration Step 3 � Maintenance: All non-hematologic treatment related toxicities that are deemed clinically significant by the treating investigator must have resolved to =< grade 2
+44.0
+Patients with grade 1 NRSTS tumors of any size are not eligible
+340.0
+Prior to randomization patients with any non-hematologic toxicity from surgery, chemotherapy, or radiation must have recovered to grade =< 1 with the exception of alopecia and the criteria outlined
+NONE
+Patients must have recovered from adverse events (toxicities resolved to grade 1 or less) of prior therapy; patients with immune related toxicities from ipilimumab + nivolumab may continue onto Step 2 even if still on steroids to control side effects, so long as toxicity has resolved to grade 1 or less
+300.0
+Recovered from prior toxicities to grade 0-1 at least 2 weeks prior to investigational therapy
+52.0
+Patients must have histologically confirmed supratentorial high grade glioma (grade III or IV glioma) that is progressive or recurrent following radiation therapy and chemotherapy; patients with grade IV glioma must have progressed or recurred after initial treatment with radiation and temozolomide; patients with grade III glioma must have received at least radiation and one regimen of chemotherapy (temozolomide or procarbazine, lomustine, vincristine [PCV] regimen)
+23.0
+Patients with grade 3 ataxia or grade >1 extrapyramidal movement disorder are not eligible
+81.0
+Patients who have not recovered from adverse events due to prior anti-cancer therapy to grade 1 or baseline; patients with stable, controlled grade 2 adverse events (AEs) such as peripheral neuropathy, hypothyroidism, hypertension, adrenal insufficiency or alopecia are allowed after discussing with the PI
+209.0
+Ongoing toxicities >= grade 2 from prior therapy
+30.0
+Patients must have histologically confirmed high grade glioma by pathology (World Health Organization [WHO] grade III and IV)
+75.0
+Participant has >= grade 2 diarrhea (participants with grade 1 diarrhea are eligible provided stool for ova/parasites and stool cryptosporidium studies are negative)
+84.0
+Toxicities of prior therapy (excepting alopecia) should be resolved to less than or equal to grade 1 as per CTCAE v 4.0
+680.0
+Patients in whom prior treatment related toxicities have not recovered to grade 1 or less (except for alopecia)
+33.0
+History of grade 3-4 immediate hypersensitivity reaction to paclitaxel
+33.0
+Patients must have recovered from adverse events attributable to previous treatment to =< grade 1, except for alopecia and sensory neuropathy =< grade 2
+82.0
+There are no limits on prior lines of therapy; however, patients must have recovered to eligibility levels from prior toxicity or adverse events as a result of previous treatment prior to entering the study (except alopecia)
+37.0
+Patients must have had sufficient time between a prior therapy and resolution of toxicities from the prior therapies prior to registration as follows:* Prior EGFR inhibitor: A minimum of 7 days must have elapsed from the last dose of the prior EGFR inhibitor and resolution of any drug-related toxicity to =< grade 1 except for alopecia* Chemotherapy: A minimum of 21 days must have elapsed from the last dose and resolution of toxicity to =< grade 1 excluding =< grade 2 peripheral neuropathy or alopecia* Surgery: A minimum of 21 days must have elapsed following major surgery and resolution of toxicity to < grade 1 and complete wound healing must have occurred* Radiation: A minimum of 14 days must have elapsed following radiation therapy and resolution of all radiation induced toxicity excluding alopecia* Treatment with an investigational drug: A minimum of 3 months or five half-lives of the compound, whichever is greater, must have elapsed from last treatment date
+36.0
+Available for follow-up of their disease after treatment until progressive disease is documented and resolution of related adverse events until < grade 2
+36.0
+Patients must have recovered from adverse events attributable to previous treatment to =< grade 1, except for alopecia and sensory neuropathy =< grade 2
+50.0
+Patients must have recovered from adverse events attributable to previous treatment to =< grade 1, except for alopecia and sensory neuropathy =< grade 2
+46.0
+Prior treatment-related toxicity resolved to =< grade 1 or baseline with the exception of alopecia and permanent grade =< 2 toxicities related to prior immune checkpoint inhibitor treatment (e.g. PD-1/PD-L1, CTLA-4, CD40, LAG3) treatment with the review and approval by the lead principal investigator (PI)
+32.0
+Resolution of any adverse events (AEs) from prior treatments must be resolved to baseline or grade =< 1 at enrollment (with the exception of alopecia), neuropathy, and ototoxicity (i.e., AEs that are not expected to improve within the washout period)
+60.0
+Grade 3 or 4 immune related toxicity associated with prior ipilimumab therapy that has not resolved to grade 0 or 1
+60.0
+Active non-infectious pneumonitis >= grade 2 or history of grade 3 non-infectious pneumonitis requiring steroids within the past 12 months; or any history of grade 4 non-infectious pneumonitis
+60.0
+All acute, clinically significant treatment-related toxicity from prior therapy, except for alopecia, must have resolved to grade =< 1 prior to study entry
+70.0
+Patients must have recovered to =< grade 2 following a significant adverse event or toxicity attributed to previous anti-cancer treatment except neurotoxicity which must be =< grade 1
+333.0
+Patients must not have a clinically relevant hearing impairment >= grade 2
+333.0
+Prior to randomization patients with any non-hematologic toxicity from surgery, chemotherapy and radiation therapy must have recovered to grade =< 1 with the exception of alopecia, ototoxicity and neuropathy
+714.0
+Grade 2 or greater toxicity from prior therapy
+20.0
+Grade 2 or greater diarrhea
+20.0
+PRIOR/CONCURRENT THERAPY CRITERIA: Patients must have recovered from any adverse effects from prior therapy (except alopecia) to =< CTCAE grade 1 prior to registration
+53.0
+Patients who have had prior platinum-based therapy who have > grade 1 neurotoxicity or ototoxicity at the time of enrollment will not be permitted on study
+60.0
+Grade 3-4 electrolyte abnormalities (CTCAE, v. 4):
+56.0
+Patients who had prior grade 3 or higher immune-related adverse event (e.g. pneumonitis, hepatitis, colitis, endocrinopathy) with prior immunotherapy (e.g. cancer vaccine, cytokine, etc.) are not eligible
+707.0
+High grade ovarian cancer, including high grade serous; clear cell; endometrioid, grade 3; and others (adenocarcinoma, nitric oxide synthase [NOS]; mixed epithelial carcinoma; undifferentiated carcinoma); NOTE: low grade serous, mucinous and carcinosarcoma histologies are excluded; ovarian cancer = ovarian, fallopian tube or primary peritoneal cancer; required data element: submission of pathology report
+488.0
+All adverse events associated with any prior surgery and intravesical therapy must have resolved to grade =< 2 prior to registration
+148.0
+Any prior grade >= 3 immune-related adverse event (irAE) while receiving any previous immunotherapy agent, or any unresolved irAE > grade 1
+72.0
+All ACT related toxicities resolved to grade 1 with the exception of alopecia, vitiligo and endocrine abnormalities requiring replacement therapy which may be grade 2
+40.0
+Antibodies: >= 21 days must have elapsed from infusion of last dose of antibody, and toxicity related to prior antibody therapy must be recovered to grade =< 1
+146.0
+Patients who have not recovered from adverse events due to prior anti-cancer therapy (i.e., have residual toxicities > grade 1)
+180.0
+Cohort 1 (NSCLC cohort) * In regards to administration of prior anti-PD-1 or anti PD-L1 antibodies, a patients:** Must not have experienced a toxicity that led to permanent discontinuation of prior immunotherapy** All adverse events (AEs) while receiving prior immunotherapy must have completely resolved or resolved to baseline prior to screening for this study** Must not have experienced a >= grade 3 immune related AE or an immune related neurologic or ocular AE of any grade while receiving prior immunotherapy; NOTE: subjects with endocrine AE of =< grade 2 are permitted to enroll if they are stably maintained on appropriate replacement therapy and are asymptomatic** Must not have required the use of additional immunosuppression other than corticosteroids for the management of an AE, not have experienced recurrence of an AE if re-challenged, and not currently require maintenance doses of > 10 mg prednisone or equivalent per day* Eligibility for Food and Drug Administration (FDA)-approved agents targeting the EGFR, ROS1 or ALK pathway, which should be evaluated as per standard of care; exceptions to this requirement may be considered on a case-by-case basis by the principal investigator if the patient was previously treated with another targeted agent
+180.0
+Patients with prior history of severe (grade III or IV) acute GVHD even if resolved if post-transplant
+48.0
+Histologically proven intracranial glioblastoma or gliosarcoma at initial surgery* Patients will be eligible if the original histology was low-grade glioma and a subsequent diagnosis of glioblastoma or gliosarcoma is made (high-grade transformation)
+165.0
+All acute, clinically significant treatment-related toxicity from prior therapy, except for alopecia, must have resolved to grade =< 1
+40.0
+Antibodies: >= 21 days must have elapsed from infusion of last dose of antibody, and toxicity related to prior antibody therapy must be recovered to grade =< 1
+51.0
+Patients with a history of, or current grade 4 depression are not eligible
+51.0
+Patients who have not recovered from adverse events due to prior anti-cancer therapy (i.e., have residual toxicities > grade 1)
+40.0
+Patients must not have experienced a grade 3 or worse immune-related adverse event (irAE) (except asymptomatic nonbullous/nonexfoliative rash) or any unresolved irAE grade 2, nor have experienced a toxicity that led to permanent discontinuation of prior anti-PD-1/PD-L1 immunotherapy
+132.0
+All adverse events grade > 1 related to prior therapies (chemotherapy, radiotherapy, and/or surgery) must be resolved, except for alopecia
+70.0
+Patients who have not recovered from adverse events due to prior anti-cancer therapy (i.e., have residual toxicities > grade 1 excepting alopecia, peripheral sensory neuropathy, and stable endocrine insufficiencies such as thyroid and adrenal insufficiency)
+68.0
+Patients who have not recovered from adverse events due to prior anti-cancer therapy (i.e., have residual toxicities > grade 1) except alopecia are ineligible
+21.0
+Patients with ataxia >= CTCAE grade 2 are ineligible
+30.0
+Histologic diagnosis of glioblastoma (WHO grade IV) or pilocytic astrocytoma (WHO grade I)
+120.0
+Patients with low grade glioma patients (World Health Organization [WHO] grades I and II) are not eligible
+49.0
+Patients with low grade glioma are not eligible
+49.0

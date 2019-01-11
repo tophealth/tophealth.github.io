@@ -1,0 +1,140 @@
+Patients who have received prior anti-PD1 directed therapy (monoclonal antibody [mAb] or small molecule) are not eligible
+484.0
+Patients may have had prior systemic therapy in the adjuvant setting (e.g. interferon, BRAF, or mitogen-activated protein kinase [MEK] agents); patients may have had prior anti-cytotoxic T-lymphocyte antigen 4 (CTLA-4) in the adjuvant setting, if at least one year from last dose of treatment has passed prior to beginning treatment; patients may not have had any prior programmed cell death (PD)-1/PD-ligand (PD-L)1 agent in the adjuvant setting
+400.0
+Patients may not have had any prior ipilimumab and/or anti-PD-1/PD-L1 agent in the metastatic setting
+400.0
+No prior treatment with anti-PD-1 or anti-PD-L1
+60.0
+Prior treatment with anti-PD-1, anti-programmed death-ligand (PD-L)1, anti-PD-L2 antibody
+20.0
+PRIOR/CONCURRENT THERAPY CRITERIA: Prior treatment with an anti-PD-1 or anti-PDL1 is not required
+53.0
+Prior treatment with an investigational compound being tested in this study (e.g., poly ADP ribose polymerase [PARP] inhibitor, anti-PD-1, anti-PD-L1, or anti-PD-L2)
+348.0
+Patients may have received prior anti-CTLA4 or other anti-PD-1/anti-PD-L1 therapy, not both, provided that it is completed >= 4 weeks prior to registration
+707.0
+Patients must not have had systemic chemotherapy or immunotherapy, including, but not limited to interferon alfa-2b, high dose interleukin 2 (IL-2), pegylated interferon (PEG-IFN), anti-programmed cell death protein 1 (PD-1), anti-PD-L1, intra-tumoral, or vaccine therapies within 6 weeks prior to cycle 1, day 1; patients must not have received or be planning to receive any of the prohibited therapies during protocol treatment; prior intravesical interferon therapy is allowed
+148.0
+Prior experimental (non-Food and Drug Administration [FDA] approved) therapies and immunotherapies are allowed; patients must not have received these therapies for 4 weeks prior to the initiation of study treatment and must have recovery =< grade 1 from any adverse events of these therapies (other than alopecia); prior treatment with any PARP inhibitor or any anti-PD-1/anti-PD-L1 antibody is NOT allowed
+72.0
+Prior treatment with any PARP inhibitor or any anti-PD-1/anti-PD-L1 antibody
+72.0
+There is no limit to the number of lines of prior therapy; prior anti-programmed cell death (PD)-1 or anti-PD-ligand (L)1 therapy and other immunotherapies are allowed
+40.0
+Prior anti-PD-1 or anti-PD-L1 therapy may not be administered after ACT and before study atezolizumab (MPDL3280A) administration
+40.0
+Patients in both cohorts must have progressive disease following prior therapy; specifically:* Cohort 1 (NSCLC): Patients must have evidence of radiologic or clinical disease progression during previous treatment with systemic PD-1 directed therapy and/or have been deemed not to derive clinical benefit from PD-1 directed treatment; this includes patients who demonstrated an initial response and subsequent progression; no prior treatment with chemotherapy or targeted agents are required; intervening therapy is allowed between previous PD-1 directed treatment and there is no required interval from prior PD-1 treatment required; PD-1 directed treatment includes treatment with antibodies targeting the PD-1 receptor such as pembrolizumab or nivolumab, as well as PD-L1 targeted antibodies such as MEDI4736 (durvalumab), atezolizumab and avelumab; these agents may have been administered as part of a clinical trial* Cohort 2 (colorectal cancer): Patients must have progressed on >= one line chemotherapy
+180.0
+Prior exposure to immune-mediated therapy, including durvalumab and tremelimumab, except for anti-PD-1 or anti-PD-L1 therapy (including durvalumab) in NSCLC patients; this includes anti-CTLA-4 agents (prior treatment with these agents is NOT allowed in either cohort) and, excludes therapeutic anticancer vaccines, excluding therapeutic anticancer vaccines; exposure to other investigational agents may be permitted after discussion with the study principal investigator (PI)
+180.0
+Prior treatment with anti-PD-1, or anti-PD-L1 therapeutic antibody or pathway-targeting agents
+22.0
+Patients who have had prior treatment with anti-PD1 or anti-CTLA4 therapy
+40.0
+Patients must not have had prior immunotherapy with anti-PD-L1, anti-PD-1, anti-CTLA4 or similar drugs; patients must not be planning to receive any of the prohibited therapies during the screening or treatment phases of the study
+1000.0
+Patients must have progressed during or after prior platinum-based chemotherapy; patients whose only prior platinum-based chemotherapy regimen was for stage I-III disease (i.e. patient has not received any platinum-based chemotherapy for stage IV or recurrent disease), disease progression on platinum-based chemotherapy must have occurred within one year from the last date that patient received that therapy; patients must have experienced disease progression during or after prior anti-PD-1 or anti-PD-L1 antibody monotherapy as their most recent line of treatment; prior PD-1/PD-L1 combination therapy is not permitted
+132.0
+Patient must have had prior treatment with anti-PD-1 or anti-PD-L1 agents and have documented disease progression on these agents prior to registration; patient must have received anti-PD-1 or PD-L1 based therapy as the immediate previous line of treatment and within 56 days prior to registration
+64.0
+Patients treated with PD-1 or PD-L1 inhibitors, CDK 4/6 inhibitors, or other immune-based therapy are eligible
+175.0
+Patients must have had prior treatment with anti-PD1 or anti-PD-L1 agents and had documented disease progression either while on these agents or after stopping therapy with these agents without intervening therapy; patients must have discontinued anti-PD-1 or anti-PD-L1 therapy at least 21 days prior to registration
+94.0
+Patients must not have achieved a confirmed partial or complete response to the anti-PD-1 or anti-PD-L1 agents prior to progression
+94.0
+Patients must not have had systemic therapy, excluding anti-PD-1 or anti-PD-L1 agents, within 21 days prior to registration
+94.0
+Patients must not have had:* Prior treatment with ipilimumab or other CTLA-4 antagonists* Systemic therapy between progression on the anti-PD-1 or anti-PD-L1 agents and registration* Note: Systemic therapy (including BRAF-targeting agents) prior to anti-PD-1 or anti-PD-L1 therapy is allowed
+94.0
+Patients that have undergone treatment with anti-CTLA-4 (Cytotoxic T-Lymphocyte Antigen 4) antibody must have at least 3 months from last dose of CTLA-4 antibody before they can be enrolled into this study
+45.0
+Patients with a history of prior treatment with ipilimumab, anti-programmed cell death protein 1 (PD 1) antibody, or cluster of differentiation (CD)137 agonist therapy are ineligible for the ipilimumab arm, but are eligible for the nivolumab arm
+113.0
+Study participants who had prior treatment with anti-PD-1, anti-PD-L1, anti-PD-L2, anti-CTLA-4 antibody, or any other antibody or drug specifically targeting T-cell co-stimulation or immune checkpoint pathways
+40.0
+Study participants with known immune impairment who may be unable to respond to anti-cytotoxic T-lymphocyte antigen 4 (CTLA 4) antibody and/or anti-PD-1 antibody
+40.0
+Patients with a history of prior treatment with ipilimumab, anti-programmed cell death 1 (PD1) antibody, cluster of differentiation (CD)137 agonist or anti-CD 40 antibody
+92.0
+Patients with known immune impairment who may be unable to respond to anti-cytotoxic T-lymphocyte antigen 4 (CTLA 4) antibody
+92.0
+Has received prior therapy with an anti-programmed cell death-1 (PD-1), anti-programmed death-ligand 1 (PD-L1), anti-programmed cell death 1 ligand 2 (PD-L2), anti-cluster of differentiation 137 (CD137), ziv-aflibercept or anti-cytotoxic T-lymphocyte-associated protein 4 (CTLA-4) antibody (including ipilimumab or any other antibody or drug specifically targeting T-cell co-stimulation or checkpoint pathways)(prior treatment with bevacizumab is not an exclusion criteria)
+36.0
+Patients should be excluded if they have had prior treatment with an anti-programmed cell death protein 1 (PD-1), anti-programmed cell death ligand 1 (PD-L1), anti-PD-L2, anti-cytotoxic T-lymphocyte-associated protein 4 (CTLA-4) antibody, or any other antibody or drug specifically targeting T-cell co-stimulation or immune checkpoint pathways
+80.0
+Prior treatment with any therapy on the programmed cell death 1 (PD-1)/PD-L1 axis or anti-cytotoxic T-lymphocyte-associated protein 4 (CTLA-4) inhibitors unless enrolling the urothelial carcinoma with previous checkpoint inhibition therapy expansion cohort
+135.0
+Patients are excluded if they have had prior treatment with an anti-PD-1, anti-PD-L1, anti-PD-ligand 2 (L2), anti-cytotoxic T-lymphocyte-associated protein 4 (CTLA-4) antibody, or any other antibody or drug specifically targeting T-cell co-stimulation or immune checkpoint pathways
+37.0
+Patients who have had prior therapy with nivolumab or with an anti-programmed cell death (PD)-1, anti-PD-ligand (L)1, anti-PD-L2, anti-cytotoxic T-lymphocyte-antigen (CTLA)-4 antibody, or any other antibody or drug specifically targeting T-cell co-stimulation or immune check point pathways
+96.0
+Patients who have received previous therapy with an anti-CTLA4, anti-CD137, anti-PD-L1 or anti-PD-1 antibody (including ipilimumab or any other antibody or drug specifically targeting T-cell co-stimulation or checkpoint pathways)
+110.0
+EXCLUSION CRITERIA FOR STRATUM C: Patients who have received previous therapy with an anti-CTLA4, anti-CD137, anti-PD-L1 or anti-PD-1 antibody (including ipilimumab or any other antibody or drug specifically targeting T-cell co-stimulation or checkpoint pathways)
+110.0
+No prior therapy with ipilimumab or nivolumab, or any agent targeting programmed cell death 1 (PD-1), PD-L1 or cytotoxic T-lymphocyte-associated protein 4 (CTLA-4)
+195.0
+Participants should be excluded if they have had prior treatment with an anti-PD-1, anti-programmed cell death ligand 1 (PD-L1), anti-programmed cell death ligand 2 (PD-L2), anti-CTLA-4 antibody, or any other antibody or drug specifically targeting T-cell co-stimulation or immune checkpoint pathways; prior immune modulating therapy including vaccines may be eligible; prior immune events must be evaluated and the risk for new events which may represent continued sub clinical disease or a new process at previously damaged site or immune potentiation (e.g. ipilimumab followed by IL2 causing bowel perforation, ipilimumab followed by indoleamine 2,3-dioxygenase [IDO] inhibitor resulting in clinical hypophysitis); please keep in mind that inflammatory events may occur weeks to months following the last dose of ipilimumab and possibly nivolumab; assessment of potential effects of prior therapy should include:* Immune status* Organ damage* Risk of autoimmunity* Immunopotentiation
+84.0
+No prior treatment with an immune checkpoint inhibitor (anti-programmed cell death [PD]-1, anti-PD-L1, anti-cytotoxic T-lymphocyte-associated protein 4 [CTLA4] monoclonal antibody)
+714.0
+Patients must not have had prior treatment with an anti-programmed cell death (PD)-1, anti-PD-L1, anti-PD-L2, anti-cytotoxic T-lymphocyte-associated protein (CTLA)-4 antibody, or any other antibody or drug specifically targeting T-cell costimulation or immune checkpoint pathways
+350.0
+No concurrent or prior systemic or local anti-cancer therapy for RCC is permitted; examples of these prohibited therapies include:* Radical or partial nephrectomy for prior RCC* Metastectomy for RCC* Radiation therapy to the renal bed or any distant metastatic sites* Antineoplastic systemic therapies for RCC: i.e., chemotherapy, hormonal therapy, immunotherapy, or standard or investigational agents for treatment of RCC* Prior treatment with an anti-programmed cell death 1 (PD-1), anti-programmed cell death-ligand 1 (PD-L1), anti-PD-L2, anti-cluster of differentiation (CD)137, or anti-cytotoxic T-lymphocyte protein 4 (CTLA-4) antibody, or any other antibody or drug specifically targeting T-cell co-stimulation or checkpoint pathways
+766.0
+Prior systemic therapy, including cytotoxic chemotherapy, biologic/targeted therapy, or immune therapy for the study cancer; note: prior cytotoxic chemotherapy or biologic/targeted therapy for a different cancer is allowable; however, a prior anti-programmed cell death (PD)-1, anti-PD-L1, or anti-programmed cell death 1 ligand 2 (PD-L2) agent is not permitted
+56.0
+Prior treatment with anti-PD-1 or anti-PD-L1 therapeutic antibody, or pathway-targeting agents* Patients who have received prior treatment with anti-CTLA-4 may be enrolled, provided the following requirements are met:** Minimum of 12 weeks from the first dose of anti-CTLA-4 and > 6 weeks from the last dose** No history of severe immune-related adverse effects from anti-CTLA-4 (NCI Common Terminology Criteria for Adverse Events [CTCAE] grade 3 and 4)
+35.0
+Patients with prior treatment with anti-programmed cell death (PD)-1, anti- programmed cell death ligand (PD-L)1 or anti-cytotoxic T-lymphocyte-associated protein (CTLA)-4 therapeutic antibody or other similar agents
+488.0
+Patients should be excluded if they have had prior treatment with an anti-PD-1, anti-PD-L1, anti-PD-L2, anti-CTLA-4 antibody, or any other antibody or drug specifically targeting T-cell co-stimulation or immune checkpoint pathways
+30.0
+Patients with a history of prior treatment with anti-CTLA-4, anti-PD 1 antibody, or anti-PDL1 antibody
+48.0
+Prior treatment with anti-CTLA-4 therapeutic antibody or pathway-targeting agents
+22.0
+Prior treatment with any anti-PD-1 blocking therapies or histone deacetylase inhibitors (HDACi), or anti-CTLA-4 antibody, CD137 agonist or other immune activating therapy such as anti-CD 40 antibody within the last 3 months of enrollment in the study
+27.0
+Prior treatment with anti-PD-1, or anti-PD-L1 therapeutic antibody or pathway-targeting agents* Patients who have received prior treatment with anti-CTLA-4 may be enrolled, provided the following requirements are met:** Minimum of 12 weeks from the first dose of anti-CTLA-4 and > 6 weeks from the last dose** No history of severe immune-related adverse effects from anti-CTLA-4 (NCI CTCAE grade 3 and 4)
+78.0
+History of severe hypersensitivity reaction to any monoclonal antibody
+80.0
+History of severe hypersensitivity reaction to any monoclonal antibody
+135.0
+History of severe hypersensitivity reaction to any monoclonal antibody
+37.0
+History of severe hypersensitivity reaction to any monoclonal antibody
+96.0
+Patients with a history severe (>= grade 3) hypersensitivity reaction to a monoclonal antibody are ineligible
+110.0
+EXCLUSION CRITERIA FOR STRATUM C: Patients with a history severe (>= grade 3) hypersensitivity reaction to a monoclonal antibody are ineligible
+110.0
+History of severe hypersensitivity reaction to any monoclonal antibody
+29.0
+No history of severe hypersensitivity to a monoclonal antibody
+766.0
+History of severe hypersensitivity reaction to any monoclonal antibody
+30.0
+Have a known immediate or delayed hypersensitivity reaction or idiosyncrasy to talimogene laherparepvec or any of its components or nivolumab, or history of severe hypersensitivity reaction to any monoclonal antibody
+68.0
+Patients with a history of a serious allergic or anaphylactic reaction to humanized monoclonal antibodies are not eligible
+38.0
+History of severe allergic, anaphylactic, or other hypersensitivity reactions to chimeric or humanized antibodies (i.e., antibodies with generic names ending in ximab or zumab, respectively) or fusion proteins
+35.0
+History of severe allergic, anaphylactic, or other hypersensitivity reactions to chimeric or humanized antibodies or fusion proteins
+488.0
+History of severe allergic, anaphylactic, or other hypersensitivity reactions to chimeric or humanized antibodies or fusion proteins
+72.0
+History of severe allergic, anaphylactic, or other hypersensitivity reactions to chimeric or humanized antibodies or fusion proteins
+40.0
+History of severe allergic, anaphylactic, or other hypersensitivity reactions to chimeric or humanized antibodies or fusion proteins
+60.0
+No known history of severe allergic anaphylactic reactions to chimeric, human or humanized antibodies, or fusion proteins
+700.0
+History of severe allergic, anaphylactic, or other hypersensitivity reactions to chimeric or humanized antibodies or fusion proteins
+22.0
+History of severe allergic, anaphylactic, or other hypersensitivity reactions to chimeric or humanized antibodies or fusion proteins
+78.0

@@ -1,0 +1,14 @@
+Patients on enzyme-inducing anti-epileptic drugs (EIAED) are not eligible for treatment on this protocol; patients may be on non-enzyme inducing anti-epileptic drugs or not be taking any anti-epileptic drugs; patients previously treated with EIAED may be enrolled if they have been off the EIAED for 10 days or more prior to the first dose of AZD1775 (MK-1775)
+36.0
+Patients on enzyme-inducing anti-epileptic drugs (EIAED) are not eligible for treatment on this protocol; patients may be on non-enzyme inducing anti-epileptic drugs or not be taking any anti-epileptic drugs; patients previously treated with EIAED may be enrolled if they have been off the EIAED for 10 days or more prior to the first dose of MLN0128 (TAK-228)
+40.0
+Concurrent use of enzyme-inducing anti-epileptic drugs (EIAED); patients may be on non-enzyme inducing anti-epileptic drugs or not be taking any anti-epileptic drugs; patients previously treated with EIAED may be enrolled if they have been off the EIAED for 10 days or more prior to the first dose of MLN0128
+23.0
+Patients on enzyme-inducing anti-epileptic drugs (EIAED) are not eligible for treatment on this protocol; patients may be on non-enzyme inducing anti-epileptic drugs or not be taking any anti-epileptic drugs; patients previously treated with EIAED may be enrolled if they have been off the EIAED for 10 days or more prior to the first dose of PT2385
+35.0
+B-ALL patients must be enrolled on AALL08B1 or APEC14B1 (if open for the classification of newly diagnosed ALL patients) prior to treatment and enrollment on AALL0932* Note: B-LLy patients are not eligible for AALL08B1, and can enroll directly onto AALL0932
+9483.0
+T-ALL: T-ALL patients must be enrolled on AALL08B1 or Project:EveryChild (APEC14B1, if open for the classification of ALL patients) prior to treatment and enrollment on AALL1231
+1400.0
+For patients enrolled on AALL08B1 or APEC14B1 (if open for ALL patients) prior to enrollment on AALL1631, the required diagnostic bone marrow sample has been fulfilled* For patients who have not previously enrolled on AALL08B1 or APEC14B1 (if open for ALL patients) prior to enrollment on AALL1631, a baseline diagnostic sample must be available to develop an MRD probe* In addition, laboratory reports detailing evidence of BCR-ABL1 fusion must be submitted for rapid central review within 72 hours of study enrollment
+700.0

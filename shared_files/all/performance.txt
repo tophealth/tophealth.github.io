@@ -1,0 +1,694 @@
+Zubrod performance status 0-1
+700.0
+Zubrod performance status 0-1
+285.0
+Zubrod performance status =< 1
+37.0
+Zubrod performance status 0 or 1
+545.0
+Patients must have Zubrod performance status 0-1
+162.0
+REGISTRATION #2 - PRIOR TO CONSOLIDATION CHEMOTHERAPY: Patients must have Zubrod performance status 0-1
+162.0
+Patients must have a performance status of 0-2 by Zubrod criteria
+10000.0
+Zubrod performance status 0-2
+155.0
+Zubrod performance status 0-1 (unless otherwise specified)
+2580.0
+Patients must have a performance status of 0-2 by Zubrod criteria
+1900.0
+Patients must have Zubrod performance status =< 2
+130.0
+Zubrod performance status 0-2 within 28 days prior to study entry
+368.0
+Patients must have a Zubrod performance status of 0-1
+491.0
+Zubrod performance status 0-1
+252.0
+Zubrod performance status of 0-1 within 14 days prior to registration
+660.0
+Zubrod performance status 0-1 within 14 days prior to registration
+234.0
+Patients must have Zubrod performance status =< 1
+97.0
+Patients must have Zubrod performance status =< 2
+97.0
+Patients must have Zubrod performance status 0-2
+38.0
+Zubrod performance status 0-1 within 30 days prior to registration
+330.0
+Patients must have Zubrod performance status 0-1 documented within 28 days prior to screening/pre-screening registration
+10000.0
+Patients must have Zubrod performance status 0-1 documented within 28 days prior to sub-study registration
+10000.0
+Zubrod performance status 0-1 within 21 days prior to registration
+924.0
+Zubrod performance status =< 2 within 45 days prior to study registration
+84.0
+Zubrod performance status 0-1 within 30 days prior to registration
+182.0
+Patients must have a Zubrod performance status of 0 or 1
+230.0
+Patients must have a Zubrod performance status of 0-2
+44.0
+Patients must have Zubrod performance status of 0, 1 or 2
+280.0
+Patients must have Zubrod performance status of 0-2 within 7 days prior to hospitalization
+200.0
+Zubrod performance status =< 2 within 60 days prior to registration
+360.0
+Patients must have Zubrod performance status of 0 - 2
+223.0
+Patients must have a Zubrod performance status of 0-1
+150.0
+Zubrod performance status 0-2 within 30 days prior to Step 1 registration
+302.0
+Patients must have a Zubrod performance status of 0 � 1
+180.0
+Patients must have a performance status of 0-2 by Zubrod criteria
+333.0
+Patients must have a Zubrod performance status of 0-1
+143.0
+CLINICAL/LABORATORY CRITERIA: Patients must have Zubrod performance status of 0-2
+53.0
+Patients must have a Zubrod performance status of 0-2
+969.0
+Patients must have Zubrod performance status =< 2
+77.0
+Zubrod performance status of 0-1 within 28 days prior to registration
+56.0
+Zubrod performance status 0, 1, or 2 within 30 days prior to registration.
+186.0
+Patients must have a Zubrod performance status of 0-2
+707.0
+Patients must have Zubrod performance status =< 2
+148.0
+Patients must have Zubrod performance status =< 2
+1000.0
+Post-operative Zubrod performance status 0-1 within 60 days prior to step 2 registration
+148.0
+Patients must have Zubrod performance status =< 2
+64.0
+Zubrod performance status 0-1 within 60 days prior to step 1 registration
+282.0
+Zubrod performance status 0-1 within 30 days prior to registration
+186.0
+All patients must have a Zubrod performance status of 0, 1 or 2
+150.0
+Patients must have Zubrod performance status of =< 2
+94.0
+Patients should have a Karnofsky/Lansky score of greater than or equal to 60; patients who require special assistance due to tumor-related paralysis, but who are out of bed during the day will be considered ambulatory for the purpose of calculating the performance score; patients must be able to communicate any symptoms
+30.0
+TREATMENT: Patients with a Karnofsky/Lansky score of >= 50%
+44.0
+Lansky (=< 16 years) or Karnofsky (> 16 years) score of at least 50
+62.0
+Lansky performance status score >= 70 for patients =< 16 years of age
+340.0
+Karnofsky performance status score >= 70 for patients > 16 years of age
+340.0
+Lansky performance status score >= 50 for patients =< 16 years of age; Karnofsky performance status score >= 50 for patients > 16 years of age
+337.0
+Patients must have a performance status corresponding to an Eastern Cooperative Oncology Group (ECOG) scores of 0, 1 or 2; use Karnofsky for patients > 16 years of age and Lansky for patients =< 16 years of age; Note: patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+56.0
+Patients must have a Lansky or Karnofsky performance status score of >= 50, corresponding to Eastern Cooperative Oncology Group (ECOG) categories 0, 1 or 2; use Karnofsky for patients > 16 years of age and Lansky for patients =< 16 years of age; patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+146.0
+Patients must have a performance status corresponding to Eastern Cooperative Oncology Group (ECOG) scores of 0, 1, or 2; use Karnofsky for patients > 16 years of age and Lansky for patients =< 16 years of age; patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+53.0
+Karnofsky performance status >= 60 within 21 days prior to study entry
+143.0
+Karnofsky performance status >= 60%
+165.0
+Karnofsky performance status >= 60%
+68.0
+TUMOR BIOPSY SEQUENCING: Karnofsky performance status >= 70%
+700.0
+TREATMENT: Karnofsky performance status >= 70%
+700.0
+Karnofsky performance status >= 70 within 28 days prior to step 2 registration
+606.0
+Karnofsky performance status >= 70%
+135.0
+Karnofsky performance status of >= 70 within 28 days prior to Step 2 registration
+510.0
+ECOG performance status =< 2 (Karnofsky >= 60 %)
+209.0
+Karnofsky performance status >= 60%
+130.0
+Karnofsky performance status >= 60
+165.0
+Karnofsky performance score >= 70
+40.0
+Karnofsky performance status >= 60
+70.0
+History and physical exam, and Karnofsky performance status of >= 70 within 30 days prior to registration
+120.0
+Patients must have a Karnofsky performance status >= 60% (i.e. the patient must be able to care for himself/herself with occasional help from others)
+36.0
+Patients must have a Karnofsky performance status >= 60% (i.e. the patient must be able to care for himself/herself with occasional help from others)
+40.0
+Patients must have a Karnofsky performance status >= 60% (i.e. the patient must be able to care for himself/herself with occasional help from others)
+23.0
+Patients must have a Karnofsky performance status (KPS) >= 60% (i.e. the patient must be able to care for himself/herself with occasional help from others)
+75.0
+Patients must have a Karnofsky performance status >= 60% (i.e. the patient must be able to care for himself/herself with occasional help from others)
+30.0
+Patients must have a Karnofsky performance status >= 60% (i.e. the patient must be able to care for himself/herself with occasional help from others)
+35.0
+Karnofsky >= 50% for patients > 16 years of age and Lansky >= 50 for patients =< 16 years of age; patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+77.0
+Karnofsky >= 50% for patients > 16 years of age and Lansky >= 50 for patients =< 16 years of age; note: neurologic deficits in patients with CNS tumors must have been relatively stable for at least 7 days prior to study enrollment; patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+154.0
+Karnofsky >= 50% for patients > 16 years of age and Lansky >= 50 for patients =< 16 years of age; Note: neurologic deficits in patients with CNS tumors must have been relatively stable for at least 7 days prior to study enrollment; patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+148.0
+Karnofsky >= 50% for patients > 16 years of age and Lansky >= 60 for patients =< 16 years of age; patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+484.0
+Karnofsky >= 50% for patients > 16 years of age and Lansky >= 50 for patients =< 16 years of age; Note: Neurologic deficits in patients with CNS tumors must have been relatively stable for at least 7 days prior to study enrollment; patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+81.0
+Karnofsky performance scale (KPS for > 16 years of age) or Lansky performance score (LPS for =< 16 years of age) assessed within two weeks of enrollment must be >= 70; patients who are unable to walk because of neurologic deficits, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+110.0
+INCLUSION CRITERIA FOR STRATUM C: Karnofsky performance scale (KPS for > 16 years of age) or Lansky performance score (LPS for =< 16 years of age) assessed within two weeks of enrollment must be >= 60; patients who are unable to walk because of neurologic deficits, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+110.0
+Karnofsky performance status >= 50% for patients > 16 years of age and Lansky >= 50 for patients =<16 years of age; Note: neurologic deficits in patients with CNS tumors must have been relatively stable for at least 7 days prior to study enrollment; patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+67.0
+RECURRENT/ PROGRESSIVE DIPG (STRATUM 1): Karnofsky performance scale (KPS for > 16 years of age) or Lansky performance score (LPS for =< 16 years of age) assessed within 7 days of enrollment must be >= 50%; patients who are unable to walk because of neurologic deficits, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+50.0
+NON-PROGRESSED DIPG (STRATUM 2): Karnofsky performance scale (KPS for > 16 years of age) or Lansky performance score (LPS for =< 16 years of age) assessed within 7 days of enrollment must be >= 50%; patients who are unable to walk because of neurologic deficits, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+50.0
+Karnofsky >= 50% for patients > 16 years of age and Lansky >= 50 for patients =< 16 years of age * Note: Neurologic deficits in patients with CNS tumors must have been relatively stable for at least 7 days prior to study enrollment; patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+65.0
+Karnofsky >= 50% for patients > 16 years of age and Lansky >= 50 for patients =< 16 years of age; Note: neurologic deficits in patients with CNS tumors must have been relatively stable for at least 7 days prior to study enrollment; patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+36.0
+Karnofsky performance scale (KPS for > 16 years of age) or Lansky performance score (LPS for =< 16 years of age) assessed within two weeks of enrollment must be >= 60; patients who are unable to walk because of neurologic deficits, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+25.0
+Karnofsky >= 50% for patients > 16 years of age and Lansky >= 50 for patients =< 16 years of age * Note: Neurologic deficits in patients with CNS tumors must have been relatively stable for at least 7 days prior to study enrollment; patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+51.0
+Karnofsky >= 50% for patients > 16 years of age and Lansky >= 50 for patients =< 16 years of age* Note: Neurologic deficits in patients with CNS tumors must have been relatively stable for at least 7 days prior to study enrollment; patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+49.0
+Karnofsky >= 50% for patients > 16 years of age and Lansky >= 50 for patients =< 16 years of age* Note: Neurologic deficits in patients with CNS tumors must have been relatively stable for at least 7 days prior to study enrollment; patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+98.0
+Karnofsky >= 50% for patients > 16 years of age and Lansky >= 50 for patients =< 16 years of age; Note: Neurologic deficits in patients with CNS tumors must have been stable for at least 7 days prior to study enrollment; patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+49.0
+Karnofsky >= 50% for patients > 16 years of age and Lansky >= 50 for patients =< 16 years of age; Note: Neurologic deficits in patients with CNS tumors must have been stable for at least 7 days prior to study enrollment; patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+49.0
+Karnofsky >= 50% for patients > 16 years of age and Lansky >= 50 for patients =< 16 years of age; Note: neurologic deficits in patients with CNS tumors must have been stable for at least 7 days prior to study enrollment; patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+144.0
+Karnofsky >= 50% for patients > 16 years of age and Lansky >= 50 for patients =< 16 years of age; Note: neurologic deficits in patients with CNS tumors must have been stable for at least 7 days prior to study enrollment; patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+49.0
+ELIGIBILITY CRITERIA FOR ENROLLMENT ONTO APEC1621SC: Karnofsky >= 50% for patients > 16 years of age and Lansky >= 50 for patients =< 16 years of age); Note: neurologic deficits in patients with CNS tumors must have been stable for at least 7 days prior to study enrollment; patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+1500.0
+GENERAL INCLUSION CRITERIA FOR SUBPROTOCOLS: Karnofsky >= 50% for patients > 16 years of age and Lansky >= 50 for patients =< 16 years of age); Note: neurologic deficits in patients with CNS tumors must have been stable for at least 7 days prior to study enrollment; patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+1500.0
+Patients must have a performance status corresponding to Eastern Cooperative Oncology Group (ECOG) scores 0, 1, or 2; use Karnofsky for patients > 16 years of age and Lansky for patients =< 16 years of age
+253.0
+Patients must have a performance status corresponding to Eastern Cooperative Oncology Group (ECOG) scores of 0, 1 or 2; use Karnofsky for patients > 16 years of age and Lansky for patients =< 16 years of age
+74.0
+Eastern Cooperative Oncology Group (ECOG) performance status =< 2 for adults, Karnofsky performance status >= 50% for pediatric patients > 10 years of age, and Lansky performance status >= 50 for pediatric patients =< 10 years of age
+73.0
+Patients must have a performance status corresponding to Eastern Cooperative Oncology Group (ECOG) scores of 0, 1, or 2; use Karnofsky for patients > 16 years of age and Lansky for patients =< 16 years of age
+598.0
+Patients must have a performance status corresponding to Eastern Cooperative Oncology Group (ECOG) scores of 0, 1 or 2; use Karnofsky for patients > 16 years of age and Lansky for patients =< 16 years of age
+90.0
+Patients must have a performance status corresponding to Eastern Cooperative Oncology Group (ECOG) scores of 0, 1 or 2; use Karnofsky for patients > 16 years of age and Lansky for patients =< 16 years of age
+44.0
+Eastern Cooperative Oncology Group (ECOG) performance status =< 2 or Karnofsky >= 60% in patients > 16 years of age, Lansky >= 60 for patients =< 16 years of age
+70.0
+Eastern Cooperative Oncology Group (ECOG) performance status =< 2 or Karnofsky > 50% (if >= 16 years of age); or children < 16 years old must have a Lansky performance of >= 50%
+24.0
+Eastern Cooperative Oncology Group (ECOG) =< 2 (patients >= 16 years of age must have a Karnofsky performance level of >= 70% [or ECOG =< 2], and children < 16 years old must have a Lansky performance of >= 70%)
+28.0
+Patients must have a performance status corresponding to Eastern Cooperative Oncology Group (ECOG) scores of 0 or 1* Use Karnofsky for patients > 16 years of age and Lansky for patients =< 16 years of age
+90.0
+Patients must have a performance status corresponding to Eastern Cooperative Oncology Group (ECOG) scores of 0, 1 or 2; use Karnofsky for patients > 16 years of age and Lansky for patients =< 16 years of age
+1680.0
+Patients must have a Karnofsky performance level of >= 30 for patients > 16 years of age or a Lansky performance scale of >= 30 for patients =< 16 years of age and life expectancy > 8 weeks
+400.0
+Off treatment > 14 years
+143.0
+Chemotherapy within 5 years prior to registration; (hormonal therapy is allowable if the disease free interval is >= 5 years)
+1120.0
+Karnofsky performance scale (KPS for > 16 years [yrs.] of age) or Lansky performance score (LPS for =< 16 years of age) >= 60 assessed within two weeks prior to registration
+180.0
+Patients must be post-menopausal; post-menopausal will be defined as women meeting any of the following criteria:* >= 60 years of age; or* < 60 years of age and amenorrheic for >= 12 months prior to day 1 if uterus/ovaries are intact; or* < 60 years of age, and the last menstrual period 6-12 months prior to day 1, if intact uterus/ovaries and meets biochemical criteria for menopause (follicle-stimulating hormone [FSH] and estradiol within institutional standard for postmenopausal status); or* < 60 years of age, without a uterus, and meets biochemical criteria for menopause (FSH and estradiol within institutional standards for postmenopausal status); or* < 60 years of age and history of bilateral oophorectomy; surgery must have been completed at least 4 weeks prior to day 1; or* Prior radiation castration with amenorrhea for at least 6 months
+1000.0
+Karnofsky performance status >= 50 for patients >= 12 years of age; for children < 12 years of age, the Lansky play scale >= 50% can be substituted
+75.0
+Age > 18 years
+140.0
+PHASE I: >= 3 years and =< 18 years of age at the time of study enrollment, if able to swallow whole capsules
+104.0
+Karnofsky performance scale (KPS for >= 16 years [yrs] of age) or Lansky performance score (LPS for < 16 years of age) >= 60 assessed within two weeks prior to registration
+52.0
+Karnofsky performance scale (KPS for > 16 years of age) or Lansky performance score (LPS for =< 16 years of age) assessed within two weeks of enrollment must be >= 60
+40.0
+Age >= 18 years
+84.0
+Age:* Phase 1 (Part A)** Patients must be > than 12 months and =< 21 years of age at the time of study enrollment* Phase 2 (Part B and Part C)** Patients must be > than 12 months and =< 30 years of age at the time of study enrollment
+148.0
+Parts A & C: patients must be >= 12 months and < 18 years of age at the time of study enrollment
+484.0
+Parts B1-B6, B8, D1-D6, E3, E4: patients must be >= 12 months and =< 30 years of age at the time of study enrollment
+484.0
+Part B7: patients must be >= 12 months and < 18 years of age at the time of study enrollment
+484.0
+Hemoglobin >= 8 g/dL for patients =< 16 years of age; >= 9 g/dL for patients > 16 years of age; Note: no transfusions are permitted 7 days prior to laboratory studies to determine eligibility
+340.0
+Age >= 14 years (>= 18 years in Germany)
+420.0
+Patients with body mass index (BMI) < 3rd percentile for age, as defined by WHO criteria for patients 1-2 years of age and Centers for Disease Control and Prevention (CDC) criteria for patients > 2 years of age, are not eligible
+81.0
+Female patients must have a bone age of equal to or greater than 12 years of age as determined by local read of appropriate radiographic imaging
+90.0
+Male patients must have a bone age of equal to or greater than 14 years of age as determined by local read of appropriate radiographic imaging
+90.0
+Cohort 1 patients must have measurable disease according to Response Evaluation Criteria in Solid Tumors (RECIST) 1.1* Note: patients in Cohort 1 will be stratified as follows:** Stratum 1: Patients >= 11 years of age but < 18 years** Stratum 2: Patients >= 11 years of age but < 50 years
+90.0
+Efficacy Phase: Patients must be =< 40 years of age at the time of enrollment
+337.0
+Patient must have had a cancer diagnosis < 22 years of age, irrespective of current age
+250.0
+Patient must have completed cancer treatment >= 2 years prior to study enrollment
+250.0
+Patients must be >= 18 years of age
+969.0
+Infants must be > 36 weeks gestational age at the time of enrollment
+116.0
+Age >= 6 years at the NCI clinical center (>= 18 years at other participating sites)
+35.0
+Standard risk 1: Patient must be < 11 years of age at enrollment
+1680.0
+Standard risk 2: Patients must be >= 11 and < 25 years of age at enrollment
+1680.0
+>= 11 and < 25 years old at enrollment
+1680.0
+Eastern Cooperative Oncology Group (ECOG) performance status =< 2 (Karnofsky >= 60%)
+36.0
+Eastern Cooperative Oncology Group (ECOG) performance status =< 2 (Karnofsky >= 60%)
+276.0
+The Eastern Cooperative Oncology Group (ECOG) performance status =< 2 (Karnofsky >= 60 %)
+74.0
+Eastern Cooperative Oncology Group (ECOG) performance status =< 2 (Karnofsky >= 60%)
+40.0
+Eastern Cooperative Oncology Group (ECOG) performance status:* For Part I (Arm A, B): 0-1 (Karnofsky > 70%)* For Part II (Arm C): 0-2 (Karnofsky >= 60%)
+107.0
+Eastern Cooperative Oncology Group (ECOG) performance status =< 2 (Karnofsky >= 60%)
+132.0
+Eastern Cooperative Oncology Group (ECOG) performance status 0, 1, or 2 (Karnofsky >= 60%)
+24.0
+Eastern Cooperative Oncology Group (ECOG) performance status =< 1 (Karnofsky > 70%)
+55.0
+Eastern Cooperative Oncology Group (ECOG) performance status =< 2 (Karnofsky >= 60%)
+42.0
+Eastern Cooperative Oncology Group (ECOG) performance status =< 2 (Karnofsky >= 60%)
+72.0
+Eastern Cooperative Oncology Group (ECOG) performance status of 0-1 or a Karnofsky performance status of >= 80%
+80.0
+Eastern Cooperative Oncology Group (ECOG) performance status =< 2 (Karnofsky >= 60%)
+42.0
+Eastern Cooperative Oncology Group (ECOG) performance status =< 1 (Karnofsky >= 70%)
+30.0
+Eastern Cooperative Oncology Group (ECOG) performance status =< 2 (Karnofsky >= 60%)
+80.0
+Karnofsky performance status >= 70% or Eastern Cooperative Oncology Group (ECOG) =< 1
+52.0
+Eastern Cooperative Oncology Group (ECOG) performance status =< 1 (Karnofsky > 60%)
+72.0
+Eastern Cooperative Oncology Group (ECOG) performance status =< 2 (Karnofsky >= 60%)
+40.0
+Eastern Cooperative Oncology Group (ECOG) performance status of 0-1 or Karnofsky>= 60%
+18.0
+Eastern Cooperative Oncology Group (ECOG) performance status =< 1 (Karnofsky >= 70%)
+12.0
+Eastern Cooperative Oncology Group (ECOG) performance status =< 1 (Karnofsky >= 70%)
+68.0
+Have an Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1 (Karnofsky > 60%)
+92.0
+Karnofsky performance status (KPS) of >= 70% or Eastern Cooperative Oncology Group (ECOG) performance status =< 1
+150.0
+Eastern Cooperative Oncology Group (ECOG) performance status =< 2 (Karnofsky >= 50%)
+63.0
+Eastern Cooperative Oncology Group (ECOG) performance status =< 2 (Karnofsky >= 60%)
+68.0
+Eastern Cooperative Oncology Group (ECOG) performance status =< 1 (Karnofsky >= 70%)
+32.0
+Eastern Cooperative Oncology Group (ECOG) performance status =< 2 (Karnofsky >= 60%)
+100.0
+Eastern Cooperative Oncology Group (ECOG) performance status =< 1 (Karnofsky >= 70%)
+5058.0
+Eastern Cooperative Oncology Group (ECOG) performance status =< 2 (Karnofsky >= 60%) is required for eligibility; those patients with lower performance status based solely on bone pain secondary to multiple myeloma are eligible
+28.0
+Eastern Cooperative Oncology Group (ECOG) performance status =< 2 (Karnofsky >= 60%)
+35.0
+Eastern Cooperative Oncology Group (ECOG) performance status =< 2 (Karnofsky >= 60%)
+23.0
+Eastern Cooperative Oncology Group (ECOG) performance status =< 1 (Karnofsky >= 70%)
+36.0
+Participants must have Eastern Cooperative Oncology Group (ECOG) performance status 0-2 (Karnofsky performance status of 50% or greater)
+56.0
+Eastern Cooperative Oncology Group (ECOG)/Karnofsky performance status of 0 or 1 (Karnofsky >= 70%)
+80.0
+Eastern Cooperative Oncology Group (ECOG) performance status =< 2 (Karnofsky >= 60%)* Exception will be made for patients with ECOG performance status =< 3 and Karnofsky performance scale >= 50%, who require the use of wheelchairs, walkers or canes as well as assistance with daily routines secondary to disabilities caused by ECD cerebellar or brain disease that has been stable for >= 3 months
+18.0
+Eastern Cooperative Oncology Group (ECOG) performance status =< 2 (Karnofsky >= 60%)
+66.0
+Eastern Cooperative Oncology Group (ECOG) performance status =< 2 (Karnofsky >= 60%)
+12.0
+Eastern Cooperative Oncology Group (ECOG) performance status =< 2 or Karnofsky performance score (KPS) >= 50%
+42.0
+Eastern Cooperative Oncology Group (ECOG) performance status 0 -1 (Karnofsky >= 70%)
+58.0
+Eastern Cooperative Oncology Group (ECOG) performance status =< 2 (Karnofsky >= 50%)
+30.0
+Eastern Cooperative Oncology Group (ECOG) performance status =< 2 (Karnofsky >= 60%)
+30.0
+Eastern Cooperative Oncology Group (ECOG) performance status =< 1 (Karnofsky >= 70%)
+84.0
+Eastern Cooperative Oncology Group (ECOG) performance status =< 2 (Karnofsky >= 60%)
+30.0
+Patients must have an Eastern Cooperative Oncology Group (ECOG) performance status of 0, 1 or 2 (Karnofsky >= 60%)
+549.0
+Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1 (Karnofsky >= 70%)
+45.0
+Eastern Cooperative Oncology Group (ECOG) performance status =< 2 (Karnofsky >= 60%)
+33.0
+Eastern Cooperative Oncology Group (ECOG) performance status 0, 1 or 2 (Karnofsky >= 50%)
+126.0
+Eastern Cooperative Oncology Group (ECOG) performance status =< 1 (Karnofsky >= 70%)
+36.0
+Eastern Cooperative Oncology Group (ECOG) performance status =< 1 (Karnofsky >= 70%)
+50.0
+Eastern Cooperative Oncology Group (ECOG) performance status =< 2 (Karnofsky >= 60%)
+46.0
+Eastern Cooperative Oncology Group (ECOG) performance status =< 2 (Karnofsky >= 60%)
+46.0
+Eastern Cooperative Oncology Group (ECOG) performance status =< 2 (Karnofsky >= 60%)
+36.0
+Karnofsky >= 70% (Eastern Cooperative Oncology Group [ECOG] performance status 0-1)
+90.0
+Eastern Cooperative Oncology Group (ECOG) performance status =< 2 (Karnofsky >= 60%)
+45.0
+Eastern Cooperative Oncology Group (ECOG) performance status =< 2 (Karnofsky >= 60%)
+50.0
+Eastern Cooperative Oncology Group (ECOG) performance status =< 2 (Karnofsky >= 60%)
+32.0
+Karnofsky performance status of 70-100%; Eastern Cooperative Oncology Group (ECOG) performance status =< [2]
+18.0
+Eastern Cooperative Oncology Group (ECOG) performance status =< 2 (Karnofsky >= 60%)
+46.0
+Eastern Cooperative Oncology Group (ECOG) performance status 0 or 1 (Karnofsky >= 70%)
+70.0
+Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1 (Karnofsky >= 80%)
+29.0
+Eastern Cooperative Oncology Group (ECOG) performance status 0 or 1 (Karnofsky >= 70%)
+51.0
+Eastern Cooperative Oncology Group (ECOG) performance status =< 2 (Karnofsky >= 60%)
+150.0
+Eastern Cooperative Oncology Group (ECOG) performance status =< 2 (Karnofsky >= 60%)
+48.0
+Eastern Cooperative Oncology Group (ECOG) performance status 0-2 (Karnofsky >= 60%)
+20.0
+Eastern Cooperative Oncology Group (ECOG) performance status =< 2 (Karnofsky >= 50%)
+36.0
+Eastern Cooperative Oncology Group (ECOG)/Karnofsky performance status of 0, 1, or 2 within 28 days prior to registration
+147.0
+Performance status (Eastern Cooperative Oncology Group [ECOG]/Karnofsky) of 0, 1 or 2 within 28 days prior to registration
+84.0
+Eastern Cooperative Oncology Group (ECOG) performance status =< 2 (Karnofsky or Lansky >= 70%)
+35.0
+Eastern Cooperative Oncology Group (ECOG) performance status =< 2 (Karnofsky >= 60%)
+72.0
+Eastern Cooperative Oncology Group (ECOG)/Karnofsky performance status of 0-2 (Karnofsky >= 60%)
+30.0
+Eastern Cooperative Oncology Group (ECOG) performance status =< 2 (Karnofsky >= 60%)
+60.0
+Eastern Cooperative Oncology Group (ECOG) performance status =< 1 (Karnofsky >= 60%) and life expectancy greater than 6 months; furthermore, enrollment of patients with greater than 10 measurable lesions is discouraged
+180.0
+Eastern Cooperative Oncology Group (ECOG) performance status 0 or 1 (Karnofsky >= 70%)
+90.0
+Eastern Cooperative Oncology Group (ECOG) performance status =< 2 (Karnofsky >= 60%)
+132.0
+Eastern Cooperative Oncology Group (ECOG) performance status 0 or 1 (Karnofsky > 60%)
+40.0
+Eastern Cooperative Oncology Group (ECOG) performance status =< 2 (Karnofsky >= 60%)
+22.0
+Eastern Cooperative Oncology Group (ECOG) performance status =< 2 (Karnofsky >= 60%)
+68.0
+Eastern Cooperative Oncology Group (ECOG) performance status =< 2 (Karnofsky >= 60%)
+21.0
+Eastern Cooperative Oncology Group (ECOG) performance status =< 2 (Karnofsky >= 60%)
+47.0
+Eastern Cooperative Oncology Group (ECOG) performance status =< 2 (Karnofsky >= 60%)
+27.0
+Patients must have a Gynecologic Oncology Group (GOG) performance grade of 0, 1, or 2
+1070.0
+Patients with GOG performance grade of 3 or 4
+1070.0
+Patients must have Gynecologic Oncology Group (GOG) performance status 0, 1, or 2
+164.0
+Patients with GOG performance grade of 3 or 4
+164.0
+Patients must have a Gynecologic Oncology Group (GOG) performance grade of 0, 1, or 2
+128.0
+Gynecologic Oncology Group (GOG) performance status 0, 1, 2
+360.0
+Patients with GOG performance status of 3 or 4
+360.0
+Patients with a GOG Performance Status of 0, 1, or 2
+NONE
+Patients must not be eligible for a higher priority Gynecologic Oncology Group (GOG) protocol, if one exists; in general, this would refer to any active GOG Phase III protocol or Rare Tumor protocol for the same patient population
+52.0
+Patients with a GOG performance status of 0, 1, or 2
+52.0
+Patient must have Gynecologic Oncology Group (GOG) performance status of 0, 1, or 2
+600.0
+Patients must have a Gynecologic Oncology Group (GOG) performance status of 0, 1, or 2
+540.0
+Patients must have a GOG performance status of 0 or 1
+250.0
+Patient must have a Gynecologic Oncology Group (GOG) performance status of 0, 1, or 2 or equivalent
+188.0
+ECOG performance status (PS) 0-3 (restricted to ECOG PS 0-2 if >= 70 years of age)
+747.0
+Patients must have an ECOG performance status of 0-2
+747.0
+Patients must have an ECOG performance status of 0 -2
+747.0
+STEP II: ECOG performance status 0, 1, or 2 (PS 3 allowed if secondary to pain)
+1080.0
+ECOG performance status of 2 or greater
+45.0
+RE-REGISTRATION ELIGIBILITY CRITERIA (STEP 2): ECOG performance status 0-2
+97.0
+ECOG performance score 0-3
+509.0
+ECOG performance status 0-2
+509.0
+Patients must have an ECOG performance status of 0-2
+509.0
+CRITERIA FOR MAINTENANCE THERAPY-STEP 4: Patients must have an ECOG performance status of 0-3
+509.0
+Eastern Cooperative Oncology Group (ECOG) performance status =< 2 (Karnofsky >= 60%) unless due to neurologic deficits caused by CNS lymphoma with the following exceptions: patients with ECOG performance status (PS) = 4 where neurologic deficits are unlikely to resolve with tumor resolution and may cause clinical management problems are excluded
+52.0
+Performance status of 0, 1 or 2 within 28 days prior to registration
+96.0
+ECOG performance status 0 or 1
+195.0
+ECOG performance status 0-2
+110.0
+Performance status 0, 1 or 2
+488.0
+Patients with ECOG performance grade of 3 or 4
+50.0
+Eastern Cooperative Oncology Group (ECOG) performance status (PS) = 0-2
+729.0
+Eastern Cooperative Oncology Group (ECOG) performance status (PS) 0, 1, or 2
+102.0
+Eastern Cooperative Oncology Group (ECOG) performance status (PS) of 0, 1 or 2
+360.0
+Eastern Cooperative Oncology Group (ECOG) performance status 0-2
+100.0
+Must have Eastern Cooperative Oncology Group (ECOG) performance status of 0-2
+240.0
+Eastern Cooperative Oncology Group (ECOG) performance status =< 2
+130.0
+Eastern Cooperative Oncology Group (ECOG) performance status (PS) 0 or 1
+48.0
+Eastern Cooperative Oncology Group (ECOG) performance status (PS): 0, 1 or 2
+1120.0
+Eastern Cooperative Oncology Group (ECOG) performance status (PS) of 0, 1, or 2
+265.0
+Eastern Cooperative Oncology Group (ECOG) performance status (PS) 0, 1, or 2
+224.0
+Eastern Cooperative Oncology Group (ECOG) performance status of 0-3 within 7 days of enrollment
+90.0
+Eastern Cooperative Oncology Group (ECOG) performance status 0-1
+110.0
+Eastern Cooperative Oncology Group (ECOG) performance status (PS) of 0, 1, 2 or 3
+330.0
+STEP I: Eastern Cooperative Oncology Group (ECOG) performance status 0, 1, or 2 (performance status [PS] 3 allowed if secondary to pain)
+1080.0
+Eastern Cooperative Oncology Group (ECOG) performance status (PS) 0, 1, or 2
+102.0
+Patients must have a performance status of 0 or 1 Eastern Cooperative Oncology Group (ECOG) performance status (PS) scale
+45.0
+The patient must have an Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1
+1636.0
+Eastern Cooperative Oncology Group (ECOG) performance status between 0-2
+1000.0
+Eastern Cooperative Oncology Group (ECOG) performance status =< 2
+113.0
+Eastern Cooperative Oncology Group (ECOG) (Zubrod) performance status 0-1
+2918.0
+Eastern Cooperative Oncology Group (ECOG) performance status =< 2 (Phase I), =< 1 (Phase II)
+140.0
+Eastern Cooperative Oncology Group (ECOG)-American College of Radiology Imaging Network (ACRIN) performance status between 0-2
+189.0
+Eastern Cooperative Oncology Group (ECOG) performance status 0-2
+2060.0
+The Eastern Cooperative Oncology Group (ECOG) performance status =< 2
+72.0
+Eastern Cooperative Oncology Group (ECOG) performance status =< 2
+70.0
+Eastern Cooperative Oncology Group (ECOG) performance status 0-2
+97.0
+Eastern Cooperative Oncology Group (ECOG) 0 or 1
+278.0
+Eastern Cooperative Oncology Group (ECOG) performance status =< 2
+54.0
+Eastern Cooperative Oncology Group (ECOG) performance status =< 1
+130.0
+Eastern Cooperative Oncology Group (ECOG) performance status =< 2
+440.0
+Eastern Cooperative Oncology Group (ECOG) performance status =< 2
+34.0
+Eastern Cooperative Oncology Group (ECOG) performance status 0-1
+1500.0
+Eastern Cooperative Oncology Group (ECOG) performance status =< 2
+20.0
+Eastern Cooperative Oncology Group (ECOG) performance status =< 2
+24.0
+Patients must have Eastern Cooperative Oncology Group (ECOG) performance status 0-1
+600.0
+Eastern Cooperative Oncology Group (ECOG) performance status =< 2
+35.0
+Eastern Cooperative Oncology Group (ECOG) performance score of 0 to 2
+125.0
+Eastern Cooperative Oncology Group (ECOG) performance status 0-2
+30.0
+Eastern Cooperative Oncology Group (ECOG) performance status =< 2
+44.0
+Eastern Cooperative Oncology Group (ECOG) performance status =< 1
+57.0
+Eastern Cooperative Oncology Group (ECOG) performance status 0 or 1
+NONE
+Eastern Cooperative Oncology Group (ECOG) performance status 0-1
+450.0
+Eastern Cooperative Oncology Group (ECOG) performance status 0 to 2
+420.0
+Eastern Cooperative Oncology Group (ECOG) performance status: 0 or 1
+300.0
+Eastern Cooperative Oncology Group (ECOG) performance status 0 or 1 within 2 weeks prior to screening
+562.0
+Eastern Cooperative Oncology Group (ECOG) performance status =< 1
+90.0
+Patients must have Eastern Cooperative Oncology Group (ECOG) performance status 0 or 1
+60.0
+Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1
+37.0
+Eastern Cooperative Oncology Group performance status 0-2
+75.0
+Eastern Cooperative Oncology Group (ECOG) performance status: 0 or 1
+400.0
+Patients must have Eastern Cooperative Oncology Group (ECOG) performance status =< 1 and a life expectancy of at least 3 months
+6452.0
+Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1
+990.0
+Eastern Cooperative Oncology Group (ECOG) performance status =< 2
+35.0
+Eastern Cooperative Oncology Group (ECOG) performance status 0 or 1
+195.0
+Eastern Cooperative Oncology Group (ECOG) performance status 0-2
+110.0
+Patients must have an Eastern Cooperative Oncology Group (ECOG) performance status of 0-3 (restricted to ECOG performance status [PS] 0-2 if age > 70 years)
+57.0
+Patients must have an Eastern Cooperative Oncology Group (ECOG) performance status of 0-3 (restricted to ECOG performance status [PS] 0-2 if age > 70 years)
+99.0
+Eastern Cooperative Oncology Group (ECOG) performance status (PS) 0 or 1
+23.0
+Eastern Cooperative Oncology Group (ECOG) performance status =< 2
+69.0
+Patients must have an Eastern Cooperative Oncology Group (ECOG) performance status of 0-2
+126.0
+Eastern Cooperative Oncology Group (ECOG) performance status 0 or 1 or 2
+680.0
+Eastern Cooperative Oncology Group (ECOG) performance status must be =< 2
+302.0
+Eastern Cooperative Oncology Group (ECOG) performance status =< 2
+46.0
+Eastern Cooperative Oncology Group (ECOG) performance status =< 2
+35.0
+Eastern Cooperative Oncology Group (ECOG) performance status =< 1
+82.0
+Eastern Cooperative Oncology Group (ECOG) performance status 0-1
+37.0
+Eastern Cooperative Oncology Group (ECOG) performance status < 2
+15.0
+Eastern Cooperative Oncology Group (ECOG) performance status 0 or 1
+45.0
+Eastern Cooperative Oncology Group (ECOG) performance score of 0 to 1
+60.0
+Eastern Cooperative Oncology Group (ECOG) performance status score of 0, 1, or 2
+64.0
+Patient has Eastern Cooperative Oncology Group (ECOG) performance status 0-1 within 2 weeks prior to randomization
+345.0
+Eastern Cooperative Oncology Group (ECOG) performance status 0-1
+714.0
+Eastern Cooperative Oncology Group (ECOG) performance status 0 or 1
+NONE
+Eastern Cooperative Oncology Group (ECOG) performance status =< 1
+137.0
+Eastern Cooperative Oncology Group (ECOG) =< 1
+24.0
+Eastern Cooperative Oncology Group (ECOG) performance status of 0, 1, or 2
+348.0
+Eastern Cooperative Oncology Group (ECOG) performance status 0-2
+2936.0
+Eastern Cooperative Oncology Group (ECOG) performance status: 0 or 1
+766.0
+Eastern Cooperative Oncology Group (ECOG) performance status =< 2
+60.0
+Eastern Cooperative Oncology Group (ECOG) performance status 0 or 1
+124.0
+Eastern Cooperative Oncology Group (ECOG) performance status =< 2
+38.0
+Eastern Cooperative Oncology Group (ECOG) performance status of =< 1 within 90 days prior to step 1 registration
+612.0
+Eastern Cooperative Oncology Group (ECOG) performance status =< 2
+24.0
+Eastern Cooperative Oncology Group (ECOG) performance status =< 2
+40.0
+Eastern Cooperative Oncology Group (ECOG) performance status =< 2
+48.0
+Patients must have Eastern Cooperative Oncology Group (ECOG) performance status of 0-1
+40.0
+Patients have an Eastern Cooperative Oncology Group (ECOG) performance status of 0-2
+689.0
+Eastern Cooperative Oncology Group (ECOG) performance status =< 2
+700.0
+Eastern Cooperative Oncology Group (ECOG) performance status =< 2
+27.0
+Performance status Eastern Cooperative Oncology Group (ECOG) 0, 1, or 2
+400.0
+Patients must have a performance status corresponding to Eastern Cooperative Oncology Group (ECOG) scores of 0, 1, or 2
+700.0
+Eastern Cooperative Oncology Group (ECOG) performance status =< 2
+98.0
+The patient must have an Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1
+175.0
+Eastern Cooperative Oncology Group (ECOG) performance status 0-2
+324.0
+Patients must have an Eastern Cooperative Oncology Group (ECOG) performance status of 0, 1, 2, or 3 within 28 days prior to registration
+50.0
+Eastern Cooperative Oncology Group (ECOG) performance status =< 2
+78.0

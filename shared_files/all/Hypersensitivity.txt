@@ -1,0 +1,136 @@
+Have a known immediate or delayed hypersensitivity reaction or idiosyncrasy to drugs chemically related to trametinib, or excipients or to dimethyl sulfoxide (DMSO) or to either carboplatin or paclitaxel
+30.0
+TREATMENT: Patients with a known immediate or delayed hypersensitivity reaction or idiosyncrasy to drugs chemically related to trametinib dimethyl sulfoxide (DMSO), its excipients, or DMSO, are ineligible to receive treatment with trametinib DMSO
+700.0
+TREATMENT: Patients with a known immediate or delayed hypersensitivity reaction or idiosyncrasy to drugs chemically related to trametinib DMSO, its excipients, or DMSO, are ineligible to receive treatment with trametinib DMSO
+700.0
+Known immediate or delayed hypersensitivity reaction or idiosyncrasy to drugs chemically related to the study treatments, their excipients, and/or dimethyl sulfoxide (DMSO)
+40.0
+Known immediate or delayed hypersensitivity reaction or idiosyncrasy to drugs chemically related to the study treatments, their excipients, and/or dimethyl sulfoxide (DMSO)
+18.0
+Have a known immediate or delayed hypersensitivity reaction or idiosyncrasy to drugs chemically related to trametinib or excipients or to dimethyl sulfoxide (DMSO)
+68.0
+Have a known immediate or delayed hypersensitivity reaction or idiosyncrasy to drugs chemically related to trametinib, or excipients or to dimethyl sulfoxide (DMSO), or to compounds of similar chemical or biologic composition to navitoclax
+130.0
+History of known immediate or delayed hypersensitivity reactions attributed to compounds of similar chemical or biologic composition to AT13387, dabrafenib, or trametinib, or excipients or to dimethyl sulfoxide (DMSO)
+32.0
+Known immediate or delayed hypersensitivity reaction or idiosyncrasy to drugs chemically related to trametinib, or excipients, or to dimethyl sulfoxide (DMSO), or to Cremophor EL (polyoxyethylated castor oil); please note, exclusion for Cremophor is unnecessary unless paclitaxel is the only agent available and the patient randomizes to the conventional therapy option
+250.0
+Have a known immediate or delayed hypersensitivity reaction or idiosyncrasy to drugs chemically related to trametinib, or excipients or to dimethyl sulfoxide (DMSO) or to thyrotropin alpha (Thyrogen)
+35.0
+Known immediate or delayed hypersensitivity reaction or idiosyncrasy to drugs chemically related to the study treatments, their excipients, and/or dimethyl sulfoxide (DMSO)
+18.0
+CLINICAL/LABORATORY CRITERIA: Patients must not have an immediate or delayed hypersensitivity reaction or idiosyncrasy to drugs chemically related to trametinib, or excipients, or to dimethyl sulfoxide (DMSO) or other agents used in the study
+53.0
+Have a known immediate or delayed hypersensitivity reaction or idiosyncrasy to drugs chemically related to trametinib, or excipients or to dimethyl sulfoxide (DMSO)
+27.0
+Patients with known hypersensitivity to Chinese hamster ovary cell products or other recombinant human antibodies
+23.0
+Known hypersensitivity to Chinese hamster ovary cell products or other recombinant human antibodies
+35.0
+Known hypersensitivity to Chinese hamster ovary cell products or other recombinant human antibodies
+488.0
+Known hypersensitivity to Chinese hamster ovary cell products or other recombinant human antibodies
+72.0
+Known hypersensitivity to Chinese hamster ovary cell products or other recombinant human antibodies
+40.0
+Known hypersensitivity to Chinese hamster ovary cell products or other recombinant human antibodies
+60.0
+No known hypersensitivity to Chinese hamster ovary (CHO) cell products or any component of the atezolizumab formulation
+700.0
+Known hypersensitivity to Chinese hamster ovary cell products or other recombinant human antibodies
+22.0
+Patients with known hypersensitivity to Chinese hamster ovary cell products or other recombinant human antibodies
+98.0
+Known hypersensitivity to Chinese hamster ovary cell products or other recombinant human antibodies
+78.0
+Serum Albumin < 2.5 g/dL
+45.0
+Serum albumin >= 2.8 g/dL
+55.0
+Albumin >= 3 g/dL, within 14 days of registration and within 7 days of the start of treatment
+180.0
+Serum albumin >= 2.8 g/dL
+42.0
+Serum albumin >= 28 g/L
+72.0
+Serum albumin >= 2.5 g/dL
+97.0
+Patients must have a serum albumin >= 2.5 g/dL within 28 days prior to registration
+97.0
+Albumin >= 2.5 g/dL
+30.0
+Serum albumin >= 2 g/dL
+77.0
+Albumin >= 2.5 g/dL
+40.0
+Albumin >= 2.5 g/dL
+130.0
+Serum albumin >= 2 g/dL
+154.0
+Albumin >= 2.5 g/dL
+250.0
+Serum albumin >= 3 g/dL
+40.0
+Patients on Part A and Part B: serum albumin >= 2 g/dL
+148.0
+Patients on Part C with ALL: serum albumin >= 2 g/dL
+148.0
+Albumin >= 2.5 mg/dl
+182.0
+Albumin >= 2.5 g/dL
+35.0
+Serum albumin >= 2.5 g/dL
+280.0
+Serum albumin >= 2.8 g/dL
+90.0
+Albumin >= 2.5 g/dL
+18.0
+Serum albumin >= 2.8 g/dL
+135.0
+Serum albumin >= 2 g/dL
+81.0
+Albumin >= 2.8 g/dL
+96.0
+Albumin >= 2 g/dl
+110.0
+INCLUSION CRITERIA FOR STRATUM C: Albumin >= 2 g/dl
+110.0
+Serum albumin >= 2 g/dL
+67.0
+Serum albumin >= 2 g/dL
+44.0
+Serum albumin >= 3 g/dL
+150.0
+Within 14 days prior to registration: Serum albumin >= 3.0 g/dL
+143.0
+Serum albumin >= 2 g/dL
+65.0
+Serum albumin >= 2 g/dl
+36.0
+Albumin >= 2 g/dl
+25.0
+Serum albumin >= 2.8 g/dL
+146.0
+Serum albumin >= 2 g/dL
+51.0
+Patients with hypersensitivity to albumin are not eligible
+51.0
+Albumin >= 2.5 g/dL within 28 days prior to registration
+64.0
+Albumin >= 2.5 g/dl
+186.0
+Albumin >= 2.5 g/dL within 30 days of day 1 of study
+27.0
+Patients with solid tumors: serum albumin >= 2 g/dL
+49.0
+Serum albumin >= 2 g/dL
+98.0
+Serum albumin >= 2 g/dL
+49.0
+Serum albumin >= 2 g/dL
+49.0
+Serum albumin >= 2 g/dL
+144.0
+Serum albumin >= 2 g/dL within 7 days prior to enrollment
+49.0

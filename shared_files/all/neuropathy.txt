@@ -1,0 +1,64 @@
+STEP I: Patients must not have grade 2 or higher peripheral neuropathy by Common Terminology Criteria for Adverse Events (CTCAE) 4.0
+1080.0
+No grade 2 or higher neuropathy
+20.0
+Grade 3 or higher peripheral neuropathy
+182.0
+Neuropathy (sensory and motor) =< CTCAE v 3.0 grade 1
+164.0
+Neuropathy (sensory and motor) less than or equal to CTCAE grade 1
+128.0
+Patients must have < grade 2 neuropathy (sensory/motor) within 7 days prior to registration
+38.0
+>= Grade 2 peripheral sensory neuropathy (CTCAE, v. 4.0)
+924.0
+Sensory/motor neuropathy >= grade 2
+24.0
+Pre-existing >= grade 2 sensory or motor peripheral neurotoxicity
+1400.0
+Sensory/motor neuropathy >= grade 2
+35.0
+Patients must not have Common Terminology Criteria for Adverse Events (CTCAE) >= grade 2 neuropathy (cranial, motor or sensory) within 14 days prior to registration
+44.0
+Nervous system disorder (paresthesia, peripheral motor neuropathy, or peripheral sensory neuropathy) >= grade 2, per the Common Terminology Criteria for Adverse Events (CTCAE) version (v)4.0
+990.0
+Neurologic function: neuropathy (sensory and motor) less than or equal to Common Terminology Criteria for Adverse Events (CTCAE) grade 1
+147.0
+Sensory or motor neuropathy >= grade 2
+348.0
+No grade >= 2 peripheral motor or sensory neuropathy
+700.0
+Peripheral neuropathy of severity greater than grade 1
+276.0
+Grade 2 or greater neuropathy
+24.0
+Grade 2 or greater peripheral neuropathy
+70.0
+Patients must not have grade 2 or greater peripheral sensory neuropathy
+189.0
+=< grade 2 peripheral neuropathy
+97.0
+RE-REGISTRATION ELIGIBILITY CRITERIA (STEP 2): =< grade 2 peripheral neuropathy
+97.0
+Peripheral neuropathy =< grade 1 at the time of registration
+330.0
+Patients must not have peripheral neuropathy >= grade 2
+230.0
+Patients must not have peripheral neuropathy > grade 2
+60.0
+Grade >= 2 peripheral neuropathy
+96.0
+Peripheral neuropathy of severity greater than grade 1
+66.0
+Patients with neuropathy > grade 1
+35.0
+=< grade 2 peripheral neuropathy; patients with grade 1 peripheral neuropathy with pain will be excluded
+110.0
+Patients with grade >= 2 peripheral neuropathy will not be permitted on study
+37.0
+Patients with >= grade 2 neuropathy
+90.0
+Patients must not have baseline peripheral neuropathy that exceeds grade 1
+333.0
+No grade >= 2 neuropathy
+124.0

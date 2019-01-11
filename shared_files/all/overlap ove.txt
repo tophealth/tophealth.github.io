@@ -1,0 +1,42 @@
+Prior radiation therapy to the pelvis that would result in overlap of radiation therapy fields
+285.0
+Patient must not have had previous irradiation to the head and neck that would result in overlap in radiation fields for the current disease
+345.0
+Prior radiotherapy to the region of the study cancer that would result in overlap of radiation therapy fields
+700.0
+Prior radiotherapy to the region of the study cancer that would result in overlap of radiation therapy fields
+37.0
+Prior radiotherapy to the region of the study cancer that would result in overlap of radiation therapy fields
+545.0
+Prior radiotherapy, including brachytherapy, to the region of the study cancer that would result in overlap of radiation therapy fields
+2580.0
+Prior radiotherapy to the region of the study cancer that would result in overlap of radiation therapy fields except patients who have progressed following stereotactic radiosurgery for 1-3 brain metastases, with at least one new lesion
+143.0
+Prior radiotherapy to the region of the liver that would result in excessive doses to normal tissues due to overlap of radiation therapy fields
+368.0
+Prior radiotherapy to the region of the study cancer that would result in overlap of radiation therapy fields
+252.0
+Prior radiotherapy to the region of the study cancer that would result in overlap of radiation therapy fields
+660.0
+Prior radiotherapy to the region of the study cancer that would result in overlap of radiation therapy fields
+234.0
+Prior radiotherapy to the region of the study cancer that would result in overlap of radiation therapy fields
+330.0
+Prior radiotherapy to the region of the study cancer that would result in overlap of radiation therapy fields
+924.0
+Prior radiotherapy to the region of the liver that would result in overlap of radiation therapy fields
+182.0
+Prior radiotherapy to the head or neck (except for T1 glottic cancer), resulting in overlap of radiation fields
+606.0
+Prior radiotherapy to the head or neck (except for T1 glottic cancer), resulting in overlap of radiation fields
+302.0
+Prior receipt of radiotherapy that would result in overlap of the new and old radiation therapy fields
+45.0
+Prior radiotherapy to the region of the study cancer that would result in overlap of radiation therapy fields
+56.0
+Prior radiotherapy to the region of the study cancer that would result in overlap of radiation therapy fields
+612.0
+Prior radiotherapy, including brachytherapy, to the region of the study cancer that would result in overlap of radiation therapy treatment volumes
+282.0
+Prior radiotherapy to the region of the study cancer that would result in overlap of radiation therapy fields (to include Y90)
+186.0

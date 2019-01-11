@@ -1,0 +1,596 @@
+Patients must have signed an approved informed consent and Health Insurance Portability and Accountability Act (HIPAA) authorization
+164.0
+Ability to give informed consent
+348.0
+All patients or their legal guardians (if the patient is < 18 years old) or durable power of attorney (DPA) must sign a document of informed consent indicating their understanding of the investigational nature and the risks of this study; when appropriate, pediatric patients will be included in all discussions in order to obtain verbal assent
+30.0
+Signed informed consent according to institutional guidelines must be obtained
+30.0
+Able and willing to sign informed consent/assent
+143.0
+Patients or their legally authorized representative must be informed of the investigational nature of this study and must sign and give written informed consent in accordance with institutional and federal guidelines; for Step 1 registration of patients who have not yet submitted specimens for the Oncotype DX Breast Cancer Assay, the appropriate consent form is the Step 1 Consent Form; for both Step 1 and Step 2 registration of patients whose Recurrence Score is already known and is 25 or less, the appropriate consent form is the Step 2 Consent Form
+10000.0
+PROCUREMENT: Patient able to give informed consent
+44.0
+TREATMENT: Patient able to give informed consent
+44.0
+A medical or psychiatric illness that precludes ability to give informed consent or is likely to interfere with the ability to comply with the protocol stipulations
+90.0
+Patients must consent to be in the study and must have signed and dated an approved consent form, which conforms to federal and institutional guidelines
+45.0
+The patient must have signed and dated an Institutional Review Board (IRB)-approved consent form that conforms to federal and institutional guidelines
+1636.0
+Signed informed consent by subject (age >= 18 years) or by parent/guardian (subject age < 18 years); information will be provided to potential subjects and their parents/guardians (as appropriate) by oral discussion with opportunity for question and answer and the written informed consent document; subjects less than 18 years of age capable of giving assent will be included in these discussions and will be asked for written assent on the same document as the parents/guardians give consent; if feasible, both parents (or guardians) will be included in these discussions and will be asked to sign the written consent document; if a second parent or guardian is unavailable, this will be explained in writing on the written consent document; if subjects age 18 years or older are unable to provide informed consent, then they will not be enrolled in this study
+75.0
+Willingness to sign the healthy volunteer informed consent form
+140.0
+Medical or psychiatric illness that would, in the opinion of the investigator, preclude participation in the study or the ability of patients to provide informed consent for themselves
+80.0
+Patients who do not consent for PK studies to be performed (alternatively: patients who initially consent to be on study but withdraws consent for PK study will be taken off study and replaced)
+30.0
+Diagnostic or laboratory studies performed exclusively to determine eligibility for this trial must only be done after obtaining written informed consent from all patients or their legal guardians (if the patient is < 18 years old); when appropriate, pediatric patients will be included in all discussions; this can be accomplished through one of the following mechanisms: a) the NCI, POB screening protocol, b) an Institutional Review Board (IRB)-approved institutional screening protocol or c) the study-specific protocol; documentation of the informed consent for screening will be maintained in the patient�s research chart; studies or procedures that were performed for clinical indications (not exclusively to determine eligibility) may be used for baseline values even if the studies were done before informed consent was obtained
+104.0
+Cognitive impairment, history of medical or psychiatric disease, other uncontrolled intercurrent illness, active substance abuse, or social circumstances, which in the view of the principal investigator (PI), would preclude safe treatment or the ability to give informed consent
+52.0
+Able to provide informed consent, or if the oncology physician determines the patient to not have decision-making capacity, a patient-designated health care proxy (or authorized representative per institutional policies) must sign consent by the baseline visit; if the participant is found to be impaired on the Blessed-Orientation Memory Concentration Test (BOMC) during screening; they must have a health care proxy or authorized representative to be eligible to enroll
+700.0
+All patients and/or their parent or legal guardian must sign a written informed consent
+598.0
+Patients must NOT suffer from medical or psychiatric conditions that would interfere with protocol compliance, the ability to provide informed consent, or assessment of response or anticipated toxicities; this includes uncontrolled intercurrent illness including, but not limited to ongoing or active infection
+600.0
+Ability to provide informed consent; all subjects must sign an informed consent form indicating their understanding of the investigational nature and risks of the study before any protocol-related studies are performed
+125.0
+Patient or appointed surrogate decision-maker or legally authorized representative must have ability to understand the purpose and risks of the study and willingness to provide a signed and dated informed consent form (ICF) and authorization to use protected health information (in accordance with national and local subject privacy regulations)
+52.0
+Inability to understand and inability to provide informed consent
+42.0
+The patient must have signed and dated an Institutional Review Board (IRB)-approved consent form that conforms to federal and institutional guidelines
+990.0
+The patient or parent/guardian is able to understand the consent and is willing to sign a written informed consent document, inclusive of assent where appropriate, according to institutional guidelines
+110.0
+INCLUSION CRITERIA FOR STRATUM C: The patient or parent/guardian is able to understand the consent and is willing to sign a written informed consent document, inclusive of assent where appropriate, according to institutional guidelines
+110.0
+Diagnostic or laboratory studies performed exclusively to determine eligibility for this trial must only be done after obtaining written informed consent from all patients, which can be accomplished using the NCI, POB screening protocol; studies or procedures that were performed for clinical indications (not exclusively to determine eligibility) may be used for screening or baseline values even if the studies were done before informed consent was obtained, if the patient agrees
+50.0
+Signed, written informed consent
+23.0
+Other uncontrolled, concurrent illness that would preclude study participation; or, psychiatric illness or social challenges that would entail unreasonable risk or preclude informed consent or compliance with study procedures
+23.0
+Inability to understand and sign informed consent
+33.0
+Written informed consent (IC) for trial participation must be signed and dated by the patient and the investigator prior to enrollment
+500.0
+Written consent to biological material submission, indicating the patient has been informed of and agrees to tissue and blood material use, transfer and handling, must be signed and dated by the patient and the investigator prior to any procedures specific for this trial
+500.0
+Any perceived inability to directly (and without the means of a legal guardian) provide informed consent
+18.0
+Medical or psychiatric illness or social situations that would, in the opinion of the investigator, preclude participation in the study or the ability of patients to provide informed consent for themselves
+60.0
+RECURRENT/ PROGRESSIVE DIPG (STRATUM 1): The patient or parent/guardian is able to understand the consent and is willing to sign a written informed consent document according to institutional guidelines
+50.0
+NON-PROGRESSED DIPG (STRATUM 2): The patient or parent/guardian is able to understand the consent and is willing to sign a written informed consent document according to institutional guidelines
+50.0
+Patients must be able to understand and sign an informed consent form
+24.0
+The patient must have signed and dated an Institutional Review Board (IRB)-approved consent form that conforms to federal and institutional guidelines
+348.0
+Signed, dated informed consent
+766.0
+The patient or parent/guardian is able to understand the consent and is willing to sign a written informed consent document according to institutional guidelines
+25.0
+Diagnostic or laboratory studies performed exclusively to determine eligibility for this trial must only be done after obtaining written informed consent from all patients, which can be accomplished using the study specific informed consent or another consent, such as the National Cancer Institute (NCI), Pediatric Oncology Branch (POB) screening protocol; studies or procedures that were performed for clinical indications (not exclusively to determine eligibility) may be used for screening or baseline values even if the studies were done before informed consent was obtained, if the patient agrees
+24.0
+Voluntary written consent must be given before performance of any study related procedure not part of standard medical care, with the understanding that consent may be withdrawn by the patient at any time without prejudice to future medical care
+40.0
+The patient must have signed and dated an Institutional Review Board (IRB)-approved consent form that conforms to federal and institutional guidelines
+175.0
+Patients must have signed informed consent indicating that they are aware of the investigational nature of the study, and are aware that participation is voluntary; patients must be made aware of their other treatment options
+21.0
+Have been informed of other treatment options
+78.0
+Participant or legal representative must understand the investigational nature of this study and sign an Independent Ethics Committee/Institutional Review Board approved written informed consent form prior to receiving any study related procedure
+78.0
+Mental impairment that may compromise the ability to give informed consent and comply with the requirements of the study
+78.0
+All patients must be informed of the investigational nature of this study and must sign and give written informed consent in accordance with institutional and federal guidelines
+162.0
+Patients or their legally authorized representative must be informed of the investigational nature of this study and must sign and give written informed consent in accordance with institutional and federal guidelines; for all patients the appropriate consent form for this registration is the Step 2 Consent
+10000.0
+Patients or their legally authorized representative must be informed of the investigational nature of this study and must sign and give written informed consent in accordance with institutional and federal guidelines
+155.0
+Patients or their legally authorized representative must be informed of the investigational nature of this study and must sign and give written informed consent in accordance with institutional and federal guidelines
+1900.0
+Patients or their legally authorized representative must be informed of the investigational nature of this study and must sign and give written informed consent in accordance with institutional and federal guidelines
+130.0
+All patients must be informed of the investigational nature of this study and must sign and give written informed consent in accordance with institutional and federal guidelines
+491.0
+Patients or their legally authorized representative must be informed of the investigational nature of this study and must sign and give written informed consent in accordance with institutional and federal guidelines
+97.0
+Patients or their legally authorized representative must be informed of the investigational nature of this study and must sign and give written informed consent in accordance with institutional and federal guidelines
+38.0
+Patients must be informed of the investigational nature of this study and must sign and give written informed consent in accordance with institutional and federal guidelines
+10000.0
+Patients must be informed of the investigational nature of this study and must sign and give written informed consent in accordance with institutional and federal guidelines.
+10000.0
+Patients or their legally authorized representative must be informed of the investigational nature of this study and must sign and give written informed consent prior to any study-related procedures in accordance with institutional and federal guidelines
+230.0
+ALL PATIENTS: Patients or their legally authorized representative must be informed of the investigational nature of this study and must sign and give written informed consent in accordance with institutional and federal guidelines
+44.0
+Patients or their legally authorized representative must be informed of the investigational nature of this study and must sign and give written informed consent in accordance with institutional and federal guidelines
+280.0
+Patients or their legally authorized representative must be informed of the investigational nature of this study and must sign and give written informed consent in accordance with institutional and federal guidelines
+200.0
+Patients must be informed of the investigational nature of this study and must sign and give written informed consent in accordance with institutional and federal guidelines
+223.0
+Patients must be informed of the investigational nature of this study and must sign and give written informed consent in accordance with institutional and federal guidelines
+150.0
+Patients must be informed of the investigational nature of this study and must sign and give written informed consent in accordance with institutional and federal guidelines
+180.0
+Patients must be informed of the investigational nature of this study and must sign and give written informed consent in accordance with institutional and federal guidelines
+333.0
+Patients must be informed of the investigational nature of this study and must sign and give written informed consent in accordance with institutional and federal guidelines
+143.0
+REGULATORY CRITERIA: Patients must be informed of the investigational nature of this study and must sign and give written informed consent in accordance with institutional and federal guidelines
+53.0
+Patients must be informed of the investigational nature of this study and must sign and give written informed consent in accordance with institutional and federal guidelines
+3960.0
+Patients must be informed of the investigational nature of this study and must sign and give written informed consent in accordance with institutional and federal guidelines
+77.0
+Patients must be informed of the investigational nature of this study and must sign and give written informed consent in accordance with institutional and federal guidelines
+148.0
+Patients must be informed of the investigational nature of this study and must sign and give written informed consent for this protocol in accordance with institutional and federal guidelines
+1000.0
+Patients must be informed of the investigational nature of this study and must sign and give written informed consent in accordance with institutional and federal guidelines
+64.0
+Patients must be informed of the investigational nature of this study and must sign and give written informed consent in accordance with institutional and federal guidelines
+150.0
+Patients must be informed of the investigational nature of this study and must sign and give written informed consent in accordance with institutional and federal guidelines
+94.0
+All patients and/or their parents or legal guardians must sign a written informed consent
+400.0
+All patients and/or their parents or legal guardians must sign a written informed consent
+253.0
+All patients and/or their parents or legal guardians must sign a written informed consent
+500.0
+All patients and/or their parents or legal guardians must sign a written informed consent
+9483.0
+All patients and/or their parents or legal guardians must sign a written informed consent
+693.0
+All patients and/or their parents or legal guardians must sign a written informed consent
+608.0
+All patients and/or their parents or legal guardians must sign a written informed consent (patient assent is also recommended when applicable according to each institution�s policy)
+71.0
+All patients and/or their parents or legal guardians must sign a written informed consent
+275.0
+All patients and/or their parents or legal guardians must sign a written informed consent
+450.0
+All patients and/or their parents or legal guardians must sign a written informed consent
+621.0
+All patients and/or their parents or legal guardians must sign a written informed consent; assent, when appropriate, will be obtained according to institutional guidelines
+1400.0
+All patients and/or their parents or legal guardians must sign a written informed consent
+600.0
+All patients and/or their parents or legal guardians must sign a written informed consent
+340.0
+All patients and/or their parents or legal guardians must sign a written informed consent
+158.0
+All patients and/or their parents or legal guardians must sign a written informed consent
+330.0
+Each patient�s parents or legal guardians must sign a written informed consent
+256.0
+All patients and/or their parents or legal guardians must sign a written informed consent
+90.0
+All patients and/or their parents or legal guardians must sign a written informed consent.
+337.0
+All patients and/or their parents or legal guardians must sign a written informed consent
+56.0
+All patients and/or their parents or legal guardians must sign a written informed consent; assent, when appropriate, will be obtained according to institutional guidelines
+45.0
+All patients and/or their parents or legal guardians must sign a written informed consent
+250.0
+All patients and/or their parents or legal guardians must sign a written informed consent
+90.0
+All patients and/or their parents or legal guardians must sign a written informed consent
+700.0
+All patients and/or their parents or legally authorized representatives must sign a written informed consent; assent, when appropriate, will be obtained according to institutional guidelines
+77.0
+All patients and/or their parents or legally authorized representatives must sign a written informed consent; assent, when appropriate, will be obtained according to institutional guidelines
+154.0
+All patients and/or their parents or legally authorized representatives must sign a written informed consent; assent, when appropriate, will be obtained according to institutional guidelines
+148.0
+All patients and/or their parents or legally authorized representatives must sign a written informed consent; assent, when appropriate, will be obtained according to institutional guidelines
+484.0
+All patients and/or their parents or legally authorized representatives must sign a written informed consent; assent, when appropriate, will be obtained according to institutional guidelines
+81.0
+All patients and/or their parents or legally authorized representatives must sign a written informed consent; assent, when appropriate, will be obtained according to institutional guidelines
+67.0
+All patients and/or their parents or legally authorized representatives must sign a written informed consent; assent, when appropriate, will be obtained according to institutional guidelines
+65.0
+All patients and/or their parents or legally authorized representatives must sign a written informed consent; assent, when appropriate, will be obtained according to institutional guidelines
+36.0
+All patients and/or their parents or legally authorized representatives must sign a written informed consent; assent, when appropriate, will be obtained according to institutional guidelines
+51.0
+All patients and/or their parents or legally authorized representatives must sign a written informed consent; assent, when appropriate, will be obtained according to institutional guidelines
+49.0
+All patients and/or their parents or legally authorized representatives must sign a written informed consent; assent, when appropriate, will be obtained according to institutional guidelines
+98.0
+All patients and/or their parents or legally authorized representatives must sign a written informed consent; assent, when appropriate, will be obtained according to institutional guidelines
+49.0
+All patients and/or their parents or legally authorized representatives must sign a written informed consent; assent, when appropriate, will be obtained according to institutional guidelines
+49.0
+All patients and/or their parents or legally authorized representatives must sign a written informed consent; assent, when appropriate, will be obtained according to institutional guidelines
+144.0
+All patients and/or their parents or legally authorized representatives must sign a written informed consent; assent, when appropriate, will be obtained according to institutional guidelines
+49.0
+Patients must have signed an approved informed consent and authorization permitting release of personal health information
+1070.0
+Patients must have signed an approved informed consent and authorization permitting release of personal health information
+128.0
+Patients must have signed an approved informed consent and authorization permitting release of personal health information
+360.0
+Patients must have signed an approved informed consent and authorization permitting release of personal health information
+NONE
+Patients must have signed an approved informed consent and authorization permitting release of personal health information
+52.0
+Patients must have signed an approved informed consent and authorization permitting release of personal health information
+600.0
+Patients must have signed an approved informed consent and authorization permitting release of personal health information; individuals with impaired decision-making capacity are not eligible to participate on the study
+540.0
+Patients must have the ability to understand and sign an approved informed consent and authorization permitting release of personal health information
+250.0
+Patients must have signed an approved informed consent and authorization permitting release of personal health information
+549.0
+The patient must provide study-specific informed consent prior to study entry and, for patients treated in the United States (U.S.), authorization permitting release of personal health information
+84.0
+The patient or legally authorized representative must provide study-specific informed consent prior to study entry and, for patients treated in the United States (U.S.), authorization permitting release of personal health information
+488.0
+The patient or a legally authorized representative must provide study-specific informed consent and authorization permitting release of personal health information prior to study entry
+50.0
+Ability to understand and the willingness to sign a written informed consent document
+36.0
+Ability to understand and the willingness to sign a written informed consent document
+276.0
+Ability to understand and the willingness to sign a written informed consent document
+74.0
+Ability to understand and the willingness to sign a written informed consent document; subjects must be willing to adhere to dose and visit schedules
+130.0
+Ability to understand and the willingness to sign a written informed consent document
+40.0
+Ability to understand and the willingness to sign a written informed consent document
+107.0
+Ability to understand and the willingness to sign a written informed consent document
+132.0
+Ability to understand and the willingness to provide written informed consent to participate
+90.0
+Ability to understand and the willingness to sign a written informed consent document
+24.0
+Ability to understand and the willingness to sign a written informed consent document
+110.0
+Ability to understand and the willingness to sign a written informed consent document
+55.0
+Ability to understand and the willingness to sign a written informed consent document according to institutional guidelines
+180.0
+Ability to understand and the willingness to sign a written informed consent document
+70.0
+Ability to understand and the willingness to sign a written informed consent document
+165.0
+Ability to understand and the willingness to sign a written informed consent document
+113.0
+Ability to understand and the willingness to sign a written informed consent document
+42.0
+Ability to understand and the willingness to sign a written informed consent document and to undergo tumor biopsies in the expansion phase
+140.0
+Ability to understand and the willingness to sign a written informed consent document
+72.0
+Ability to understand and the willingness to sign a written informed consent document
+80.0
+Ability to understand and the willingness to sign a written informed consent document
+68.0
+Ability to understand and the willingness to sign a written informed consent document
+42.0
+Ability to understand and the willingness to sign a written informed consent document
+30.0
+Ability to understand and the willingness to sign a written informed consent document
+73.0
+Ability to understand and the willingness to sign a written informed consent document
+80.0
+Ability to understand and the willingness to sign a written informed consent document
+72.0
+Ability to understand and the willingness to sign a written informed consent document
+70.0
+Ability to understand and the willingness to sign a written informed consent document
+72.0
+TUMOR BIOPSY SEQUENCING: Ability to understand and the willingness to sign a written informed consent document (subjects with impaired decision-making capacity are not eligible)
+700.0
+Ability to understand and the willingness to sign a written informed consent document
+52.0
+Ability to understand and the willingness to sign a written informed consent document
+40.0
+Ability to understand and the willingness to sign a written informed consent document
+18.0
+Ability to understand and the willingness to sign a written informed consent document
+12.0
+Ability to understand and the willingness to sign a written informed consent document
+92.0
+Ability to understand and the willingness to sign a written informed consent document; consent will be obtained by day 14 of AcDVP-16 induction regimen
+63.0
+Ability of patient to understand and the willingness to sign a written informed consent document
+54.0
+Ability to understand and the willingness to sign a written informed consent document
+68.0
+Ability to understand and the willingness to sign a written informed consent document
+130.0
+Ability to understand and the willingness to sign a written informed consent document
+32.0
+Ability to understand and the willingness to sign a written informed consent document
+100.0
+Patient and/or guardian have the ability to understand and the willingness to sign a written informed consent document according to institutional guidelines
+40.0
+Ability to understand and the willingness to sign a written informed consent document
+28.0
+Ability to understand and the willingness to sign a written informed consent document
+44.0
+Ability to understand and the willingness to sign a written informed consent document
+35.0
+Ability to understand and the willingness to sign a written informed consent document
+57.0
+Ability to understand and the willingness to sign a written informed consent document
+23.0
+Ability to understand and the willingness to sign a written informed consent document
+90.0
+Ability to understand and the willingness to sign a written informed consent document
+36.0
+Participants must be able to understand and willing to sign a written informed consent document
+56.0
+Ability to understand and the willingness to sign a written informed consent document
+80.0
+Ability to understand and the willingness to sign a written informed consent document
+18.0
+Ability to understand and the willingness to sign a written informed consent document
+135.0
+Ability to understand and the willingness to sign a written informed consent document
+37.0
+Ability to understand and the willingness to sign a written informed consent document
+66.0
+Ability to understand written and/or spoken English
+222.0
+Ability to understand and willingness to sign a written informed consent document
+222.0
+Ability to understand and the willingness to sign a written informed consent document
+209.0
+Ability to understand and the willingness to sign a written informed consent document
+58.0
+Ability to understand and the willingness to sign a written informed consent document
+35.0
+Ability to understand and the willingness to sign a written informed consent document
+30.0
+Ability to understand and the willingness to sign a written informed consent document
+30.0
+Ability to understand and to sign a written informed consent document
+84.0
+Ability to understand and the willingness to sign a written informed consent document
+30.0
+Ability to understand and the willingness to sign a written informed consent document
+46.0
+Ability to understand and the willingness to sign a written informed consent document
+45.0
+Ability to understand and the willingness to sign a written informed consent document
+33.0
+Ability to understand and the willingness to sign a written informed consent document
+35.0
+Ability to understand and the willingness to sign a written informed consent document
+82.0
+Ability to understand and the willingness to sign a written informed consent document
+126.0
+Ability to understand and the willingness to sign a written informed consent document
+37.0
+Ability to understand and the willingness to sign a written informed consent document
+36.0
+Ability to understand and the willingness to sign a written informed consent document
+50.0
+Ability to understand and the willingness to sign a written informed consent document
+46.0
+Ability to understand and the willingness to sign a written informed consent document
+15.0
+Ability to understand and the willingness to sign a written informed consent document
+46.0
+Ability to understand and the willingness to sign a written informed consent document
+36.0
+Ability to understand and the willingness to sign a written informed consent document
+90.0
+Ability to understand and the willingness to sign a written informed consent document
+45.0
+Ability to understand and the willingness to sign a written informed consent document
+50.0
+Ability to understand and the willingness to sign a written informed consent document
+32.0
+Ability to understand and the willingness to sign a written informed consent document
+18.0
+Ability to understand and the willingness to sign a written informed consent document
+46.0
+Ability to understand and willingness to sign a written informed consent document
+60.0
+Able to understand and willingness to sign a written informed consent document
+64.0
+Ability to understand and the willingness to sign a written informed consent document
+70.0
+Ability to understand and the willingness to sign a written informed consent document
+29.0
+Ability to understand and willingness to sign a written informed consent document
+51.0
+Ability to understand and the willingness to sign a written informed consent document
+150.0
+Ability to understand and the willingness to sign a written informed consent document
+48.0
+Ability to understand and the willingness to sign a written informed consent document
+20.0
+Ability to understand and the willingness to sign a written informed consent document
+36.0
+Ability to understand and the willingness to sign a written informed consent document
+60.0
+Ability to understand and the willingness to sign a written informed consent document
+38.0
+Ability of subject or legally guardians (if the patient is < 18 years old) to understand and the willingness to sign a written informed consent document
+70.0
+Ability to understand and the willingness to sign a written informed consent document or a parent/guardian able to do the same
+35.0
+Ability to understand and the willingness to sign a written informed consent document
+28.0
+Ability to understand and the willingness to sign a written informed consent document
+72.0
+Ability to understand and the willingness to sign a written informed consent document
+40.0
+Ability to understand and the willingness to sign a written informed consent document
+30.0
+Ability to understand and the willingness to sign an Institutional Review Board (IRB) approved written informed consent document
+60.0
+Ability to understand and the willingness to sign a written informed consent document
+48.0
+Ability to understand and the willingness to sign a written informed consent document
+90.0
+Ability to understand and the willingness to sign a written informed consent document
+132.0
+Ability to understand and the willingness to sign a written informed consent document
+40.0
+Ability to understand and the willingness to sign a written informed consent document
+22.0
+Ability to understand and the willingness to sign a written informed consent document
+40.0
+Ability to understand and the willingness to sign a written informed consent document
+27.0
+Ability to understand and the willingness to sign a written informed consent document
+98.0
+Ability to understand and the willingness to sign a written informed consent document
+70.0
+Ability to understand and the willingness to sign a written informed consent document
+68.0
+Ability to understand and the willingness to sign a written informed consent document
+21.0
+Ability to understand and the willingness to sign a written informed consent document
+47.0
+Ability to provide informed consent
+102.0
+Written informed consent
+360.0
+Participant willing to provide a written informed consent
+292.0
+Able to give informed consent
+240.0
+Provide informed written consent
+48.0
+Provide informed written consent
+1120.0
+Ability to provide written informed consent
+265.0
+Willing to provide informed written consent
+224.0
+Inability to provide informed consent
+90.0
+Provide informed written consent
+330.0
+Ability to provide informed written consent
+102.0
+Patients must be able to provide written informed consent
+36.0
+Unable to provide informed consent
+278.0
+Patient must have given written informed consent
+509.0
+Ability to understand and willing to provide informed consent
+150.0
+Participant is unable to provide informed consent
+5058.0
+Patients must be able to provide written informed consent
+40.0
+Patients must be able to provide written informed consent
+23.0
+Inability to provide informed consent
+18.0
+Patients must be able to provide written informed consent
+75.0
+Capable and willing to provide informed consent
+99.0
+Be able to provide written informed consent
+720.0
+Written informed consent
+400.0
+Patients must be able to provide written informed consent
+30.0
+Patients must be able to provide written informed consent
+35.0
+Patients must be willing and able to provide a written informed consent
+164946.0
+Ability to understand and the willingness to sign a written informed consent document; if a patient has impaired decision-making capacity, a legally authorized representative, patients will be allowed to participate
+68.0
+Ability of subject or legally authorized representative (LAR) to understand and the willingness to sign a written informed consent document
+50.0
+Ability of subject or legally authorized representative (LAR) to understand and the willingness to sign a written informed consent document
+24.0
+Ability of subject or legally authorized representative (LAR) to understand and the willingness to sign a written informed consent document
+24.0
+Ability of a patient or a Legally Authorized Representative (LAR) to understand and the willingness to sign a written informed consent document
+180.0
+Patients must provide study specific informed consent prior to study entry, including consent for mandatory tissue submission for EGFR and for oropharyngeal patients, HPV analyses
+700.0
+Patients must provide study specific informed consent prior to study entry, including consent for mandatory tissue submission for central review
+252.0
+Patient must provide study specific informed consent prior to study entry, including consent for mandatory tissue submission for epidermal growth factor receptor (EGFR) analysis and for oropharyngeal cancer patients, human papilloma virus (HPV) analysis
+660.0
+Patient must provide study specific informed consent prior to study entry, including consent for mandatory screening of tissue
+234.0
+Patient must provide study specific informed consent prior to study entry, including the mandatory pre-treatment plasma EBV DNA assay
+924.0
+The patient or a legally authorized representative must provide study-specific informed consent prior to study entry, including consent for mandatory tumor tissue, serum, and blood submission for immune correlatives (all patients) and p16 analysis (oropharyngeal cases only)
+56.0
+Signed study-specific informed consent
+545.0
+Signed study-specific informed consent prior to registration
+317.0
+Provision of informed consent prior to any study specific procedures
+1500.0
+Patients must provide study-specific informed consent prior to step 1 registration
+606.0
+Patients must provide study-specific informed consent prior to registration
+510.0
+The patient or a legally authorized representative must provide study-specific informed consent prior to step 1 registration
+612.0
+The patient or a legally authorized representative must provide study-specific informed consent prior to step 1 registration
+282.0
+The patient or a legally authorized representative must provide study-specific informed consent prior to study registration
+186.0
+Patient must provide study-specific informed consent prior to study entry
+285.0
+Patient must be able to provide study-specific informed consent prior to study entry
+37.0
+Patient must be able to provide study specific informed consent prior to study entry
+2580.0
+Patient must provide study specific informed consent prior to study entry
+143.0
+Patient must be able to provide study-specific informed consent prior to study entry
+368.0
+The ability to provide written informed consent prior to study specific screening procedures, with the understanding that the patient has the right to withdraw from the study at any time
+45.0
+Patient must provide study-specific informed consent prior to study entry
+330.0
+Patient must provide study specific informed consent prior to study entry
+84.0
+Patient must provide study specific informed consent prior to study entry
+182.0
+The patient or a legally authorized representative must provide study-specific informed consent prior to study entry
+360.0
+The patient or a legally authorized representative must provide study-specific informed consent prior to study entry
+96.0
+Patient must have provided study specific informed consent prior to study entry
+680.0
+Patient must provide study specific informed consent prior to study entry
+188.0
+Patients must sign a study-specific informed consent prior to study entry
+302.0
+The patient must provide study-specific informed consent prior to study entry
+147.0
+The patient or a legally authorized representative must provide study-specific informed consent prior to study entry.
+186.0
+The patient or a legally authorized representative must provide study-specific informed consent prior to study entry
+148.0
+The patient or a legally authorized representative must provide study-specific informed consent prior to study entry
+120.0

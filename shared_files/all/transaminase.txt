@@ -1,0 +1,366 @@
+Serum glutamic pyruvic transaminase (SGPT) (alanine aminotransferase [ALT]) or serum glutamic oxaloacetic transaminase (SGOT) (aspartate aminotransferase [AST]) =< 2.5 x ULN in the absence of hepatic metastasis; SGPT (ALT) =< 3 x ULN or SGOT (AST) =< 5 x ULN in the presences of hepatic metastasis
+102.0
+Serum glutamic oxaloacetic transaminase (SGOT) (aspartate aminotransferase [AST]) and serum glutamate pyruvate transaminase (SGPT) (alanine aminotransferase [ALT]) =< 2.5 x ULN* If subject has HCC or liver metastases =< 5 x ULN) (Phase I); AST and ALT =< 5 x ULN (Phase II)
+48.0
+Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase [SGOT])/alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT]) =< 2.5 x institutional ULN if no liver metastasis present; =< 5 x institutional ULN if liver metastases are present
+40.0
+Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase [SGOT])/alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT]) =< 2.5 x ULN (=< 5 x ULN for patients with documented liver metastases)
+92.0
+Aspartate aminotransferase (AST)(serum glutamic oxaloacetic transaminase [SGOT])/alanine aminotransferase (ALT)(serum glutamate pyruvate transaminase [SGPT]) =< 2.5 � institutional ULN OR =< 5 X ULN for patients with liver metastases
+36.0
+Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase [SGOT])/alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT]) =< 2.5 x ULN/ =< 5 x ULN for subjects with liver metastases
+37.0
+Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase [SGOT])/alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT]) =< 2.5 x ULN; =< 5 x ULN in setting of metastatic liver disease
+66.0
+Within 2 weeks prior to screening step registration and within 4 weeks prior to treatment step registration: Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase [SGOT])/alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT]) =< 2.5 X institutional ULN (up to 5 times ULN in presence of liver metastases)
+6452.0
+Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase [SGOT])/alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT]) =< 2.5 � institutional upper limit of normal (ULN) and =< 5 ULN if liver metastases are present
+209.0
+Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase [SGOT])/alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT]) =< 2.5 x institutional ULN or =< 5 x ULN if metastatic disease involves liver
+58.0
+Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase [SGOT])/alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT]) =< 2.5 X institutional ULN or (=< 5 X institutional ULN if the patient has liver metastases)
+126.0
+Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase [SGOT])/alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT]) =< 3 x institutional ULN; if intrahepatic liver metastases are present, AST and ALT must be =< 5 times institutional ULN
+680.0
+Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase [SGOT])/alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT]) =< 2 x upper limit of normal (ULN); =< 5 x ULN, if liver metastasis
+32.0
+If no known liver metastases: aspartate aminotransferase (AST)/serum glutamic oxaloacetic transaminase (SGOT) < 2 x ULN; if known liver metastases, then: AST/SGOT < 5 x ULN
+46.0
+Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase [SGOT])/alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT]) =< 2.5 x institutional upper limit of normal (ULN); if liver involvement, =< 5 x ULN
+51.0
+Aspartate transaminase (AST) and alanine transaminase (ALT) =< 2.5 x upper limit of normal (ULN) or =< 5 x ULN with metastatic liver disease within 14 days prior to registration.
+186.0
+Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase [SGOT])/alanine aminotransferase (ALT) (serum glutamic pyruvic transaminase [SGPT]) =< 3 x ULN (AST and/or ALT =< 5 x ULN for patients with liver involvement)
+35.0
+Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase [SGOT])/alanine aminotransferase (ALT) (serum glutamic pyruvic transaminase [SGPT]) =< 2.5 x upper limit of normal (ULN) if no liver metastasis; =< 5 x upper ULN if liver metastasis present
+72.0
+Aspartate aminotransferase (AST) (serum glutamic-oxaloacetic transaminase [SGOT])/ alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT]) =< 3 x ULN (AST and/or ALT =< 5 x ULN for patients with liver involvement)
+40.0
+Alanine aminotransferase (ALT) or serum glutamic pyruvic transaminase (SGPT) =< 3.0 x local institutional ULN
+48.0
+Within 28 days prior to administration of study treatment: Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase [SGOT]) and alanine aminotransferase (ALT) (serum glutamic pyruvic transaminase [SGPT]) < 3 times institutional ULN unless liver metastases are present in which case they must be < 5 x ULN
+90.0
+Within 28 days prior to administration of therapy: Aspartate aminotransferase (AST) serum glutamic-oxaloacetic transaminase (SGOT)/alanine aminotransferase (ALT) serum glutamate pyruvate transaminase (SGPT) =< 2.5 x institutional ULN, unless liver metastases are present and then =< 5 x institutional ULN is acceptable
+132.0
+Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase [SGOT]) and alanine aminotransferase (ALT) (serum glutamic pyruvic transaminase [SGPT]):* If no known liver metastases: AST/SGOT and ALT/SGPT both < 2 x ULN* If known liver metastases, then: AST/SGOT and ALT/SGPT both < 5 x ULN
+47.0
+Aspartate aminotransferase (AST) (serum glutamic-oxaloacetic transaminase [SGOT])/alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT]) =< 1.5 x ULN (AST and/or ALT =< 3 x ULN for patients with liver involvement)
+78.0
+Alanine aminotransferase (ALT)/serum glutamate pyruvate transaminase (SGPT) and/or aspartate aminotransferase (AST)/serum glutamic oxaloacetic transaminase (SGOT) within upper limits of institutional normal within 14 days prior to study entry
+285.0
+Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase [SGOT])/alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT]) =< 2.5 x institutional upper limit of normal (ULN)
+74.0
+Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase [SGOT])/alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT]) =< 2.5 x institutional upper limit of normal assessed within seven (7) days prior to the start of therapy
+30.0
+Serum glutamic oxaloacetic transaminase (SGOT) (aspartate aminotransferase [AST]) or serum glutamate pyruvate transaminase (SGPT) (alanine aminotransferase [ALT]) < 2.5 x upper limit of normal (ULN) for age
+693.0
+Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase [SGOT])/alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT]) =< 2.5 times the institutional upper limit of normal; for subjects with known liver metastases, AST and ALT =< 5 times institutional upper limit of normal
+130.0
+Aspartate aminotransferase(AST)/serum glutamic oxaloacetic transaminase (SGOT) and alanine aminotransferase(ALT)/serum glutamate pyruvate transaminase (SGPT) =< 2.5 x institutional upper limit of normal unless there is evidence of liver metastases in which case the AST (SGOT)/ALT (SGPT) must be =< 5 x institutional upper limit of normal
+107.0
+Obtained within 30 days of registration: Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase [SGOT])/alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT]) < 3 X institutional upper limit of normal
+24.0
+Serum glutamate pyruvate transaminase (SGPT) (alanine aminotransferase [ALT]) =< 135 and serum glutamic oxaloacetic transaminase (SGOT) (aspartate aminotransferase [AST]) =< 3 x upper limit of normal (note that for ALT, the upper limit of normal is defined as 45 U/L)
+62.0
+Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase [SGOT]) or alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT]) =< 2 x IULN (institutional upper limit of normal) within 28 days prior to registration
+491.0
+STEP I: Serum glutamate pyruvate transaminase (SGPT) (alanine aminotransferase [ALT]) and serum glutamic oxaloacetic transaminase (SGOT) (aspartate aminotransferase [AST]) < 2.5 times the upper limit of normal (obtained within 28 days prior to randomization)
+1080.0
+Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase [SGOT])/alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT]) =< 2.5 x institutional upper limit of normal
+55.0
+Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase [SGOT])/alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT]) =< 2.5 X institutional upper limit of normal for age, within 14 days of registration and within 7 days of the start of treatment
+180.0
+Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase [SGOT])/alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT]) =< 3 x institutional upper limit of normal; =< 5 X upper limit of normal (ULN) for patients with liver metastases
+165.0
+Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase [SGOT])/alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT]) =< 3.0 x institutional upper limit of normal
+42.0
+Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase [SGOT])/alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT]) =< 3 x institutional upper limit of normal; if above the institutional upper limit of normal but =< 3 times institutional upper limit of normal, the decision to initiate temozolomide treatment should carefully consider the benefits and risks for the individual patient
+36.0
+Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase [SGOT])/alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT]) =< 3 x institutional upper limit of normal; 5.0 x ULN in cases of liver metastases
+140.0
+Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase [SGOT])/alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT]) =< 3.0 X institutional upper limit of normal
+72.0
+Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase [SGOT])/alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT]) =< 3 X institutional upper limit of normal; =< 5 X upper limit of normal (ULN) for patients with liver metastases
+68.0
+Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase [SGOT])/alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT]) =< 2.5 x institutional upper limit of normal
+42.0
+Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase [SGOT])/alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT]) =< 2.5 X institutional upper limit of normal
+73.0
+Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase [SGOT])/alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT]) =< 2.5 x institutional upper limit of normal
+72.0
+Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase [SGOT])/alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT]) =< 2.5 x institutional upper limit of normal
+70.0
+Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase [SGOT])/alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT]) =< 3 x institutional upper limit of normal
+72.0
+TUMOR BIOPSY SEQUENCING: Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase [SGOT])/alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT]) =< 3 x institutional upper limit of normal
+700.0
+Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase [SGOT])/alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT]) =< 2.5 x institutional upper limit of normal
+12.0
+Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase [SGOT])/alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT]) =< 2.5 x institutional upper limit of normal
+68.0
+Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase [SGOT])/alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT]) =< 5 � institutional upper limit of normal unless due to leukemic infiltration
+63.0
+Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase [SGOT]/alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT]) =< 3 x institutional upper limit of normal
+54.0
+Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase [SGOT])/alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT]) =< 2.5 x institutional upper limit of normal
+32.0
+Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase [SGOT]) and alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT]) =< 3 x institutional upper limit of normal (5 x if liver metastases)
+100.0
+Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase [SGOT])/alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT]) =< 3 x institutional upper limit of normal for age
+40.0
+Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase [SGOT])/alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT]) =< 3 x institutional upper limit of normal; 5.0 x ULN in patients with liver metastases
+24.0
+Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase [SGOT])/alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT]) =< 3 x institutional upper limit of normal
+35.0
+Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase [SGOT]) and alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT]) < 5.0 X institutional upper limit of normal
+182.0
+Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase [SGOT])/alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT]) =< 2.5 � institutional upper limit of normal
+40.0
+Serum glutamic oxaloacetic transaminase (SGOT) (aspartate aminotransferase [AST]) and serum glutamate pyruvate transaminase (SGPT) (alanine aminotransferase [ALT]) =< 2.5 x ULN; for subjects with liver metastases, SGOT (AST) and SGPT (ALT) < 5 x the upper normal limit of institution's normal range is allowed
+30.0
+Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase [SGOT])/alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT]) =< 2.5 x institutional upper limit of normal
+57.0
+Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase [SGOT])/alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT]) =< 2.5 x institutional upper limit of normal (=< 5 x upper limit of normal [ULN] if liver metastases are present)
+23.0
+Serum glutamic oxaloacetic transaminase (SGOT) (aspartate aminotransferase [AST]) or serum glutamate pyruvate transaminase (SGPT) (alanine aminotransferase [ALT]) < 2.5 x upper limit of normal (ULN) for age
+340.0
+Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase [SGOT])/alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT]) =< 3.0 x institutional upper limit of normal
+90.0
+Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase [SGOT])/alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT]) =< 3 x institutional upper limit of normal
+23.0
+Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase [SGOT])/alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT]) < 2 X institutional upper limit of normal (ULN)
+60.0
+Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase [SGOT])/alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT]) =< 3.0 x institutional upper limit of normal (ULN)
+135.0
+Aspartate aminotransferase (AST) (serum glutamic-oxaloacetic transaminase [SGOT])/alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT]) =< 2.5 x institutional upper limit of normal
+12.0
+Alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT]) =< 3 x institutional upper limit of normal
+110.0
+Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase [SGOT])/alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT]) =< 2.5 x institutional upper limit of normal; =< 5 x institutional upper limit of normal if liver metastasis present
+35.0
+Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase [SGOT])/alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT]) =< 2.5 x institutional upper limit of normal
+30.0
+Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase [SGOT])/alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT]) =< 2.5 x institutional upper limit of normal
+75.0
+Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase [SGOT])/alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT]) =< 2.5 x institutional upper limit of normal
+30.0
+Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase [SGOT])/alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT]) =< 3 x institutional upper limit of normal
+46.0
+Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase [SGOT])/alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT]) < 2.5 X institutional upper limit of normal
+188.0
+Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase [SGOT])/alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT]) =< 2.5 x institutional upper limit of normal (except for patients with liver metastases in whom AST/ALT can be < 5 x institutional upper limit of normal)
+33.0
+Aspartate aminotransferase (AST) (serum glutamic-oxaloacetic transaminase [SGOT])/alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT]) =< 2.5 x institutional upper limit of normal
+35.0
+Aspartate aminotransferase (AST) (serum glutamic-oxaloacetic transaminase [SGOT])/alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT]) =< 3.0 x institutional upper limit of normal
+82.0
+Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase [SGOT])/alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT]) =< 2.5 X institutional upper limit of normal
+37.0
+Aspartate transaminase (AST) (serum glutamic-oxaloacetic transaminase [SGOT]) and alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT]) =< 2.5 x institutional upper limit of normal
+36.0
+Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase [SGOT])/alanine aminotransferase (ALT) (serum glutamic pyruvic transaminase [SGPT]) =< 2.5 x institutional upper limit of normal
+46.0
+Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase [SGOT]) =< 2.5 x institutional upper limit of normal
+15.0
+Alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT]) =< 2.5 x institutional upper limit of normal
+15.0
+Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase [SGOT])/alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT]) =< 2.5 x institutional upper limit of normal
+46.0
+Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase [SGOT])/alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT]) =< 2.5 x institutional upper limit of normal
+36.0
+Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase [SGOT])/alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT]) =< 2.5 x institutional upper limit of normal
+90.0
+Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase [SGOT])/alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT]) =< 2.5 x institutional upper limit of normal
+45.0
+Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase [SGOT])/alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT]) =< 3.0 x institutional upper limit of normal
+50.0
+Within 2 weeks prior to initiation of study treatment: Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase [SGOT])/alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT]) =< 2.5 x institutional upper limit of normal
+70.0
+Serum aspartate transaminase (aspartate aminotransferase [AST]) and serum alanine transaminase (alanine aminotransferase [ALT]) =< 2.5 x upper limit normal
+714.0
+RECURRENT/ PROGRESSIVE DIPG (STRATUM 1): Alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT]) =< 3 x institutional upper limit of normal
+50.0
+Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase [SGOT])/alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT]) =< 2 � institutional upper limit of normal (ULN)
+150.0
+Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase [SGOT])/alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT]) =< 2.5 x institutional upper limit of normal (=< 5 x ULN is acceptable if liver metastases are present)
+48.0
+Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase [SGOT])/alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT]) =< 2.5 x institutional upper limit of normal
+20.0
+Aspartate aminotransferase (AST) (serum glutamic-oxaloacetic transaminase [SGOT]) and alanine transaminase (ALT) (serum glutamate-pyruvate transaminase [SGPT]) =< 2.5 X institutional upper limit of normal
+36.0
+Aspartate aminotransferase (AST)(serum glutamic oxaloacetic transaminase [SGOT])/alanine aminotransferase (ALT)(serum glutamic pyruvic transaminase [SGPT]) =< 1.5 X institutional upper limit of normal (or =< 3 X upper limit of normal [ULN] in the setting of liver metastases)
+60.0
+Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase [SGOT])/alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT]) =< 2.5 x institutional upper limit of normal (ULN)
+38.0
+Aspartate aminotransaminase (AST) (serum glutamic-oxaloacetic transaminase [SGOT])/alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT]) =< 2.5 X institutional upper limit of normal
+70.0
+Alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT]) =< 3 times institutional upper limit of normal
+25.0
+Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase [SGOT]) =< 3 times institutional upper limit of normal
+25.0
+Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase [SGOT])/ alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT]) < 3.0 x institutional upper limit of normal
+28.0
+Aspartate aminotransferase (AST) (serum glutamic-oxaloacetic transaminase [SGOT])/alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT]) =< 5 x upper limit of normal (ULN)
+30.0
+Aspartate aminotransferase (AST) (serum glutamic-oxaloacetic transaminase [SGOT])/alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT]) = < 2.5 x institutional upper limit of normal; for patients with hepatic metastases, ALT and AST =< 5 x ULT
+180.0
+Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase [SGOT])/alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT]) =< 3 x institutional upper limit of normal
+40.0
+Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase [SGOT]) and alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT]) =< 3 x upper limit of normal (ULN)
+27.0
+Aspartate aminotransferase (AST) (serum glutamic-oxaloacetic transaminase [SGOT])/alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT]) =< 2.5 x institutional upper limit of normal
+70.0
+Aspartate aminotransferase (AST) (serum glutamic-oxaloacetic transaminase [SGOT])/ alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT]) =< 4 x institutional upper limit of normal
+35.0
+Serum glutamate pyruvate transaminase (SGPT) (alanine aminotransferase [ALT]) =< 3 x ULN
+1120.0
+Serum glutamate pyruvate transaminase (SGPT) (alanine aminotransferase [ALT]) =< 5.0 x ULN for age (=< 225 U/L); for the purpose of this study, the ULN for SGPT is 45 U/L
+74.0
+Serum glutamate pyruvate transaminase (SGPT) (alanine aminotransferase [ALT]) =< 3 x ULN = 135 units per liter (U/L); for the purpose of this study, the ULN for SGPT is 45 U/L
+77.0
+Alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT]) < 2.5 x upper limit of normal (ULN) for age; for the purpose of this study, the ULN for ALT is 45 U/L
+140.0
+Serum glutamate pyruvate transaminase (SGPT) (alanine aminotransferase [ALT]) =< 110 U/L; for the purpose of this study, the ULN for SGPT is 45 U/L
+154.0
+Patients on Part A and Part B: serum glutamate pyruvate transaminase (SGPT) (alanine aminotransferase [ALT]) =< 110 U/L; for the purpose of this study, the ULN for SGPT is 45 U/L
+148.0
+Patients on Part C with ALL: SGPT (ALT) =< 225 U/L; for the purpose of this study, the ULN for SGPT is 45 U/L
+148.0
+Serum glutamate pyruvate transaminase (SGPT) (alanine aminotransferase [ALT]) =< 110 U/L; for the purpose of this study, the ULN for SGPT is 45 U/L
+484.0
+Alanine aminotransferase (ALT, serum glutamate pyruvate transaminase [SGPT]) =< 2.5 x ULN, must be obtained within 8 weeks prior to screening for protocol therapy
+562.0
+Serum glutamate pyruvate transaminase (SGPT) (alanine aminotransferase [ALT]) < 3 x upper limit of normal (ULN) for age (except for patients with liver metastasis who may enroll if ALT < 5 times ULN for age)
+330.0
+Serum glutamate pyruvate transaminase (SGPT) (alanine aminotransferase [ALT]) =< 3 x ULN = 135 U/L; for the purpose of this study, the ULN for SGPT is 45 U/L
+81.0
+Serum glutamate pyruvate transaminase (SGPT) (alanine aminotransferase [ALT]) =< 110 U/L; for the purpose of this study, the ULN for SGPT is 45 U/L
+67.0
+Serum glutamate pyruvate transaminase (SGPT) (alanine aminotransferase [ALT]) =< 110 U/L (for the purpose of this study, the ULN for SGPT is 45 U/L)
+44.0
+Serum glutamate pyruvate (SGPT) (alanine aminotransferase [ALT]) =< 3.0 x upper limit of normal (ULN) for age and institution (unless it is related to leukemic involvement)
+56.0
+Serum glutamate pyruvate (SGPT) (alanine aminotransferase [ALT]) =< 110 U/L (for the purpose of this study, the upper limit of normal [ULN] for SGPT is 45 U/L)
+45.0
+Serum glutamate pyruvate transaminase (SGPT) (alanine aminotransferase [ALT]) =< 135 U/L (3x ULN); for the purpose of this study, the ULN for SGPT is 45 U/L
+65.0
+Serum glutamate pyruvate transaminase (SGPT) (alanine aminotransferase [ALT]) =< 3 x upper limit of normal (ULN) = 135 U/l; for the purpose of this study, the ULN for SGPT is 45 U/l
+36.0
+Alanine transferase (ALT) (serum glutamate pyruvate transaminase [SGPT]) =< 3.0 X ULN
+24.0
+Serum glutamate pyruvate transaminase (SGPT) (alanine aminotransferase [ALT]) =< 135 U/L (3 x ULN) (for the purpose of this study, the ULN for SGPT is 45 U/L)
+146.0
+Serum glutamate pyruvate transaminase (SGPT) (alanine aminotransferase [ALT]) =< 3 x ULN = 135 U/L; for the purpose of this study, the ULN for SGPT is 45 U/L
+51.0
+Serum glutamic pyruvic transaminase (SGPT) (alanine aminotransferase [ALT]) =< 5 x ULN for age; for the purpose of this study, the ULN for ALT will be 45 U/L
+53.0
+Serum glutamate pyruvate transaminase (SGPT) (alanine aminotransferase [ALT]) =< 3 x upper limits of normal
+50.0
+Patients with solid tumors: serum glutamic pyruvic transaminase (SGPT) (alanine aminotransferase [ALT]) =< 135 U/L; (for the purpose of this study, the ULN for SGPT is 45 U/L)
+49.0
+Serum glutamic pyruvic transaminase (SGPT) (alanine aminotransferase [ALT]) =< 135 U/L (for the purpose of this study, the ULN for SGPT is 45 U/L)
+98.0
+Serum glutamate pyruvate transaminase (SGPT) (alanine aminotransferase [ALT]) =< 135 U/L; (for the purpose of this study, the ULN for SGPT is 45 U/L)
+49.0
+Serum glutamate pyruvate transaminase (SGPT) (alanine aminotransferase [ALT]) =< 135 U/L; (for the purpose of this study, the ULN for SGPT is 45 U/L)
+49.0
+Serum glutamate pyruvate transaminase (SGPT) (alanine aminotransferase [ALT]) =< 135 U/L; (for the purpose of this study, the ULN for SGPT is 45 U/L)
+144.0
+Serum glutamate pyruvate transaminase (SGPT) (alanine aminotransferase [ALT]) =< 135 U/L; (for the purpose of this study, the ULN for SGPT is 45 U/L) within 7 days prior to enrollment
+49.0
+GENERAL INCLUSION CRITERIA FOR SUBPROTOCOLS: serum glutamate pyruvate transaminase (SGPT) (alanine transferase [ALT]) =< 135 U/L (for the purpose of this study, the ULN for SGPT is 45 U/L)
+1500.0
+Serum glutamic oxaloacetic transaminase (SGOT) (aspartate aminotransferase [AST]) or serum glutamate pyruvate transaminase (SGPT) (alanine aminotransferase [ALT]) < 2.5 x upper limit of normal (ULN) for age; for patients on anti-seizure medications, SGOT (AST) or SGPT (ALT) must be < 5 x ULN
+400.0
+Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase [SGOT]) =< 2.0 x ULN
+729.0
+Serum glutamic oxaloacetic transaminase (SGOT) =< 2.5 x ULN (CTCAE v 3.0 grade 0-1)
+164.0
+Serum glutamic oxaloacetic transaminase (SGOT) (aspartate aminotransferase [AST]) =< 3 x ULN obtained =< 21 days prior to registration
+360.0
+Serum glutamic oxaloacetic transaminase (SGOT) (aspartate aminotransferase [AST]) or serum glutamate pyruvate transaminase (SGPT) (alanine aminotransferase [ALT]) < 10 x ULN for age
+253.0
+Serum glutamic oxaloacetic transaminase (SGOT) (aspartate aminotransferase [AST]) less than or equal to 3.0 x ULN (CTCAE grade 1)
+128.0
+Serum glutamic oxaloacetic transaminase (SGOT) =< 3 x normal
+360.0
+Serum glutamic oxaloacetic transaminase (SGOT) (aspartate aminotransferase [AST]) or serum glutamate pyruvate transaminase (SGPT) (alanine aminotransferase [ALT]) =< 2.5 x IULN
+162.0
+Serum glutamic oxaloacetic transaminase (SGOT) (aspartate aminotransferase [AST]) =< 3 x ULN
+1120.0
+Serum glutamic oxaloacetic transaminase (SGOT) (aspartate aminotransferase [AST]) =< 1.5 x ULN
+224.0
+Serum glutamic oxaloacetic transaminase (SGOT) (aspartate aminotransferase [AST]) and serum glutamate pyruvate transaminase (SGPT) (alanine aminotransferase [ALT]) < 2.5 times ULN
+275.0
+Within 14 days prior to registration: Serum glutamic oxaloacetic transaminase (SGOT)/aspartate aminotransferase (AST) and serum glutamate pyruvate transaminase (SGPT)/alanine aminotransferase (ALT) =< 2.5 x IULN
+130.0
+Serum glutamic oxaloacetic transaminase (SGOT) (aspartate aminotransferase [AST]) and serum glutamate pyruvate transaminase (SGPT) (alanine aminotransferase [ALT]) =< 2.5 x institutional ULN as calculated by Cockcroft-Gault
+110.0
+Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase [SGOT])/alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT]) =< 3.0 x institutional ULN
+113.0
+Patients must have serum glutamic oxaloacetic transaminase (SGOT) and serum glutamate pyruvate transaminase (SGPT) =< 2.5 x IULN within 7 days prior to registration
+38.0
+Serum glutamic oxaloacetic transaminase (SGOT) aspartate aminotransferase [AST] =< 3 x ULN = 150 U/L; for the purpose of this study, the ULN for SGOT is 50 U/L
+77.0
+Serum glutamic oxaloacetic transaminase (SGOT) or serum glutamate pyruvate transaminase (SGPT) within 30 days prior to registration* It is highly recommended but not required that SGOT or SGPT be =< 1.5 upper limit of normal
+330.0
+Serum glutamic oxaloacetic transaminase (SGOT) (AST) =< 2.5 x ULN
+34.0
+Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase [SGOT])/alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT]) =< 2.5 x ULN measured within 28 days prior to randomization
+1500.0
+Serum glutamic oxaloacetic transaminase (SGOT) (aspartate aminotransferase [AST]) and serum glutamate pyruvate transaminase (SGPT) (alanine aminotransferase [ALT]) =< 2 x institutional ULN
+230.0
+Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase [SGOT])/alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT]) =< 2.5 x institutional ULN
+44.0
+Serum glutamic oxaloacetic transaminase (SGOT) (aspartate transaminase [AST]) or serum glutamate pyruvate transaminase (SGPT) (alanine transaminase [ALT]) < 2.5 x upper limit of normal (ULN) for age
+600.0
+Serum glutamic oxaloacetic transaminase (SGOT) =< 1.5 x ULN
+450.0
+Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase [SGOT])/alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT]) =< 3.0 x institutional ULN
+52.0
+Aspartate aminotransferase (AST, serum glutamic oxaloacetic transaminase [SGOT]) =< 2.5 x upper limit of normal (ULN), must be obtained within 8 weeks prior to screening for protocol therapy
+562.0
+Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase [SGOT])/alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT]) =< 2.5 x ULN
+80.0
+Serum glutamic oxaloacetic transaminase (SGOT) (aspartate aminotransferase [AST]) =< 3 x ULN = 150 U/L; for the purpose of this study, the ULN for SGOT is 50 U/L
+81.0
+Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase [SGOT])/alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT]) =< 2.5 x ULN
+42.0
+Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase [SGOT])/alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT]) =< 2.5 � ULN for the laboratory
+30.0
+Alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT]) & aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase [SGOT]) =< 3.0 X ULN
+50.0
+PARTICIPANTS NOT ON THE HODGKIN LYMPHOMA EXPANSION COHORT: AST (serum glutamic oxaloacetic transaminase [SGOT])/ALT (serum glutamate pyruvate transaminase [SGPT]) =< 3 X ULN, within 2 weeks prior to enrollment
+84.0
+Serum glutamic oxaloacetic transaminase (SGOT) (aspartate aminotransferase [AST]) or serum glutamate pyruvate transaminase (SGPT) (alanine aminotransferase [ALT]) < 2.5 x ULN for age
+90.0
+Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase [SGOT]) and alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT]) =< 3 times institutional ULN
+549.0
+Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase [SGOT])/alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT]) =< 2.5 � institutional ULN
+45.0
+Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase [SGOT])/alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT]) =< 2.5 x institutional ULN
+126.0
+Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase [SGOT])/alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT]) =< 3.0 x institutional ULN
+50.0
+Serum transaminase (serum glutamic oxaloacetic transaminase [SGOT]/aspartate aminotransferase [AST] and serum glutamate pyruvate transaminase [SGPT]/alanine aminotransferase [ALT]) must be =< 2.5 x the institutional ULN unless the liver is involved with the tumor, in which case serum transaminase (SGOT/SGPT) must be =< 5 x the institutional ULN; must be obtained within 28 days prior to registration
+180.0
+Serum glutamic oxaloacetic transaminase (SGOT) and serum glutamate pyruvate transaminase (SGPT) >= 2.5 times upper limit of normal (ULN)
+18.0
+Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase [SGOT])/alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT]) < 2.5 X institutional ULN
+60.0
+Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase [SGOT])/alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT]) =< 2.5 x ULN
+29.0
+Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase [SGOT]) and alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT]) =< 2.5 X ULN
+56.0
+Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase [SGOT])/alanine aminotransferase (ALT) (serum glutamic pyruvic transaminase [SGPT]) =< 3 x ULN
+60.0
+Aspartate aminotransferase (AST) or serum glutamic oxaloacetic transaminase (SGOT) =< 3.0 x local institutional ULN
+48.0
+Aspartate aminotransferase (AST) (serum glutamic-oxaloacetic transaminase [SGOT])/alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT]) =< 3 x ULN
+22.0
+Serum glutamic-oxaloacetic transaminase (SGOT) (aspartate aminotransferase [AST]) or serum glutamate pyruvate transaminase (SGPT) (alanine aminotransferase [ALT]) =< 2.5 x IULN, obtained within 28 days prior to step 2 registration
+1000.0
+Aspartate aminotransferase (AST) (serum glutamic-oxaloacetic transaminase [SGOT])/alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT]) =< 2.5 x ULN
+30.0
+Serum glutamic-oxaloacetic transaminase (SGOT) (aspartate aminotransferase [AST]) or serum glutamate pyruvate transaminase (SGPT) (alanine aminotransferase [ALT]) < 2.5 x upper limit of normal (ULN) for age (for the purpose of this study, the ULN for SGPT is 45 U/L)
+1680.0

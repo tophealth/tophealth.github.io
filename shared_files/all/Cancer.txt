@@ -1,0 +1,402 @@
+For patients who have not started their chemotherapy prior to registration, the interval between definitive tumor-related surgery and 1st step registration must be between 21-70 days; for patients entering on the study who have already received up to 3 months of adjuvant chemotherapy as per the treating institution, the interval between definitive tumor-related surgery and day one of adjuvant chemotherapy must be between 21-77 days
+545.0
+Step 2 Registration must take place within 84 days after definitive surgery; patients must not have begun chemotherapy or endocrine therapy for their breast cancer prior to randomization
+10000.0
+Patients must have completed standard neoadjuvant or adjuvant taxane and/or anthracycline based chemotherapy prior to randomization; completion of chemotherapy will be determined by the treating oncologist, but should include a minimum of 4 cycles (a cycle of weekly paclitaxel is considered 3 doses); patients must be registered within 42 weeks after the last dose of chemotherapy; patients may have started endocrine therapy at any time after the diagnosis of the current breast cancer
+1900.0
+For patients who receive adjuvant chemotherapy after surgery, a maximum of 12 weeks of intended chemotherapy may be administered but must be completed before randomization; (if treatment delays occur, chemotherapy must be completed within 14 weeks); the dose and schedule of the adjuvant chemotherapy are at the investigator's discretion; Note: it is preferred that all intended chemotherapy be administered in the neoadjuvant setting
+1636.0
+The interval between the last surgery for breast cancer (including re-excision of margins) and randomization must be no more than 70 days; also, if adjuvant chemotherapy was administered, the interval between the last chemotherapy treatment and randomization must be no more than 70 days
+1636.0
+Patients must have completed all chemotherapy prior to surgery; sandwich chemotherapy is not allowed (i.e. chemotherapy planned to be given after surgery); patients must have completed at least 4 cycles of neoadjuvant chemotherapy consisting of an anthracycline and/or taxane-based regimen without evidence of disease progression in the breast or the lymph nodes* Note: Delays/dose modifications due to toxicities/adverse events are allowed as long as a minimum of 4 cycles of neoadjuvant chemotherapy is administered; more than 4 cycles of neoadjuvant chemotherapy (NAC) may be administered at the discretion of the treating medical oncologist
+2918.0
+Breast surgery (lumpectomy or mastectomy) and sentinel lymph node surgery must be completed within 56 days of the completion of the last dose of neoadjuvant chemotherapy
+2918.0
+Completed at least 6 cycles of neoadjuvant or adjuvant chemotherapy containing anthracyclines, taxanes or the combination of both; prior platinum as potentially curative treatment for prior cancer (e.g. ovarian) or as adjuvant or neoadjuvant treatment for breast cancer is allowed; (for neoadjuvant patients all chemotherapy should be delivered prior to surgery; no further cycles of chemotherapy post-surgery are allowed)
+1500.0
+The minimum time requirement between date of surgery and randomization must be at least 4 weeks (28 days)
+NONE
+The maximum time requirement between surgery and randomization must be:* 3 months (90 days) if no adjuvant chemotherapy was administered* 8 months (240 days) if adjuvant chemotherapy was administered* 10 months (300 days) if adjuvant chemotherapy and radiation therapy were administered
+NONE
+Complete recovery from surgery and standard post-operative therapy (if required); patients must be completely recovered from surgery at the time of randomization; the minimum time requirement between date of surgery and randomization must be at least 28 days, the maximum time requirement between surgery and randomization must be 90 days if no adjuvant chemotherapy was administered, 240 days if adjuvant chemotherapy was administered, and 300 days if adjuvant chemotherapy and radiation therapy was administered
+450.0
+ELIGIBILITY CRITERIA FOR RANDOMIZATION (STEP 1): No specific timeframe between registration and randomization needs to be observed, as long as:* Patients randomized to the chemotherapy arms have their cycle 1/ day 1 (platinum based or capecitabine) start within 3 weeks (15 working days) following randomization date* Randomization occurs no more than 24 weeks from surgery date
+562.0
+The interval between the last surgery for breast cancer (including re-excision of margins) and randomization must be no more than 60 days
+990.0
+Chemotherapy administered for the currently diagnosed breast cancer prior to randomization
+990.0
+Patient must NOT have a history of > 1 line of administered chemotherapy for metastatic disease and must be off chemotherapy for a minimum of 2 weeks; prior chemotherapy in the adjuvant setting is allowed
+99.0
+Patients must have adequately recovered from surgery and any administered chemotherapy/radiotherapy at the time of randomization (NOTE: adjuvant chemotherapy and/or radiation is not required)* Minimum time between date of surgery and randomization is 4 weeks (28 days)* Maximum time allowed between surgery and randomization:** 3 months (90 days) if no chemotherapy is administered** 8 months (240 days) if adjuvant chemotherapy was administered** 10 months (300 days) if adjuvant chemotherapy and radiation therapy was administered
+714.0
+Patients may not have a history of other invasive malignancies within the last five years, with the exception of non-melanoma skin cancer or stage 1A endometrioid adenocarcinoma of the uterus
+1070.0
+Patients with a history of other invasive malignancies, with the exception of non-melanoma skin cancer, are excluded if there is any evidence of other malignancy being present within the last five years; patients are also excluded if their previous cancer treatment contraindicates this protocol therapy
+164.0
+No history of unrelated (non-lymphomatous) neoplasms within past 5 years other than non-melanoma skin cancer or in-situ cancer
+348.0
+Prior invasive malignancy (except non-melanomatous skin cancer) unless disease free for a minimum of 3 years; noninvasive cancers (for example, carcinoma in situ of the breast, oral cavity, or cervix are all permissible) are permitted even if diagnosed and treated < 3 years ago; patients with simultaneous primaries or bilateral tumors are excluded, with the exception of patients with bilateral tonsil cancers or patients with primary tumor (T)1-2, nearby lymph nodes (N)0, metastasis (M)0 resected differentiated thyroid carcinoma, who are eligible
+700.0
+Prior invasive malignancy (except non-melanomatous skin cancer) unless disease free for a minimum of 3 years (for example, carcinoma in situ of the breast, oral cavity, or cervix are all permissible)
+285.0
+A prior or concurrent malignancy of any other site or histology unless the patient has been disease-free for >= 5 years except for non-melanoma skin cancer and/or stage T1a prostate cancer or carcinoma in situ of the uterine cervix or a urothelial carcinoma of the upper urinary tract stage pTa, pTis or pT1 that has not been free of disease after treatment for more than a 2 year period
+37.0
+Previous history of invasive malignancy (except non-melanoma skin cancer) unless the patient has been disease free for at least 2 years prior to study entry (or first day of chemotherapy for patients having started chemotherapy prior to first step registration); patients with a previous history of carcinoma in situ are eligible
+545.0
+Patients with a history of other invasive malignancies, with the exception of non-melanoma skin cancer, are excluded if there is any evidence of other malignancy being present within the last five years
+128.0
+Patients with a history of other invasive malignancies, with the exception of non-melanoma skin cancer, are excluded if there is any evidence of other malignancy being present within the last five years; patients are also excluded if their previous cancer treatment contraindicates this protocol therapy
+360.0
+Patients with multifocal, multicentric and synchronous bilateral breast cancers are allowed* Multifocal disease is defined as more than one invasive cancer < 2 cm from the largest lesion within the same breast quadrant; (NOTE: the Oncotype DX testing must be completed on the largest lesion)* Multicentric disease is defined as more than one invasive cancer >= 2 cm from the largest lesion within the same breast quadrant or more than one lesion in different quadrants (NOTE: Oncotype DX testing should be completed on all tumors and the determination for eligibility should be made on the highest recurrence score)* Synchronous bilateral disease is defined as invasive breast cancer with positive lymph nodes (axillary or intramammary) in at least one breast, diagnosed within 30 days of each other; (NOTE: the Oncotype DX testing should be completed on both tumors and the tumor with the highest recurrence score should be used)
+10000.0
+Patients with a prior diagnosis of contralateral ductal carcinoma in situ (DCIS) are eligible if they underwent a mastectomy or lumpectomy with whole breast radiation; prior partial breast irradiation, including brachytherapy, is not allowed; patients with a prior diagnosis of ipsilateral DCIS or invasive breast cancer who received radiation to that breast are not eligible
+10000.0
+Patients must have had either breast-conserving surgery with planned radiation therapy or total mastectomy (with or without planned postmastectomy radiation); patients must have clear margins from both invasive breast cancer and DCIS (as per local institutional guidelines); lobular carcinoma in situ (LCIS) at the margins is allowed
+10000.0
+Patients who have received prior radiotherapy to any portion of the abdominal cavity or pelvis are excluded; prior radiation for localized cancer of the breast, head and neck, or skin is permitted, provided that it was completed more than three years prior to registration, and the patient remains free of recurrent or metastatic disease
+NONE
+Prior invasive (except non-melanoma skin cancer) malignancy unless disease-free for a minimum of 3 years (1095 days) not in the pelvis (for example, carcinoma in situ of the oral cavity is permissible; however, patients with prior history of bladder cancer are not allowed); prior hematological (e.g., leukemia, lymphoma, myeloma) malignancy not allowed
+2580.0
+Life expectancy of at least 5 years, excluding diagnosis of breast cancer (comorbid conditions should be taken into consideration, but breast cancer diagnosis is not a consideration)
+265.0
+Upon clinical exam and pre-operative imaging by mammogram +/- MRI, two or three foci of biopsy proven breast cancer separated by >= 2 cm of normal breast tissue; foci must include at least one focus of invasive breast carcinoma with another focus of either invasive breast carcinoma or ductal carcinoma in situ (DCIS); no more than 2 quadrants with biopsy proven breast cancer; Note: the shortest distance between lesions must be reported on mammogram +/- MRI and eligibility criteria must be met on both, if both are obtained; Note: patient is eligible for study if lesion is not visualized on all imaging modalities (i.e., any of the lesion (s) is/are visualized on MRI but not on mammogram OR visualized on mammogram but not on MRI); ultrasound cannot be used to determine patient eligibility; eligibility to be determined by bilateral mammogram +/- MRI only; fine needle aspirate of the second or third lesion to document malignancy is allowed if the first focus is shown to be invasive by core needle biopsy; patient may remain on study if, upon pathological assessment, two or three lesions identified on pre-operative imaging represent one contiguous lesion
+265.0
+Patients may be registered AFTER surgery and PRIOR TO radiation therapy if either of the criteria is met:* An area of atypia > 2 cm from the index lesion excised at the time of cancer operation is upgraded to DCIS or invasive carcinoma thereby identifying MIBC OR* Patient underwent resection of two or three foci of malignancy by breast conservation surgery with a minimum of one invasive focus of breast cancer and a minimum of 2 cm of normal breast tissue between the lesions on final pathology
+265.0
+Prior history of ipsilateral breast cancer (DCIS, LCIS [lobular cancer in situ] or invasive)
+265.0
+Prior or current LCIS, DCIS or invasive breast cancer in the opposite breast (i.e., bilateral disease is not allowed)
+265.0
+Patients with a history of other invasive malignancies, with the exception of non-melanoma skin cancer, are excluded if there is any evidence of other malignancy being present within the last five years; patients are also excluded if their previous cancer treatment contraindicates this protocol therapy
+52.0
+Prior invasive malignancy (except non-melanomatous skin cancer, curatively resected thyroid papillary carcinoma, and invasive and non-invasive cancers related to the breast cancer) unless disease free for a minimum of 3 years
+143.0
+Patients with a history of other invasive malignancies, with the exception of non-melanoma skin cancer, are excluded if there is any evidence of other malignancy being present within the last five years; patients are also excluded if their previous cancer treatment contraindicates this protocol therapy
+600.0
+Patients must not have metastatic breast cancer (stage IV disease); patients with multifocal, multicentric, and synchronous bilateral, and primary inflammatory breast cancers are allowed* Multifocal disease is defined as more than one invasive cancer < 2 cm from the largest lesion within the same breast quadrant* Multicentric disease is defined as more than one invasive cancer >= 2 cm from the largest lesion within the same breast quadrant or more than one lesion in different quadrants* Synchronous bilateral disease is defined as invasive breast cancer with positive lymph nodes (axillary or intramammary) in at least one breast, diagnosed within 30 days of each other; (NOTE: the tumor with the highest recurrence score should be used)
+1900.0
+No patients with previous ipsilateral or contralateral invasive breast cancer or ductal carcinoma in situ (DCIS)
+317.0
+No patients with bilateral breast cancer
+317.0
+Prior invasive malignancy (except non-melanomatous skin cancer and T1 renal cell carcinoma) unless disease free for a minimum of 2 years (note that carcinoma in situ of the breast, oral cavity, or cervix are all permissible)
+368.0
+Providing surgical treatment for newly diagnosed breast cancer patients
+3780.0
+Newly diagnosed primary breast cancer prior to initial definitive surgical treatment, including in situ and invasive cancer, stages 0 � III; pathologic confirmation of diagnosis is required
+3780.0
+Any previous diagnosis of cancer except for non-melanoma skin cancer
+3780.0
+T4 tumors including inflammatory breast cancer
+1636.0
+Synchronous or previous contralateral invasive breast cancer or DCIS; (patients with synchronous and/or previous contralateral LCIS are eligible)
+1636.0
+Any prior history, not including the index cancer, of ipsilateral invasive breast cancer or ipsilateral DCIS treated with radiation therapy; (patients with synchronous or previous ipsilateral LCIS are eligible)
+1636.0
+Prior invasive malignancy (except non-melanomatous skin cancer) unless disease free for a minimum of 3 years (for example, carcinoma in situ of the breast, oral cavity, or cervix are all permissible)
+252.0
+Prior invasive malignancy (except non-melanomatous skin cancer) unless disease free for a minimum of 1095 days (3 years); noninvasive cancers (for example, carcinoma in situ of the breast, oral cavity, or cervix are all permissible) are permitted even if diagnosed and treated < 3 years ago
+660.0
+Prior invasive malignancy (except non-melanomatous skin cancer) unless disease free for a minimum of 730 days (2 years) (for example, carcinoma in situ of the breast, oral cavity, or cervix are all permissible)
+234.0
+No inflammatory breast cancer
+2918.0
+No prior history of ipsilateral breast cancer (invasive disease or ductal carcinoma in situ [DCIS]); lobular carcinoma in situ (LCIS) and benign breast disease is allowed
+2918.0
+No history of prior or concurrent contralateral invasive breast cancer; benign breast disease; LCIS or DCIS of contralateral breast is allowed
+2918.0
+For those patients who also undergo contralateral breast surgery, if invasive disease is found in the contralateral breast, the patient is not eligible for registration /randomization
+2918.0
+No evidence of prior malignancy except adequately treated non-melanoma skin cancer, in situ cervical carcinoma or any surgically- or radiation-cured malignancy continuously disease free for >= 5 years so as not to interfere with interpretation of radiographic response
+189.0
+RANDOMIZED PHASE II (ARMS K AND L): No evidence of prior malignancy except adequately treated non-melanoma skin cancer, in situ cervical carcinoma or any surgically- or radiation-cured malignancy continuously disease free for >= 5 years so as not to interfere with interpretation of radiographic response
+189.0
+Pathologic confirmation of invasive breast cancer diagnosed by core needle biopsy
+2060.0
+Clinical T2-T4c, any N, M0 invasive breast cancer, by American Joint Committee on Cancer (AJCC) 7th edition clinical staging, with the goal being surgery to complete excision of the tumor in the breast and the lymph nodePrimary tumor must be:* Palpable* Its largest tumor diameter is > 2.0 cm by physical examination or by radiological assessment* Bi-dimensional measurement by tape, ruler or caliper technique must be provided** Note:*** Patients with contralateral ductal carcinoma in situ and/or invasive breast cancer are not eligible*** Patients with multi-focal breast cancer (defined as more than one lesion of invasive breast cancer in the same breast separated from the dominant breast lesion by less than 5 cm of radiologically normal breast tissue) are eligible; if the other lesions have been biopsied (biopsy not required) they must meet the estrogen receptor/human epidermal growth factor receptor 2 (ER/HER2) eligibility requirements; research biopsies and Ki67 assessment and radiological measures are to be performed on the dominant breast lesion
+2060.0
+Documentation of mammogram and ultrasound (including ductal carcinoma in situ [DCIS] and invasive cancer) of the diseased breast performed within 56 days prior to registration; mammogram for the unaffected contralateral breast is required within 12 months prior to registration
+2060.0
+An excisional biopsy of this breast cancer
+2060.0
+History of invasive breast cancer or contralateral DCIS
+2060.0
+History of another malignancy* Exception: patients who have been disease-free for 3 years, or patients with a history of completely resected non-melanoma skin cancer and/or patients with indolent secondary malignancies, are eligible; consult the Cancer Therapy Evaluation Program (CTEP) Medical Monitor if unsure whether second malignancies meet the requirements specified above
+30.0
+TREATMENT: Patients who have a history of another primary malignancy, with the exceptions of: non-melanoma skin cancer, and carcinoma in situ of the cervix, uteri, or breast from which the patient has been disease free for > 3 years
+700.0
+Prior invasive malignancy unless disease free for a minimum of 3 years; however, skin cancer and in situ carcinomas of the breast, oral cavity, cervix, and other organs and are permissible
+330.0
+History of another malignancy; exception: patients who have been disease-free for 3 years (depending upon tumor type studied or clinical setting, 3 or 5 years can be used; e.g., for advanced melanoma and pancreatic studies 3 years is more appropriate due to aggressiveness of the disease, while 5 years can be more appropriate for prostate or ovarian cancer or adjuvant setting when life expectancy is longer), or patients with a history of completely resected non-melanoma skin cancer and/or patients with indolent secondary malignancies, are eligible; consult the CTEP medical monitor if unsure whether second malignancies meet the requirements specified above; exception: patients with history of RAS mutation-positive tumors are not eligible regardless of interval from the current study; prospective RAS testing is not required; however, if the results of previous RAS testing are known, they must be used in assessing eligibility
+68.0
+Patients with a history of other invasive malignancies, with the exception of non-melanoma skin cancer are excluded if there is any evidence of other malignancy being present within the last three years
+540.0
+History of another malignancy* Exception: patients who have been disease-free for 3 years, or patients with a history of completely resected non-melanoma skin cancer and/or patients with indolent secondary malignancies, are eligible; consult the Cancer Therapy Evaluation Program (CTEP) Medical Monitor if unsure whether second malignancies meet the requirements specified above
+68.0
+History of another malignancy; exception: patients who have been disease-free for 3 years, or patients with a history of completely resected non-melanoma skin cancer or any carcinoma in situ and/or patients with indolent second malignancies, are eligible; consult the Cancer Therapy Evaluation Program (CTEP) medical monitor if unsure whether second malignancies meet the requirements
+130.0
+History of another malignancy other than the study indication under this trial within 5 years of study enrollment; does not apply to subjects who underwent successful definitive resection of basal or squamous cell carcinoma of the skin, superficial bladder cancer, in situ cervical cancer, in situ breast cancer, or other in situ cancers* Exception: patients with history of RAS mutation-positive tumors are not eligible regardless of interval from the current study; prospective RAS testing is not required; however, if the results of previous RAS testing are known, they must be used in assessing eligibility
+32.0
+Prior invasive malignancy (except node negative, non-melanomatous skin cancer) unless disease free for a minimum of 1095 days (3 years) (for example, carcinoma in situ of the breast, oral cavity, or cervix are all permissible)
+924.0
+History of anal cancer, penile, vulvar, vaginal, or cervical cancer, or signs of any of these malignancies at baseline; participants with prior carcinoma in situ will not be considered to have prior cancer for eligibility purposes
+5058.0
+Completed adequate breast surgery defined as:* The inked margins of breast conservation surgery or mastectomy must be histologically free of invasive breast cancer and ductal carcinoma in situ with the exception of the posterior margin if this margin is the pectoralis major fascia or the anterior margin if this is the dermis; patients with resection margins positive for lobular carcinoma in situ are eligible* Patients with breast conservation must have adjuvant radiotherapy; patients having mastectomy may have adjuvant radiotherapy according to local policy and/or international guidelines
+1500.0
+Patients with second primary malignancy, EXCEPTIONS are: * Adequately treated non-melanoma skin cancer, curatively treated in situ cancer of the cervix, ductal carcinoma in situ (DCIS) of the breast, stage 1 grade 1 endometrial carcinoma* Other solid tumors and lymphomas (without bone marrow involvement) diagnosed >= 5 years prior to randomization and treated with no evidence of disease recurrence and for whom no more than one line of chemotherapy was applied
+1500.0
+Prior invasive malignancy (except non-melanomatous skin cancer) unless disease free for a minimum of 3 years; (note: carcinoma in situ of the breast, oral cavity, or cervix is all permissible)
+182.0
+Prior invasive malignancy (except non-melanomatous skin cancer) unless disease-free for a minimum of 3 years; (for example, carcinoma in situ of the breast, oral cavity, or cervix are all permissible)
+606.0
+History of another malignancy; exception: patients who have been disease-free for 3 years, patients with a history of completely resected non-melanoma skin cancer, and/or patients with indolent secondary malignancies, are eligible; MSK can consult the Cancer Therapy Evaluation Program (CTEP) Medical Monitor if unsure whether second malignancies meet the requirements specified above
+35.0
+Other types of invasive malignancy that are not disease free within 3 years except for non-melanoma skin cancer, lentigo maligna, any carcinoma-in-situ or prostate cancer with low risk factors
+340.0
+Patients must not have any history of locally advanced or metastatic cancer requiring systemic therapy within 5 years from randomization, with the exception of in-situ carcinomas and non-melanoma skin cancer; patients must have no previous primary lung cancer diagnosed concurrently or within the past 2 years
+NONE
+Patients must not have other current malignancies, other than basal cell skin cancer, squamous cell skin cancer, in situ cervical cancer, ductal or lobular carcinoma in situ of the breast; patients with other malignancies are eligible if they have been continuously disease-free for > 3 years prior to the time of registration; patients with history of RAS mutation-positive tumors are not eligible regardless of interval from the current study; Note: prospective RAS testing is not required; however, if the results of previous RAS testing are known, they must be used in assessing eligibility
+300.0
+Adequately treated non-melanomatous skin cancer or lentigo maligna melanoma without current evidence of disease
+52.0
+Co-existing or prior invasive malignancy (except non-melanomatous skin cancer), unless disease free for a minimum of 3 years; previous RT dose, date, fraction size, must be reported
+360.0
+Post neoadjuvant chemotherapy, patients must be found to have residual invasive cancer in the breast at the time of definitive surgery; residual cancer is defined as a contiguous focus of residual invasive cancer, in the breast, measuring >= 1 cm in diameter, and with more than minimal cellularity, as per local pathologist determination; please note that in patients that have multifocal or multicentric residual tumors these lesions cannot be added up; the biggest lesion has to measure >= 1 cm in diameter; this is required due to constraints in deoxyribonucleic acid (DNA) extraction for PAM50 analysis* NOTE: The presence of ductal carcinoma in situ (DCIS) without invasion does not qualify as residual invasive disease in the breast* NOTE: Despite lymph node involvement if residual invasive cancer in the breast is < 1 cm in diameter patients are not eligible for participation
+562.0
+No history of TNBC invasive breast cancer within 5 years of enrollment, no concurrent malignancies of any sort
+562.0
+Patients with a history of other invasive malignancies, with the exception of non-melanoma skin cancer and other specific malignancies are excluded if there is any evidence of other malignancy being present within the last three years (2 years for breast cancer); patients are also excluded if their previous cancer treatment contraindicates this protocol therapy
+96.0
+Diagnosis of any other invasive cancer (other than non-melanoma skin cancer or carcinoma in situ of the cervix) that requires ongoing treatment or for which there is evidence of active disease
+222.0
+T4 tumors including inflammatory breast cancer
+990.0
+Synchronous or previous contralateral invasive breast cancer; (patients with synchronous and/or previous contralateral DCIS or LCIS are eligible)
+990.0
+Any previous history of ipsilateral invasive breast cancer or ipsilateral DCIS; (patients with synchronous or previous ipsilateral LCIS are eligible)
+990.0
+Patients must NOT have previous or concurrent malignancy; exceptions are made for patients who meet any of the following conditions:* Non-melanoma skin cancer, in situ cervical cancer, superficial bladder cancer, or breast cancer in situ OR* Prior malignancy completely excised or removed and patient has been continuously disease free for > 5 years OR* Prior malignancy cured by non-surgical modalities and patient has been continuously disease free for > 5 years
+126.0
+Patient has another concurrent active invasive malignancy
+188.0
+Patient has had a prior invasive malignancy diagnosed within the last three years (except [1] non-melanoma skin cancer or [2] prior in situ carcinoma of the cervix); patients are excluded if they have received prior pelvic radiotherapy for any reason that would contribute radiation dose that would exceed tolerance of normal tissues at the discretion of the treating physician
+188.0
+Any number of prior therapies for metastatic breast cancer is allowed; patients with weakly estrogen receptor positive breast cancer who received any number of endocrine agents for metastatic breast cancer will also be eligible
+33.0
+Breast cancer for which patient is receiving endocrine therapy must have been histologically-proven stage I-III, endocrine-responsive (i.e., estrogen and/or progesterone receptor positive, according to local definition of positive, determined using immunohistochemistry [IHC]), and treated with curative intent* Note:** Patients with synchronous bilateral invasive breast cancer (diagnosed histologically within 2 months) are eligible** Patient with invasive breast cancer or synchronous bilateral invasive breast cancer (diagnosed histologically within 2 months) during pregnancy are eligible** Patients with breast cancer 1/2, early onset (BRCA1/2) mutations are eligible** Patients could have received neo/adjuvant chemotherapy, or other systemic therapy (e.g., neo/adjuvant human epidermal growth factor receptor 2 [HER2]-targeted therapy) according to institutional policy and patient�s desire
+500.0
+Concomitant invasive malignancy or invasive malignancy within the past five years other than non-melanomatous skin cancer; history of in situ carcinoma (e.g. ductal carcinoma in situ of breast, in situ carcinoma of the cervix, vulva or larynx) is permitted
+302.0
+Prior history of another malignancy (except for non-melanoma skin cancer or in situ cervical or breast cancer) unless disease free for at least three years; patients with prostate cancer are allowed if prostate specific antigen (PSA) is less than 1
+50.0
+History of prior malignancy, with the exception of the following:* Non-melanoma skin cancers, non-invasive bladder cancer, and carcinoma in situ of the cervix* Prostate cancer not under active systemic treatment other than hormonal therapy and with documented undetectable prostate-specific antigen (PSA) (< 0.2 ng/mL)* Chronic lymphocytic leukemia (CLL)/small lymphocytic lymphoma (SLL) provided patient has isolated lymphocytosis (Rai stage O), and does not require systemic treatment (for �B� symptoms, Richter�s transformation, lymphocyte doubling time [< 6 months], lymphadenopathy or hepatosplenomegaly)* Lymphoma of any type of hairy-cell leukemia provided patient is not on active systemic treatment and is in complete remission, as evidenced by PET/CT scans and bone marrow biopsies for at least 3 months* History of malignancy provided that patient has completed therapy and is free of disease for >= 2 years; if patient had other malignancy within the last 2 years from which he may have been completely cured by surgery alone, he may be considered to be enrolled on condition that the risk of development of distant metastatic disease based on American Joint Committee on Cancer (AJCC) staging system is less than 30%
+32.0
+Patients with other active invasive malignancies will be excluded; patients with prior malignancies will be excluded (except [1] non-melanoma skin cancer or prior in situ carcinoma of the cervix; [2] patients with other invasive malignancies who had [or have] cancer present within the last five years)
+64.0
+Patients with a history of a curatively treated malignancy must be disease-free for at least two years except for carcinoma in situ of cervix and/or non-melanomatous skin cancer; patients must not have received chemotherapy or investigational therapy within two years of surgical resection of the primary tumor
+345.0
+Subjects must have histologically confirmed invasive breast cancer and registration must occur within 12 months after the first histologic diagnosis of invasive breast cancer* A core biopsy interpreted as invasive cancer meets this criterion; if no core biopsy is performed, the date of first histologic diagnosis will be the date of first surgical procedure that identifies invasive cancer (biopsy, lumpectomy or mastectomy)* Neoadjuvant subjects should have no evidence of clinical T4 disease prior to chemotherapy and surgery; eligibility for neoadjuvant patients can be defined by either clinical stage prior to therapy or pathologic stage at surgery; if patient is eligible based on either, they are eligible for the study* Bilateral breast carcinoma is allowed provided either:** Diagnoses are synchronous � that is, within 3 months of one another � and at least one of the two breast carcinomas meet the eligibility criteria and neither is Her-2 positive or inflammatory; OR** The contralateral breast cancer was at least 5 years prior to the current diagnosis* No evidence of metastatic disease
+NONE
+No history of invasive breast cancer in 5 years prior to study registration other than the current diagnosis (prior ductal breast carcinoma in situ [DCIS] at any time is acceptable)
+NONE
+No history of other malignancy within the past 4 years, except for malignancies with a > 95% likelihood of cure (e.g. non-melanoma skin cancer, papillary thyroid cancer, in situ cervical cancer); patients cannot have metastatic breast or other cancer
+NONE
+Patients with a history of other invasive malignancies, with the exception of non-melanoma skin cancer and other specific malignancies are excluded if there is any evidence of other malignancy being present within the last three years (2 years for breast cancer); patients are also excluded if their previous cancer treatment contraindicates this protocol therapy
+147.0
+Patients who have received prior radiotherapy to any portion of the abdominal cavity or pelvis or thoracic cavity within the last three years are excluded; prior radiation for localized cancer of the head and neck or skin is permitted, provided that it was completed more than three years prior to registration, and the patient remains free of recurrent or metastatic disease
+147.0
+History of prior invasive rectal malignancy, regardless of disease-free interval
+348.0
+Other invasive cancer within 5 years before randomization; exceptions are colonic polyps, non-melanoma skin cancer or carcinoma-in-situ of the cervix
+348.0
+Patient must have no known breast cancer (DCIS or invasive cancer), not currently undergoing treatment for breast cancer, or planning surgery for a high risk lesion (atypical ductal breast hyperplasia [ADH], atypical lobular breast hyperplasia [ALH], lobular breast carcinoma in situ [LCIS], papilloma, radial scar)
+1450.0
+Patient must not be taking chemoprevention for breast cancer
+1450.0
+Patient must not be suspected of being at high-risk for breast cancer, as defined by the American Cancer Society (ACS) breast MR screening recommendations (lifetime risk of >= 20-25%)
+1450.0
+Previous or concurrent history of malignancies within 5 years prior to study treatment except for curatively treated:* Cervical carcinoma in situ* Non-melanoma skin cancer* Superficial bladder cancer (Ta [non-invasive tumor], Tis [carcinoma in situ] and T1 [tumor invades lamina propria])
+84.0
+Prior invasive malignancy (except non-melanomatous skin cancer) unless disease free for a minimum of 1095 days (3 years); noninvasive cancers (for example, carcinoma in situ of the breast, oral cavity, or cervix) are permitted even if diagnosed and treated < 3 years ago
+56.0
+Prior invasive malignancy (except non-melanomatous skin cancer, low or intermediate risk prostate cancer, or in situ carcinoma of breast, oral cavity, skin, or cervix) unless disease free for a minimum of one year.
+186.0
+Prior invasive malignancy (except non-melanomatous skin cancer or other in-situ malignancies, or stage Ta bladder cancer) unless disease free for a minimum of 2 years
+612.0
+Prior invasive malignancy (except non-melanomatous skin cancer) unless disease free for a minimum of 3 years, with the exception of those with a negligible risk of metastases or death, such as carcinoma in situ of the breast or cervix
+488.0
+Invasive cancer in the contralateral breast
+60.0
+History of another primary malignancy except for * Malignancy treated with curative intent and with no known active disease >= 5 years before the first dose of study drug and of low potential risk for recurrence * Adequately treated non-melanoma skin cancer or lentigo maligna without evidence of disease * Adequately treated carcinoma in situ without evidence of disease (e.g., cervical cancer in situ)
+180.0
+Prior invasive malignancy (except non-melanomatous skin cancer) unless disease free for a minimum of 3 years (carcinoma in situ of the breast, oral cavity, cervix, melanoma in situ, or other non-invasive malignancies are permissible)
+148.0
+Prior invasive (except non-melanoma skin cancer) malignancy unless disease-free for a minimum of 3 years and not in the pelvis; (for example, carcinoma in situ of the oral cavity is permissible if disease free for a minimum of 3 years; however, patients with prior history of bladder cancer are not allowed no matter the disease free duration); prior hematological (e.g., leukemia, lymphoma, myeloma) malignancy is not allowed
+282.0
+Patients with previous contralateral invasive breast cancer treated with anti-cancer therapy are eligible
+175.0
+T4 tumors including inflammatory breast cancer
+175.0
+Patients with synchronous ipsilateral invasive breast cancer or any prior history of ipsilateral invasive breast cancer; (patients with previous ipsilateral/contralateral DCIS or previous contralateral invasive breast cancer treated with anti-cancer therapy are eligible)
+175.0
+Prior invasive malignancy (except non-melanomatous skin cancer) unless disease free for a minimum of 3 years; (for example, carcinoma in situ of the breast, oral cavity or cervix are permissible)
+120.0
+History of another malignancy* Exception: patients who have been disease-free for 3 years or patients with a history of completely resected non-melanoma skin cancer and/or patients with indolent secondary malignancies, are eligible; consult the Cancer Therapy Evaluation Program (CTEP) medical monitor if unsure whether second malignancies meet the requirements specified above
+27.0
+Patients must not have previous personal history of breast cancer including ductal carcinoma in situ
+164946.0
+Other active malignancy, except non-melanotic skin cancer or carcinoma-in-situ of the cervix* Note: If there is a history of prior malignancy, they must not be receiving other specific treatment (other than hormonal therapy) for their cancer
+102.0
+Other active malignancy within 5 years of registration; exceptions: non-melanotic skin cancer or carcinoma-in-situ of the cervix; note: if there is a history of prior malignancy, the patient is not eligible if they are receiving other specific treatment (with the exclusion of hormonal therapy or Her-2 inhibitors) for their cancer or if they have received prior total body irradiation which included the brain
+360.0
+Other active malignancy =< 3 years prior to registration; EXCEPTIONS: non-melanotic skin cancer or carcinoma-in-situ of the cervix; NOTE: if there is a history or prior malignancy, they must not be receiving other specific treatment (other than hormonal therapy) for their cancer
+48.0
+Other active malignancy =< 5 years prior to registration; EXCEPTIONS: non-melanotic skin cancer or carcinoma-in-situ of the cervix; Note: if there is a history of prior malignancy, they must not be receiving other specific treatment for their cancer
+265.0
+Other active malignancy =< 1 year prior to registration* EXCEPTIONS: Non-melanotic skin cancer or carcinoma-in-situ of the cervix* NOTE: If there is a history or prior malignancy, they must not be receiving other specific treatment for their cancer
+102.0
+Another active malignancy =< 3 years prior to registration with the exception of non-melanotic skin cancer or carcinoma-in-situ of any type; NOTE: if there is a history of prior malignancy, they must not be receiving other specific treatment for their cancer; any malignancy considered to be indolent and that has never required therapy may allowed at the discretion of the protocol chair
+45.0
+Patients with a histological diagnosis of epithelial ovarian cancer, fallopian tube or primary peritoneal carcinoma, clinical stage II, III or IV at diagnosis
+1070.0
+Patients with a histological diagnosis of clinical stage I epithelial ovarian cancer, fallopian tube or primary peritoneal carcinoma
+1070.0
+Patients who are currently undergoing treatment (primary or consolidation) for stage II, III or IV ovarian, fallopian tube or primary peritoneal cancer or who completed treatment less than six weeks ago
+1070.0
+Pathologically proven diagnosis of carcinoma of the bladder within 105 days prior to registration* Operable patients whose initial tumor is a primary high grade urothelial carcinoma of the bladder exhibiting histologic evidence of invasion into the lamina propria (disease clinical stage T1) or a high grade stage Ta urothelial carcinoma without hydronephrosis; patients who have involvement of the prostatic urethra with urothelial carcinoma and have no evidence of stromal invasion of the prostate remain eligible; if the patient�s initial tumor was a high grade stage Ta urothelial carcinoma then his/her recurrent tumor must be a high grade stage T1 urothelial carcinoma to be eligible
+37.0
+Organ function requirements are not required for enrolled patients who are stage I, PFH and will not be receiving chemotherapy
+253.0
+Patients with stage I or II disease who do not have specimens submitted for rapid central pathology review by day 14 after initial surgical resection
+253.0
+Patients with apparent stage I disease who have not undergone a staging procedure
+128.0
+Diagnosis of ovarian epithelial, fallopian tube, or primary peritoneal carcinoma* Stage II, III, or IV disease with optimal (=< 1 cm residual disease) or suboptimal residual disease* All patients must have a procedure for determining diagnosis of epithelial ovarian, fallopian tube, primary peritoneal, with appropriate tissue for histologic evaluation* The minimum surgery required is an abdominal surgery providing tissue for histologic evaluation and establishing and documenting the primary site and stage, as well as a maximal effort at tumor debulking; if additional surgery was performed, it should have been in accordance with appropriate surgery for ovarian or peritoneal carcinoma described in the Gynecologic Oncology Group (GOG) Surgical Procedures Manual
+NONE
+Patients must have non-bulky stage I or II disease by Ann Arbor classification* This staging excludes fludeoxyglucose F 18 (FDG)-PET evaluation* Patients who have stage I or II non-bulky disease based on diagnostic CT scan, but are upstaged to stage III or IV based on FDG-PET evaluation, are also eligible* Stage and bulk are assigned using measurements obtained prior to biopsy
+155.0
+Patients with stage IA1 disease who are LVSI negative
+600.0
+Patients with stage IB1 with tumor size (maximum visible or palpable) > 2 cm
+600.0
+Patients with >= stage IB2 disease
+600.0
+Patients who are treatment na�ve, high risk, stage IVa/IVb (all other sites) and histologically proven squamous cell carcinoma of the head and neck (SCCHN) with no definitive evidence of metastatic disease, excluding patients with oropharynx human papillomavirus (HPV)-positive tumors; in summary, those patients eligible are newly diagnosed and treatment naive: * Stage IVa-b squamous cell carcinoma other than oropharyngeal cancer (OPC), or* Oropharyngeal cancer (OPC) HPV-negative, stage IVa-b
+110.0
+Patients who are treatment na�ve, high risk, stage IVa/IVb (all other sites) histologically proven SCCHN with no definitive evidence of metastatic disease; in summary, those patients eligible are:* Stage IVa-b SCCHN other than OPC, or* OPC, HPV-negative, IVa-b, or* OPC, HPV positive, with greater than 10 pack-year smoking history and N2b-N3 disease
+110.0
+Pathologically confirmed diagnosis of breast cancer, clinical stage I-II (T1-3 N0 M0, T0-2 N1 M0); diagnosis must be by needle biopsy; patients diagnosed by surgical excision are excluded; for patients enrolled after receipt and completion of neoadjuvant chemotherapy, the clinical stage must be determined based on pre-chemotherapy assessment
+317.0
+Patients must have Barcelona Clinic Liver Cancer (BCLC) stage: intermediate (B) or advanced (C) within 28 days prior to study entry
+368.0
+Stage IV breast cancer
+3780.0
+Stage II, III or IV disease as defined by the Ann Arbor Staging System
+70.0
+Patients must have estrogen and/or progesterone receptor positive histologically confirmed stage I-III adenocarcinoma of the breast
+1000.0
+Patients must have locally advanced unresectable stage IIIC or metastatic stage IV cancer with either progression to prior therapy or a newly diagnosed cancer that does not have an available treatment with curative intent
+97.0
+Patients must have histologically confirmed melanoma with BRAF^V600 mutation; patients must have stage IIIC or stage IV disease
+97.0
+Patients must have histologically confirmed, newly diagnosed or recurrent from a previously treated early stage lung cancers that are locally confined, non-small cell lung cancers that are considered unresectable and for which chemoradiation will be considered definitive therapy; patients with recurrent cancer that is amendable for chemoradiation can be eligible only if patients with prior lobectomy for stage I cancer had not had adjuvant chemotherapy, and more than 8 weeks have elapsed from surgery to allow for wound healing; patients who recur from prior X-ray therapy (XRT) or stereotactic body radiation therapy (SBRT) will not be eligible
+30.0
+Stage I-III breast cancer (including inflammatory and newly diagnosed recurrent breast cancer) or lymphoma stage I-IV; (patients should have a > 2 year life expectancy)
+278.0
+Diagnosis of an advanced solid tumor malignancy (advanced cancer) or lymphoma; in most situations, this would be a stage IV cancer; patients with a diagnosis of stage III cancer or lymphoma are eligible if cure is not possible or anticipated; clinical staging without pathological confirmation of advanced disease is allowed
+700.0
+Patients must have stage II, III, or IV disease
+140.0
+Patients with stage I disease are not eligible
+140.0
+Patients must have measurable stage III, measurable stage IVA, stage IVB (with or without measurable disease) or recurrent (with or without measurable disease) endometrial carcinoma* Histologic confirmation of the original primary tumor is required; patients with the following histologic epithelial cell types are eligible:** Endometrioid adenocarcinoma, serous adenocarcinoma, undifferentiated carcinoma, clear cell adenocarcinoma, mixed epithelial carcinoma, adenocarcinoma not otherwise specified (N.O.S.)
+540.0
+Patients must be:* < 12 months (< 365 days) of age at diagnosis with INRG stage L1; or* < 18 months (< 547 days) of age at diagnosis with INRG stage L2 or stage Ms neuroblastoma/ganglioneuroblastoma
+621.0
+Group C: patients < 18 months (< 547 days) of age with newly diagnosed INRG stage Ms neuroblastoma/ganglioneuroblastoma
+621.0
+Patients must have either metastatic (stage IVC) or locally advanced unresectable disease (stage IVB)
+20.0
+For stage 1 (all patients) and dose expansion (stage 2) endometrial and ovarian cancer cohorts, participants are allowed following unlimited prior therapy; for stage 2 GBM participants, no more than 2 prior relapses are allowed; for these patients, relapse is defined as progression following initial therapy (i.e. radiation +/- chemo if that was used as initial therapy) or a subsequent therapy; the intent therefore is that GBM patients enrolling onto stage 2 had no more than 3 prior therapies (initial and treatment for 2 relapses); if the patient had a surgical resection for relapsed disease and no anti-cancer therapy was instituted for up to 12 weeks, and the patient undergoes another surgical resection, this is considered to constitute 1 relapse* NOTE: for participants who had prior therapy for a low-grade glioma, the surgical diagnosis of glioblastoma will be considered the first relapse; therefore, these participants may have had more than 3 prior therapies
+23.0
+Stage 2 endometrial and ovarian cancer patients must have at least one lesion amenable to biopsy; this determination will be made by a member of the interventional radiology team or surgical associate investigator and an associate investigator; this requirement is not necessary for patients in stage 1
+23.0
+For all stage 2 participants, no prior treatment with mTOR, PI3 kinase or Akt inhibitors; prior treatment with mTOR, PI3 kinase or Akt inhibitors allowed in stage 1 only
+23.0
+For stage 2 GBM participants, no prior treatment with bevacizumab/vascular endothelial growth factor receptor (VEGFR) inhibitors; prior treatment with bevacizumab/VEGFR inhibitors is allowed in stage 1 for all participants, as well as stage 2 endometrial and ovarian cancer participants
+23.0
+Patients with newly diagnosed, pathologically confirmed cHL meeting one of the following Ann Arbor stages are eligible:* Stage IIB with bulk* Stage IIIB* Stage IVA* Stage IVB** If study eligibility by staging is uncertain, consultation with Imaging and Radiation Oncology Core (IROC) Rhode Island (RI) may be obtained prior to study enrollment
+600.0
+Stage T2a/b (> 5 cm) and grade 2 or 3 AND
+340.0
+Patients must have histologically or cytologically confirmed stage IV or unresectable stage III BRAF V600E or BRAF V600K mutant melanoma
+280.0
+Completely resected stage IB (>= 4 cm), II or IIIA non-squamous NSCLC with negative margins; patients may not have received neoadjuvant therapy (chemo- or radio-therapy) for this lung cancer
+450.0
+Patients must have unresectable stage III or stage IV disease
+300.0
+For enrollment in the first stage of Cohort B, patients must have accessible pre-treatment and post-treatment (4-6 weeks) tumor for biopsy
+37.0
+For stage I-III disease, patients should be 2-24 months post-completion of surgery, radiation therapy and/or chemotherapy with no further planned treatment during the 12-week study and no evidence of disease
+75.0
+For stage IV disease, patients may be receiving no treatment or may be receiving maintenance treatment with a target agent, chemotherapy, or immunotherapy provided the most recent imaging does not demonstrate progressive disease
+75.0
+On average, cares for at least 3 AA patients with early stage NSCLC per year (based on the last 3 years of cancer registry data)
+222.0
+Status post-surgical resection or definitive radiotherapy for recently diagnosed clinically suspicious or biopsy-proven early stage NSCLC
+222.0
+Locally advanced (stage IIIA-IIIB) or metastatic (stage IV) NSCLC
+222.0
+Patients must have unresectable stage III or stage IV melanoma; patients must have histological or cytological confirmation of melanoma that is metastatic or unresectable and clearly progressive
+400.0
+Patient has a new, unrated histologic diagnosis of stage IB2 (> 5 cm), II, IIIB or IVA squamous, adenocarcinoma, or adenosquamous carcinoma of the uterine cervix or stage II-IVA squamous, adenocarcinoma, or adenosquamous carcinoma of the vagina not amenable to curative surgical resection alone ; the presence or absence of para?aortic lymph node metastasis will be based on pre-therapy 18F?FDG PET/CT; if the baseline 18F?FDG PET/CT identifies hypermetabolic para?aortic disease, such patients will NOT be eligible; the patient must be able to tolerate imaging requirements of an 18F?FDG PET/CT scan
+188.0
+Patients must have pathologic diagnosis of adenocarcinoma or large cell carcinoma of the lung with confirmation by immunohistochemistry (e.g., transcription termination factor 1 [TTF-1] positivity) (histologic tissue diagnosis is recommended, but cytology is acceptable); stage IIIA/IIIB or oligometastatic stage IV in which the patient is still considered an appropriate candidate for aggressive chemoradiotherapy for the primary tumor; oligometastatic disease is defined as =< 5 metastatic sites (=< 3 lesions per organ); for intracranial metastasis, the patient should have asymptomatic disease that is stable on steroids or 1 to 3 symptomatic metastatic lesions treated with stereotactic radiosurgery (SRS)
+15.0
+Prior to chemotherapy +/- or thoracic radiotherapy, patients must be defined as limited-stage or extensive-stage SCLC after clinical staging evaluation involving the following:* History/physical examination;* Computed tomography (CT) of the chest and abdomen with contrast (does not have to be done if the patient has had a positron emission tomography (PET)/CT scan prior to initiating chemotherapy or thoracic radiotherapy)* MRI of the brain with contrast or diagnostic head CT with contrast* For patients without evidence of extensive-stage SCLC on chest and abdomen CT and brain MRI or head CT, a PET/CT or bone scan is required to confirm limited-stage SCLC
+302.0
+RMS types included under embryonal rhabdomyosarcoma (ERMS) include those classified in the 1995 International Classification of Rhabdomyosarcoma (ICR) as ERMS (classic, spindle cell, and botryoid variants), which are reclassified in the 2013 World Health Organization (WHO) classification as ERMS (classic, dense and botryoid variants) and spindle cell/sclerosing RMS (encompassing the historical spindle cell ERMS variant and the newly recognized sclerosing RMS variant); classification of alveolar rhabdomyosarcoma (ARMS) in the 2013 WHO classification is the same as in the ICR and includes classic and solid variants* ERMS** Stage 1, group III (non-orbit)** Stage 3, group I/II** Stage 2/3, group III** Stage 4, group IV, < 10 years old* ARMS:** Stages 1-3, groups I-III
+337.0
+Stage IV disease
+32.0
+Pathologic diagnosis of stage IB2-IVA squamous, adenocarcinoma, or adenosquamous carcinoma of the uterine cervix or stage II-IVA squamous or adenocarcinoma of the vulva that is not amenable to curative surgical resection alone
+64.0
+Patients with any stage of pathologically confirmed cluster of differentiation (CD)3+ acute, lymphoma, chronic, or smoldering subtypes of ATLL
+20.0
+Patients must have clinically and radiographically suspected and previously untreated International Federation of Gynecologic and Obstetrics (FIGO) stage III or IV epithelial ovarian, primary peritoneal or fallopian tube cancer, high grade, for whom the plan of management will include neoadjuvant chemotherapy (NACT) with interval tumor reductive surgery (TRS) who have undergone biopsies for histologic confirmation
+147.0
+Appropriate stage for study entry based on the following diagnostic workup:* History/physical examination within 28 days prior to registration* Radiographic imaging of the chest, abdomen and pelvis within 28 days prior to registration documenting disease consistent with FIGO stage III or IV disease* Further protocol-specific assessments
+147.0
+The tumor must be clinically determined to be locally advanced stage II or stage III rectal cancer, and must also meet any ONE of the following criteria:* Distal location (as defined by measurement on magnetic resonance imaging [MRI], transrectal ultrasound [ERUS]/pelvic computed tomography [CT] [with IV contrast] scan or palpable on digital rectal examination [DRE]): cT3-4 =< 5 cm from the anal verge, any N* Bulky: any cT4 or evidence that the tumor is adjacent to (defined as within 3 mm of) the mesorectal fascia on MRI or ERUS/pelvic CT (with IV contrast) scan* High risk for metastatic disease with 4 or more regional lymph nodes (cN2); clinical nodal or cN status for eligibility includes the total number of nodes (N2 = 4 or more) in the mesorectal and superior rectal stations measuring >= 1.0 cm in any axis on cross sectional or endoscopic imaging; Note: nodes must measure 1.0 cm or greater to be considered positive for this eligibility requirement* Not a candidate for sphincter-sparing surgical resection prior to neoadjuvant therapy (as planned by the primary surgeon)** Note: clinical stage of the primary tumor and nodes may be determined locally by rectal endoscopic ultrasound or pelvic MRI (MRI is strongly preferred); CT scan with IV contrast is acceptable provided there is evidence of T4 and/or N2 disease
+348.0
+Histologic documentation of women or men with node positive, HER2 negative, anatomic stage II or III breast carcinoma and high risk node negative (defined as estrogen receptor [ER] and progesterone receptor [PR] negative and tumor size > 2 cm) within one year of diagnosis and free of recurrence; patients with pN1mic are eligible; if neoadjuvant therapy was received, either initial clinical stage (determined by physical and or radiologic examination) or post-operative pathologic stage can be used for eligibility purposes, with the higher stage determining eligibility; histologic documentation of node positivity is required; bilateral breast cancers are allowed, as long as both cancers are HER2 negative and at least one of the cancers meets eligibility
+2936.0
+Clinical stage >= T2NxM0 or TanyN+ disease for which radical or partial nephrectomy is planned
+766.0
+Pathologically proven diagnosis of NSCLC, with metastases (stage IV disease) present prior to registration; this includes patients newly diagnosed with metastatic disease or those initially diagnosed and treated for stage I-III NSCLC who ultimately develop metastases.
+186.0
+Prior systemic therapy as part of concurrent treatment approach for previously diagnosed stage III NSCLC, adjuvant therapy for stage III NSCLC, as adjuvant therapy for previously resected NSCLC, or for other previous cancers is permitted.
+186.0
+Patients must have histologically proven, recurrent, non-muscle invasive urothelial carcinoma of the bladder within 60 days prior to registration; the carcinoma must be stage T1 high-grade, stage CIS, or stage Ta high-grade
+148.0
+Stage M1
+400.0
+Patients must have pathologically confirmed stage IV or unresectable stage III melanoma; patients must not have disease that is suitable for local therapy, administered with curative intent
+64.0
+Patients with operable focal or multifocal (T1-T3, stage II and IIIA invasive ductal carcinoma [all receptor phenotypes]), and who have completed neoadjuvant chemotherapy with a clinical complete response (by clinical examination)
+175.0
+Patients must have pathologically confirmed melanoma that is either stage IV or unresectable stage III; patients may have primaries of cutaneous, mucosal or unknown origin; patients with uveal (ocular) primary are not eligible
+94.0
+Low risk stratum (stage I ovarian immature teratoma and stage I malignant GCT [all sites]): Patients must be < 50 years of age at enrollment
+1680.0
+Low risk stage I immature teratoma (IT); site: ovarian; stage: Children's Oncology Group (COG) stage I, Federation of Gynecology and Obstetrics (FIGO) stage IA and IB; grade: 2 or 3; histology: pure immature teratoma, mixed immature and mature teratoma, (no pathological evidence of mediastinal germ cell tumor [MGCT]); tumor markers: alpha-FP =< 1,000 ng/mL, beta-HCG institutional normal; age (years) < 50
+1680.0
+Low risk stage I MCGT; site: ovarian, testicular, or extragonadal; stage: COG stage I, FIGO stage IA and IB, American Joint Committee on Cancer (AJCC) testicular stage IA and IB; histology: must contain at least one of the following: yolk sac tumor, embryonal carcinoma, or choriocarcinoma (pure or mixed); age (years) < 50
+1680.0
+Standard risk 1 (SR1); site: ovarian, testicular, or extragonadal; stage: COG stage II-IV, FIGO stage IC, FIGO stage II-IV; histology: must contain at least one of the following: yolk sac tumor, embryonal carcinoma, or choriocarcinoma (pure or mixed); age (years) < 11
+1680.0
+Standard risk 2 (SR2)* Site: ovarian; stage: COG stage II and III, FIGO stage IC, II and III; histology: must contain at least one of the following: yolk sac tumor, embryonal carcinoma, or choriocarcinoma (pure or mixed); age (years) >= 11 and < 25* Site: testicular; stage: COG stage II-IV, AJCC stage II, III, International Germ Cell Consensus Classification (IGCCC) good risk; histology: must contain at least one of the following: yolk sac tumor, embryonal carcinoma, or choriocarcinoma (pure or mixed); tumor markers: for IGCCC good risk: alpha-FP < 1,000 ng/mL, beta-HCG < 5,000 IU/mL and lactate dehydrogenase (LDH) < 1.5 x normal; age (years) >= 11 and < 25* Site: extragonadal; stage: COG stage II; histology: must contain at least one of the following: yolk sac tumor, embryonal carcinoma, or choriocarcinoma (pure or mixed) age (years) >= 11 and < 25
+1680.0
+Patients with any diagnoses not listed including:* Stage I testicular cancer patients who have undergone primary RPLND (retroperitoneal lymph node dissection)* Pure dysgerminoma and pure seminoma* Pure mature teratoma* Pure immature teratoma COG stage I with alpha-fetoprotein (AFP) >= 1000 ng/mL* Pure immature teratoma COG stage II - IV or FIGO stage IC to IV* Poor risk disease (age >= 11 years old and COG stage IV ovarian, COG stage III or IV EG, or IGCCC intermediate or poor risk testicular), or* Primary central nervous system (CNS) germ cell tumor
+1680.0

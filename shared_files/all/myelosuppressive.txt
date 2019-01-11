@@ -1,0 +1,36 @@
+At least 14 days must have elapsed since completion of myelosuppressive therapy
+74.0
+At least 7 days must have elapsed since the completion of therapy with a non-myelosuppressive biologic agent or retinoid
+74.0
+At least 21 days after the last dose of myelosuppressive chemotherapy (42 days if prior nitrosourea)
+154.0
+No previous chemotherapy within 16 days prior to enrollment except for bleomycin which cannot have been given within 5 days prior to enrollment
+420.0
+Patient must have received last dose of known myelosuppressive chemotherapy > 21 days prior to enrollment; > 42 days if nitrosurea
+25.0
+Immunomodulatory treatment - patient must have received last dose > 21 days prior to enrollment
+25.0
+Cytotoxic chemotherapy last dose must have been received at least 28 days prior to enrollment, their last dose of biological therapy, immunomodulatory agents, vaccines, differentiating agents, used to treat their cancer at least 7 days prior to enrollment, their last dose of a monoclonal antibody at least 30 days prior to enrollment, and their last dose of any investigational agent at least 30 days prior to enrollment
+28.0
+Anti-cancer agents not known to be myelosuppressive (e.g. not associated with reduced platelet or absolute neutrophil count [ANC] counts): >= 7 days after the last dose of agent
+146.0
+Cytotoxic chemotherapy or other anti-cancer agents known to be myelosuppressive; the duration of this interval must be discussed with the study chair and the study-assigned research coordinator prior to enrollment* >= 21 days after the last dose of cytotoxic or myelosuppressive chemotherapy (42 days if prior nitrosourea)
+51.0
+Anti-cancer agents not known to be myelosuppressive (e.g. not associated with reduced platelet or absolute neutrophil count [ANC] counts): >= 7 days after the last dose of agent; the duration of this interval must be discussed with the study chair and the study-assigned research coordinator prior to enrollment
+51.0
+Patients must have received their last dose of known myelosuppressive anticancer chemotherapy at least three weeks prior to study registration or at least six weeks if nitrosourea
+180.0
+Myelosuppressive chemotherapy:* Subjects must have received their last dose of known myelosuppressive anticancer chemotherapy at least three (3) weeks prior to study registration or at least six (6) weeks if nitrosourea
+52.0
+Chemotherapy: patients must have received their last dose of known myelosuppressive anticancer chemotherapy at least three (3) weeks prior to study enrollment in the study or at least six (6) weeks for those receiving nitrosourea
+40.0
+Patients must have received their last dose of known myelosuppressive anticancer therapy at least three (3) weeks prior to study enrollment or at least six (6) weeks if prior nitrosourea
+110.0
+INCLUSION CRITERIA FOR STRATUM C: Patients must have received their last dose of known myelosuppressive anticancer therapy at least three (3) weeks prior to study enrollment or at least six (6) weeks if prior nitrosourea
+110.0
+RECURRENT/ PROGRESSIVE DIPG (STRATUM 1): Patients must have received their last dose of known myelosuppressive anticancer therapy or immunotherapy at least 21 days prior to enrollment (42 days if prior nitrosourea)
+50.0
+Myelosuppressive chemotherapy: must not have received within 2 weeks of entry onto this study
+90.0
+Patients with solid tumors must not have received myelosuppressive chemotherapy within 3 weeks of enrollment onto this study (6 weeks if prior nitrosourea)
+146.0

@@ -1,0 +1,342 @@
+Patients may not be receiving any other investigational agents
+276.0
+Patients receiving any other investigational agents
+74.0
+Patients receiving any other investigational agents
+30.0
+Patients who are receiving any other investigational agents
+40.0
+Patients may not be receiving any other investigational agents
+107.0
+Patients may not be receiving any other investigational agents
+132.0
+Patients who are receiving any other investigational agents
+24.0
+Patients who are receiving any other investigational agents are not eligible
+110.0
+Patients who are receiving any other anticancer or investigational agents
+180.0
+Patients should not be receiving any other investigational agents
+165.0
+Patients receiving any other investigational agents are ineligible
+36.0
+Patients who are actively receiving any other investigational agents
+140.0
+Patients should not be receiving any other investigational agents
+68.0
+Patients should not be receiving any other investigational agents
+73.0
+Patients may not be receiving any other investigational agents
+80.0
+Patients receiving any other investigational agents
+72.0
+Patients may not be receiving any other investigational agents
+70.0
+Patients who are receiving any other investigational agents
+72.0
+TUMOR BIOPSY SEQUENCING: Patients who are receiving any other investigational agents; patients on other trials will be eligible as long as they are no longer receiving study treatment
+700.0
+TREATMENT: Patients who are receiving any other investigational agents; patients on other trials will be eligible as long as they are no longer receiving study treatment
+700.0
+Patients who are receiving any other investigational agents
+12.0
+Patients who are receiving any other investigational agents
+92.0
+Patients who are receiving any other investigational agents
+100.0
+Patients who are receiving any other investigational therapy
+40.0
+Patients who are receiving any other therapeutic investigational agents
+28.0
+Patients who are receiving any other investigational agents
+24.0
+Patients who are receiving any other investigational agents
+35.0
+Patients receiving any other investigational agents are ineligible
+40.0
+Receiving any other investigational agents =< 28 days prior to registration
+44.0
+Patients who are receiving any other investigational agents
+57.0
+Patients may not be receiving any other investigational agents while on study
+NONE
+Patients receiving any other investigational agents are ineligible
+23.0
+Patients who are receiving any other investigational agents
+80.0
+Patients who are receiving any other investigational agents
+37.0
+Patients who are receiving any other investigational agents
+66.0
+Patients who are receiving any other investigational agents
+12.0
+Participants who are receiving any other investigational agents
+42.0
+Patients must not currently be receiving any other investigational agents
+6452.0
+Patients who are receiving any other investigational agents
+58.0
+Patients who are receiving any other investigational agents
+30.0
+Patients receiving any other investigational agents are ineligible
+75.0
+Patients who are receiving any other investigational agents
+30.0
+Patients may not be receiving any other investigational agents while on study treatment
+126.0
+Patients who are receiving any other investigational agents
+46.0
+Patients who are receiving any other investigational agents
+35.0
+Patients who are receiving any other investigational agents
+82.0
+Patients who are receiving any other investigational agents
+37.0
+Patients who are receiving any other investigational agents
+50.0
+Patients who are receiving any other investigational agents
+46.0
+Patients who are receiving any other investigational agents
+15.0
+Patients who are receiving any other investigational agents
+46.0
+Patients who are receiving any other investigational agents
+36.0
+Patients who are receiving any other investigational agents
+90.0
+Patients who are receiving any other investigational agents
+45.0
+Patients who are receiving any other biologic, cytotoxic or investigational agents
+32.0
+Participants who are receiving any other investigational agents
+18.0
+Patients who are receiving any other investigational agents for cancer
+60.0
+Patients receiving any other investigational agents
+64.0
+Patients who are receiving any other investigational agents
+70.0
+Patients who are receiving any other investigational agents
+29.0
+Patients who are receiving any other investigational agents
+51.0
+Patients must not be receiving any other investigational anti-cancer agents while on study
+714.0
+Patients who are receiving any other investigational agents
+150.0
+Patients who are receiving any other investigational agents
+48.0
+Patients who are receiving any other investigational agents
+20.0
+Participants who are receiving any other investigational agents
+36.0
+Patients who are receiving any other investigational agents
+60.0
+Patients who are receiving any other investigational agents
+38.0
+Patients who are receiving any other investigational agents
+24.0
+Patients who are receiving any other investigational agents
+28.0
+Patients who are receiving any other investigational agents
+30.0
+Patients who are receiving any other investigational agents
+180.0
+Participants who are receiving any other investigational agents
+48.0
+Patients who are receiving any other investigational agents
+132.0
+Patients who are receiving any other investigational agents
+40.0
+Patients who are receiving any other investigational agents
+70.0
+Patients receiving any other investigational agents are ineligible
+30.0
+Patients receiving any other investigational agents are ineligible
+35.0
+Patients who are currently receiving another investigational drug are not eligible
+253.0
+Patients who are currently receiving another investigational drug are not eligible
+77.0
+Patients who are currently receiving another investigational drug are not eligible
+154.0
+Patients who are currently receiving another investigational drug are not eligible
+148.0
+Patients who are currently receiving another investigational drug are not eligible
+484.0
+Patients who are receiving any other anti-cancer or investigational drug therapy are ineligible
+110.0
+Patients who are currently receiving another investigational drug are not eligible
+67.0
+Patients who are currently receiving another investigational drug
+56.0
+Investigational drugs: Patients who are currently receiving another investigational drug are not eligible
+65.0
+Patients who are currently receiving another investigational drug are not eligible
+36.0
+Patients who are receiving any other anticancer or investigational drug therapy are not eligible
+25.0
+Patients who are currently receiving another investigational drug are not eligible
+146.0
+Patients who are currently receiving another investigational drug are not eligible
+51.0
+Patients who are currently receiving another investigational drug
+53.0
+Patients who are currently receiving another investigational drug are not eligible
+49.0
+Patients who are currently receiving another investigational drug are not eligible
+49.0
+Patients who are currently receiving other anticancer agents are not eligible
+253.0
+Patients must not be receiving any other anti-cancer agents or radiotherapy at the time of study entry or while on study
+62.0
+Patients who are currently receiving other anti-cancer agents are not eligible
+77.0
+Patients who are currently receiving other anti-cancer agents are not eligible
+154.0
+Currently receiving other anti-cancer agents
+182.0
+Patients who are currently receiving other anti-cancer agents are not eligible
+484.0
+Patients who are currently receiving other anti-cancer agents are not eligible
+67.0
+Patients who are currently receiving anti-platelet agents are not eligible
+67.0
+Anti-cancer agents: Patients who are currently receiving other anti-cancer agents are not eligible
+65.0
+Patients who are currently receiving other anti-cancer agents are not eligible
+36.0
+Patients who are currently receiving other anti-cancer agents are not eligible
+146.0
+Patients who are currently receiving other anti-cancer agents are not eligible
+51.0
+Patients who are currently receiving other anti-cancer agents are not eligible
+49.0
+Patients who are currently receiving other anti-cancer agents are not eligible
+49.0
+Concomitant medications* Corticosteroids: Patients receiving corticosteroids who have not been on a stable or decreasing dose of corticosteroid for at least 7 days prior to enrollment are not eligible; if used to modify immune adverse events related to prior therapy, >= 14 days must have elapsed since last dose of corticosteroid * Investigational drugs: Patients who are currently receiving another investigational drug are not eligible* Anti-cancer agents: Patients who are currently receiving other anti-cancer agents are not eligible
+81.0
+Concomitant medications* Corticosteroids: patients receiving corticosteroids who have not been on a stable or decreasing dose of corticosteroid for at least 7 days prior to enrollment are not eligible; if used to modify immune adverse events related to prior therapy, >= 14 days must have elapsed since last dose of corticosteroid* Investigational drugs: patients who are currently receiving another investigational drug are not eligible* Anti-cancer agents: patients who are currently receiving other anti-cancer agents are not eligible* Anti-GVHD agents post-transplant: patients who are receiving cyclosporine, tacrolimus or other agents to prevent graft-versus-host disease post bone marrow transplant are not eligible for this trial* CYP3A/CYP3A4 agents: patients who are currently receiving drugs that are strong and moderate inducers or inhibitors of CYP3A or CYP3A4 are not eligible; strong inducers or inhibitors of CYP3A4 should be avoided from 21 days prior to enrollment to the end of the study
+49.0
+Concomitant medications* Corticosteroids: patients receiving corticosteroids who have not been on a stable or decreasing dose of corticosteroid for at least 7 days prior to enrollment are not eligible; if used to modify immune adverse events related to prior therapy, >= 14 days must have elapsed since last dose of corticosteroid* Investigational drugs: patients who are currently receiving another investigational drug are not eligible* Anti-cancer agents: patients who are currently receiving other anti-cancer agents are not eligible* Anti-GVHD agents post-transplant: patients who are receiving cyclosporine, tacrolimus or other agents to prevent graft-versus-host disease post bone marrow transplant are not eligible for this trial* CYP3A4 agents: patients who are currently receiving drugs that are strong inducers or strong inhibitors of CYP3A4 are not eligible; strong inducers or inhibitors of CYP3A4 should be avoided from 14 days prior to enrollment to the end of the study** Note: CYP3A4 inducing anti-epileptic drugs and dexamethasone for CNS tumors or metastases, on a stable dose, are allowed
+98.0
+Concomitant medications* Corticosteroids: patients receiving corticosteroids who have not been on a stable or decreasing dose of corticosteroid for at least 7 days prior to enrollment are not eligible; if used to modify immune adverse events related to prior therapy, >= 14 days must have elapsed since last dose of corticosteroid* Investigational drugs: patients who are currently receiving another investigational drug are not eligible* Anti-cancer agents: patients who are currently receiving other anti-cancer agents are not eligible* Anti-GVHD agents post-transplant: patients who are receiving cyclosporine, tacrolimus or other agents to prevent graft-versus-host disease post bone marrow transplant are not eligible for this trial
+144.0
+Concomitant medications* Corticosteroids: patients receiving corticosteroids who have not been on a stable or decreasing dose of corticosteroid for at least 7 days prior to enrollment are not eligible; if used to modify immune adverse events related to prior therapy, >= 14 days must have elapsed since last dose of corticosteroid* Investigational drugs: patients who are currently receiving another investigational drug are not eligible* Anti-cancer agents: patients who are currently receiving other anti-cancer agents are not eligible* Anti-GVHD agents post-transplant: patients who are receiving cyclosporine, tacrolimus or other agents to prevent graft-versus-host disease post bone marrow transplant are not eligible for this trial* CYP3A4 agents: patients who are currently receiving drugs that are strong inducers or inhibitors of CYP3A4 are not eligible; strong inducers or inhibitors of CYP3A4 should be avoided from 14 days prior to enrollment to the end of the study* CYP2C19 agents: patients who are currently receiving drugs that are strong CYP2C19 inducers (e.g., rifampin, ritonavir) or inhibitors (e.g.., fluoxetine, fluvoxamine, ticlopidine) are not eligible
+49.0
+GENERAL EXCLUSION CRITERIA FOR SUBPROTOCOLS: Concomitant medications* Corticosteroids: at the time of consent and enrollment to regimen specific subprotocols, patients receiving corticosteroids who have not been on a stable or decreasing dose of corticosteroid for at least 7 days prior to enrollment to the subprotocol will not be eligible; if used to modify immune adverse events related to prior therapy, >= 14 days must have elapsed since last dose of corticosteroid* Investigational drugs: patients must meet criteria for prior therapy at the time of consent and enrollment to a subprotocol; other investigational agents may not be administered to patients while they are receiving study drug as part of a subprotocol * Anticancer agents: patients must meet criteria for prior therapy at the time of consent and enrollment to a subprotocol; other investigational agents may not be administered to patients while they are receiving study drug as part of a subprotocol * Anti-GVHD agents post-transplant: patients who are receiving cyclosporine, tacrolimus or other agents to prevent graft-versus-host disease post bone marrow transplant are not eligible
+1500.0
+Receiving any other investigational agent which would be considered as a treatment for the primary neoplasm
+102.0
+Receiving any other investigational agent that would be considered as a treatment for the primary neoplasm
+360.0
+Receiving any other investigational agent
+48.0
+Receiving any other investigational agent
+224.0
+Receiving any other investigational agent that would be considered a treatment for the primary neoplasm
+102.0
+The participant has received any other type of investigational agent within 28 days before the first dose of study treatment
+42.0
+The subject has received any other type of investigational agent within 28 days before the first dose of study treatment
+72.0
+Prior investigational immunotherapy
+80.0
+Use of an investigational agent within the past 30 days
+104.0
+TREATMENT: Patients who have had prior treatment with any of the other investigational agents or combinations on this protocol are eligible but will not receive the same investigational agent (everolimus or trametinib) or combination (AZD1775/combination or veliparib/temozolomide); instead, patients will receive an investigational agent or combination prospectively identified to work on a different target in their tumor�s mutation/aberrant pathway
+700.0
+Subjects must have received their last dose of investigational or biologic agent >= 7 days prior to study registration* In the event that a subject has received an investigational or biologic agent and has experienced >= grade 2 myelosuppression, then at least three (3) weeks must have elapsed prior to registration* If the investigational or biologic agent has a prolonged half-life (>= 7 days) then at least three (3) weeks must have elapsed prior to registration
+52.0
+Patients who are receiving any other concurrent investigational agents (patients are eligible to enroll 4 weeks after completion of prior agent)
+54.0
+Biologic therapy: patients should have received their last dose of biologic agent >= 7 days prior to enrollment; in the event the patient has received another biologic agent and has experienced >= grade 2 myelosuppression, then at least three (3) weeks must have elapsed prior to enrollment; if the investigational or biologic agent has a prolonged half-life then at least three (3) weeks interval is required
+40.0
+Patients must NOT receive concurrent anti-cancer therapy or investigational agent unless specified in protocol
+600.0
+Patients who are receiving any other investigational agent(s)
+340.0
+The subject has received any other type of investigational agent within 28 days before the first dose of study treatment
+90.0
+Patients who are currently participating in or have participated in a study of an investigational agent or using an investigational device within 4 weeks of the first dose of treatment
+36.0
+The subject has received any other type of investigational agent within 28 days before the first dose of study treatment
+135.0
+Patients who are receiving any other investigational agents; if the patient received a previous investigational or other agent or treatment, a washout period of 4 weeks is required
+35.0
+Other investigational agent within 3 weeks prior to initiation of study therapy
+30.0
+No investigational agent within 21 days prior to registration
+110.0
+Patients who are receiving any other investigational agents, or have received an investigational agent within the past 30 days
+50.0
+Patient is receiving another investigational agent for the treatment of cancer
+188.0
+Patients who have previously received temsirolimus, another mTOR inhibitor, or any other investigational agent
+337.0
+Patients who are receiving any other investigational agents, or have received an investigational agent within the past 30 days
+24.0
+Patients may not be receiving any other investigational agents and may not have participated in a study of an investigational agent or using an investigational device within five half-lives of the compound or 3 months, whichever is greater
+98.0
+Patients who are receiving any other investigational agent
+47.0
+Patients may not have received any other investigational agents within 4 weeks of study entry
+36.0
+Have received any investigational new drug within the past 30 days or planning to receive such during the study period
+240.0
+Patients may not be planning to receive any other investigational agents
+162.0
+Participants who received investigational agents, other than investigational antiretroviral agents for HIV, within the 4 weeks before randomization, unless approved by the study chair
+150.0
+Patients who are receiving any other investigational agents or who have received pomalidomide in the past
+63.0
+Participants who received any other chronic (defined as more than 50% of the time in the last 6 months) systemic immunomodulatory agents (replacement doses of steroids for adrenal insufficiency are permitted or treatment with prednisone =< 5 mg/day); receipt of investigational agents within the 4 weeks before randomization enrollment, other than investigational antiretroviral agents for HIV and investigational or approved agents for hepatitis C, are also exclusionary
+5058.0
+Concurrent administration of any other investigational agents
+23.0
+Patients must not receive any other investigational agents while on study or within four weeks prior to registration
+300.0
+Participants who are receiving any other investigational agents within 4 weeks prior to enrollment; investigational antiretroviral agents for HIV are acceptable
+56.0
+Patients must not be planning to receive any other investigational agents during the course of protocol treatment
+223.0
+Patients must not receive any other investigational agents while on study or within four weeks prior to randomization
+400.0
+Use of any investigational product within 4 weeks prior to randomization
+990.0
+Patients may not be receiving any other investigational agents nor have participated in an investigational trial within the past 4 weeks
+549.0
+Any other investigational agents within the past 4 weeks
+680.0
+Patients should not have received any other investigational agents within the past 4 weeks
+126.0
+Patients who are receiving any other investigational agents; all investigational agents other than ibrutinib must have been discontinued at least 4 weeks prior to beginning treatment; prior ibrutinib therapy must have been discontinued at least 2 weeks prior to beginning therapy
+50.0
+Patients must not be receiving or planning to receive any other investigational agents
+180.0
+Concurrent anticancer therapy (including other investigational agents)
+24.0
+Concomitant therapy with any anticancer agents, immunosuppressive agents, other investigational anticancer therapies
+84.0
+Patients must not have received radiation therapy, non-cytotoxic agents or investigational agents or systemic corticosteroids within 14 days prior to registration
+77.0
+Participants should not have received any other investigational agents nor have participated in an investigational trial within the past 4 weeks
+70.0
+Patients who have not recovered from adverse events to < grade 1 (other than alopecia) due to agents administered more than 3 weeks earlier; however, the following therapies are allowed:* Hormone replacement therapy or oral contraceptives* Herbal therapy > 1 week prior to cycle 1, day 1 (herbal therapy intended as anticancer therapy must be discontinued at least 1 week prior to cycle 1, day 1)* Palliative radiotherapy for bone metastases > 2 weeks prior to cycle 1, day 1
+488.0
+Patients who have had chemotherapy or radiotherapy within 4 weeks (6 weeks for nitrosoureas or mitomycin C) prior to entering the study or those who have not recovered from adverse events (other than alopecia) due to agents administered more than 4 weeks earlier; however, the following therapies are allowed:* Hormone-replacement therapy or oral contraceptives* Herbal therapy > 1 week prior to cycle 1, day 1 (herbal therapy intended as anticancer therapy must be discontinued at least 1 week prior to cycle 1, day 1)* Palliative radiotherapy for bone metastases > 2 weeks prior to cycle 1, day 1
+40.0
+Patients who have had chemotherapy or radiotherapy within 4 weeks (6 weeks for nitrosoureas or mitomycin C) prior to entering the study or those who have not recovered from adverse events (other than alopecia) due to agents administered more than 4 weeks earlier; however, the following therapies are allowed:* Hormone-replacement therapy or oral contraceptives* Herbal therapy > 1 week prior to cycle 1, day 1 (herbal therapy intended as anticancer therapy must be discontinued at least 1 week prior to cycle 1, day 1)
+22.0
+Treatment with any other investigational agent within 4 weeks prior to cycle 1, day 1
+488.0
+Treatment with any other investigational agent within 4 weeks prior to cycle 1, day 1
+40.0
+Treatment with any other investigational agent within 4 weeks prior to cycle 1, day 1
+60.0
+Patients who have received any other investigational agents within the past 28 days prior to cycle 1 day 1
+90.0
+Treatment with any other investigational agent within 4 weeks prior to cycle 1, day 1
+22.0
+Treatment with any other investigational agent within 4 weeks prior to cycle 1, day 1
+78.0

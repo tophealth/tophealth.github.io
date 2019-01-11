@@ -1,0 +1,246 @@
+Tissue blocks or slides must be sent if available, with exclusions; if tissue blocks or slides are unavailable, the study chair must be notified prior to study enrollment
+154.0
+For patients enrolling on Part B: tissue blocks or slides must be sent; if tissue blocks or slides are unavailable, the Study Chair must be notified prior to enrollment
+148.0
+Tissue blocks or slides must be sent for all patients; if tissue blocks or slides are unavailable, the study chair must be notified prior to enrollment
+484.0
+Part C: Archived paraffin-embedded tissue (20 unstained slides or a tumor block) from a prior resection must be available as a control for correlative studies; if tissue blocks or slides are unavailable, the study chair must be notified prior to enrollment
+81.0
+Tissue blocks or slides must be sent; if tissue blocks or slides are unavailable, the study chair must be notified prior to enrollment
+67.0
+Tissue blocks or slides must be sent if available; if tissue blocks or slides are unavailable, the study chair must be notified prior to study enrollment
+65.0
+Archival tissue of tumors (slides or blocks [blocks preferred]) must be available for analysis; If tissue is not available, patients willing to undergo a pre-treatment biopsy may enroll
+24.0
+Tissue blocks or slides must be sent for all patients; if tissue blocks or slides are unavailable, the study chair must be notified prior to enrollment
+51.0
+Submission of tumor tissue is required for all patients; investigators should check with their site pathology department regarding release of biospecimens before approaching patients about participation in the trial
+84.0
+Submission of tumor tissue is required for all patients; investigators should check with their site pathology department regarding release of biospecimens before approaching patients about participation in the trial
+488.0
+All patients must provide archival tissue block or paraffin sample from archival tissue block (approximately 10 sections) for use in pharmacodynamic correlative studies (NOT required for patients enrolled on the dose escalation for intermittent ABT-888 portion of the study)
+36.0
+United States (US) and Canadian sites:* This review is mandatory prior to registration to confirm eligibility; patients must be willing to submit tissue samples for mandatory central pathology review submission; it should be initiated as soon after surgery as possible
+360.0
+Willingness to allow the provision of tissue samples for correlative research, as long as adequate tissues are available; patients will not be excluded from participation in the study, if they are willing to allow provision of tissues for the correlative research, but there are insufficient quantities of tissue for the correlative analyses (e.g., a patient otherwise eligible and willing who had biopsy only)Willingness to allow the provision of blood samples for correlative research; patients are not excluded from participation in the study, if they are willing to provide the mandatory biospecimens for translational/correlative research, but for logistical reasons the specimens(s) were not obtainable or if the volume collected was insufficient
+360.0
+Patients with histologically confirmed ovarian stromal tumor [granulosa cell tumor, ganulosa cell-theca cell tumor, Sertoli-Leydig cell tumor (androblastoma), steroid (lipid) cell tumor, gynandroblastoma, unclassified sex cord-stromal tumor, sex cord tumor with annular tubules]
+128.0
+At the point when tumor biopsies become mandatory (expansion phase only), disease amenable to biopsy and willingness to undergo biopsies or patient will be undergoing a procedure due to medical necessity during which the tissue may be collected, or tumor biopsy tissue from a previous research study or medical care is available for submission at registration; criteria for the submission of tissue are:* Tissue must have been collected within 3 months prior to registration* Patient has not received any intervening therapy for their cancer since the collection of the tumor sample* Tumor tissue must meet the minimum requirements outlined
+74.0
+Patients must have tumor tissue available for submission to assess gene expression of ERCC1 and XRCC1; patients must also be offered participation in banking for future use of specimens
+162.0
+Adequate sections or a paraffin block from the original diagnostic specimen must be submitted for review by the lymphoma pathology group
+155.0
+Eligible patients in the dose escalation phases of the trial must agree to biopsies of normal skin, unless they undergo optional tumor biopsies; the mandatory biopsy requirement can be waived at the discretion of principal investigator in the event of any medical contraindication (e.g. lidocaine allergy); patients enrolled to the expanded cohorts must agree to tumor sampling; patients on anticoagulation must be able to hold warfarin or low molecular weight heparin for a sufficient amount of time to make skin and tumor biopsies safe to perform; PT/INR and PTT should be =< 1.5 times the institutional upper limit of normal prior to performance of skin or tumor biopsies, with values re-checked after the eligibility screen as medically indicated
+130.0
+All patients must agree to provide an archival tissue block or paraffin sample from archival tissue block (approximately 10 sections) for use in pharmacodynamic correlative studies; however, patients are not considered ineligible if archival tumor is not available
+130.0
+Tumor GANQ, GNA11, and BAP1 mutational status must be determined on all patients; if initial testing is performed locally or not available, MSKCC or Columbia University Medical Center (CUMC) patients must consent to provide a tumor block or unstained slides to MSKCC or CUMC for central review of mutational status; if tissue is not available, a pre-treatment biopsy will be necessary for eligibility * Patients enrolled at Vanderbilt University Medical Center may have GNAQ and GNA11 mutational status determined on a Clinical Laboratory Improvement Act (CLIA)-approved assay at Vanderbilt University Medical Center, CUMC, or MSKCC; tissue must be sent to MSKCC for BAP1 mutational status determination* The determination of mutational status may be performed retrospectively and will not delay patient treatment on study as long as tissue is available for molecular analysis
+40.0
+Participants must have fifteen blank (unstained) slides or a diagnostic tissue block must be available for external quality assurance by the AMC Core Pathology Laboratory
+90.0
+Patients must have pre-treatment blood and tissue specimens submitted for translational medicine as outlined; with patient consent, residuals will be banked for future research
+1900.0
+Candidate for and willingness to have a surgically placed intraperitoneal catheter and tissue acquisition at the time of port placement; note: if an intraperitoneal catheter is already in place, a tumor biopsy will still be required; a guided core-needle biopsy is sufficient in these cases
+102.0
+Patients with sporadic (non NF-1 associated), histologically diagnosed progressive, recurrent or refractory non-optic pathway pilocytic astrocytoma who have pre- treatment tumor tissue available for BRAF analysis
+180.0
+NF-1 patients with radiographic evidence of a progressive, recurrent or refractory low grade glioma, with or without pre-treatment tumor tissue
+180.0
+Patients with progressive, recurrent or refractory optic pathway glioma, with or without pre-treatment tumor tissue
+180.0
+Subjects may be enrolled at one of three time points in the clinical course of disease:* Study 1 (New Diagnosis): ** Pediatric patients with newly diagnosed primary central nervous system tumors undergoing surgical resection/biopsy within 21 days or who, within the prior 21 days, have undergone resection/biopsy with substantial residual (greater than half as assessed by the surgeon) tumor* Study 2 (Possible Tumor Recurrence): ** Pediatric patients with a history of treated primary central nervous system tumor, in whom standard imaging has raised concern for tumor recurrence; tumor tissue for histological analysis must be available from a biopsy/resection planned within the next 21 days or from a prior resection/biopsy if no current biopsy material is available* Study 3 (Response to Therapy): ** Pediatric patients with a primary central nervous system tumor who will be starting a new regimen (standard or experimental) of chemotherapy within 21 days, have not received radiation therapy during the past six months, and who will not be receiving radiation therapy during the first two cycles of chemotherapy
+75.0
+Patients must have a tumor tissue form indicating availability of archived tissue from initial resection at diagnosis of glioblastoma completed and signed by a pathologist
+36.0
+Patients must consent to analysis on archival tissue; if archival sample is not available, a sufficient tumor biopsy can be performed a minimum of 28 days prior to start of treatment if felt to be clinically reasonable
+72.0
+Willingness to provide blood and urine samples, and biopsy samples if on the expansion phase of the study, for research purposes; for the expansion cohort, patients must have tumor amenable to biopsy (excisional or incision biopsies of skin or head and neck [H & N] lesions under visualization) and willingness to undergo a tumor biopsy or patient will be undergoing a procedure due to medical necessity during which the tissue may be collected, or archival tumor biopsy tissue from a previous research study or medical care is available for submission at registration; criteria for the submission of archival tissue are:* Tissue must have been collected within 3 months prior to registration* Patient has not received any intervening therapy for their cancer since the collection of the tumor sample* Tumor tissue must meet the minimum requirements
+68.0
+Patients must have available and be willing to submit baseline tissue taken at the time of disease progression to prior BRAF inhibitor-based therapy (either fresh frozen [preferred], or paraffin-embedded tumor blocks) OR must have a site of disease that can be biopsied within this study for translational medicine studies; tissue may be from an archival biopsy or a new biopsy after the patient has been registered to the protocol; since patients are referred to this protocol after progression on prior BRAF inhibitor-based therapy, the biopsy taken at the time of progression will be used as the baseline biopsy for this study; patients must be willing to submit plasma and whole blood for translational medicine studies
+97.0
+Tissue acquisition: patient must agree to provide the required research biopsies at baseline, week 4 and at surgery for integral and integrated biomarker and correlative studies
+2060.0
+The availability of formalin-fixed paraffin embedded archival tissue from core biopsy of tumors is recommended for exploratory analysis
+30.0
+Patients must have measurable disease or evaluable disease for the escalation phase; for the 6 additional patients enrolled at maximum tolerated dose (MTD) for further evaluation of pharmacokinetic (PK) and pharmacodynamic (PD) endpoints (Expansion Arm A), for the 6-patient breast cancer gene (BRCA)-mutation expansion arm, patients must have measurable disease; however, tumor biopsies are optional; for Expansion Arm B, patients must have tumor amenable to biopsy (excisional or incision biopsies of skin or head and neck [H & N] lesions under visualization) and willingness to undergo a tumor biopsy or patient will be undergoing a procedure due to medical necessity during which the tissue may be collected, or tumor biopsy tissue from a previous research study or medical care is available for submission at registration; criteria for the submission of tissue are:* Tissue must have been collected within 3 months prior to registration* Patient has not received any intervening therapy for their cancer since the collection of the tumor sample* Tumor tissue must meet the minimum requirements
+72.0
+TUMOR BIOPSY SEQUENCING: Patient must have tumor amenable to percutaneous or excisional skin biopsy and be willing to undergo a tumor biopsy or biopsy samples (formalin-fixed paraffin-embedded [FFPE] blocks) collected on another study or from a procedure performed due to medical necessity may be acceptable if collected within 6 months prior to registration on MPACT and providing that the patient has not received any investigational or targeted treatment since that time
+700.0
+TREATMENT: Patient must have predefined targeted mutation in tumor biopsy
+700.0
+Breast patients with tissue expanders are not allowed with the exception of tissue expanders made of material that are MRI compatible; check with the MRI technician to confirm
+278.0
+Paired pre-treatment and post-treatment biopsies are required for all patients on Part 1 and first 15 patients in Part 2; participants must have available archival tumor tissue (at least 20 unstained slides); if archival tissue is not available or is found not to contain tumor tissue, a fresh biopsy is required; if a patient is having a tumor biopsy, less than 20 unstained slides are acceptable with approval of the principal investigator (PI); biopsies will only be performed in a given patient if they are not deemed to involve unacceptable risk based on the sites of disease and other concurrent medical conditions
+130.0
+Sufficient tissue available for central pathology review and MGMT methylation status evaluation
+440.0
+Patients must have disease amenable to biopsy and must be willing to undergo a paired biopsy for correlative analyses (the first biopsy within 28 days prior to start of treatment and the second biopsy while on treatment)
+100.0
+Patients must have 10 representative hematoxylin and eosin (H&E) stained thyroid tissue slides OR tumor block available for submission to central pathology review; this review is mandatory prior to registration to confirm eligibility
+34.0
+Patients must have adequate tumor tissue available, defined as >= 20% tumor cells and >= 0.2 mm^3 tumor volume* The local interpreting pathologist must review the specimen* The pathologist must sign the S1400 Local Pathology Review Form confirming tissue adequacy prior to screening/pre-screening registration* Patients must agree to have this tissue submitted to Foundation Medicine for common broad platform Clinical Laboratory Improvement Act (CLIA) biomarker profiling and c-MET IHC; if archival tumor material is exhausted, then a new fresh tumor biopsy that is formalin-fixed and paraffin-embedded (FFPE) must be obtained; a tumor block or FFPE slides 4-5 microns thick must be submitted; bone biopsies are not allowed; if FFPE slides are to be submitted, at least 12 unstained slides plus an H&E stained slide, or 13 unstained slides must be submitted; however it is strongly recommended that 20 FFPE slides be submitted; Note: previous next-generation deoxyribonucleic acid (DNA) sequencing (NGS) will be repeated if done outside this study for sub-study assignment; patients must agree to have any tissue that remains after NGS testing retained for the use of the translational medicine (TM) studies (if such TM studies are defined) within any sub-study the patient is enrolled in
+10000.0
+Formalin fixed paraffin embedded tumor tissue (preferably from current recurrence) must be available to assess Rb1 protein status prior to enrollment; only patients with recurrent diffuse intrinsic brain stem glioma (DIPG) can be enrolled without the need for available tumor tissue for Rb1 protein status confirmation
+40.0
+Formalin fixed, paraffin embedded (FFPE) tumor sample from the primary tumor, mandatory* NOTE: for adjuvant patients this refers to the surgical specimen; for neoadjuvant patients, both the pre-treatment core biopsy and the surgical specimen with residual disease are requested but only one is mandatory; if the surgery tumor blocks are available, but cannot be submitted, sites may submit a portion of invasive tumor from the original block, either by taking at least one core of at least 3 mm in diameter, or by splitting the original block in two parts, and re-embedding one in a new block for central submission; if blocks containing pre-neoadjuvant treatment core biopsies are available but cannot be submitted, sections mounted on glass slides prepared from the block can be provided; if tumor sample can't be provided as requested above or if it's not available, approval by study team for patient's entry into the trial is required
+1500.0
+Primary tumor site without progression at registration
+84.0
+Patients must have stage cT2-T4a N0 M0 disease; clinical T stage is based on the transurethral resection of bladder tumor (TURBT) sample and imaging studies; patients must undergo cystoscopy and TURBT as part of the staging procedure within 56 days prior to registration; to exclude non-bulky/low-risk tumors and ensure adequate tissue for assessment, subjects must have documented muscle invasion with at least one of the following:* Disease measuring at least 5 mm on cross-sectional imaging or by endoscopic assessment; bladder thickening on imaging without definable tumor is not adequate; pathology verification of >= 0.5 cm of viable tumor (longest diameter) from the biopsy sample and represented on the submitted slides is also acceptable* The presence of tumor-associated hydronephrosis
+230.0
+Patients must have tumor tissue from transurethral resection of the bladder tumor (TURBT) available for submission that is sufficient for COXEN testing and must agree to submission of 20 (10 micron) slides of formal-fixed paraffin embedded (FFPE) tissue, with 2 (5 micron) slides at the start and end of the 20 slides, for a total of 22 unstained slides; the diagnostic TURBT sample must have been obtained within 56 days prior to registration; all sections should be placed on plus slides, as is the standard procedure in most pathology units
+230.0
+Patients must consent, if residual tumor is present at the time of cystectomy, to the submission of 20 (10 micron) unstained slides with 2 (5 micron) slides at the start and stop of the series (total of 22 unstained slides)
+230.0
+Patients enrolled in Part 2 must have at least 20 (preferably 40) slides of archival tumor tissue from a prior surgery demonstrating GBM; patients enrolled in Part 1 will not be required to have archival tissue
+40.0
+Patients must have a formalin-fixed, paraffin-embedded (FFPE) tumor block OR 1 representative hematoxylin and eosin (H&E) and 20 unstained myxoid liposarcoma tissue slides available for submission to central pathology review; this review is mandatory prior to registration to confirm eligibility
+30.0
+Willing to provide tissue samples for correlative research purposes
+44.0
+Tumor tissue must be available for submission for central pathology review* Timing requirements:** If MGMT has been assessed locally by LabCorps or MD Anderson Cancer Center Molecular Diagnostics Lab (MDACC-MDL):*** Tissue for central pathology review and central MGMT assessment and the official LabCorps or MDACC-MDL MGMT result must be received by the NRG Oncology Biospecimen Bank on or before postoperative calendar day 40*** The site�s local MGMT report from LabCorp or MDACC-MDL will then be used to stratify the patient; a post-stratification MGMT central review will be performed, but step 2 registration and protocol treatment can proceed without central review of MGMT*** Patients whose tissue for central pathology review and official LabCorps or MDACC-MDL MGMT result cannot be received by NRG Oncology Biospecimen Bank on or before 40 calendar days after surgery may NOT enroll on this trial** If MGMT has not been assessed locally by LabCorps or MDACC-MDL:*** Tissue for central pathology review and central MGMT assessment must be received by the NRG Oncology Biospecimen Bank on or before postoperative calendar day 30*** Central MGMT analysis will be performed at MDACC-MDL and used for patient stratification; results will be conveyed to NRG Oncology within 10 business days of receipt of the tissue*** Patients who have not had local MGMT assessment by LabCorps or MDACC-MDL and whose tissue for central pathology review cannot be received by NRG Oncology Biospecimen Bank on or before 30 calendar days after surgery may NOT enroll on this trial* Tissue Requirements:** Patients must have at least 1 block of tumor tissue; submission of 2 blocks is strongly encouraged to maximize the chances of eligibility; in total, at least 1 cubic centimeter of tissue composed primarily of tumor must be present** Submission of an accompanying hematoxylin and eosin H&E slide(s) is MANDATORY** Diagnosis must be made by surgical excision, either partial or complete; stereotactic biopsy and cavitronic ultrasonic surgical (CUSA) techniques are not allowed
+606.0
+Tumor tissue that is determined by central pathology review prior to step 2 registration to be of sufficient quantity for central analysis of MGMT status
+606.0
+Patients must agree to undergo two separate biopsies of a malignant lesion; biopsies do not need to be done if one of the following apply:* If either the site investigator or person performing the biopsy judges that no tumor is accessible for biopsy or that biopsy poses too great of a risk to the patient (if the only tumor accessible for biopsy is also the only lesion that can be used for RECIST v1.1 response evaluation, then the patient may be exempt from biopsy after discussion with the MSK principal investigator)* The goal will be to have a minimum of 6 patients from Cohort A and 3 patients from Cohort B attempt to have one or both of these research biopsies done (for a total of 9 patients total); accrual may be limited only to subjects for whom tumor is accessible for biopsy and attempt at biopsy is considered safe if continued enrollment of those who are not candidates for biopsy make it impossible to reach the accrual goals for research biopsies described above (e.g., if 19 [of 25] patients are accrued to Cohort A without any biopsies having been obtained within the cohort, then all further subjects who are registered to that cohort must qualify for attempted research biopsy in order to be enrolled into the study [i.e., subjects who would have been excluded from having biopsies done due to the above reasons would be excluded from participating in the study; these conditions also apply to Cohort B])
+35.0
+Availability of archival tumor tissue from the thyroid cancer primary or metastasis (a tissue block or a minimum of 30 unstained slides would be required; patients with less archival tissue available may still be eligible for the study after discussion with the MSK principal investigator)
+35.0
+For stage 2 GBM participants, a block of paraffin embedded tissue or 30 unstained slides at standard 4-5 um thickness from any prior surgery demonstrating GBM pathology must be available for submission
+23.0
+Patients with any size of grade 2 or 3 of the following �intermediate (rarely metastasizing)� or �malignant� tumors, as defined in the WHO classification of soft tissue tumors for which we have consensus data of chemotherapy-resistance are eligible only for the non-chemotherapy cohort:* So-called fibrohistiocytic tumors - plexiform fibrohistiocytic tumor, giant cell tumor of soft tissues* Fibroblastic/myofibroblastic tumors - solitary fibrous tumor, malignant solitary fibrous tumor, inflammatory myofibroblastic tumor, low grade myofibroblastic sarcoma, myxoinflammatory fibroblastic sarcoma, atypical myxoinflammatory fibroblastic tumor, myxofibrosarcoma, low grade fibromyxoid sarcoma, sclerosing epithelioid fibrosarcoma* Tumors of uncertain differentiation - epithelioid sarcoma, alveolar soft part sarcoma, clear cell sarcoma of soft tissue, angiomatoid fibrous histiocytoma, ossifying fibromyxoid tumor, myoepithelioma, myoepithelial carcinoma, extraskeletal myxoid chondrosarcoma, neoplasms with perivascular epithelioid cell differentiation (PEComa), intimal sarcoma, atypical fibroxanthoma, mixed tumor NOS, phosphaturic mesenchymal tumor, malignant ossifying fibromyxoid tumor, malignant mixed tumor, malignant phosphaturic mesenchymal tumor* Chondro-osseous tumors - extraskeletal osteosarcoma* Pericytic (perivascular) tumors - malignant glomus tumor* Nerve sheath tumors - malignant peripheral nerve sheath tumor, malignant granular cell tumor, epithelioid malignant peripheral nerve sheath tumor, malignant Triton tumor* Undifferentiated sarcomas (with a specific pathologic category in the WHO classification) - undifferentiated round cell sarcoma, undifferentiated epithelioid sarcoma, undifferentiated spindle cell sarcoma
+340.0
+Sufficient tissue and blood must be available to submit for required biology studies
+340.0
+Patients with cutaneous or superficial lesions that do not require imaging guidance for biopsy must be willing to undergo biopsies for tissue submission and blood draws for translational medicine
+280.0
+Patients must have archived formalin-fixed paraffin-embedded (FFPE) tumor tissue specimen from the residual disease on the definitive surgical specimen available for PAM50 analysis for stratification* Tumor tissue specimen from the definitive surgery has been collected and is ready to ship to the ECOG-American College of Radiology Imaging Network (ACRIN) Central Biorepository and Pathology Facility (CBPF) within 21 weeks post-surgery* The Molecular Diagnostics Laboratory (MDL) at MD Anderson Cancer Center will perform the PAM50 analysis and notify the ECOG-American College of Radiology Imaging Network (ACRIN) operations office within three (3) weeks of receipt of the tumor tissue specimen via secure electronic messaging to the ECOG-ACRIN database; results will not be reported to the submitting institution* NOTE: Tissue must and can be submitted any time during screening period, even if patient is getting radiation* NOTE: Every effort should be made to submit the tumor tissue specimen to the ECOG-ACRIN CBPF immediately
+562.0
+ELIGIBILITY CRITERIA FOR RANDOMIZATION (STEP 1): Must have PAM50 analysis by digital mRNA quantitation on the formalin-fixed paraffin-embedded tumor tissue specimen (FFPE) of the residual disease in the breast resected at the time of definitive surgery completed
+562.0
+Archival tissue must be available or newly obtained core or excisional biopsy of a tumor lesion
+36.0
+Tissue availability for programmed cell death ligand 1 (PD-L1) expression is mandatory for enrollment; however if archived tissue is unavailable the patient will be given the option to consent to pre and post treatment tissue biopsies; tissue biopsies will be collected pretreatment (prior to the first dose of therapy) and post treatment (after at least 1 dose, preferably 2 doses of nivolumab)
+135.0
+Patients must have adequate tumor tissue to meet the minimum requirement for submission
+330.0
+Enrolling institutions are reminded that submission of pre-treatment serum, tumor tissue and whole blood is required
+330.0
+Patients must have tissue available and must agree to submission of tissue and blood; one to two paraffin-embedded tissue blocks or 15-20 unstained slides are requested (a minimum of 12 slides is required); cytology (i.e. fine-needle aspirations, pleural effusion specimens) is acceptable if a cell block or sufficient unstained slides are available; tumor material must be reviewed by a local pathologist who must confirm that at least 100 viable tumor cells are present in the sample and sign the S1403 Pathology Review Form prior to registration; patients must also be willing to submit blood samples for correlative research at baseline, during treatment and at progression
+223.0
+Patients enrolled at sites participating in the Repeat Biopsy Study must agree to submission of tissue obtained by a repeat biopsy performed at the time of disease progression
+223.0
+Patients must meet one of the following criteria:* Patients must have tumor amenable to image guided or direct vision biopsy and be willing and able to undergo a tumor biopsy for molecular profiling; patients with multiple myeloma other than plasmacytomas are to have a bone marrow aspirate to obtain tumor cells; biopsy must not be considered to be more than minimal risk to the patient** NOTE: Registration to screening steps (Step 0, 2, 4, 6) must occur after stopping prior therapy; there is no specific duration for which patients must be off treatment prior to registration to the relevant screening step (and subsequently, the biopsy), as long as all other eligibility criteria are met OR* Patient will be undergoing a procedure due to medical necessity during which the tissue may be collected** NOTE: Registration to screening steps (Step 0, 2, 4, 6) must occur after stopping prior therapy; there is no specific duration for which patients must be off treatment prior to registration to the relevant screening step (and subsequently, the biopsy), as long as all other eligibility criteria are met OR* Formalin-fixed paraffin-embedded tumor tissue block(s) are available for submission following pre-registration (not applicable for bone marrow aspirate specimens); criteria for the submission of formalin-fixed paraffin-embedded (FFPE) tissue are:** Tissue must have been collected within 6 months prior to pre-registration to Step 0*** Patient may receive treatment after tissue collection; however, lack of response must be documented prior to Step 1; the following restrictions apply:**** Enrollment onto another investigational study is not permitted**** Intervening therapy that constitutes a new, molecularly targeted therapy is not permitted; please note, immunotherapy is not considered molecularly targeted***** Continuation of an agent/regimen for which disease progression has been observed prior to biopsy is permitted, including targeted therapy**** A new immunotherapy regimen is permitted; but, lack of response must also be documented prior to registration to Step 0** Formalin-fixed paraffin-embedded tumor tissue block(s) must meet the minimum requirements OR* Results from one of the designated outside laboratories indicate a �rare variant� that is an actionable mutation of interest (aMOI) for specific designated rare variant subprotocols; the following requirements apply:** The outside laboratory notified the site that patient may be a potential candidate for MATCH due to a detected �rare variant�** Patients with an applicable �rare variant� must be able to meet the eligibility criteria for the appropriate subprotocols within 4 weeks following entry on the EAY131 Step 0 screening step** Registration to Step 0 must occur after stopping prior systemic anti-cancer therapy; there is no specific duration for which patients must be off treatment prior to registration to Step 0, as long as all eligibility criteria are met*** NOTE: Other potential aMOIs that would be eligibility criteria for NON RARE arms, as determined by the above laboratories, are not applicable for direct treatment assignment on MATCH*** NOTE: Tumor tissue for the confirmation of �rare variant� by the MATCH assay is to be submitted, preferably from the same time of collection as that evaluated by the designated outside laboratory
+6452.0
+Unless the pre-screening was performed at Yale Clinical Molecular Pathology Lab (YCMPL), patients must have TCC tumor tissue available for submission in a form of at least 10 unstained slides or formalin-fixed paraffin-embedded (FFPE) block (FFPE block highly recommended and preferred) along with a buccal swab; if the number of slides is less than 10, a biopsy should be considered; if a biopsy is deemed unsafe, the case may be discussed with the study principal investigator (PI) and approval must be given for eligibility
+209.0
+Patients must have adequate pre-trial formalin-fixed paraffin-embedded (FFPE) tumor material available for use in the biology studies mutational analysis and genome wide sequencing for each stratum* Patients with DIPG who have tissue available are requested to submit similar tissue as patients in other strata; however, this is not required for eligibility
+110.0
+INCLUSION CRITERIA FOR STRATUM C: Patients must have adequate pre-trial FFPE tumor material available and be willing to provide a blood sample for use in the genome wide sequencing studies; while tissue is required for genome-wide sequencing of tumor and germline samples, patients will be deemed eligible for the study with a minimum of approximately 10 unstained slides for the planned analysis
+110.0
+Patients must have a formalin-fixed, paraffin-embedded (FFPE) tumor block OR 1 representative hematoxylin and eosin (H&E) and 20 unstained sarcoma tissue slides available for submission to central pathology review; this review is mandatory prior to registration to confirm eligibility
+195.0
+The pathology report and either (1) tissue (blocks or an unstained slides) or (2) a photomicrograph of the ER IHC slides from at least one site of metastatic disease and/or from primary breast cancer must be available for central review and analysis* NOTE: if photomicrographs are submitted, the submission of hematoxylin and eosin (H&E), PR and Ki67 IHC�s, if performed, are also to be submitted
+99.0
+Patient must have adequate tumor specimen available for submission
+90.0
+Phase II study: measurable disease by RECIST 1.1 criteria; if archival tumor sample is not available tumor sample from fresh biopsy is acceptable
+680.0
+Patients must have paraffin tissue from the diagnostic or relapse biopsy available to be submitted for central pathology review and integral molecular subtyping; this review is mandatory prior to registration to confirm eligibility and should be initiated as soon as possible; determination of cell-of-origin subtype will be performed using the lymphoma subtyping test (LST) assay
+302.0
+Patient must have an accessible non-bone tumor lesion from which serial core biopsy specimen can be obtained; NOTE: if baseline biopsy is attempted and is unsuccessful (e.g., patient intolerance, inadequate tissue), the patient will still be considered eligible for the study; if core biopsy is not possible, other methods may be approved in advance by the protocol chair/designee
+45.0
+Willingness to provide tissue and blood samples for mandatory translational research
+45.0
+Patient must have adequate tumor specimen available for submission
+44.0
+Adequate archival tissue from a biopsy performed after progression of disease on previous EGFR-TKI or willing to consent for a fresh tumor biopsy; (mandatory for Cohorts A, B, C; optional for dose escalation and Cohort D)
+82.0
+Adequate archival tissue from a biopsy performed after progression of disease on previous EGFR-TKI or willing to consent to a fresh tumor biopsy (mandatory for dose expansion cohort only; optional for dose escalation)
+36.0
+Adequate archival tissue from a biopsy performed after progression of disease on previous EGFR TKI; or willing to undergo a new tumor biopsy prior to registration (for the dose escalation portion only this requirement can be waived if T790M status has already been determined using a local assay)
+50.0
+Availability of tissue for correlative studies; patients must have at least 6-8 unstained slides of archived formalin-fixed, paraffin-embedded tumor tissue available; if not enough archived tissue is available, a fresh tumor biopsy prior to study initiation is mandatory; for patients who have undergone a fresh baseline biopsy at baseline, the archived tissue is not mandatory
+46.0
+Patients must have access to archival tumor tissue for proposed correlative studies; these may be derived from transurethral resection of bladder tumors (TURBT), cystectomy, or biopsy; if archival tissue is not available for proposed correlatives, patients may be enrolled at the discretion of the study principal investigator (PI) (SKP)
+90.0
+Specimen Submission: Patients must have sufficient tissue available for the required biology study
+337.0
+Patients must have tissue available and be willing to submit for independent pathologic review in order to classify type I versus type II papillary disease
+180.0
+Willing to consent to allow access to known archival tumor tissue (NOTE: designated pathologist from participating site OR lead principal investigator must sign-off to ensure �sufficient� tumor should be available for support of tumor imaging studies [multi-color immunofluorescence])
+32.0
+If archival tumor tissue from a metastatic melanoma lesion is unavailable OR designated pathologist from participating site cannot sign-off to ensure that �sufficient� tumor is available from existing archival tumor block for support of tumor imaging studies, patients must be willing to consent to undergo a biopsy to collect metastatic tumor tissue; collection of fresh biopsy tissue does not guarantee enrollment, unless the pathologist from the participating site signs-off that �sufficient� tumor has been collected
+32.0
+Group 2 patients should have archived or fresh tumor tissue available from the non-craniotomy site and will have fresh tumor tissue available from the planned craniotomy
+46.0
+Available pretreatment biopsy, either fresh (optimal) or archival (acceptable)
+60.0
+Baseline tumor tissue, either fresh (preferred) or from paraffin block/unstained slides if contemporary biopsy is unsafe or not otherwise obtainable from the primary tumor site or metastatic site to be available for use on correlative studies
+60.0
+Confirmation of availability of FFPE tumor specimen with adequate tumor tissue (either one paraffin embedded tissue block OR 10 5-micron unstained slides from the block on regular (non-plus) slides and 1 hematoxylin and eosin [H&E] slide)
+70.0
+Patient has undergone total resection of the primary tumor with curative intent* NOTE: Patient is to be pre-registered to screening (Step 0) and tissue submitted to Foundation Medicine as soon as possible after surgery in order to meet the 8 week deadline to register the patient to Step 1 after surgery; full assay minimum turn-around time is 17-24 days
+345.0
+Patients with, per the operative and/or pathology report, positive margin(s) (tumor present at the cut or inked edge of the tumor) which is not superceded by an additional margin of tumor-negative tissue, nodal extracapsular extension, and/or gross residual disease after surgery are not eligible
+345.0
+A paraffin-embedded surgical tumor tissue specimen has been located is available for shipment to Foundation Medicine, Inc. following pre-registration* NOTE: Complete the EA3132-specific FoundationOne requisition form
+345.0
+NOTE: Patient must meet all eligibility criteria outlined in pre-registration; patient may not be randomized until site has been notified that the central determination of p53 mutation status of the surgical tumor tissue has been completed and site has been notified of assay completion
+345.0
+Patients must have adequate tissue available and must agree to have specimens submitted for germline BRCA deoxyribonucleic acid (DNA) sequencing and other correlative studies* NOTE: Blood for BRCA mutation testing is to be collected and submitted after registration but before treatment
+333.0
+Patients must have archived tumor tissue from prior tumor biopsy or surgical resections available for submission that is sufficient to complete molecular profiling
+51.0
+Patients must be willing and able to undergo a biopsy after signed consent and prior to registration; patients must have tumor tissue and blood samples available and be willing to submit tumor and blood samples; NOTE: core biopsy required; fine needle aspiration (FNA) is not an acceptable substitute for core biopsy
+143.0
+If archival tumor is available for submission, patients must be willing to submit tumor sample
+143.0
+Willingness to provide blood and new tumor biopsy samples for research purposes if on the expansion phase of the study
+38.0
+Surgical formalin-fixed paraffin-embedded (FFPE) specimen must be available for submission to GenomeDx for genomic analysis on DECIPHER GRID platform* Please note: If a patient already has a Decipher risk score and meets all of the other eligibility criteria, the patient is eligible to be registered; however, the Decipher risk report will need to be submitted to GenomeDx for validation
+612.0
+Patients must have had all visible tumor resected completely within 60 days prior to registration; CIS disease is not expected to be completely excised; all patients must have tumor tissue from the histologic diagnosis of recurrence available for central pathology review submission; failure to submit these materials will make the patient ineligible for this study
+148.0
+Cohort 1 (NSCLC cohort) * Ability to undergo a fresh tumor biopsy for the purpose of screening for this clinical trial (including able and willing to give valid written consent) to ability or to provide an available archival tumor sample taken less than 3 months prior to study enrollment (and not obtained prior to progression on a PD-1/PD-L1 inhibitor) if a fresh tumor biopsy is not feasible with an acceptable clinical risk; tumor lesions used for fresh biopsies should be the same lesions to be irradiated when possible and should not be the same lesions used as Response Evaluation Criteria in Solid Tumors (RECIST) target lesions, unless there are no other lesions accessible; additional, optional archival tumor tissue is also requested from before the prior PD-1 directed therapy
+180.0
+Cohort 2 (colorectal cohort) * Ability to undergo a fresh tumor biopsy for the purpose of screening for this clinical trial (including able and willing to give valid written consent) to ability or to provide an available archival tumor sample taken less than 3 months prior to study enrollment if a fresh tumor biopsy is not feasible with an acceptable clinical risk; tumor lesions used for fresh biopsies should be the same lesions to be irradiated when possible and should not be the same lesions used as RECIST target lesions, unless there are no other lesions accessible * Microsatellite stable (MSS) tumor as documented by either: ** Immunohistochemistry (IHC) testing that does not suggest loss of MLH-1, MSH-2, PMS2 or MSH6 ** Polymerase chain reaction (PCR) testing that does not suggest microsatellite instability (MSI)
+180.0
+Must have a tumor lesion safely accessible for biopsy per the investigator�s discretion; while a soft tissue metastasis is preferred for a biopsy, a bone metastasis is allowed for biopsy as long as enough cores can be obtained; a biopsied lesion cannot be used for target lesion for response assessment
+90.0
+Must be agreeable to the mandatory research tumor biopsies (pre-treatment and on-treatment); tumor biopsies are mandatory at pre-treatment and at on-treatment; there is an optional biopsy at post-progression
+90.0
+Participants must have archival tumor tissue available for analysis (minimum 20 5 um slide) or be able to undergo a baseline fresh tumor tissue biopsy
+132.0
+There must be availability of a formalin-fixed, paraffin-embedded tumor specimen
+40.0
+Patient must have archived formalin-fixed paraffin-embedded (FFPE) tumor tissue specimen from the original diagnostic biopsy available for submission to Adaptive Biotechnologies for ClonoSEQ ID molecular marker identification of unique clonal immunoglobulin deoxyribonucleic acid (DNA) sequence* NOTE: Patients for whom the molecular marker is identified will have peripheral blood collected after completion of induction (patient�s disease status is PR or CR) and submitted to Adaptive Biotechnologies for minimal residual disease (MRD) assessment
+689.0
+Willingness to undergo a tumor biopsy
+22.0
+Willingness to provide mandatory tissue and blood samples for correlative studies
+40.0
+Patients must have a minimum of five, available unstained slides from the residual (post-neoadjuvant) invasive tumor in primary site or lymph node; (these will be submitted to determine PD-L1 expression) the tumor tissue must be adequate for PD-L1 testing, which typically requires a minimum of 100 cancer cells per slide* NOTE: Initial order for specimen kits should be placed at least two weeks prior to registering the first patient at each site
+1000.0
+Patients must be willing to submit blood and tissue specimens for translational medicine
+64.0
+Willingness to release archival tissue sample for research purposes, if available
+70.0
+Patients must have a tumor tissue form indicating availability of archived tissue from initial resection at diagnosis of GBM, completed and signed by a pathologist
+30.0
+Patients must have a tumor tissue form indicating availability of archived tissue from a previous surgery for glioblastoma, completed and signed by a pathologist
+35.0
+Patients must have blood and tissue specimens collected prior to registration and submitted for translational medicine; note that patients without adequate diagnostic specimens will not be eligible; with patient consent, residuals from the mandatory submission will be banked for future research
+150.0
+A formalin-fixed, paraffin-embedded tumor block (or 16 unstained sections [charged, 4 um]) of the biopsy or curettage must be submitted along with the corresponding pathology report; patients without such material, but willing to undergo repeat biopsy or curettage, are eligible; repeat biopsy must occur after consent but prior to randomization
+50.0
+Patients for whom a formalin-fixed, paraffin-embedded tumor block (or 16 unstained sections [charged, 4 um]) of the biopsy or curettage are unavailable and patient is unwilling to undergo repeat biopsy or curettage
+50.0
+Patients must be offered the opportunity to submit archival tissue for translational medicine; patients must also be willing to undergo biopsies and submit fresh tissue and blood for translational medicine
+94.0
+Tumor tissue must be available for submission for central pathology review
+120.0
+ELIGIBILITY CRITERIA FOR ENROLLMENT ONTO APEC1621SC: Patients must have a formalin fixed paraffin embedded (FFPE) tumor sample available for MATCH study testing from a biopsy or surgery that was performed at any point after initial tumor recurrence/progression, or be planned to have a procedure to obtain such a sample that is considered to be of potential benefit by the treating clinicians; a tumor sample from a clinically performed diagnostic (pre-treatment) biopsy will be acceptable for enrollment onto pediatric MATCH for children with diffuse intrinsic pontine gliomas (DIPG, brainstem gliomas)
+1500.0

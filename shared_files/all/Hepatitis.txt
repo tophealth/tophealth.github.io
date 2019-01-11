@@ -1,0 +1,206 @@
+Known infection with human immunodeficiency virus (HIV), hepatitis B virus (HBV), or hepatitis C virus (HCV)
+45.0
+Patients must not have an active hepatitis B virus (HBV) or hepatitis C virus (HCV) infection
+97.0
+Known hepatitis B virus (HBV), or hepatitis C virus (HCV) infection (patients with chronic or cleared HBV and HCV infection are eligible); patients with human immunodeficiency virus (HIV) are not eligible if on anti-retroviral medications
+30.0
+A history of hepatitis B virus (HBV) or hepatitis C virus (HCV) infection (with the exception of cleared HBV and HCV infection, which will be allowed)
+40.0
+A history of hepatitis B virus (HBV) or hepatitis C virus (HCV) infection (with the exception of cleared HBV and HCV infection, which will be allowed)
+18.0
+Known history of hepatitis B virus (HBV), or hepatitis C virus (HCV) infection (patients with chronic or cleared HBV and HCV infection are eligible); it is not necessary to conduct HBV and HCV testing at screening
+68.0
+Active hepatitis B virus (HBV), or hepatitis C virus (HCV) infection (patients with chronic or cleared HBV and HCV infection are eligible)
+68.0
+Known hepatitis B virus (HBV), or hepatitis C virus (HCV) infection (patients with chronic or cleared HBV and HCV infection are eligible); patients with human immunodeficiency virus (HIV) are not eligible if on anti-retroviral medications
+130.0
+No known active infection with hepatitis B virus (HBV), or hepatitis C virus (HCV); patients with chronic or cleared HBV infection and HCV infection are eligible
+32.0
+Known hepatitis B virus (HBV), or hepatitis C virus (HCV) infection (patients with chronic or cleared HBV and HCV infection are eligible); patients with human immunodeficiency virus (HIV) are not eligible if on anti-retroviral medications
+250.0
+Known human immunodeficiency virus (HIV), hepatitis B virus (HBV), or hepatitis C virus (HCV) infection (with the exception of chronic or cleared HBV and HCV infection, which will be allowed); patients with human immunodeficiency virus (HIV) are not eligible if on anti-retroviral medications
+35.0
+Patients with evidence of active hepatitis B virus (HBV) or hepatitis C Virus (HCV) infection are not eligible; patients with cleared HBV and HCV infection will be allowed
+300.0
+Patients with a positive test for hepatitis B virus surface antigen (HBV sAg) or hepatitis C virus ribonucleic acid (hepatitis C virus [HCV] antibody) indicating acute or chronic infection might be enrolled if the viral load by PCR is undetectable with/without active treatment
+80.0
+A history of hepatitis B virus (HBV) or hepatitis C virus (HCV) infection (with the exception of cleared HBV and HCV infection, which will be allowed)
+18.0
+Patients are excluded if they have a positive test for hepatitis B virus surface antigen (HBV sAg) or hepatitis C virus ribonucleic acid (HCV antibody) indicating acute or chronic infection
+135.0
+Patients should be excluded if they have known history of testing positive for human immunodeficiency virus (HIV) or known acquired immunodeficiency syndrome (AIDS) or if they have a positive test for hepatitis B virus surface antigen (HBV sAg) or hepatitis C virus ribonucleic acid (HCV antibody) indicating acute or chronic infection
+37.0
+Patients with evidence of active hepatitis B virus (HBV) or hepatitis C virus (HCV) infection are not eligible; patients with cleared HBV and HCV (0 viral load) infection will be allowed
+400.0
+Patients with hepatitis B virus (HBV) infection are eligible provided they meet the other eligibility criteria and:* There is no evidence of hepatic damage related to HBV infection* They have had consistently suppressed HBV viral load to undetectable levels by polymerase chain reaction (PCR) for a minimum of 12 months
+110.0
+Patients with hepatitis C virus (HCV) infection are eligible provided they meet the other eligibility criteria and:* They have previously undergone curative therapy and have no evidence of active HCV infection* They have no evidence of liver damage owing to prior HCV infection
+110.0
+Known human immunodeficiency virus (HIV)-positive patients on combination antiretroviral therapy are ineligible; patients who have a positive test for hepatitis B virus surface antigen (HBV sAg) or hepatitis C antibody (hepatitis C virus [HCV] Ab)/ribonucleic acid (HCV RNA) indicating acute or chronic infection are also ineligible (baseline testing required)
+45.0
+Uncontrolled hepatitis B virus (HBV) infection, defined as plasma HBV DNA detectable by polymerase chain reaction (PCR)* Note: the following will NOT be exclusionary:** A positive hepatitis B serology indicative of previous immunization (i.e., hepatitis B surface antibody [HBsAb] positive and hepatitis B core antibody [HBcAb] negative), or a fully resolved acute HBV infection** Patients with chronic HBV suppressed by appropriate antiretroviral therapy with activity against HBV, as outlined in DHHS guidelines
+60.0
+Uncontrolled hepatitis C virus (HCV) infection, defined as plasma HCV RNA detectable by PCR* Note: the following will NOT be exclusionary:** Positive HCV serology but no detectable HCV RNA, indicative of spontaneously cleared HCV infection** Patients who have been successfully treated for HCV as long as therapy for HCV has been completed
+60.0
+Patients should be excluded if they have a positive test for hepatitis B virus surface antigen (HBV sAg) or hepatitis C virus ribonucleic acid (HCV RNA) indicating acute or chronic infection
+29.0
+Patients with known active hepatitis B virus (HBV) and hepatitis C virus (HCV) infections
+56.0
+Hepatitis B (HBV) or hepatitis C (HCV); all patients must be screened for HBV and HCV up to 28 days prior to study drug start using the routine hepatitis virus laboratorial panel; patients with active HBV or hepatitis C infection are not eligible for enrollment; patients with serologic markers of HBV immunization due to known vaccination (hepatitis B surface antigen [HBsAg] negative, anti-hepatitis B core [HBc] negative and anti-hepatitis B surface [HBs] positive) will be eligible
+84.0
+No known chronic active liver disease or evidence of acute or chronic hepatitis B virus (HBV) or hepatitis C (HCV)
+766.0
+Patients must not have known active hepatitis B virus (HBV) or hepatitis virus (HCV) infection at time of registration; patients with HBV or HCV that have an undetectable viral load, or in the opinion of the treating investigator is well-controlled, are eligible
+707.0
+Patients with a known history of hepatitis C (HCV) will be eligible if they have an undetectable viral load; if the patient received treatment for HCV, then that treatment must have been completed at least three weeks prior to enrollment
+30.0
+Patients with known active hepatitis B virus (HBV) infection should be excluded; however, if a patient has HBV history with an undetectable HBV load by polymerase chain reaction (PCR), no liver-related complications, and is on definitive HBV therapy, then he/she would be eligible for study
+48.0
+Patients with known active hepatitis C virus (HCV) infection; patients with a history of HCV infection who received definitive therapy and has an undetectable viral load by PCR would be eligible
+48.0
+Patients must not have known active hepatitis B virus (HBV) or hepatitis C virus (HCV) infection prior to registration; patients who have completed curative therapy for HCV are eligible; patients with known human immunodeficiency virus (HIV) infection are eligible if they meet each of the following 3 criteria:* CD4 counts >= 350 mm^3* Serum HIV viral load of < 25,000 IU/ml and* Treated on a stable antiretroviral regimen
+1000.0
+Patients must not have known active hepatitis B virus (HBV) or hepatitis C virus (HCV) infection prior to registration
+94.0
+Known hepatitis B virus (HBV), or hepatitis C virus (HCV) infection (patients with chronic or cleared HBV and HCV infection are eligible)
+27.0
+Negative for hepatitis B, or if infected with hepatitis B, receiving anti-hepatitis B therapy; all participants will be required to be screened for hepatitis B; per Infectious Disease Society of America (IDSA) and Assistance for AIDS Specific Drugs (AASD) guidelines, those participants that show no immunity, defined by the lack of hepatitis B surface antigen antibody, and show evidence of chronic infection (i.e. hepatitis B surface antigen [HBsAg]+, hepatitis B core [HBcore]+, hepatitis B surface antibody [HBsAB]-) will be required to be on anti-hepatitis B therapy during the study in order to be eligible; patients will be permitted to enroll in the study provided normal liver function tests and no evidence of cirrhosis; the exact hepatitis B therapy will be at the discretion of the infection disease specialist or investigator; however all patients who present with acute hepatitis B or show normal transaminases and are hepatitis B virus HBsAg surface protein antigen (HBsAg) positive (+) and immunoglobulin M (IgM)+ for hepatitis core antigen will not be eligible for trial enrollment
+70.0
+Patients diagnosed with hepatitis C who are hepatitis C antibody positive, whether hepatitis C RNA level is measurable or not, must have no evidence of cirrhosis and have liver function tests
+70.0
+Documented cirrhosis or documented acute hepatitis; Note: a positive hepatitis B serology indicative of previous immunization (i.e., hepatitis B surface antibody [HBsAb] positive and hepatitis B core antibody [HBcAb] negative), or a fully resolved acute hepatitis B virus (HBV) infection is not an exclusion criterion
+80.0
+For patients with hepatocellular carcinoma secondary to hepatitis B or C, test results should be indicative of chronic viral hepatitis infection:* Patients with hepatitis B** Antibodies: Hepatitis B surface antigen (HepBsAg) and hepatitis B core antibody (HepBcAb) should be elevated and hepatitis B surface antibody (HepBsAb) and hepatitis Be antibody (HepBeAb) low, indicating chronic infection; if the pattern is different from this, please notify the PI** Viral load: COBAS TaqMan test measuring hepatitis B virus (HBV) DNA is reduced in chronic phase hepatitis B; the baseline value as the patient enters this study will be useful to discriminate between drug, disease progression, or increased viral load as possible attributions for worsening symptoms* Patients with hepatitis C** Antibodies: Anti-hepatitis C virus (HCV) testing-specific tests used will be based on the site�s standard procedure for identifying hepatitis C** Viral load: HCV-RNA should be relatively constant in chronic phase of disease, though the level is typically higher than in the acute phase; the baseline value as the patient enters this study will be useful to discriminate between drug, disease progression, or increased viral load as possible attributions for worsening symptoms
+80.0
+A positive hepatitis B serology indicative of previous immunization (i.e., hepatitis B virus surface antibody [HBsAb] positive and hepatitis B virus core antibody [HBcAb] negative), or a fully resolved acute hepatitis B infection is not an exclusion criterion
+52.0
+Negative serology (antibody test) for the following infectious diseases:* Human immunodeficiency virus (HIV) type 1 and 2* Human T-cell leukemia virus (HTLV) type 1 and 2 (mandatory in United States [US] but optional in Canada and Europe)* Hepatitis B surface antigen* Hepatitis C antibody
+420.0
+Serologic status reflecting active hepatitis B or C infection; patients that are positive for hepatitis B core antibody, hepatitis B surface antigen (HBsAg), or hepatitis C antibody must have a negative polymerase chain reaction (PCR) prior to enrollment (PCR positive patients will be excluded)
+52.0
+Has known active hepatitis B (e.g., hepatitis B surface antigen [HBsAg] reactive) or hepatitis C (e.g., hepatitis C virus [HCV] ribonucleic acid [RNA] [qualitative] is detected)
+36.0
+Patients who have a known active hepatitis B or hepatitis C infection are ineligible; patient must have documented evidence of negative tests for the presence of hepatitis B surface antigen and hepatitis C (anti-hepatitis C virus [HCV] antibody OR hepatitis [Hep] C RNA-qualitative); human immunodeficiency virus (HIV)-positive patients are eligible if the following criteria are met:* Stable on their antiretroviral agents* Have CD4 counts above 400* Undetectable viral loads, and* No need for prophylactic medications for an opportunistic infections
+110.0
+EXCLUSION CRITERIA FOR STRATUM C: Patients who have a known active hepatitis B or hepatitis C infection are ineligible; patient must have documented evidence of negative tests for the presence of hepatitis B surface antigen and hepatitis C (anti-HCV antibody OR Hep C RNA-qualitative); HIV-positive patients are eligible if the following criteria are met:* Stable on their antiretroviral agents* Have CD4 counts above 400* Undetectable viral loads, and* No need for prophylactic medications for an opportunistic infections
+110.0
+Participants who have hepatitis C (both reactive anti-hepatitis C virus [HCV] antibody and detectable HCV RNA) and hepatitis B (hepatitis B surface antigen [HBsAg] positive and anti-hepatitis B core [HBc]-total positive), may be enrolled, provided total bilirubin is =< 1.5 x institutional ULN, and AST (SGOT) and ALT (SGPT) must be =< 3 X institutional upper limit of normal, and hepatitis B virus (HBV) deoxyribonucleic acid (DNA) < 100 IU/mL (if hepatitis B positive) within 2 weeks prior to enrollment
+84.0
+Patients cannot have:* Active central nervous system or meningeal involvement by lymphoma; patients with a history of central nervous system (CNS) or meningeal involvement must be in a documented remission by cerebrospinal fluid (CSF) evaluation and contrast-enhanced magnetic resonance imaging (MRI) imaging for at least 91 days prior to registration* Evidence of myelodysplasia or cytogenetic abnormality indicative of myelodysplasia on any bone marrow biopsy prior to initiation of therapy* A known bleeding diathesis* Requirement for warfarin or similar vitamin K antagonists; these drugs are prohibited 28 days prior to the first treatment and throughout the trial* History of stroke or intracranial hemorrhage =< 6 months before treatment* Currently active, clinically significant hepatic impairment (Child-Pugh class B or C according to the Child Pugh classification* History of allergic reactions attributed to compounds of similar chemical or biologic composition to ibrutinib or other agents used in study* Serologic status reflecting active hepatitis B or C infection; patients that are positive for hepatitis B core antibody, hepatitis B surface antigen (HBsAg), or hepatitis C antibody must have a negative polymerase chain reaction (PCR) prior to enrollment; (PCR positive patients will be excluded)
+302.0
+Known serologic status reflecting active hepatitis B or C infection; patients that are hepatitis B core antibody positive, but antigen negative, will need a negative polymerase chain reaction (PCR) prior to enrollment (NOTE: hepatitis B antigen or PCR positive patients will be excluded)
+32.0
+Participants who are hepatitis C virus antibody positive, or hepatitis B virus surface antigen positive must be free of clinical evidence of cirrhosis as determined by the principal investigator in consultation with the gastroenterology service; timeline: within 3 weeks prior to enrollment
+18.0
+Patients who have hepatitis C (both reactive anti-hepatitis C virus [HCV] antibody and detectable HCV RNA) and hepatitis B (hepatitis B surface antigen [HBsAg] positive and anti-hepatitis B core [HBc]-total positive), may be enrolled, provided their total bilirubin: =< 1.5 x institutional upper limit of normal (ULN) AST (SGOT)/ALT (SGPT): =< 2.5 x institutional upper limit of normal
+20.0
+Patients must not have a known positive test for hepatitis B virus surface antigen (HBV sAg) or hepatitis C virus ribonucleic acid (HCV antibody) indicating acute or chronic infection; patients with a positive hepatitis C antibody with a negative viral load are allowed
+350.0
+Documented human immunodeficiency virus (HIV), active bacterial infections, active or chronic hepatitis B, hepatitis C* Positive hepatitis B serology indicative of previous immunization (i.e., hepatitis B surface antigen [HBsAb] positive and hepatitis B core antibody [HBcAb] negative) or a fully resolved acute hepatitis B infection is not an exclusion criterion* Positive hepatitis C serology is an exclusion criterionNOTE: HIV-positive patients are excluded from the study
+24.0
+Known clinically significant liver disease, including active viral, alcoholic, or other hepatitis; cirrhosis; fatty liver; and inherited liver disease.* Patients with past or resolved hepatitis B infection (defined as having a negative hepatitis B surface antigen [HBsAg] test and a positive anti-HBc [antibody to hepatitis B core antigen] antibody test) are eligible* Patients positive for hepatitis C virus (HCV) antibody are eligible only if polymerase chain reaction (PCR) is negative for HCV ribonucleic acid (RNA)
+35.0
+Known clinically significant liver disease, including active viral, alcoholic, or other hepatitis; cirrhosis; fatty liver; and inherited liver disease* Patients with past or resolved hepatitis B infection (defined as having a negative hepatitis B surface antigen [HBsAg] test and a positive anti-HBc [antibody to hepatitis B core antigen] antibody test) are eligible* Patients positive for hepatitis C virus (HCV) antibody are eligible only if polymerase chain reaction (PCR) is negative for HCV ribonucleic acid (RNA)
+488.0
+Patients must not have active hepatitis B (chronic or acute) or active hepatitis C infection* Patients with past or resolved hepatitis B infection (defined as having a negative hepatitis B surface antigen [HBsAg] test and a positive anti-HBc [antibody to hepatitis B core antigen] antibody test) are eligible* Patients positive for hepatitis C virus (HCV) antibody are eligible only if polymerase chain reaction (PCR) is negative for HCV RNA
+148.0
+Known clinically significant liver disease, including active viral, alcoholic, or other hepatitis; cirrhosis; fatty liver; and inherited liver disease* Patients with past or resolved hepatitis B infection (defined as having a negative hepatitis B surface antigen [HBsAg] test and a positive anti-HBc [antibody to hepatitis B core antigen] antibody test) are eligible* Patients positive for hepatitis C virus (HCV) antibody are eligible only if PCR is negative for HCV RNA
+72.0
+Patients with known clinically significant liver disease (have previously tested positive), including active viral, alcoholic, or other hepatitis; cirrhosis; fatty liver; and inherited liver disease* Patients with past or resolved hepatitis B infection (defined as having a negative hepatitis B surface antigen [HBsAg] test and a positive anti-HBc [antibody to hepatitis B core antigen] antibody test) are eligible* Patients positive for hepatitis C virus (HCV) antibody are eligible only if polymerase chain reaction (PCR) is negative for HCV ribonucleic acid (RNA)
+40.0
+History of any chronic hepatitis including alcoholic, non-alcoholic steatohepatitis (NASH), drug related, autoimmune, chronic viral positive tests for hepatitis B virus surface antigen (HBsAg), hepatitis B core antibody (anti-HBc) in the absence of hepatitis B surface antibody (anti-HBs), or a positive hepatitis C (HCV) viral load; these patients are excluded
+30.0
+Known clinically significant liver disease, including active viral, alcoholic, or other hepatitis; cirrhosis; fatty liver; and inherited liver disease* Patients with past or resolved hepatitis B infection (defined as having a negative hepatitis B surface antigen [HBsAg] test and a positive anti-HBc [antibody to hepatitis B core antigen] antibody test) are eligible* Patients positive for hepatitis C virus (HCV) antibody are eligible only if polymerase chain reaction (PCR) is negative for HCV ribonucleic acid (RNA)
+60.0
+Active infection including hepatitis B (known positive hepatitis B virus [HBV] surface antigen [HBsAg]) result or, hepatitis C; patients with a past or resolved HBV infection (defined as the presence of hepatitis B core antibody [anti-HBc] and absence of HBsAg) are eligible; patients positive for hepatitis C (HCV) antibody are eligible only if polymerase chain reaction is negative for HCV ribonucleic acid (RNA); negative serologies documented over the past year are sufficient evidence of this
+180.0
+Known clinically significant liver disease, including active viral, alcoholic, or other hepatitis; cirrhosis; fatty liver; and inherited liver disease* Patients with past or resolved hepatitis B infection (defined as having a negative hepatitis B surface antigen [HBsAg] test and a positive anti-HBc [antibody to hepatitis B core antigen] antibody test) are eligible* Patients positive for hepatitis C virus (HCV) antibody are eligible only if polymerase chain reaction (PCR) is negative for HCV ribonucleic acid (RNA)
+22.0
+Patients with a known positive test for hepatitis B virus surface antigen (HBV sAg) or hepatitis C virus ribonucleic acid (HCV antibody) indicating acute or chronic infection might be enrolled if the viral load by polymerase chain reaction (PCR) is undetectable with/without active treatment
+27.0
+Patients must not have known human immunodeficiency virus (HIV), or a known positive test for hepatitis B virus surface antigen (HBV sAg), or hepatitis C virus ribonucleic acid (HCV antibody) indicating current acute or chronic infection; patients with a positive hepatitis C antibody with a negative viral load are allowed
+132.0
+Known clinically significant liver disease, including active viral, alcoholic, or other hepatitis; cirrhosis; fatty liver; and inherited liver disease* Patients with past or resolved hepatitis B infection (defined as having a negative hepatitis B surface antigen [HBsAg] test and a positive anti-HBc [antibody to hepatitis B core antigen] antibody test) are eligible* Patients positive for hepatitis C virus (HCV) antibody are eligible only if polymerase chain reaction (PCR) is negative for HCV ribonucleic acid (RNA)
+78.0
+Recent history of hepatitis infection or if the treating physician determined that the patient would be at significant risk of reactivation of hepatitis
+360.0
+Patients known to be human immunodeficiency virus (HIV) positive may be enrolled if baseline cluster of differentiation (CD)4 count is > 500 cells/mm^3 AND not taking anti-retroviral therapy; patients with known hepatitis are not eligible unless there is a known negative hepatitis panel; (exception: previous history of hepatitis A infection that is not currently active is allowed); patients must not have any known uncontrolled underlying pulmonary disease
+1900.0
+Patients with known hepatitis B or hepatitis C infection may be eligible providing they have viral load < 800,000 IU/L within 28 days prior to registration
+130.0
+Patients with known chronic human immunodeficiency virus (HIV), hepatitis B or hepatitis C infections should be excluded
+113.0
+Patients must not have a history of chronic or active hepatitis B or C infection; patients must have negative hepatitis B and C serologies performed within 28 days prior to registration
+38.0
+Any evidence of severe or uncontrolled systemic disease, active infection, active bleeding diatheses or renal transplant, including any patient known to have hepatitis B, hepatitis C or human immunodeficiency virus (HIV) will be excluded; patients with HIV who have adequate cluster of differentiation (CD)4 count, not requiring antiretroviral medication will not be excluded
+104.0
+Documented human immunodeficiency virus (HIV), active bacterial infections, active or chronic hepatitis B, or hepatitis C infection
+52.0
+A positive hepatitis C serology is an exclusion criterion
+52.0
+TUMOR BIOPSY SEQUENCING: Patients with uncontrolled intercurrent illness including, but not limited to psychiatric illness/social situations that would limit compliance with study requirements, symptomatic congestive heart failure, unstable angina pectoris, cardiac arrhythmia, myocardial infarction in the past 6 months, invasive fungal infections, or active (acute or chronic) or uncontrolled severe infection, liver disease such as cirrhosis, decompensated liver disease, and active and chronic hepatitis (i.e., quantifiable hepatitis B virus [HBV]-DNA and/or positive hepatitis B surface antigen [HbsAg], quantifiable hepatitis C virus [HCV]-ribonucleic acid [RNA]) are not eligible to participate; testing for hepatitis B or other infections for eligibility will be performed only if clinically indicated
+700.0
+Patients cannot have:* Central nerve system involvement* Primary refractory multiple myeloma, where primary refractory multiple myeloma is defined as disease that is nonresponsive � patients who have never achieved a minimal response (MR) or better � with any therapy over the course of their disease; it includes patients who never achieve MR or better in whom there is no significant change in M-protein and no evidence of clinical progression as well as patients who meet criteria for true progressive disease (PD)* Primary or secondary plasma cell leukemia* Light-chain (AL) amyloidosis or polyneuropathy, organomegaly, endocrinopathy, monoclonal gammopathy, and skin changes (POEMS) syndrome* Known active hepatitis C based on:** +hepatitis C virus (HCV) antibody (confirmed)** +HCV RNA** Liver disease with history of positive serology** Note: patients with a prior history of hepatitis C that has been successfully eradicated with antiviral therapy are eligible* Known hepatitis B surface antigen positivity* Previous hypersensitivity to any of the components of the study treatment* Prior history of erythema multiforme with thalidomide or lenalidomide treatment
+97.0
+Positive hepatitis C serology or active hepatitis B infection
+12.0
+Patients with chronic human immunodeficiency virus (HIV), hepatitis B or hepatitis C infections should be excluded
+92.0
+Known positive patients for infectious hepatitis, type A, B, C
+63.0
+Chronic hepatitis infection, including B and C
+54.0
+No history of the following:* Child Pugh class B or C liver disease* �Chronic active� hepatitis defined as: ** Hepatitis B surface antigen (HBsAg) > 6 months** Serum hepatitis B virus (HBV) deoxyribonucleic acid (DNA) 20,000 IU/ml (105 copies/ml), lower values 2,000-20,000 IU/ml (104-105 copies/ml) are often seen in hepatitis B e antigen (HBeAg)-negative chronic hepatitis B** Persistent or intermittent elevation in alanine aminotransferase (ALT)/aspartate aminotransferase (AST) levels** Liver biopsy showing chronic hepatitis with moderate or severe necroin?ammation
+34.0
+Patients must not have documented evidence of acute hepatitis or have an active or uncontrolled infection
+10000.0
+Patients with known active hepatitis B or C
+1500.0
+Patients with known history of hepatitis B surface antigen-positive, or known history or suspected active hepatitis C infection are not to be enrolled in the study
+57.0
+Patients with known hepatitis B or hepatitis C are not eligible, regardless of concomitant antiretroviral therapy or current viral load
+280.0
+Patients must not have a known history of active hepatitis B infection (defined as presence of hepatitis B surface antigen [Hep B sAg] and/ or Hep B deoxyribonucleic acid [DNA]), active hepatitis C infection (defined as presence of hepatitis C [Hep C] ribonucleic acid [RNA]) and/or known human immunodeficiency virus (HIV) seropositive
+223.0
+Patients with treated hepatitis virus infections (hepatitis B or hepatitis C) are eligible if they have been definitively treated for 6 months, have no detectable viral load on quantitative PCR, and liver function tests (LFTs) meet eligibility requirements
+96.0
+Patients with clinically important history of liver disease, including viral or other hepatitis or cirrhosis are ineligible
+12.0
+Patients with untreated or active hepatitis B or C infection
+209.0
+Active hepatitis B or hepatitis C with abnormal liver function tests
+990.0
+No history of the following:* Active known or suspected autoimmune disease* Patients with human immunodeficiency virus (HIV) are eligible if the lymphocytes > 350 cluster of differentiation (CD)4+ cells and no detectable viral load* Symptomatic, untreated, or uncontrolled brain metastases present* Active autoimmune colitis * Autoimmune panhypopituitarism * Autoimmune adrenal insufficiency * Known active hepatitis B or C** Hepatitis B can be defined as:*** Hepatitis B surface antigen (HBsAg) > 6 months*** Serum hepatitis B virus (HBV) deoxyribonucleic acid (DNA) 20,000 IU/ml (105 copies/ml), lower values 2,000-20,000 IU/ml (104-105 copies/ml) are often seen in hepatitis B e antigen (HBeAg)-negative chronic hepatitis B*** Persistent or intermittent elevation in alanine aminotransferase (ALT)/alanine aminotransferase (AST) levels*** Liver biopsy showing chronic hepatitis with moderate or severe necroinflammation** Hepatitis C can be defined as:*** Hepatitis C antibody (Ab) positive*** Presence of hepatitis C virus (HCV) ribonucleic acid (RNA)* Known active pulmonary disease with hypoxia defined as:** Oxygen saturation < 85% on room air or** Oxygen saturation < 88% despite supplemental oxygen
+195.0
+Evidence of active infection by hepatitis B and/or C; for patients with hepatitis B treated with anti-virals to undetectable viral load, and for patients with hepatitis C with undetectable ribonucleic acid (RNA) levels and no evidence of liver damage, enrollment may be considered and should discuss first with study�s principal investigator
+46.0
+Known active hepatitis, type B or C; patients on suppressive therapy with a negative viral load and no evidence of hepatic damage are eligible
+36.0
+Patients must not have a known history of human immunodeficiency virus (HIV), hepatitis B, or hepatitis C infection that is untreated and/or with a detectable viral load
+714.0
+CLINICAL/LABORATORY CRITERIA: Patients must not have a known history of active hepatitis B or C infection (defined as presence of hepatitis [Hep] B surface antigen [sAg] and/or Hep B deoxyribonucleic acid [DNA] and/or Hep C ribonucleic acid [RNA]); patients must not have a known history of human immunodeficiency virus (HIV) seropositivity
+53.0
+Known history of human immunodeficiency virus (HIV), hepatitis B, or hepatitis C infection or known history of tuberculosis
+147.0
+Severe, active co-morbidity defined as follows:* Unstable angina and/or congestive heart failure requiring hospitalization within 6 months prior to registration* Transmural myocardial infarction within 6 months prior to registration* Acute bacterial or fungal infection requiring intravenous antibiotics at the time of registration; Note: if the infection resolves and the patient is on oral (p.o.) and still within, the required registration timeframe, then the patient is eligible* Chronic obstructive pulmonary disease exacerbation or other respiratory illness requiring hospitalization or precluding study therapy at the time of registration* Idiopathic pulmonary fibrosis or other severe interstitial lung disease that requires oxygen therapy or is thought to require oxygen therapy within 1 year prior to registration* History of (non-infectious) pneumonitis that required steroids or current pneumonitis* Acquired immune deficiency syndrome (AIDS) based upon current Center for Disease Control and Prevention (CDC) definition; note: human immunodeficiency virus (HIV) testing is not required for entry into this protocol; the need to exclude patients with AIDS from this protocol is necessary because the cisplatin and IMRT involved in this protocol may be significantly immunosuppressive; patients with known HIV, CD4 counts >= 250/uL, and undetectable viral loads who are stable on an antiretroviral regimen may be included* A diagnosis of immunodeficiency or is receiving systemic steroid therapy or any other form of immunosuppressive therapy within 7 days prior to the first dose of the MK-3475 (pembrolizumab)* Known history of active TB (Bacillus tuberculosis)* Known active hepatitis B (e.g., hepatitis B surface antigen [HBsAg] reactive) or hepatitis C (e.g., hepatitis c virus [HCV] ribonucleic acid [RNA] [qualitative] is detected); Note: patients who have been curatively treated for hepatitis C and have no detectable viral load are eligible* Active autoimmune disease that has required systemic treatment in the past 2 years (i.e. with use of disease modifying agents, corticosteroids or immunosuppressive drugs); replacement therapy (e.g. thyroxine, insulin, or physiologic corticosteroid replacement therapy for adrenal or pituitary insufficiency, etc.) is not considered a form of systemic treatment
+56.0
+Any evidence of severe or uncontrolled systemic disease, active infection, active bleeding diatheses, or renal transplant, including any patient known to have hepatitis B, hepatitis C, or human immunodeficiency virus (HIV) will be excluded; patients with HIV who have adequate CD4 count, not requiring antiretroviral medication, may be enrolled
+70.0
+Hepatitis B or C serologies consistent with past or current infections
+90.0
+Patients with known active human immunodeficiency virus (HIV), hepatitis B or hepatitis C infection; patients with a history of hepatitis B or hepatitis C, who are deemed cured and no longer require treatment may be allowed to enroll after consultation with the respective specialist and the study PI
+90.0
+No known active hepatitis B or C* Active hepatitis B can be defined as: ** Hepatitis B virus surface antigen (HBsAg) detectable for > 6 months;** Serum hepatitis B virus (HBV) DNA 20,000 IU/ml (105 copies/ml); lower values 2,000-20,000 IU/ml (104-105 copies/ml) are often seen in hepatitis B virus e antigen (HBeAg)-negative chronic hepatitis B** Persistent or intermittent elevation in ALT/AST levels ** Liver biopsy showing chronic hepatitis with moderate or severe necroinflammation* Active hepatitis C can be defined as: ** Hepatitis C antibody (AB) positive AND ** Presence of hepatitis C virus (HCV) RNA
+700.0
+Other viral infections* Known to have acute or chronic active hepatitis B or hepatitis C infection* Known to have human immunodeficiency virus (HIV) infection* Prior therapy with viral-based tumor vaccine* Received live vaccine within 28 days prior to enrollment
+40.0
+Patients must not have known history of hepatitis B, hepatitis C, human immunodeficiency virus (HIV); the use of physiologic doses of corticosteroids may be approved after consultation with the study chair
+64.0
+Other viral infections:* Known to have acute or chronic active hepatitis B or hepatitis C infection* Known to have human immunodeficiency virus (HIV) infection* Prior therapy with viral-based tumor vaccine* Received live vaccine within 28 days prior to enrollment
+68.0
+Patients with other viral infections are ineligible:* Known to have acute or chronic active hepatitis B or hepatitis C infection* Known to have human immunodeficiency virus (HIV) infection* Prior therapy with viral-based tumor vaccine* Received live vaccine within 28 days prior to enrollment
+21.0
+Patients with known acute or chronic hepatitis B or hepatitis C infection are ineligible
+30.0
+Patients with known active hepatitis (i.e. hepatitis B or C)
+49.0

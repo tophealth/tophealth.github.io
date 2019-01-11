@@ -1,0 +1,156 @@
+Patients must have the following tests within 28 days prior to registration to obtain baseline measurements:* Prothrombin time (PT)/partial thromboplastin time (PTT)/international normalized ratio (INR)/fibrinogen (all patients)* Neurologic assessment
+44.0
+Partial thromboplastin time (PTT) =< 48 seconds (1.25 x ULN)
+102.0
+Partial thromboplastin time (PTT) < 1.5 times the upper limit of normal (heparin, lovenox or alternative anticoagulants are acceptable)
+NONE
+Activated partial thromboplastin time (APTT)/partial thromboplastin time (PTT) =< 1.5 x institutional upper limit of normal
+36.0
+Partial thromboplastin time (PTT) =< 1.5 x institutional ULN
+68.0
+Partial thromboplastin time (PTT) < 1.3 x ULN
+32.0
+Prothrombin time (PT) and activated partial thromboplastin time (APTT) =< 1.5 times upper limit of normal
+250.0
+Activated partial thromboplastin time (APTT)/partial thromboplastin time (PTT) =< 1.5 x institutional upper limit of normal
+40.0
+Prothrombin time (PT)/international normalized ratio (INR) and activated partial thromboplastin time (aPTT) must be < 1.5 x the upper limit of the normal range (ULN); except if, in the opinion of the investigator, the aPTT is elevated because of a positive lupus anticoagulant
+52.0
+Activated partial thromboplastin time (APTT)/partial thromboplastin time (PTT) =< 1.5 x institutional upper limit of normal
+23.0
+Activated partial thromboplastin time (APTT) or partial thromboplastin time (PTT) =< 1.5 x institutional upper limit of normal
+75.0
+Prothrombin time (PT)/activated partial thromboplastin time (aPTT) < 1.5 X institutional upper limit of normal
+188.0
+Activated partial thromboplastin time (aPTT) within 1.25 x ULN institutional limits, except where a lupus anti-coagulant has been confirmed
+126.0
+Activated partial thromboplastin time (aPTT), prothrombin time (PT) =< 1.2 x upper limit of normal (ULN)
+50.0
+Prothrombin time (PT)/partial thromboplastin time (PTT) =< 2 times normal; timeline: within 3 weeks prior to enrollment or
+18.0
+Activated partial thromboplastin time (APTT)/partial thromboplastin time (PTT) =< 1.5 x ULN
+30.0
+Activated partial thromboplastin time (APTT) or partial thromboplastin time (PTT) =< 1.5 x institutional upper limit of normal
+35.0
+Activated partial thromboplastin time (aPTT) =< 1.5 x ULN
+49.0
+International normalized ratio (INR) =< 1.4 unless receiving therapeutic doses of coumadin
+102.0
+Prothrombin time (PT) such that international normalized ratio (INR) is < 1.5 x ULN (or an in-range INR, usually between 2 and 3, if a patient is on a stable dose of therapeutic warfarin)
+NONE
+Prothrombin time (PT)/international normalized ratio (INR) and partial thromboplastin time (PTT) =< 1.5 times institutional upper limit of normal
+130.0
+International normalized ratio (INR) =< 1.5 x ULN; patients receiving anti-coagulation therapy are permitted as long as they have a stable INR =< 3.0
+48.0
+Patients on warfarin will be excluded from the trial if they cannot be switched to an acceptable alternative medication (i.e. low molecular weight heparin [LMWH]); prolongation of prothrombin time (PT) and International Normalized Ratio (INR) were observed in patients receiving vorinostat concomitantly with coumarin-derivative anticoagulants
+40.0
+International Normalized Ratio (INR) > 1.5
+45.0
+The participant has prothrombin time (PT)/international normalized ratio (INR) or partial thromboplastin time (PTT) test >= 1.3 x the laboratory ULN within 7 days before the first dose of study treatment
+42.0
+The subject has prothrombin time (PT)/international normalized ratio (INR) or partial thromboplastin time (PTT) test >= 1.3 x the laboratory ULN =< 7 days before the first dose of study treatment
+72.0
+Patients receiving anticoagulation treatment are allowed to participate with international normalized ratio (INR) established within the therapeutic range
+97.0
+Prothrombin time (PT)/international normalized ratio (INR) and partial thromboplastin time (PTT) =< 1.5 x institutional ULN
+30.0
+Prothrombin time (PT)/international normalized ratio (INR) and partial thromboplastin time (PTT) =< 1.3 x institutional ULN; subjects receiving anticoagulation treatment may be allowed to participate with INR established within the therapeutic range prior to randomization
+40.0
+Prothrombin time (PT)/international normalized ratio (INR) and partial thromboplastin time (PTT) =< 1.3 x institutional ULN; subjects receiving anticoagulation treatment may be allowed to participate with PT/INR/PTT established within the therapeutic range prior to randomization; subjects will be eligible if it is determined by a hematologist that the cause is not associated with clinical bleeding (e.g., deficiency of factor XII), within 2 weeks of the first dose of study treatment
+18.0
+Prothrombin time (PT)/international normalized ratio (INR) and partial thromboplastin time (PTT) < 1.3 x upper limit of normal (ULN)
+68.0
+International normalized ratio (INR) =< 1.5 x institutional ULN
+68.0
+Prothrombin time (PT)/international normalized ratio (INR) and partial thromboplastin time (PTT) =< 1.2 x institutional ULN
+130.0
+International normalized ratio (INR) < 1.3 x ULN
+32.0
+Prothrombin time (PT), partial thromboplastin time (PTT) and international normalized ratio (INR) =< 1.5 upper limit of normal (ULN)
+100.0
+International normalized ratio (INR) =< 1.4
+44.0
+Prothrombin time (PT)/international normalized ratio (INR) and partial thromboplastin time (PTT) =< 1.5 x institutional ULN
+35.0
+Patients on anticoagulant therapy with unstable dose of warfarin and/or having an out-of- therapeutic range international normalized ratio (INR) (> 3) within the 4 weeks prior to drug administration
+57.0
+Concurrent use of anti-coagulants (warfarin, etc.) other than low-molecular weight heparin (LMWH); medication must be stopped before time of registration; if patient has recently been on anti-coagulants other than LMWH, patient must have international normalized ratio (INR) =< 2
+23.0
+Patients on low molecular weight heparin or Coumadin (with a stable international normalized ratio [INR]) are eligible
+340.0
+Patients receiving anticoagulation treatment are allowed to participate with international normalized ratio (INR) established within the therapeutic range
+280.0
+Patients must not have any serious or unstable pre-existing medical conditions (aside from malignancy exceptions specified above), including but not limited to, ongoing or active infection requiring parenteral antibiotics on day 1, history of bleeding diathesis or need for concurrent anticoagulation (international normalized ratio [INR] =< 1.5 and partial thromboplastin time [PTT] within 1.1 x ULN), or psychiatric illness/social situations that would limit compliance with study requirements, interfere with subject�s safety, or obtaining informed consent; therapeutic level dosing of warfarin can be used with close monitoring of prothrombin time (PT)/INR by the site; exposure may be decreased due to enzyme induction when on treatment, thus warfarin dosing may need to be adjusted based upon PT/INR; consequently, when discontinuing dabrafenib, warfarin exposure may be increased and thus close monitoring via PT/INR and warfarin dose adjustments must be made as clinically appropriate; prophylactic low dose warfarin may be given to maintain central catheter patency
+300.0
+ELIGIBILITY CRITERIA FOR RANDOMIZATION (STEP 1): International normalized ratio (INR) =< 3 (to be done/tested only for subjects on warfarin)
+562.0
+The subject has prothrombin time (PT)/international normalized ratio (INR) or partial thromboplastin time (PTT) test >= 1.3 x the laboratory ULN within 7 days before the first dose of study treatment
+90.0
+Prothrombin time (PT)/international normalized ratio (INR) and partial thromboplastin time (PTT) =< 1.3 x institutional ULN; subjects receiving anticoagulation treatment may be allowed to participate with INR established within the therapeutic range prior to randomization
+18.0
+The subject has prothrombin time (PT)/international normalized ratio (INR) or partial thromboplastin time (PTT) test >= 1.5 x the laboratory ULN within 7 days before the first dose of study treatment
+135.0
+Patients must not have any serious or unstable pre-existing medical conditions (aside from malignancy exceptions specified above), including but not limited to, ongoing or active infection requiring parenteral antibiotics on day 1, history of bleeding diathesis or need for concurrent anticoagulation (international normalized ratio [INR] =< 1.5 and partial thromboplastin time [PTT] within 1.1 x ULN), or psychiatric illness/social situations that would limit compliance with study requirements, interfere with subject�s safety, or obtaining informed consent
+400.0
+Prothrombin time or international normalized ratio (INR) =< 1.5 x upper limit of normal (ULN)
+58.0
+Hematologic parameters for patients undergoing biopsy only: patients should have international normalized ratio (INR) =< 1.4 and partial thromboplastin time (PTT) =< 40 seconds (unless due to lupus anticoagulant); in patients not meeting these parameters, clearance by hematology will be required prior to undergoing a biopsy
+50.0
+Prothrombin time (PT)/ international normalized ration (INR) < 1.5 x ULN and partial thromboplastin time (PTT) (activated [a]PTT) < 1.5 x ULN
+302.0
+International normalized ratio (INR) =< 1.5
+67.0
+International normalized ration (INR) within 1.25 x ULN institutional limits, except where a lupus anti-coagulant has been confirmed
+126.0
+International normalized ratio (INR) < 1.5 x ULN unless patients are receiving anti-coagulation therapy; patients receiving anti-coagulation therapy with an agent such as warfarin or heparin are allowed to participate if INR =< 3.0
+130.0
+Prothrombin time (PT)/international normalized ratio (INR) and partial thromboplastin time (PTT) < 1.3 upper limit of normal (ULN)
+46.0
+International normalized ratio (INR)/PTT =< 2 times normal; timeline: within 3 weeks prior to enrollment
+18.0
+International normalized ratio (INR) =< 2
+64.0
+International normalized ratio of prothrombin time (INR) within 28 days before randomization must be =< ULN for the lab; patients who are therapeutically treated with an agent such as warfarin may participate if they are on a stable dose and no underlying abnormality in coagulation parameters exists per medical history
+348.0
+Prothrombin time (PT) such that international normalized ratio (INR) is less than or equal to 1.5 x ULN (or an in range INR, usually between 2 and 3, if a patient is on a stable dose of therapeutic warfarin) and a partial thromboplastin time (PTT) less than or equal to 1.5 times the upper limit of normal
+84.0
+Hematologic parameters for patients undergoing biopsy only: patients should have international normalized ratio (INR) =< 1.4 and partial thromboplastin time (PTT) =< 40 seconds (unless due to lupus anticoagulant); in patients not meeting these parameters, clearance by hematology will be required prior to undergoing a biopsy
+24.0
+International normalized ratio (INR) and activated partial thromboplastin time (aPTT) =< 1.5 x ULN (or on stable dose of therapeutic anticoagulation, such as low-molecular-weight heparin, warfarin or rivaroxaban)
+488.0
+Hematologic parameters for patients undergoing biopsy only: patients should have international normalized ratio (INR) =< 1.4 and prothrombin time (PT) =< 40 seconds (unless due to lupus anticoagulant); in patients not meeting these parameters, clearance by hematology will be required prior to undergoing a biopsy
+24.0
+International normalized ratio (INR) and activated partial thromboplastin time (aPTT) =< 1.5 x ULN (this applies only to patients who do not receive therapeutic anticoagulation; patients receiving therapeutic anticoagulation, such as low-molecular-weight heparin or warfarin, should be on a stable dose)
+72.0
+International normalized ratio (INR) and activated partial thromboplastin time (aPTT) =< 1.5 x ULN (this applies only to patients who do not receive therapeutic anticoagulation; patients receiving therapeutic anticoagulation, such as low-molecular-weight heparin or warfarin, should be on a stable dose)
+40.0
+International normalized ratio (INR) =< 1.5
+146.0
+International normalized ratio (INR) =< 1.5 x ULN (this applies only to patients who do not receive therapeutic anticoagulation; patients receiving therapeutic anticoagulation, such as low-molecular-weight heparin or warfarin, should be on a stable dose)
+60.0
+Within 28 days prior to administration of study treatment: Coagulation parameters (international normalized ratio [INR] and activated partial thromboplastin time [aPTT]) within 1.25 x ULN institutional limits, except where a lupus anti-coagulant has been confirmed, or except patients on anticoagulation
+90.0
+International normalized ratio (INR) =< 1.5
+51.0
+International normalized ratio (INR) and activated partial thromboplastin time aPTT =< 1.5 x ULN (This applies only to patients who do not receive therapeutic anticoagulation; patients receiving therapeutic anticoagulation, such as low-molecular-weight heparin or warfarin, should be on a stable dose)
+22.0
+International normalized ratio (INR) =< 1.5
+49.0
+International normalized ratio (INR) and activated partial thromboplastin time (aPTT) =< 1.5 x ULN
+78.0
+International normalized ratio (INR) =< 1.5
+49.0
+International normalized ratio (INR) or prothrombin time (PT) =< 1.5 X ULN unless subject is receiving anticoagulant therapy not requiring laboratory monitoring as long as PT or partial thromboplastin time (PTT) is within therapeutic range of intended use of anticoagulants; therapeutic Coumadin is not acceptable
+36.0
+Activated partial thromboplastin time (aPTT) =< 1.5 X ULN unless subject is receiving anticoagulant therapy as long as PT or PTT is within therapeutic range of intended use of anticoagulants
+36.0
+International normalized ratio (INR) or prothrombin time (PT): =< 1.5 X ULN unless patient is receiving anticoagulant therapy as long as PT or partial thromboplastin time (PTT) is within therapeutic range of intended use of anticoagulants
+56.0
+Activated Partial Thromboplastin Time (aPTT): =< 1.5 X ULN unless patient is receiving anticoagulant therapy as long as PT or PTT is within therapeutic range of intended use of anticoagulants
+56.0
+Patients must have prothrombin time (PT) / international normalized ratio (INR) and partial thromboplastin time (PTT) =< 2.0 x institutional upper limit of normal (IULN) unless the patient is on anticoagulant therapy within 28 days prior to registration (if the patient is receiving anticoagulant therapy, PT, and a PTT must be within therapeutic range of intended use of anticoagulants)
+64.0
+Prothrombin time (PT)/international normalized ratio (INR) and partial thromboplastin time (PTT) =< 1.5 x institutional ULN, unless the subject is on anticoagulant therapy; (if the subject is receiving anticoagulant therapy, PT, and activated PTT (aPTT) must be within therapeutic range of intended use of anticoagulants)
+68.0
+Prothrombin time (PT)/international normalized ratio (INR) and partial thromboplastin time (PTT) =< 1.5 x institutional unless the subject is on anticoagulant therapy (if the subject is receiving anticoagulant therapy, PT, and activated partial thromboplastin time [aPTT] must be within therapeutic range of intended use of anticoagulants)
+21.0

@@ -1,0 +1,194 @@
+For patients with solid tumors without known bone marrow involvement: peripheral absolute neutrophil count (ANC) >= 1000/mm^3
+154.0
+For patients with solid tumors without known bone marrow involvement: peripheral absolute neutrophil count (ANC) >= 1000/mm^3
+148.0
+For patients with solid tumors without known bone marrow involvement:
+484.0
+For patients with solid tumors without known bone marrow involvement:
+81.0
+For patients with solid tumors without known bone marrow involvement:
+67.0
+Peripheral absolute neutrophil count (ANC) >= 1000/uL for patients with solid tumors without bone marrow involvement
+146.0
+Peripheral absolute neutrophil count (ANC) >= 750/uL for patients with solid tumors and known bone marrow metastatic disease
+146.0
+Platelet count >= 50,000/uL for patients with solid tumors and known bone marrow metastatic disease
+146.0
+Hemoglobin >= 8.0 g/dL for patients with solid tumors and known bone marrow metastatic disease
+146.0
+Patients who have previously received a solid organ transplant are not eligible
+253.0
+ALLOGENEIC TRANSPLANTATION:
+747.0
+Patients who have received a prior solid organ transplantation are not eligible
+77.0
+CRITERIA FOR ALLOGENEIC TRANSPLANTATION
+509.0
+Patients who have received a prior solid organ transplantation are not eligible
+154.0
+Patients who have received a prior solid organ transplantation are not eligible
+148.0
+Patients who have received prior solid organ transplantation are not eligible
+484.0
+Patients who have received a prior solid organ transplantation are not eligible
+81.0
+Relapsed malignancy after transplantation
+12.0
+Patients who have received a prior solid organ transplantation are not eligible
+67.0
+Prior organ allograft or allogeneic transplantation, if the transplanted tissue is still in place
+60.0
+Prior allogeneic transplantation
+20.0
+Patients who have received a prior solid organ transplantation are not eligible
+65.0
+Patients who have received a prior solid organ transplantation are not eligible
+36.0
+Patients with prior allogeneic bone marrow transplantation or prior solid organ transplantation
+488.0
+Patients must not have undergone prior allogeneic bone marrow transplantation or prior solid organ transplantation
+148.0
+Patient must have a history of solid organ transplantation
+90.0
+Patients with prior allogeneic bone marrow transplantation, double umbilical cord blood transplantation (dUCBT) or prior solid organ transplantation
+72.0
+Patients with prior allogeneic bone marrow transplantation or prior solid organ transplantation
+60.0
+History of allogeneic organ transplantation
+180.0
+Patients who have received a prior solid organ transplantation are not eligible
+51.0
+Patients with prior allogeneic bone marrow transplantation or prior solid organ transplantation
+22.0
+Patients who have received a prior solid organ transplantation are not eligible
+49.0
+Patients with prior allogeneic bone marrow transplantation or prior solid organ transplantation
+78.0
+Patients who have received a prior solid organ transplantation are not eligible
+98.0
+Patients who have received a prior solid organ transplantation are not eligible
+49.0
+Patients who have received prior solid organ transplantation are not eligible
+49.0
+Patients who have received a prior solid organ transplantation are not eligible
+144.0
+Patients who have received a prior solid organ transplantation are not eligible
+49.0
+Pre-registration: Diagnostic bone marrow and peripheral blood specimens must be submitted for eligibility testing by multiparameter flow cytometry; testing will be performed by the Eastern Cooperative Oncology Group (ECOG)-American College of Radiology Imaging Network (ACRIN) Leukemia Translational Studies Laboratory and reported to the institution
+747.0
+Newly-diagnosed AML patients according to World Health Organization (WHO) classification who are considered candidates for intensive chemotherapy based upon examination of peripheral blood or bone marrow aspirate specimens or touch preparations of the bone marrow biopsy obtained within two weeks prior to randomization; a bone marrow aspirate is required for enrollment; however, on occasion there is discordance between percentage of myeloblasts on the differential of the peripheral blood or aspirate; the peripheral blood criteria are sufficient for diagnosis; confirmatory immunophenotyping will be performed centrally
+747.0
+Cytogenetic analysis must be performed from diagnostic bone marrow (preferred) or if adequate number of circulating blasts (> 10^9/l) from peripheral blood
+747.0
+Diagnostic bone marrow and peripheral blood specimens must be submitted for immunophenotyping and selected molecular testing
+747.0
+Consolidation cycle 1 must commence within sixty days of the bone marrow aspirate and biopsy that confirmed the presence of a CR or CRi
+747.0
+Patients must have maintained peripheral blood evidence of a remission and must have a CR or CRi, confirmed on restaging bone marrow (BM) aspirate and biopsy and cytogenetic analysis
+747.0
+Patients must have a unilateral or bilateral bone marrow biopsy performed within 42 days prior to registration
+155.0
+No evidence of bone metastases (M0) on bone scan within 120 days prior to registration (sodium fluoride [NaF] positron emission tomography [PET]/CT is an acceptable substitute)* Equivocal bone scan findings are allowed if plain films (or CT or magnetic resonance imaging [MRI]) are negative for metastasis
+2580.0
+Platelets >= 100 x 10^9/L (or platelet count >= 30 x 10^9 cells/L in patients with lymphoma or CLL if bone marrow disease involvement is documented)
+132.0
+Patients may enroll with lower hematologic values, if bone marrow involvement is documented; in this case, patients should be transfused to hemoglobin >= 8 g/dL
+90.0
+Measurable or evaluable disease, as defined in 2008 Revised Response Criteria for Malignant Lymphoma; baseline scans used for measurement should be obtained within 30 days of registration, and baseline bone marrow biopsy and/or aspiration should be obtained with 90 days of registration
+24.0
+Within 14 days prior to registration: Platelet count >= 70,000 cells/mm^3 for patients who have bone marrow plasmacytosis < 50%; or >= 50,000 cells/mm^3 for patients who have bone marrow plasmacytosis of >= 50%
+130.0
+Patients must be offered participation in banking of specimens for future research; with the patient�s consent, specimens (serum and bone marrow biopsy core) must be submitted to the repository; patient consent must be obtained before specimens are submitted
+130.0
+Patients must have a diagnosis of neuroblastoma either by histologic verification of neuroblastoma and/or demonstration of tumor cells in the bone marrow with increased urinary catecholamines
+62.0
+STEP I: Patients must be diagnosed with symptomatic standard-risk multiple myeloma (SR-MM) as defined by all of the following (except gene expression profile [GEP]70 status if unknown):* No evidence of t(14;16) by fluorescence in situ hybridization (FISH) testing on bone marrow or not available* No evidence of t(14:20) by FISH testing on bone marrow or not available* No evidence of deletion 17p by FISH testing on bone marrow* FISH should be from within 90 days of registration** NOTE: If the FISH result states that no immunoglobulin heavy chain (IgH) abnormality is present, both t(14;16) and t(14;20) can be considered negative; in addition, if the patient has a t(11;14) or t(4;14) translocation present, they can be considered negative for t(14;16) and t(14;20); if testing for t(14;16) or t(14;20) could not be performed for lack of sufficient material or non-availability of the probe in the test panel, patients can be enrolled on the study* Standard Risk GEP70 signature within the past 90 days (only if GEP has been done and results are available)** NOTE: GEP testing is NOT a requirement for the study; if the test has been done, patients found to have a GEP70 status of high-risk will not be eligible* Serum lactate dehydrogenase (LDH) =< 2 x upper limit of normal (ULN) within the past 28 days* No more than 20% circulating plasma cells on peripheral blood smear differential or 2,000 plasma cells/microliter on white blood cell (WBC) differential of peripheral blood within the past 90 days** NOTE: This is NOT the plasma cell % from the marrow aspirate
+1080.0
+Patients must have had histologic verification of neuroblastoma or ganglioneuroblastoma or demonstration of neuroblastoma cells in the bone marrow with elevated urinary catecholamines (i.e., > 2 x upper limit of normal [ULN]), at the time of initial diagnosis
+74.0
+Patients known to have bone marrow involvement with neuroblastoma are eligible provided that minimum ANC and platelet count criteria are met but are not evaluable for hematological toxicity
+74.0
+Patients with elevated catecholamines (i.e., > 2 x ULN) only or bone marrow disease only are NOT eligible for this study
+74.0
+Platelets >= 75,000/uL unless related to bone marrow involvement by HIV-cHL
+70.0
+Patients must have evidence of acute leukemia in their peripheral blood or bone marrow; patients must have >= 5% blasts in the peripheral blood or bone marrow within 14 days prior to registration; at least >= 20% of those blasts must be CD22-positive (surface) based on local immunophenotyping and histopathology
+38.0
+Diagnostic bone marrow and peripheral blood specimens must be submitted for immunophenotyping and selected molecular testing, and the establishment of BCR/ABL status; testing will be performed by the Eastern Cooperative Oncology Group (ECOG)-American College of Radiation Imaging Network (ACRIN) Leukemia Translational Research Laboratory (LTRL) and reported to the institution* NOTE: IT IS ESSENTIAL THAT A SAMPLE CONTAINING SUFFICIENT BLAST CELLS BE SUBMITTED TO THE ECOG-ACRIN LTRL AT BASELINE SO THAT SUBSEQUENT BONE MARROW ASSESSMENTS OF MRD CAN BE DONE; IN ADDITION TO ALLOWING THE LTRL TO CONFIRM ELIGIBILITY BASED ON BLAST CELL IMMUNOPHENOTYPE AND BCR/ABL STATUS, IT IS ALSO IMPERATIVE THAT AN ADEQUATE NUMBER OF BLASTS BE BANKED FOR ANALYSIS BY DRS MULLIGHAN/WILLMAN. WITHOUT ADEQUATE BASELINE SAMPLES, PATIENTS WILL NOT BE ABLE TO BE TREATED AND RANDOMIZED ON THIS PROTOCOL; IF A BONE MARROW ASPIRATE IS NOT AVAILABLE FOR LTRL SUBMISSION AT BASELINE, IT IS IMPERATIVE THAT DR PAIETTA FROM THE LTRL IS CALLED TO DISCUSS THE PERIPHERAL BLOOD WBC AND BLAST COUNT BEFORE BLOOD ONLY IS SUBMITTED* NOTE: Hydroxyurea can be given for up to 5 days prior to initiation of protocol therapy for control of leukocyte count and/or other symptoms or signs; corticosteroids can be given after pre-registration to the protocol and submission of baseline marrow and blood samples for control of leukocyte count and/or other symptoms or signs prior to initiation of protocol therapy if needed; if corticosteroids are given prior to pre-registration, contact the study chair as the patient may still be eligible to participate
+509.0
+New diagnosis of B lineage ALL must be made upon bone marrow or peripheral blood immunophenotyping; cases with myeloid antigen expression, but unequivocal lymphoid immunophenotype, are eligible
+509.0
+Mature B ALL (Burkitt�s-like leukemia) is excluded from enrollment in this trial; pre-study bone marrow biopsy and aspirate must be completed =< 1 week prior to registration
+509.0
+Cytogenetic analysis must be performed from diagnostic bone marrow (preferred) or if adequate number of circulating blasts from peripheral blood; FISH testing for common B-lineage ALL abnormalities including t(9;22) (BCR/ABL1), t(12;21) (ETS-variant gene 6 [ETV6]/runt-related transcription factor 1 [RUNX1]), t(1;19) (pre-B-cell leukemia homeobox 1 [PBX1]/transcription factor 3 [TCF3]), +4,+10,+17, (centromeric [Cen]4/Cen10/Cen17), t(11q23;var), (myeloid/lymphoid or mixed lineage leukemia [MLL]), deletion (del)(9p) (cyclin-dependent kinase inhibitor 2A [CDKN2A]/Cen9), and t(14;var) (immunoglobulin heavy chain [IGH] is encouraged); if there are few or no circulating blasts and an adequate marrow sample cannot be obtained for cytogenetic analysis, the patient may still enroll on the trial
+509.0
+Patients must have maintained peripheral blood evidence of a remission and must have a CR or CRi, confirmed on restaging bone marrow (BM) aspirate and biopsy
+509.0
+Bone marrow aspirates must be submitted for centralized minimal residual disease (MRD) assessment performed by the ECOG-ACRIN Leukemia Translational Research Laboratory
+509.0
+MRD results will be reported to the submitting institution* NOTE: FOR MRD ASSESSMENTS, AN ASPIRATE FROM A SEPARATE BONE MARROW ASPIRATION SITE MUST BE SUBMITTED (THE NEEDLE CAN BE RE-DIRECTED THROUGH THE SAME SKIN PUNCTURE SITE); ONLY SUBMIT ASPIRATES FROM THE FIRST PULL OF AN ASPIRATION SITE FOR MRD TESTING; DO NOT SUBMIT SAMPLES FROM THE SECOND OR THIRD PULL OF THE SAME ASPIRATION SITE * In B-lineage ALL, MRD levels in peripheral blood or from a dilute marrow aspiration can be 300% lower, on average, than those in bone marrow at a given time point; submitting a first pull from a separate aspiration site will ensure that MRD determinations used in randomization and trial interpretation are accurate** NOTE: failure to submit bone marrow aspirates will result in a major violation at the time of an audit
+509.0
+Patients must have histologically or cytologically confirmed: * Pathologically confirmed intermediate or poor risk newly diagnosed AML (subtypes M0, 1, 2, 4-7), but excluding newly diagnosed core-binding factor (CBF) (t(8;21) or M4eo subtype (inv(16) or t(16;16) AMLs and acute promyelocytic leukemia (acute promyelocytic leukemia [APL], M3)* MDS with high risk features as defined by intermediate (INT)-2 or high International Prognostic Scoring System (IPSS) score with > 10% blasts in the bone marrow* Chronic myelomonocytic leukemia-2 (CMML-2) defined as having > 10% blasts (including promonocytes) in the bone marrow or 5-19% blasts (including promonocytes) in the peripheral blood
+63.0
+Previous allogeneic bone marrow transplant
+1500.0
+Phase 1 (Part A): patients with known bone marrow involvement are not eligible
+148.0
+All newly diagnosed patients must have evidence of ALL in their marrow or peripheral blood with at least 20% lymphoblasts present in blood or bone marrow collected within 28 days prior to registration; all relapsed/refractory patients (Cohort 2) must have at least 5% lymphoblasts present in blood or bone marrow collected within 28 days prior to registration; for relapsed/refractory patients, pathology and cytogenetics reports (both from time of original diagnosis) must be submitted at time of registration; if a bone marrow aspirate cannot be obtained despite an attempt (dry tap), appropriate immunohistochemistry (IHC) testing, including CD19, must be performed on the bone marrow biopsy to determine lineage; for ALL in marrow or peripheral blood, immunophenotyping of the blood or marrow lymphoblasts must be performed to determine lineage (B cell, T cell or mixed B/T cell); appropriate marker studies including cluster of differentiation (CD)19 (B cell), must be performed; co-expression of myeloid antigens (CD13 and CD33) will not exclude patients; if possible, the lineage specific markers (myeloid cells) should be determined; the blood/bone marrow sample for these assays must be obtained within 28 days prior to registration; patients with only extramedullary disease in the absence of bone marrow or blood involvement are not eligible
+44.0
+In the event that the patient�s bone marrow blast count is >= 50% blasts, patients may be registered but should receive steroids for 3-5 days in order to reduce tumor burden prior to blinatumomab administration, as follows* Prephase treatment with dexamethasone (10-20 mg/m^2) for 3-5 days is required for patients with bone marrow blasts >= 50%, peripheral blood blasts 15,000/uL or higher, or elevated lactate dehydrogenase (LDH) suggesting rapidly progressive disease per investigator opinion** Pre-treatment should conclude at least 24 hours prior to the first dose of blinatumomab (although additional dexamethasone is automatically given as a pre-med prior to the first dose); at the time of first infusion of blinatumomab, the absolute peripheral blast count should be < 25,000/uL** Note: For the purposes of the study, day 1 of the cycle will be the first day of blinatumomab administration
+44.0
+Registration Step 3 � Maintenance: Patients must have documented CR or CRi within 28 days prior to registration; note that bone marrow examination is only required if there are clinical signs/symptoms of progression; if progression is a concern due to the length of the time for count recovery, a bone marrow examination is recommended
+44.0
+Within 60 days after bone marrow biopsy confirmed remission after the patients recover from their last course of chemotherapy, the goal will be to consent the eligible patient prior to the remission confirmation bone marrow biopsy at the end of the planned chemotherapy); ideally, the research samples will be collected during the bone marrow biopsy, and the patient will be enrolled to the study within 2 weeks of the bone marrow biopsy; if there is delay to enroll the patient after the bone marrow biopsy and research sample collection, it is ok not to repeat bone marrow biopsy within 4 weeks, after the last bone marrow biopsy, if there is no sign of disease relapse; a repeat bone marrow biopsy should be done if the delay of enrollment is more than 4 weeks after the last bone marrow biopsy; patients with confirmed remission within 60 days after the last bone marrow biopsy, without research samples collection, should have a repeat bone marrow biopsy conducted within two weeks prior to enrolling on the study
+80.0
+Patients must be newly diagnosed with a clinical diagnosis of APL (initially by morphology of bone marrow or peripheral blood)* Bone marrow is highly preferred but in cases where marrow cannot be obtained at diagnosis, peripheral blood will be accepted
+158.0
+Patients with isolated myeloid sarcoma (myeloblastoma, chloroma, including leukemia cutis) but without evidence of APL by bone marrow or peripheral blood morphology are excluded
+158.0
+Patients with histologic diagnosis (by institutional pathologist) of newly diagnosed Ewing sarcoma or peripheral primitive neuroectodermal tumor (PNET) arising from bone or soft tissue and with metastatic disease involving lung, bone, bone marrow, or other metastatic site
+330.0
+For the purpose of this study metastatic disease is defined as one or more of the following:* Lesions which are discontinuous from the primary tumor, are not regional lymph nodes, and do not share a bone or body cavity with the primary tumor; skip lesions in the same bone as the primary tumor do not constitute metastatic disease; skip lesions in an adjacent bone are considered bone metastases; if there is any doubt whether lesions are metastatic, a biopsy of those lesions should be performed* Contralateral pleural effusion and/or contralateral pleural nodules* Distant lymph node involvement* Patients with pulmonary nodules are considered to have metastatic disease if the patient has:** Solitary nodule >= 0.5 cm or multiple nodules of >= 0.3 cm unless lesion is biopsied and negative for tumor** Patients with solitary nodule < 0.5 cm or multiple nodules < 0.3 cm are not considered to have lung metastasis unless biopsy documents tumor* Bone marrow metastatic disease is based on morphologic evidence of Ewing sarcoma based on hematoxylin and eosin (H&E) stains; in the absence of morphologic evidence of marrow involvement on H&E, patients with bone marrow involvement detected ONLY by flow cytometry, reverse-transcriptase (RT)-polymerase chain reaction (PCR), fluorescence in situ hybridization (FISH), or immunohistochemistry will NOT be considered to have clinical bone marrow involvement for the purposes of this study** This study requires bilateral bone marrow biopsies at study entry; the suggested approach for patients with large pelvic tumors in which a posterior iliac crest bone marrow biopsy would track through the tumor is to instead undergo 2 marrow biopsies on the contralateral side (either 2 posterior biopsies or one posterior and one anterior biopsy)* Bone metastasis: This study utilizes whole body FDG-PET scans to screen patients for bone metastases; areas suspicious for bone metastasis based on FDG-PET scans require confirmatory anatomic imaging with either MRI or computed tomography (CT) (whole body FDG-PET/CT or FDG-PET/magnetic resonance [MR] scan acceptable); whole body technetium bone scans may be performed at the discretion of the investigator and are not required; for patients without other sites of metastatic disease whose sole metastatic site to qualify for study entry is a single area suspicious for bone metastasis identified by FDG-PET, confirmatory biopsy or anatomic imaging evidence of an associated soft tissue mass at that site is required for study entry
+330.0
+NOTE: Patients with documented bone marrow involvement by lymphoma are not required to meet the above hematologic parameters, but must have a platelet count of at least 75,000/mcL and neutrophil count of at least 1,000/mcL
+6452.0
+For patients pre-registering before the start of radiation therapy documentation of bone marrow aspirate and biopsy containing < 10% clonal plasma cells; radiation therapy should preferably begin within 28 days after bone marrow biopsy
+110.0
+All patients are required to be pre-registered to A061402 in order to submit post-radiation therapy (RT) bone marrow aspirate specimens to Roswell Park for MRD detection by flow cytometry; this submission is required prior to registration to confirm eligibility
+110.0
+Bone marrow aspirate and biopsy containing < 10% clonal plasma cells performed after completion of RT and within 28 days prior to registration
+110.0
+Patient has one of the following: * Patients has previously untreated de novo AML and meets the criteria for AML with >= 20% bone marrow blasts as set out in the World Health Organization (WHO) Myeloid Neoplasm classification** Attempts to obtain bone marrow either by aspirate or biopsy must be made unless clinically prohibitive; in cases where it is clinically prohibitive, peripheral blood with an excess of 20% blasts and in which adequate flow cytometric and cytogenetics/FISH testing is feasible can be substituted for the marrow exam at diagnosis* Patients has cytopenias and/or bone marrow blasts but does not meet the criteria for the diagnosis of AML (WHO Myeloid Neoplasm classification) because of < 20% marrow blasts and meets the criteria for a diagnosis of myelodysplastic syndrome (MDS)* Patients has a history of transient myeloproliferative disorder (which may or may not have required chemotherapy intervention), who:* Are > 8 weeks since resolution of transient myeloproliferative disease (TMD) with >= 5% blasts, OR* Patients who have an increasing blast count (>= 5%) in serial bone marrow aspirates performed at least 4 weeks apart
+256.0
+Prior allogeneic bone marrow transplant
+23.0
+No prior allogeneic bone marrow transplant or double umbilical cord blood transplantation (dUBCT)
+549.0
+Bone marrow blasts of at least 10%
+35.0
+Participants with > 5% involvement of bone marrow by malignant cells (either by manual count or flow cytometry) prior to stem cell collection
+18.0
+Participants with any abnormal cytogenetics in the bone marrow not related to the lymphoma, and not deemed to be constitutional
+18.0
+Patient must have one of the following:* Recurrent disease with >= 5% blasts in the bone marrow (M2/M3 bone marrow), with or without extramedullary disease.* Recurrent disease with an absolute blast count greater than 1,000 per microliter in the peripheral blood with or without extramedullary disease
+56.0
+Patients with known bone marrow metastatic disease will not be eligible
+36.0
+Bone marrow involvement (> 25%)* Note: bone marrow aspiration/biopsy can be performed at the time of diagnosis and does not need to be repeated unless there is a change in peripheral blood counts or it was performed more than 14 days prior to study entry
+90.0
+Bone marrow and/or peripheral blood specimens will be submitted for correlative studies; patients who have a dry tap will still be eligible
+30.0
+The evidence of CD19+ expression on leukemia cells must be confirmed by pathology review of the bone marrow and/or peripheral blood specimens (flow cytometry and/or immunohistochemistry) collected at the time of current relapse and prior to the initiation of therapy
+30.0
+Subjects with evidence of relapsed or refractory acute myeloid leukemia (AML) OR treatment naive AML who are 75 years or older OR relapsed or refractory myelodysplastic syndrome (MDS)* For subjects with relapsed AML: evidence of >= 5% blasts in the bone marrow; or reappearance of blasts in the peripheral blood; or development of extramedullary disease (according to 2003 IWG criteria) who relapse after:** Allogeneic hematopoietic stem cell transplant, or** After one cycle of standard cytotoxic chemotherapy or two cycles of any hypomethylating agent-based therapy* For subjects with refractory AML: =< 2 prior induction regimens (example: patients who receive 7+3 followed by 5+2 would count as one induction regimen) or a minimum of two cycles of any hypomethylating agent-based therapy* For subjects with treatment-naive AML: must be 75 years and older with de novo or secondary AML to be considered eligible* For subjects with relapsed MDS: disease recurrence after CR, partial remission (PR) or hematologic improvement with bone marrow blasts >= 5% who relapse after:** Allogeneic hematopoietic stem cell transplant, or** After four cycles of any hypomethylating agent-based therapy* For subjects with refractory MDS: disease progression at any time after initiation of hypomethylating agent treatment or persistent bone marrow blasts >= 5% despite a minimum of four cycles of hypomethylating agent therapy
+48.0
+Previous allogenic bone marrow transplant or double umbilical cord blood transplantation (dUCBT)
+90.0
+Patients must have B-ALL, or previously diagnosed B lymphoblastic lymphoma (B-LL), with >= 5% (M2 or M3) bone marrow blasts with or without extramedullary disease* NOTE: Relapsed patients previously diagnosed with B-lymphoblastic lymphoma (B-LL) are eligible if they have an M2 or M3 marrow at the time of enrollment on this study
+53.0
+Leukemic blasts must demonstrate surface expression of CD22 at the time of relapse by local/institutional flow cytometry of a bone marrow aspirate sample; (assessment of CD22 using a bright fluorophore such as phycoerythrin [PE] is strongly recommended) * In the case of an inadequate aspirate sample (dry tap) or if bone marrow aspirate is unable to be performed due to patient clinical status, flow cytometry of peripheral blood specimen may be substituted if the patient has at least 1000/uL circulating blasts; alternatively, CD22 expression may be documented by immunohistochemistry of a bone marrow biopsy specimen
+53.0
+No evidence of bone metastases (M0) on bone scan (Na F positron emission tomography (PET)/CT is an acceptable substitute) within 120 days prior to step 1 registration* Equivocal bone scan findings are allowed if plain films and/or MRI are negative for metastasis
+282.0
+Patients must have bone marrow biopsy performed within 42 days prior to registration
+150.0

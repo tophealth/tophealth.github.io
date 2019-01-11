@@ -1,0 +1,58 @@
+STEP I: Patients must have measurable or evaluable disease as defined by having one or more of the following, obtained within 28 days prior to randomization:* >= 1 g/dL monoclonal protein (M-protein) on serum protein electrophoresis* >= 200 mg/24 hours (hrs) of monoclonal protein on a 24 hour urine protein electrophoresis* Involved free light chain >= 10 mg/dL or >= 100 mg/L AND abnormal serum immunoglobulin kappa to lambda free light chain ratio (< 0.26 or > 1.65)* Monoclonal bone marrow plasmacytosis >= 30% (evaluable disease)* Serum protein electrophoresis (SPEP), urine protein electrophoresis (UPEP), and serum free light chain (FLC) assay are required to be performed within 28 days prior to randomization; a bone marrow biopsy and/or aspirate is required within 28 days if bone marrow is being followed for response** NOTE: UPEP (on a 24-hour collection) is required, no substitute method is acceptable; urine must be followed monthly if the baseline urine M-spike is >= 200 mg/24 hr; please note that if both serum and urine M-components are present, both must be followed in order to evaluate response** NOTE: The serum free light chain test is required to be done if the patient does not have measurable disease in the serum or urine; measurable disease in the serum is defined as having a serum M-spike >= 1 g/dL; measurable disease in the urine is defined as having a urine M-spike >= 200 mg/24 hr
+1080.0
+Greater than 2+ proteinuria on two consecutive dipsticks taken no less than 1 week apart or 24-hour urine protein of > 1 g; patients with < 2+ proteinuria are eligible following initial determination by urinalysis within 1 week prior to enrollment and do not need the urinalysis repeated
+70.0
+Patients must have measurable disease defined as any of the following:* Serum monoclonal protein >= 500 mg/dL by protein electrophoresis * > 200 mg of monoclonal protein in the urine on screening 24-hour electrophoresis * Serum immunoglobulin free light chain >= 100 mg/L AND abnormal serum immunoglobulin kappa to lambda free light chain ratio
+28.0
+Urine protein should be screened by dipstick or urine analysis; for proteinuria > 1+ or urine protein: creatinine ratio > 1.0, 24-hour urine protein should be obtained and the level should be < 2000 mg for patient enrollment
+57.0
+Urine protein should be screened by urinalysis; if protein is 2+ or higher, 24 hour urine protein should be obtained and the level should be < 1000 mg for patient enrollment
+23.0
+Urine protein-creatinine ratio (UPCR) =< 1 on spot urinalysis or protein =< 500 mg/24 hour urine
+36.0
+Proteinuria as defined as >= 2+ on urine dipstick; if dipstick urinalysis shows >= 2+ proteinuria, 24-hour urine for protein must be < 2 grams
+42.0
+Urine protein: =< 30 mg/dl in urinalysis or =< 1+ on dipstick, unless quantitative protein is < 1000 mg in a 24 hour (h) urine sample
+67.0
+Baseline urinalysis should show urine protein < 3+ and must be obtained within 28 days prior to registration; if urine protein is 3+ or greater, then urine protein by 24 hour collection must show less than 3 grams of protein
+180.0
+Urine protein: =< 30 mg/dl in urinalysis or =< 1+ on dipstick, unless quantitative protein is < 1000 mg in a 24 hour (h) urine sample
+146.0
+Urine protein must be screened by urinalysis; if protein is 2+ or higher, 24-hour urine protein should be obtained and the level should be < 1000 mg for patient enrollment
+22.0
+Urine protein should be screened by urine analysis; if protein is 2+ or higher, 24-hour urine protein should be obtained; patients with 24-hour urine protein >= 1000 mg are excluded
+98.0
+Urine protein/creatinine ratio (UPCR) =< 1
+55.0
+Urine protein/creatinine ratio (UPCR) =< 1
+42.0
+Urine protein/creatinine ratio (UPCR) =< 1
+72.0
+Urine protein/creatinine ratio (UPCR) =< 1
+90.0
+Urine protein/creatinine ratio (UPCR) =< 2
+135.0
+Urine protein:creatinine ratio (UPC) =< 45 mg/mmol; ONLY APPLICABLE for patients with NF2 mutation (GSK2256098)
+69.0
+Urine protein: creatinine ratio (UPC) of =< 1 or less than or equal to 2+ proteinuria on two consecutive dipsticks taken no less than 1 week apart; UPC is the preferred test; patients with >= 2+ proteinuria on dipstick must also have a 24 hour urine collection demonstrating =< 500 mg over 24 hours
+549.0
+Urine protein: creatinine ratio urine protein creatinine (UPC) of =< 1 OR less than or equal to 2+ proteinuria on two consecutive dipsticks taken no less than 1 week apart; UPC is the preferred test; patients with 2+ proteinuria on dipstick must also have a 24-hour urine collection demonstrating protein of =< 500 mg over 24 hours
+680.0
+A urine protein:creatinine ratio of < 1 or < 1 g protein on 24-hour urine collection
+126.0
+Urine protein to creatinine (UPC) ratio < 0.5 or if >= 0.5, 24-hour urine protein must be < 1000 mg
+130.0
+Urine protein creatinine (UPC) =< 1; if UPC >= 1, then a 24-hour urine protein must be assessed; eligible patients must have a 24-hour urine protein value < 1 g/L
+137.0
+Proteinuria of CTCAE grade 3 or higher (estimated by urine protein: creatinine ratio >= 3.5 on a random urine sample); patients who recently (i.e., at least 30 days prior to registration) discontinued an anti-angiogenic therapy which caused proteinuria (ie, grade 2 (> 2 to > 3 g of protein or 1-3.5 g/24 hours [h]) or grade 3 proteinuria (> 4 of protein or > 3.5 g/24 h) are not eligible for enrollment until proteinuria improves to < 2 g of protein per 24 h
+84.0
+Within 14 days prior to registration: Urine protein creatinine (UPC) ratio must be < 1.0 gm; if UPC ratio >= 1, collection of 24-hour urine measurement of urine protein is recommended (24-hour urine protein level must be < 1000 mg for patient enrollment); UPC ratio of spot urine is an estimation of the 24-hour urine protein excretion � a UPC ratio of 1 is roughly equivalent to a 24-hour urine protein of 1 gm
+488.0
+Within 28 days prior to administration of study treatment: Urine protein: creatinine ratio (UPC) of =< 1
+90.0
+Within 28 days prior to administration of therapy: Proteinuria - urine protein:creatinine ratio (UPC) of =< 1 OR =< 2+ proteinuria on two consecutive urinalysis/dipstick tests taken no less than 1 week apart; patients with 2+ proteinuria on dipstick must also have a UPC of =< 0.5 on 2 consecutive samples
+132.0
+Urine protein: creatinine ratio (UPC) of =< 1; UPC is the preferred test
+132.0
+Urine protein: creatinine (UPC) ratio < 1 or urine dipstick for proteinuria =< 2+ (note: if the UPC ratio is >= 1.0 then a 24-hour urine collection should be performed and this must demonstrate =< 1g of protein in 24 hours)
+70.0

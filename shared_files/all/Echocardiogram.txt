@@ -1,0 +1,148 @@
+No active symptomatic ischemic heart disease, myocardial infarction or congestive heart failure within the past year; if multi gated acquisition (MUGA) is obtained, the left ventricular ejection fraction (LVEF) should exceed 40%
+348.0
+Ejection fraction >= 47% by radionuclide angiogram (multi gated acquisition scan [MUGA]); Note: the echocardiogram (or MUGA) may be done within 28 days prior to enrollment
+253.0
+Cardiac ejection fraction >= 45% or within institutional normal limits; a nuclear medicine gated blood pool examination is preferred; a two-dimensional (2-D) echocardiogram (ECHO) scan is acceptable if a calculated ejection fraction is obtained and follow-up measurement of the cardiac ejection fraction will also be performed by echocardiography; measurement of cardiac ejection fraction should be within two weeks prior to receiving treatment* NOTE: when a multi gated acquisition scan (MUGA) or echocardiogram cannot be obtained due to weekend or holiday, then patients may be enrolled provided there is no history of significant cardiovascular disease and a measurement of cardiac ejection fraction will be performed within 5 days of study enrollment
+747.0
+Patients must have a cardiac ejection fraction >= institutional lower limit of normal (ILLN) by multi gated acquisition (MUGA) scan or 2-dimensional (D) echocardiogram (ECHO) within 42 days prior to registration
+155.0
+Cardiac function:* Normal ejection fraction (>= 55%) documented by either echocardiogram or radionuclide multi gated acquisition scan (MUGA) evaluation; OR * Normal fractional shortening (>= 27%) documented by echocardiogram
+62.0
+Left ventricular ejection fraction >= institutional lower limit of normal (LLN) by echocardiogram (ECHO) or multi gated acquisition scan (MUGA)
+30.0
+Patients must not have a cardiac ejection fraction < 45% or the presence of New York Heart Association stage III or IV heart failure within 14 days prior to registration; either echocardiogram (ECHO) or multiple-gated acquisition scan (MUGA) may be used to determine ejection fraction
+38.0
+Left ventricular ejection fraction >= institutional lower limit of normal (LLN) by echocardiogram (ECHO) or multi gated acquisition scan (MUGA)
+130.0
+Patients must have a left ventricular ejection fraction >= lower limit of normal by echocardiogram (ECHO) or multigated acquisition scan (MUGA)
+250.0
+Patients must not have presence of class III or IV heart failure, according to New York Heart Association classifications, or a known left ventricular ejection fraction of less than 50%; Note: left ventricular ejection fraction (LVEF) evaluation by echocardiogram or multi-gated acquisition scan (MUGA) is not required prior to registration
+230.0
+Left ventricular ejection fraction >= institutional lower limit of normal (LLN) by echocardiogram (ECHO) or multi gated acquisition scan (MUGA)
+35.0
+Left ventricular ejection fraction (LVEF) =< 55% as determined by multi gated acquisition (MUGA) scan or echocardiogram (ECHO)
+23.0
+Patients must have a left ventricular ejection fraction (LVEF) >= institutional lower limit of normal (ILLN) by echocardiogram (ECHO) or multi gated acquisition scan (MUGA) within 28 days prior to registration
+280.0
+Left ventricular ejection fraction (LVEF) > 40% as assessed by echocardiogram or multi gated acquisition scan (MUGA)
+52.0
+Patients must have a left ventricular ejection fraction (LVEF) >= 50% by (either multigated acquisition [MUGA] or 2-dimensional [2-D] echocardiogram) within 28 days of registration
+60.0
+Left ventricular ejection fraction (LVEF) assessment must be performed within 90 days prior to randomization; (LVEF assessment performed by 2-dimensional [D] echocardiogram is preferred; however, multi gated acquisition [MUGA] scan may be substituted based on institutional preferences;) the LVEF must be >= 50% regardless of the cardiac imaging facility's lower limit of normal
+990.0
+New York Heart Association class I or less; ordinary physical activity does not cause undue fatigue, palpitations, dyspnea, or angina pain; patients 60 years or older must have a left ventricular ejection fraction (LVEF) at rest >= 40% measured by echocardiogram or multi-gated acquisition (MUGA)
+302.0
+Left ventricular ejection fraction of > 50% on baseline echocardiography or multi-gated acquisition (MUGA) scan
+33.0
+Left ventricular ejection fraction < 50% on echocardiogram or multi-gated acquisition (MUGA)
+82.0
+Patients with left ventricular ejection fraction < 50% on echocardiogram or multigated acquisition scan will be excluded
+37.0
+Left ventricular ejection fraction =< 50% as demonstrated by echocardiogram or multigated acquisition scan (MUGA)
+46.0
+Left ventricular ejection fraction (LVEF) >= 50% by 2-dimensional (2D) echocardiogram (ECHO) or multigated acquisition (MUGA) scan; timeline: within 4 weeks prior to enrollment
+18.0
+CLINICAL/LABORATORY CRITERIA: Patients must have a left ventricular ejection fraction (LVEF) >= institutional lower limit of normal (ILLN) by echocardiography (ECHO) or multi-gated acquisition scan (MUGA) within 42 days prior to registration
+53.0
+Patients must have an echocardiogram (ECHO) or multigated acquisition (MUGA) scan within 42 days prior to registration with a cardiac ejection fraction >= 45%
+150.0
+Shortening fraction >= 27% by echocardiogram
+253.0
+Patients must have a cardiac ejection fraction of >= 40%, or within institutional normal limits; a nuclear medicine gated blood pool examination is preferred; a 2-D ECHO scan is acceptable if a calculated ejection fraction is obtained and follow-up measurement of the cardiac ejection fraction will also be performed by echocardiography; measurement of cardiac ejection fraction should be within two weeks prior to allogeneic transplantation
+747.0
+Shortening fraction of >= 27% by echocardiogram, or ejection fraction of >= 50% by radionuclide angiogram
+693.0
+Cardiac ejection fraction >= 50% as determined by screening echocardiogram
+45.0
+Shortening fraction of >= 27% by echocardiogram (ECHO) OR
+74.0
+Ejection fraction >= 50% by ECHO or gated radionuclide study
+74.0
+Normal baseline cardiac ejection fraction >= 50%
+70.0
+Shortening fraction of >= 27% by echocardiogram, or
+140.0
+Ejection fraction of >= 50% by radionuclide angiogram
+140.0
+Patient must have a normal cardiac ejection fraction by pretreatment multigated acquisition scan (MUGA) or echocardiogram within 4 weeks prior to registration (resting ejection fraction >= 40% or >= 5% increase with exercise), shortening fraction by echocardiogram >= 24%, or to within the normal range of values for the institution
+509.0
+Shortening fraction of >= 27% by echocardiogram, or
+598.0
+Ejection fraction of >= 50% by radionuclide angiogram
+598.0
+Patients must have ejection fraction >= 45% based on echocardiogram performed within 28 days prior to registration
+44.0
+Patients with a history of congestive heart failure (CHF) or are at risk because of underlying cardiovascular disease or exposure to cardiotoxic drugs must have adequate cardiac function as clinically indicated:* Corrected QT interval (QTC) =< 480 msec* Shortening fraction of >= 27% by echocardiogram or ejection fraction of >= 50% by gated radionuclide study
+484.0
+Shortening fraction of >= 27% by echocardiogram, or ejection fraction of >= 50% by radionuclide angiogram
+600.0
+Shortening fraction of >= 27% by echocardiogram OR ejection fraction of >= 50% by radionuclide angiogram
+340.0
+Shortening fraction of >= 27% or
+330.0
+Ejection fraction of >= 50%
+330.0
+Normal ejection fraction (echocardiogram [ECHO]) >= 53% (if a range is given then the upper value of the range will be used) or cardiac MRI
+50.0
+Shortening fraction of >= 27% by echocardiogram, or ejection fraction of >= 50% by gated radionuclide study
+67.0
+Shortening fraction of >= 27% by echocardiogram, or
+44.0
+Ejection fraction of >= 50% by radionuclide angiogram or echocardiogram
+44.0
+Shortening fraction of >= 27% by echocardiogram, or
+56.0
+Ejection fraction of >= 50% by radionuclide angiogram or echocardiogram
+56.0
+RECURRENT/ PROGRESSIVE DIPG (STRATUM 1): Cardiac function: * Left ventricular ejection fraction >= 50 by gated radionuclide study OR shortening fraction of >= 27% by echocardiogram* Patient has no ventricular arrhythmias except for benign premature ventricular contractions* Patient has a corrected QT (QTc) interval =< 450 ms
+50.0
+NON-PROGRESSED DIPG (STRATUM 2): Left ventricular ejection fraction >= 50 by gated radionuclide study OR shortening fraction of >= 27% by echocardiogram
+50.0
+Ejection fraction of < 50% (by radionuclide angiogram or echocardiogram) or shortening fraction of < 25% (by echocardiogram)* Note: for instances where both are reported, and one is below the threshold, the site will have the option to re-measure it centrally at the core lab
+250.0
+Shortening fraction of >= 27% by echocardiogram, or ejection fraction of >= 50% by gated radionuclide study
+65.0
+Shortening fraction of >= 27% by echocardiogram
+700.0
+Ejection fraction of >= 50% by radionuclide angiogram or echocardiogram
+700.0
+Shortening fraction of >= 27% by echocardiogram, or ejection fraction of >= 50% by gated radionuclide study within 7 days prior to enrollment
+49.0
+Participants with known congestive heart failure (CHF); if known, patients with left ventricular ejection fraction (LVEF) =< 40% are excluded
+90.0
+Left ventricular ejection fraction (LVEF) >= 55%
+180.0
+Pediatric patients: normal left ventricular function with ejection fraction > 55% or shortening fraction >= 27%
+73.0
+Left ventricular ejection fraction (LVEF) >= institutional lower limit of normal
+70.0
+Left ventricular ejection fraction >= 45%
+63.0
+Systolic cardiac function will be assessed at screening if clinically indicated by history and physical; only patients with left ventricular ejection fraction (LVEF) >= 50% will be eligible for enrollment
+28.0
+Left ventricular ejection fraction (LVEF) >= 50% (measured within 28 days of study entry)
+96.0
+Patients must have left ventricular ejection fraction (LVEF) > 45% or within institutional normal limits
+57.0
+Left ventricular ejection fraction (LVEF) < 50%, regardless of whether there are symptoms of heart failure
+50.0
+Left ventricular ejection fraction (LVEF) >= 50%
+84.0
+If cardiac function assessment is clinically indicated or performed: participants will be ineligible if left ventricular ejection fraction (LVEF) is less than normal per institutional guidelines, or < 55%, if the threshold for normal is not otherwise specified by institutional guidelines
+70.0
+Patient must have a left ventricular ejection fraction >= institutional lower limit of normal (LLN) by echocardiogram (ECHO) or multigated acquisition (MUGA) within 28 days prior to registration
+97.0
+Left ventricular ejection fraction >= institutional lower limit of normal (LLN) by echocardiogram (ECHO)
+40.0
+Left ventricular ejection fraction >= institutional lower limit of normal (LLN) by echocardiogram (ECHO), within 2 weeks of the first dose of study treatment
+18.0
+Left ventricular ejection fraction >= institutional lower limit of normal (LLN) by echocardiogram (ECHO)
+68.0
+Left ventricular ejection fraction (LVEF) >= institutional lower limit of normal (LLN) by echocardiogram (ECHO) or multigated acquisition scan (MUGA)
+68.0
+Left ventricular >= institutional lower limit of normal (LLN) by echocardiogram (ECHO) ejection fraction
+32.0
+Left ventricular ejection fraction >= institutional lower limit of normal (LLN) by echocardiogram (ECHO)
+18.0
+Left ventricular ejection fraction (LVEF) >= institutional lower limit of normal (LLN) by echocardiogram (ECHO) or multigated acquisition scan (MUGA) within 30 days of day 1 of study
+27.0

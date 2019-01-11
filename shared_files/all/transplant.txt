@@ -1,0 +1,110 @@
+Stem Cell Transplant (SCT): * Patients are eligible 6 weeks after date of autologous stem cell infusion following myeloablative therapy (timed from first day of protocol therapy)* Patients are not eligible post allogeneic stem cell transplant* Patients who have received an autologous stem cell infusion to support non-myeloablative therapy (such as 131 iodine [I]-MIBG) are eligible at any time as long as they meet the other criteria for eligibility
+62.0
+Prior liver transplant
+368.0
+STEP II: Patients must not have received any non-protocol therapy outside of the assigned induction therapy including stem cell transplant
+1080.0
+Patients must have received frontline therapy (including surgery, chemotherapy, autologous stem cell transplant [SCT] +/- MIBG, immunotherapy, radiotherapy, and retinoids) but may NOT have received second line chemotherapy for resistant/refractory, relapsed disease or progressive disease
+74.0
+Patients are eligible >= 6 weeks after autologous stem cell transplants or stem cell infusions as long as hematologic and other eligibility criteria have been met
+74.0
+TRANSPLANT PATIENTS: all patients undergoing planned allogeneic transplant (both malignant and non-malignant diagnoses)
+450.0
+ONCOLOGY PATIENTS: patients with an oncology diagnosis that are or will be on a chemotherapy regimen that will last for an additional >= 3 months or are on or will be on a chemotherapy regimen for < 3 months and then proceed to transplant (allogeneic or autologous stem cell rescue) during the 3-month study period
+450.0
+Must have undergone allogeneic hematopoietic stem cell transplantation (HSCT) (regardless of stem cell source)
+113.0
+Patients must have relapsed after first line chemotherapy; may have relapsed after autologous or allogeneic stem cell transplant, or have primary refractory disease; no upper limit for number of prior therapies; if status post allogeneic stem cell transplant, no active graft versus host disease
+189.0
+RANDOMIZED PHASE II (ARMS K AND L): Patients must have relapsed after first line chemotherapy; may have relapsed after autologous stem cell transplant, or have primary refractory disease; no upper limit for number of prior therapies; patient must not have received a prior allogeneic stem cell transplant
+189.0
+Patients may have received prior allogeneic transplant or autologous transplant; however, patients with prior allogeneic bone marrow transplant will be eligible only if both of the following conditions are met:* The transplant must have been performed >= 90 days prior to registration* The patient must not have >= grade 2 acute graft versus host disease (GvHD) or either moderate or severe limited chronic GvHD within 14 days prior to registration
+38.0
+Allogeneic stem cell transplantation is allowed provided the patient is >= 1 year from transplant at time of registration, is not on immunosuppressive therapy to treat/prevent graft-versus-host disease, has no evidence of active graft versus host disease, and no evidence of active infection
+97.0
+Active graft-versus-host disease (GVHD) following allogeneic stem cell transplant for non-AML condition (ex. MDS, MPN, lymphoid malignancy, aplastic anemia) requiring ongoing use of immunosuppressants
+63.0
+Stem cell Infusion without TBI: no evidence of active graft vs host disease and at least 84 days must have elapsed after transplant or stem cell infusion
+154.0
+Stem cell transplant or rescue: patient has not had a prior stem cell transplant or rescue
+598.0
+Prior autologous and/or allogeneic transplant is permitted although transplant must have occurred greater than 90 days prior to registration
+28.0
+Patients must not be candidates for allogeneic hematopoietic stem cell transplant; NOTE: Subjects up to age 70 years who are considered fit for allogeneic hematopoietic stem cell transplant, should be considered for enrollment on E1910, in order to avoid competing with that study; if a patient is considered unfit for intensive chemotherapy at the time of initial diagnosis, but subsequently achieves a complete remission (CR), then it will be left to the treating physician�s discretion to consider hematopoietic stem cell transplant (HSCT)
+44.0
+Patient is not a candidate for stem cell transplant due to advanced age or co-morbidities; or the enrollee does not have donor available; or the enrollee declines stem cell transplant due to personal belief; or stem cell transplant is not standard of care based on the risk category of disease
+80.0
+Patients with history of organ transplant
+96.0
+Patients with chronic GVHD diagnosed within 3 years after hematopoietic stem cell transplant (HSCT) for any disease, with any graft, and any conditioning regimen with at least one manifestation secondary to fibrosis, including: sclerodermatous skin changes, dry mouth, dry eye, esophageal strictures, or vaginal GVHD
+12.0
+Patient must be >= 12 weeks since autologous bone marrow/stem cell transplant prior to enrollment
+110.0
+INCLUSION CRITERIA FOR STRATUM C: Patient must be:* >= 12 weeks since autologous bone marrow/stem cell transplant prior to enrollment* >= 5 years since allogeneic bone marrow transplant prior to enrollment with no evidence of active graft versus (vs.) host disease
+110.0
+Stem cell transplant within previous 3 months prior to initiation of study therapy
+30.0
+Current candidacy for a potentially curative allogeneic stem cell transplant, unless declined
+30.0
+cHL COHORT ONLY: history of allogeneic transplant
+84.0
+Patient must be deemed eligible to proceed with high-dose chemotherapy and autologous stem cell transplantation by local transplant center
+302.0
+Patients who have undergone allogeneic stem cell transplantation
+46.0
+Patients who have undergone autologous stem cell transplantation within 3 months from study entry
+46.0
+ALK+ ALCL: patients must have disease that has relapsed and or is refractory to prior therapy, which must have included a multiagent chemotherapy regimen including an anthracycline, if not contraindicated, and prior brentuximab; prior crizotinib or other ALK inhibitor therapy, while recommended, is not mandatory; patients must have relapsed following or be ineligible for, or refuse, autologous stem cell transplant
+50.0
+MCL: patients must have disease that has relapsed and or is refractory to prior therapy, which must have included a multiagent chemotherapy regimen and prior ibrutinib or other BTK inhibitor therapy; patients must have relapsed following or be ineligible for, or refuse, autologous stem cell transplant
+50.0
+BCL6+ DLBCL: patients must have disease that has relapsed and or is refractory to prior therapy, which must have included an anthracycline, if not contraindicated; patients must have relapsed following or be ineligible for, or refuse, autologous stem cell transplant
+50.0
+AIDS-related non-Hodgkin lymphoma and other non-Hodgkin lymphoma* Failed standard first-line therapy; and* Failed autologous stem cell transplant if indicated for histology (i.e diffuse large B-cell lymphoma) or autologous stem cell transplant is not feasible
+60.0
+Stem cell transplant (SCT): no evidence of active graft vs. host disease for at least 4 weeks; for allogeneic SCT patients, >= 3 months must have elapsed since transplant* Must have received no more than 1 prior autologous or allogeneic stem cell transplant.* Patients must be off all systemic immunosuppressive therapy for at least 2 weeks, excluding hydrocortisone for physiologic cortisol replacement
+56.0
+Patients who have undergone allogeneic stem cell transplantation and have required systemic treatment for GVHD (including but not limited to oral or parenteral corticosteroids, ibrutinib, and extracorporeal phototherapy) within the last 12 weeks
+24.0
+Patients are not eligible if they have had or are planned for solid organ transplant; patients who have received allogeneic hematopoietic stem cell transplant are eligible if:* The transplant occurred at least 90 days prior to registration, * Patient has no prior acute graft versus host disease (GVHD), and * Within 48 hours of registration, patient demonstrates at least 90% engraftment, defined as: absolute neutrophil count (ANC) >= 500 mcl, measured over 3 consecutive days or 1 day with an ANC >= 1,000 mcl, or platelets >= 50,000 mcl measured, wherein the patient did not receive any platelet transfusions within 7 days prior to laboratory assessment
+707.0
+Must not have received any prior stem cell transplant
+90.0
+No evidence of active graft versus (vs.) host disease and >= 2 months must have elapsed since transplant
+146.0
+Patients with a history of allogeneic hematopoietic stem cell transplantation (HSCT) will be eligible if they are more than 90 days removed from the date of stem cell infusion, have no evidence of acute graft-versus-host disease (GVHD) or active chronic (grade 2-4) GVHD, and are off of all transplant-related immunosuppression for at least 2 weeks
+30.0
+Allowed prior allogeneic hematopoietic stem cell transplantation (allo-HCT) regardless of stem cell source; patients must be at least 3 months post allo-HCT (at time of treatment start); mismatched transplantations would be allowed
+48.0
+Donor lymphocyte infusion within 8 weeks prior to treatment start if post-transplant
+48.0
+Patients must meet institutional eligibility requirements for stem cell transplant, including cardiac, renal, liver, and pulmonary requirements
+689.0
+Stem cell infusions (with or without total body irradiation [TBI]):* Allogeneic (non-autologous) bone marrow or stem cell transplant, or any stem cell infusion including donor lymphocyte infusion (DLI) or boost infusion: >= 84 days after infusion, and no evidence of graft-versus-host disease (GVHD)* Autologous stem cell infusion including boost infusion: >= 42 days
+51.0
+Patients, who relapsed 6 months after bone marrow transplant and have no evidence of active graft versus host disease and are off systemic immunosuppressant medications for at least 2 months and have received hypomethylating agents (HMA) therapy before or after transplant and meet other eligibility criteria of progression after at least 4 months of DNMTi therapy, are eligible to be enrolled in this clinical trial
+27.0
+Patients must not have any history of organ transplant that requires use of immunosuppressives
+132.0
+Prior liver transplant
+186.0
+Patients who are receiving cyclosporine, tacrolimus or other agents to prevent graft-versus-host disease post bone marrow transplant are not eligible for this trial
+154.0
+Patients who are receiving cyclosporine, tacrolimus or other agents to prevent graft-versus-host disease post bone marrow transplant are not eligible for this trial
+148.0
+Patients who are receiving cyclosporine, tacrolimus or other agents to prevent graft-versus-host disease post bone marrow transplant are not eligible for this trial
+67.0
+Anti-GVHD agents post-transplant: Patients who are receiving cyclosporine, tacrolimus or other agents to prevent graft-versus-host disease post bone marrow transplant are not eligible for this trial
+65.0
+Patients who are receiving cyclosporine, tacrolimus or other agents to prevent graft-versus-host disease post bone marrow transplant are not eligible for this trial
+36.0
+Patients who are receiving cyclosporine, tacrolimus or other agents to prevent either graft-versus-host disease post bone marrow transplant or organ rejection post-transplant are not eligible for this trial
+146.0
+Patients who are receiving cyclosporine, tacrolimus or other agents to prevent graft-versus-host disease post bone marrow transplant are not eligible for this trial
+51.0
+Anti-GVHD or agents to prevent organ rejection post-transplant; patients who are receiving cyclosporine, tacrolimus, or other agents to prevent either graft-versus-host disease post bone marrow transplant or organ rejection post-transplant are not eligible for this trial; at least 3 half-lives must have elapsed after the last dose of GVHD medications (meds)
+53.0
+Patients who are receiving cyclosporine, tacrolimus or other agents to prevent graft-versus-host disease post bone marrow transplant are not eligible for this trial
+49.0
+Patients who are receiving cyclosporine, tacrolimus or other agents to prevent graft-versus-host disease post bone marrow transplant are not eligible for this trial
+49.0

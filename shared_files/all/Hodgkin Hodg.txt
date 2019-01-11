@@ -1,0 +1,30 @@
+PARTICIPANTS NOT ON THE HODGKIN LYMPHOMA EXPANSION COHORT: Leukocytes >= 2,000/mm^3, within 2 weeks prior to enrollment
+84.0
+PARTICIPANTS NOT ON THE HODGKIN LYMPHOMA EXPANSION COHORT: Absolute neutrophil count >= 1,000/mm^3, within 2 weeks prior to enrollment
+84.0
+PARTICIPANTS NOT ON THE HODGKIN LYMPHOMA EXPANSION COHORT: Platelets >= 75,000/mm^3, within 2 weeks prior to enrollment
+84.0
+PARTICIPANTS NOT ON THE HODGKIN LYMPHOMA EXPANSION COHORT: Serum lipase and amylase < 1.5 x ULN, within 2 weeks prior to enrollment
+84.0
+PARTICIPANTS NOT ON THE HODGKIN LYMPHOMA EXPANSION COHORT: Creatinine < 1.5 UNL or creatinine clearance (CrCl) > 50 ml/min, within 2 weeks prior to enrollment
+84.0
+PARTICIPANTS NOT ON THE HODGKIN LYMPHOMA EXPANSION COHORT: Hemoglobin >= 9 g/dL, within 2 weeks prior to enrollment
+84.0
+PARTICIPANTS NOT ON THE HODGKIN LYMPHOMA EXPANSION COHORT: Serum albumin >= 2.8 g/dL, within 2 weeks prior to enrollment
+84.0
+PARTICIPANTS ON THE HODGKIN LYMPHOMA EXPANSION COHORT: Leukocyte count: no lower limit, within 2 weeks prior to enrollment
+84.0
+PARTICIPANTS ON THE HODGKIN LYMPHOMA EXPANSION COHORT: Absolute neutrophil count: > 500/mcL, within 2 weeks prior to enrollment
+84.0
+PARTICIPANTS ON THE HODGKIN LYMPHOMA EXPANSION COHORT: Platelets: > 50,000/mcL, within 2 weeks prior to enrollment
+84.0
+PARTICIPANTS ON THE HODGKIN LYMPHOMA EXPANSION COHORT: Hemoglobin: >= 9 g/dL unless bone marrow involvement secondary to Hodgkin lymphoma is present, within 2 weeks prior to enrollment
+84.0
+PARTICIPANTS ON THE HODGKIN LYMPHOMA EXPANSION COHORT: Serum albumin: >= 2.8 g/dL, within 2 weeks prior to enrollment
+84.0
+PARTICIPANTS ON THE HODGKIN LYMPHOMA EXPANSION COHORT: Serum lipase and amylase < 1.5 x ULN, within 2 weeks prior to enrollment
+84.0
+PARTICIPANTS ON THE HODGKIN LYMPHOMA EXPANSION COHORT: AST (SGOT) / ALT (SGPT): =< 3 x ULN
+84.0
+PARTICIPANTS ON THE HODGKIN LYMPHOMA EXPANSION COHORT: Creatinine: < 1.5 x upper normal limit (UNL) or CrCl > 50ml/min, within 2 weeks prior to enrollment
+84.0

@@ -1,0 +1,358 @@
+Patients with known active brain metastases should be excluded from this clinical trial; patients with prior treated brain metastases are allowed, providing that they were not accompanied by seizures and that a baseline brain magnetic resonance imaging (MRI) scan prior to study entry demonstrates no current evidence of brain metastases; all patients with central nervous system (CNS) metastases must be stable for > 3 months after treatment and off steroid treatment prior to study enrollment
+36.0
+Patients with brain metastases are ineligible; all patients must have a pretreatment CT or MRI scan of the brain to evaluate for central nervous system (CNS) disease within 42 days prior to registration
+162.0
+Diagnosis of a primary brain tumor treated with at least one of the following:* Neurosurgical resection of the brain tumor* Cranial irradiation* Any chemotherapy to treat the brain tumor
+143.0
+Patients with known active brain metastases are excluded; patients with a history of central nervous system (CNS) metastases that have been treated must be stable with no symptoms for > 3 months after completion of that treatment and off steroid treatment, with image documentation required prior to study enrollment
+130.0
+Known central nervous system (CNS) or brain metastasis that are either symptomatic or untreated; Note: patients with neurological symptoms must undergo a computed tomography (CT) scan/magnetic resonance imaging (MRI) of the brain to exclude brain metastasis* Note: patients with CNS metastases that have been treated and are stable without symptoms for >= 4 weeks after completion of treatment are eligible
+48.0
+Patients with active or untreated brain metastases; treated brain metastases must have been stable for at least 2 months
+40.0
+At least 1 measurable unirradiated parenchymal brain metastasis within 21 days prior to study entry; patients who are to undergo SRS must have no more than 10 brain metastases; there is no limit on number of brain metastases for WBRT; the minimum size as measured on T1-weighted gadolinium-enhanced MRI must be as follows according to the number of brain metastases:* For a single solitary lesion the size must be >= 10 mm* For 2 or more lesions, the size of at least 2 of the lesions must be >= 5 mm* Patients may also have the following provided the size requirements above are met:** Progressive parenchymal brain metastasis following stereotactic radiosurgery for 1-3 brain metastases, with at least 1 new measurable brain lesion** Progressive parenchymal brain metastasis following surgical resection of 1-3 brain metastases, with at least 1 measurable brain lesion
+143.0
+Patients with active brain metastases or carcinomatous meningitis or epidural disease are excluded from this clinical trial; subjects with brain metastases previously treated with whole brain radiation or radiosurgery or subjects with epidural disease previously treated with radiation who are asymptomatic and have remained stable for 4 weeks and do not require steroid treatment for at least 2 weeks before starting study treatment are eligible; neurosurgical resection of brain metastases or brain biopsy is permitted if completed at least 3 months before starting study treatment; baseline brain imaging with contrast-enhanced CT or MRI scans for subjects with known brain metastases is required to confirm eligibility
+55.0
+The participant has a primary brain tumor
+42.0
+The participant has active brain metastases or epidural disease; participants with brain metastases previously treated with whole brain radiation or radiosurgery or participants with epidural disease previously treated with radiation or surgery who are asymptomatic and do not require steroid treatment for at least 4 weeks before starting study treatment are eligible; participants with treated brain metastasis should not take enzyme-inducing anticonvulsive therapies (EIACDs) within 2 weeks of registration, though non-enzyme inducing anticonvulsive drugs such as levetiracetam are allowed; neurosurgical resection of brain metastases or brain biopsy is permitted if completed at least 3 months before starting study treatment; baseline brain imaging with contrast-enhanced computed tomography (CT) or magnetic resonance imaging (MRI) scans for participants with known brain metastases is required to confirm eligibility
+42.0
+All patients must undergo a CT or MRI of the brain within 42 days prior to registration; patients with asymptomatic brain metastases or previously treated brain metastases that are stable (i.e. not requiring corticosteroids) at the time of registration will be eligible
+97.0
+Subjects with inactive central nervous system (CNS) metastasis are eligible; inactive CNS metastasis is defined as: no signs of cerebral edema after successful definitive treatment of brain metastases (surgical resection, whole brain irradiation, stereotactic radiation therapy, or a combination of these) with stable or improved radiographic appearance on magnetic resonance imaging (MRI) scan at least 1 month after completion of treatment
+52.0
+Study participants with brain metastases are excluded unless these have been definitively treated and are radiographically stable for at least 1 month; the study participant must also demonstrate a stable physical exam and must have discontinued systemic steroids for treatment of edema related to brain metastases or treatment for over 7 days
+40.0
+Presence of symptomatic brain metastases at time of study consent process; patients with history of treated brain metastases are eligible if they are not symptomatic at the time of study enrollment
+700.0
+Symptomatic or untreated leptomeningeal or brain metastases or spinal cord compression
+68.0
+Patients with known brain metastases should be excluded from this clinical trial; exception: patients with brain metastases will be allowed on study if they have clinically controlled neurologic symptoms, defined as surgical excision and/or radiation therapy followed by 21 days of stable neurologic function and no evidence of central nervous system (CNS) disease progression as determined by computed tomography (CT) or magnetic resonance imaging (MRI) within 21 days prior to the first dose of study drug
+130.0
+No history of intracranial brain metastasis
+34.0
+Patients must have a CT or MRI scan of the brain to evaluate for central nervous system (CNS) disease within 42 days prior to sub-study registration; patient must not have leptomeningeal disease, spinal cord compression or brain metastases unless: (1) metastases have been locally treated and have remained clinically controlled and asymptomatic for at least 14 days following treatment and prior to registration, AND (2) patient has no residual neurological dysfunction and has been off corticosteroids for at least 24 hours prior to sub-study registration
+10000.0
+No current symptomatic, untreated, or uncontrolled brain metastases present
+20.0
+Known brain metastases
+84.0
+No symptomatic, untreated, or uncontrolled brain metastases present
+30.0
+Known brain metastases (even if treated)
+44.0
+Symptomatic or untreated leptomeningeal or brain metastases or spinal cord compression
+35.0
+Stage 1 solid tumor and stage 2 endometrial and ovarian cancer participants with known central nervous system (CNS) metastatic lesions which are symptomatic and/or growing; patients previously treated for these conditions that are asymptomatic in the absence of corticosteroid therapy are allowed to enroll; brain metastasis must be stable for 1 month with verification by imaging (brain MRI completed at screening demonstrating no current evidence of progressive brain metastases); CNS imaging will not be mandated for asymptomatic patients with no history of CNS metastases
+23.0
+Patients must not have brain metastases unless brain metastases have been treated and patient is asymptomatic with no residual neurological dysfunction and has not received enzyme-reducing anti-epileptic drugs or corticosteroids for at least 7 days prior to registration
+280.0
+No radiation therapy (other than to the brain) within 14 days of day 1 of protocol chemotherapy except radiation to brain metastases, which must be completed 7 days prior to start of chemotherapy
+420.0
+Patients are ineligible if they have any currently active central nervous system (CNS) metastases; patients who have treated brain metastases (with either surgical resection or stereotactic radiosurgery [SRS]) could be eligible; patients must not have taken any steroids =< 10 days prior to randomization for the purpose of managing their brain metastases; patients with only whole brain irradiation for treatment of CNS metastases will be ineligible
+300.0
+Patients are ineligible if they have any currently active CNS metastases; patients who have treated brain metastases (with either surgical resection or stereotactic radiosurgery [SRS]) could be eligible to proceed; patients crossing over from dabrafenib/trametinib to nivolumab (nivo)/ipilimumab (ipi) must not have taken any steroids =< 10 days prior to registration for the purpose of managing their brain metastases; patients with only whole brain irradiation for treatment of CNS metastases are ineligible
+300.0
+Brain metastases
+360.0
+The subject has a primary brain tumor
+90.0
+Known brain metastases or cranial epidural disease unless adequately treated with radiotherapy and/or surgery (including radiosurgery) and stable for at least 2 weeks before the first dose of study treatment; eligible subjects must be neurologically asymptomatic and without corticosteroid treatment at the time of the start of study treatment
+90.0
+Patients with previously treated brain metastases may participate provided they are stable (without evidence of progression by imaging for at least 3 months prior to the first dose of trial treatment and any neurologic symptoms have returned to baseline), have no evidence of new or enlarging brain metastases, and are not using steroids for at least 7 days prior to trial treatment
+36.0
+The subject has active brain metastases or epidural disease; subjects with brain metastases previously treated with whole brain radiation or radiosurgery or subjects with epidural disease previously treated with radiation or surgery who are asymptomatic and do not require steroid treatment for at least 2 weeks before starting study treatment are eligible; neurosurgical resection of brain metastases or brain biopsy is permitted if completed at least 3 months before starting study treatment; baseline brain imaging with contrast-enhanced CT or magnetic resonance imaging (MRI) scans for subjects with known brain metastases is required to confirm eligibility
+135.0
+Active brain metastasis or leptomeningeal disease; patients with known brain metastases are allowed if metastases have been treated and there is no magnetic resonance imaging (MRI) evidence of progression for at least 12 weeks after treatment is complete and within 28 days prior to the first dose of nivolumab administration; there must also be no requirement for immunosuppressive doses of systemic corticosteroids (> 10 mg/day prednisone equivalents) for at least 2 weeks prior to study drug administration
+37.0
+Patients must have a CT or MRI scan of the brain to evaluate for central nervous system (CNS) disease within 42 days prior to registration; patient must not have symptomatic brain metastases or evidence of leptomeningeal carcinomatosis; patients with asymptomatic brain metastases are eligible if off of steroids for at least 7 days prior to registration without development of symptoms
+223.0
+History or evidence upon physical examination of central nervous system (CNS) disease, including primary brain tumor, seizures which are not controlled with non-enzyme inducing anticonvulsants, any brain metastases and/or epidural disease, or history of cerebrovascular accident (cerebrovascular accident [CVA], stroke), transient ischemic attack (TIA) or subarachnoid hemorrhage within six months prior to the first date of study treatment
+96.0
+Patients are ineligible if they have any currently active central nervous system (CNS) metastases; patients who have treated brain metastases (with either surgical resection or stereotactic radiosurgery) that have been stable on head magnetic resonance imaging (MRI) or contrast computed tomography (CT) scan for at least 4 weeks following treatment and within 4 weeks prior to randomization are eligible; patients must not have taken any steroids =< 14 days prior to randomization for the purpose of managing their brain metastases; patients with only whole brain irradiation for treatment of CNS metastases will be ineligible
+400.0
+Brain metastases outside a 5-mm margin around either hippocampus must be visible on contrast-enhanced magnetic resonance imaging (MRI) performed =< 21 days prior to Step 1 registration; an allowed exception, regarding ability to image brain metastases, would be that patients who had undergone radiosurgery or surgical resection and are planning adjuvant WBRT do not have to have visible disease but do need a pre-surgery MRI or computed tomography (CT) scan demonstrating brain metastases; however, the brain metastases could not have been within 5 mm of either hippocampus
+510.0
+Patients with brain metastases or primary brain tumors must have completed treatment, surgery or radiation therapy >= 4 weeks prior to start of treatment
+6452.0
+Participants with known brain metastases or leptomeningeal metastases must be excluded unless they qualify for enrollment as described below because of poor prognosis and concerns regarding progressive neurologic dysfunction that would confound the evaluation of neurologic and other adverse events; participants with brain metastases are permitted if metastases have been treated and there is no magnetic resonance imaging (MRI) evidence of progression for at least 4 weeks or more after treatment is complete and within 4 weeks prior to the first dose of nivolumab administration
+84.0
+The participant has a primary brain tumor
+84.0
+Patients with untreated brain metastases, spinal cord compression, or evidence of symptomatic brain metastases or leptomeningeal disease as noted on computed tomography (CT) or magnetic resonance imaging (MRI) scans should not be included on this study; screening imaging to rule out brain metastases is not required for screening, but should be performed prior to study enrollment if clinically indicated; patients with treated brain metastases and resolution of any associated symptoms must demonstrate stable post-therapeutic imaging for at least 6 months following therapy prior to starting study drug
+549.0
+Patients with untreated brain metastases, spinal cord compression, or evidence of symptomatic brain metastases or leptomeningeal disease as noted on computed tomography (CT) or magnetic resonance imaging (MRI) scans should not be included on this study, since neurologic dysfunction may confound the evaluation of neurologic and other adverse events; patients with treated brain metastases and resolution of any associated symptoms must demonstrate stable post-therapeutic imaging for at least 6 months following therapy prior to starting study drug
+680.0
+Patients with active or untreated brain metastases or leptomeningeal metastases are excluded from this clinical trial; NOTE: patients with previously treated brain metastases must have stable neurologic status and magnetic resonance imaging (MRI) imaging following local therapy (surgery or radiation) for at least 4 weeks, with no requirement for immunosuppressive doses of systemic corticosteroids (> 10 mg/day prednisone equivalents) for at least 2 weeks prior to study drug administration (stable low dose dexamethasone allowed at discretion of protocol chair)
+45.0
+Patient does not have known brain metastases (testing optional)
+188.0
+Patients with known brain metastases should be excluded from this clinical trial; however, patients with previously treated and stable brain metastases are eligible as long as they are no longer requiring steroids, completed radiation therapy more than 2 weeks prior to the first dose of study regimen and have no seizures or worsening neurologic symptoms
+33.0
+Patients with untreated brain metastases are allowed provided that the patient is clinically asymptomatic and stable; patients with a prior history of symptomatic brain metastases are eligible provided:* The brain metastases have been treated* The patient is asymptomatic from the brain metastases at enrollment* Corticosteroids prescribed for the management of brain metastases have been discontinued at least 7 days prior to registration* The brain metastases are stable on pre-registration imaging
+82.0
+Patients with untreated brain metastases, spinal cord compression, or evidence of symptomatic brain metastases or leptomeningeal disease as noted on computed tomography (CT) or magnetic resonance imaging (MRI) scans should be excluded from this clinical trial; screening brain MRI (or CT if MRI contraindicated) will be required for patients with recurrent NSCLC, TNBC, or SCLC; brain MRI (or CT if MRI contraindicated) is required for PDAC if clinically suspected by patient�s symptoms or neurological exam; should patient found to have brain metastasis, treatment of brain metastasis must precede the participation in this study; for patients with known and treated brain metastases is allowed in this study if they fulfill the following criteria:* The lesions have improved or remained stable radiographically and clinically for at least 6 weeks after completion of brain irradiation or stereotactic brain radiosurgery and off steroids for at least 6 weeks
+126.0
+Patients with a prior history of brain metastases are eligible provided:* The brain metastases have been treated * The patient is asymptomatic from the brain metastases* Corticosteroids prescribed for the management of brain metastases have been discontinued at least 7 days prior to registration * The brain metastases are stable on pre-registration imaging
+36.0
+Have distant metastases
+720.0
+Patients with a prior history of brain metastases are eligible provided:* The brain metastases have been treated* The patient is asymptomatic from the brain metastases* Corticosteroids prescribed for the management of brain metastases have been discontinued at least 7 days prior to registration* The brain metastases are stable on pre-registration imaging
+50.0
+Patients who present with symptomatic brain radionecrosis after they have received radiosurgery for brain metastases from primary solid tumor including but not limited to lung, breast, colorectal cancer but excluding melanoma, choriocarcinoma, renal cell carcinoma or gliomas
+130.0
+Patients with a prior history of brain metastases are eligible provided:* The brain metastases have been treated* The patient is asymptomatic from the brain metastases* Corticosteroids prescribed for the management of brain metastases have been discontinued at least 7 days prior to registration
+46.0
+Patients with a history of treated brain metastases who are asymptomatic and have not received steroid therapy in the 14 days prior to registration are eligible; anti-seizure medications are allowed provided they are non-enzyme inducing (e.g. topiramate, levetiracetam, gabapentin)
+180.0
+Patients with brain metastases are allowed provided that:* No leptomeningeal disease is present* Intracranial disease is controlled by prior local therapies (craniotomy, stereotactic radiosurgery, whole brain irradiation), as evidenced by brain MRI 4 weeks post treatment indicating no new intracranial disease* Stable or decreasing dose of steroids provided patient on =< 20 mg of prednisone or its equivalent daily
+32.0
+Extensive active brain disease including symptomatic brain metastases or the presence of leptomeningeal disease, and all patients with infratentorial tumors* Note: patients with brain metastasis after definitive therapy with surgery or stereotactic radiation and stable off steroids for > 4 weeks are eligible as are patients with asymptomatic brain metastasis as long as less than 1 cm and thus deemed as not requiring therapy by the primary physician and the lesions(s) are not infratentorial
+60.0
+Patients with known brain metastases must either meet the additional criteria and enroll as part of the Progressive Brain Metastases Cohort, or have clinically controlled neurologic symptoms, defined as surgical excision and/or radiation therapy followed by 14 days of stable neurologic function prior to registration; patients with previously incidentally discovered or asymptomatic brain metastasis(es) must receive surgical excision and/or radiation therapy prior to registration; patients with progressive brain metastases following prior treatment are not eligible for the Standard Cohort, but may be considered for the Progressive Brain Metastases Cohort
+333.0
+Progressive Brain Metastases Cohort* S1416 is one study with two cohorts; patients who have progressive brain metastases after surgical excision and/or intracranial radiation will be in the Progressive Brain Metastases Cohort and will require a baseline magnetic resonance imaging (MRI); patients with previously treated brain metastases, stable disease and stable neurologic function for 14 days prior to trial registration will be in the Standard Cohort and may obtain MRI of the brain at the physician�s discretion; randomization and treatment is the same for both cohorts* In addition to all of the previous eligibility criteria, patients with progressive brain metastases who do not satisfy the conditions to enroll in the standard cohort (neurologic stability for 14 days following surgery and/or radiation therapy) must also meet the following criteria to enroll as part of the brain metastases cohort:** Patients with progressive brain metastases must have a baseline brain MRI within 28 days prior to registration; brain metastases must be progressive and >= 10 mm in longest dimension on radiographic imaging AFTER prior intracranial radiation (IR) therapy (i.e., whol brain radiation therapy [WBRT], stereotactic radiosurgery [SRS], gamma knife [GK] or local equivalent); patients must not have evidence of diffuse leptomeningeal disease on brain MRI or by previously documented cerebrospinal fluid (CSF) cytology; discrete dural metastases are permitted; there must be no evidence of hemorrhage or impending herniation on baseline brain imaging; patients with contraindication to gadolinium-enhanced MRI imaging are not eligible** Patients must be on a stable or decreasing dose of steroids for >= 7 days prior to registration** If patient had an open brain biopsy, at least 28 days must have elapsed between biopsy and registration** Patients enrolling in the Progressive Brain Metastases Cohort can have received up to 3 prior lines of cytotoxic chemotherapy for metastatic disease; note that for enrollment in the standard cohort, patients must have had =< 1 prior cytotoxic regimen for metastatic disease
+333.0
+Patients with unstable brain metastases should be excluded; however, patients with known brain metastases may participate in this clinical trial if they are clinically stable (without evidence of progression by imaging for at least four weeks prior to the first dose of trial treatment and any neurologic symptoms have returned to baseline), have no evidence of new or enlarging brain metastases, and are on a stable or decreasing dose of steroids for at least 14 days prior to trial treatment
+51.0
+Subjects with symptomatic brain metastases will be excluded from trial secondary to poor prognosis; however, subjects who have had treatment for their brain metastasis and whose brain disease is stable without steroid therapy for at least 3 months may be enrolled
+48.0
+Patients must not have history of brain metastases
+143.0
+DISEASE RELATED CRITERIA: Patients must not have known brain metastases, leptomeningeal carcinomatosis or spinal cord compression unless: (1) metastases have been locally treated (including stereotactic body radiation therapy [SBRT], whole brain radiotherapy [WBRT], and surgical resection) and have remained clinically controlled and asymptomatic for at least 14 days following treatment and prior to registration, AND (2) patient has no residual neurological dysfunction and has been off corticosteroids for at least 24 hours prior to registration
+53.0
+Patients must not have known brain metastases unless brain metastases have been treated and patient is asymptomatic with no residual neurological dysfunction and has not received enzyme-reducing anti-epileptic drugs or corticosteroids for at least 14 days prior to registration
+77.0
+Prior radiotherapy for patients with brain metastases prior to enrollment is acceptable.
+186.0
+Patients with brain metastases are eligible if these lesions have been previously treated and the patients have no clinical or radiographic evidence of progression within 30 days prior to enrollment.
+186.0
+Clinical or radiologic evidence of new, untreated, and/or progressive brain metastases prior to registration after induction systemic therapy.
+186.0
+Patients with brain metastases or primary brain tumors must have completed treatment, surgery or radiation therapy >= 28 days prior to registration and have stable disease at time of registration; metastatic brain parenchymal disease must have been treated and patient must be off steroids for 7 days prior to registration; patients must have a CT or MRI scan of the brain to evaluate for central nervous system (CNS) disease within 42 days prior to registration
+707.0
+Patients with known brain metastases should be excluded from this clinical trial because of their poor prognosis and because they often develop progressive neurologic dysfunction that would confound the evaluation of neurologic and other adverse events
+28.0
+Patients with untreated brain metastases, spinal cord compression, or leptomeningeal carcinomatosis should be excluded from this clinical trial; patients whose brain metastases have been treated may participate provided they show radiographic stability (defined as 2 brain images, both of which are obtained after treatment to the brain metastases; these imaging scans should both be obtained at least four weeks apart and show no evidence of intracranial progression); in addition, any neurologic symptoms that developed either as a result of the brain metastases or their treatment must have resolved or be stable either, without the use of steroids, or are stable on a steroid dose of =< 10 mg/day of prednisone or its equivalent (and anti-convulsants) for at least 14 days prior to the start of treatment
+180.0
+Patients with untreated brain metastases, spinal cord compression, or evidence of symptomatic brain metastases or leptomeningeal disease as noted on computed tomography (CT) or magnetic resonance imaging (MRI) scans are excluded from this clinical trial; while screening brain MRI is not required, it should be performed if clinically indicated at the discretion of the treating investigator; should patient found to have brain metastasis, treatment of brain metastasis must precede the participation in this study
+90.0
+For patients with known and treated brain metastases is allowed in this study if they fulfill ALL of the following criteria:* The lesions have remained radiologically stable for at least six weeks after completion of brain irradiation or stereotactic brain radiosurgery, and must remain stable at the time of study entry* There is no mass effect present radiologically and no steroids requirement for symptom control for more than 4 weeks
+90.0
+Patients who have a history of brain metastasis are eligible for the study provided that all the following criteria are met:* Brain metastases which have been treated* No evidence of disease progression for >= 3 months before the first dose of study drug* No hemorrhage after treatment* Off-treatment with dexamethasone for 4 weeks before administration of the first dose of TAK-228* No ongoing requirement for dexamethasone or anti-epileptic drugs
+40.0
+Patients may have brain metastases if all lesions have been treated with stereotactic radiation therapy, craniotomy, or gamma knife therapy with no evidence of progression (demonstrated by identical imaging modality for 2 consecutive assessments/scans [magnetic resonance imaging (MRI) or CT scans], at least 4 weeks apart) and have not required steroids for at least 14 days prior to registration
+64.0
+Patients must have at least one measurable CNS lesion that is asymptomatic, untreated, and does not require local therapy at the time of enrollment; measurable CNS disease is defined as a brain metastasis that can be accurately measured in at least one dimension (longest diameter to be recorded) as >= 5 mm (>= 0.5 cm) with brain magnetic resonance imaging (MRI); if the lesion is 5-10 mm in size and is the only measurable disease, MRI imaging must be performed with 1.5 mm slice thickness or less; a history of previously treated brain metastases is allowed, however any lesion present at the time of whole brain radiotherapy or included in the stereotactic radiotherapy field (or within 2 mm of the treated lesion) will NOT be considered �untreated� unless it is new or documented to have progressed unequivocally since treatment
+98.0
+Symptomatic brain metastases
+98.0
+Patients with brain metastases for whom complete surgical resection is clinically appropriate
+98.0
+Patients with known active central nervous system (CNS) metastases are ineligible; subjects with previously treated brain metastases may participate provided they are stable (without evidence of progression by imaging for at least four weeks prior to the first dose of trial treatment and any neurologic symptoms have returned to baseline), have no evidence of new or enlarging brain metastases
+21.0
+Patients must be able to undergo magnetic resonance imaging (MRI) of the brain with gadolinium
+30.0
+Patients must have had no prior radiation therapy with the exception of CNS irradiation of brain metastases; (this exception only applies to SR1 patients; any patients over age 11 with distant metastases to brain [stage IV disease] would be considered poor risk and therefore not eligible for this trial)
+1680.0
+Symptomatic or untreated leptomeningeal or brain metastases or spinal cord compression
+27.0
+Patients with symptomatic uncontrolled brain metastases; a scan to confirm the absence of brain metastases is not required; the patient can receive a stable dose of corticosteroids before and during the study as long as these were started at least 4 weeks prior to enrollment; patients with spinal cord compression unless considered to have received definitive treatment for this and evidence of clinically stable disease for 28 days
+49.0
+Patients with brain metastases who require corticosteroids or non-enzyme inducing anticonvulsants must be on a stable dose of corticosteroids and seizure free for 1 month prior to enrollment; patients with known brain metastases should have completed brain irradiation (whole brain or gamma knife) more than 4 weeks before starting the protocol; patients on enzyme inducing anticonvulsants are not eligible; note that patients should have had their steroids tapered to low dose (i.e. < 1.5 mg of dexamethasone/day) due to the potential for higher dexamethasone doses to induce CYP3A4
+132.0
+Patients with gliomas or brain metastases who require corticosteroids or anticonvulsants must be on a stable dose of corticosteroids and seizure free for 1 month prior to enrollment; patients with known brain metastases should have had brain irradiation (whole brain or gamma knife) more than 4 weeks before starting the protocol; note that patients should have had their steroids tapered to low dose (i.e., < 1.5 mg of dexamethasone/day)
+80.0
+Brain metastases that are symptomatic or requiring corticosteroids (except inhaled); subjects must also be off of enzyme-inducing anticonvulsants for > 4 weeks
+18.0
+Patients must have no clinical evidence of leptomeningeal or brain metastasis causing spinal cord compression that are symptomatic or untreated or not stable for >= 3 months (must be documented by imaging) or requiring corticosteroids; subjects on a stable dose of corticosteroids > 1 month or who have been off of corticosteroids for at least 2 weeks can be enrolled with approval of the Cancer Therapy Evaluation Program (CTEP) medical monitor; subjects must also be off of enzyme-inducing anticonvulsants for > 4 weeks
+68.0
+Patients must have no clinical evidence of leptomeningeal or brain metastasis causing spinal cord compression that are symptomatic or untreated or not stable for >= 4 weeks (must be documented by imaging) or requiring corticosteroids; subjects on a stable dose of corticosteroids > 1 month or who have been off of corticosteroids for at least 2 weeks can be enrolled with approval of the Cancer Therapy Evaluation Program (CTEP) medical monitor; subjects must also be off of enzyme-inducing anticonvulsants for > 4 weeks
+32.0
+Leptomeningeal or brain metastases or metastases causing spinal cord compression that are symptomatic or untreated or not stable for >= 3 months (must be documented by imaging) or requiring corticosteroids; subjects on a stable dose of corticosteroids > 1 month or who have been off of corticosteroids for at least 2 weeks can be enrolled with approval of the Cancer Therapy Evaluation Program (CTEP) medical monitor; subjects must also be off of enzyme-inducing anticonvulsants for > 4 weeks
+18.0
+Patients with suspected central nervous system (CNS) involvement should undergo lumbar puncture; those with documented CNS involvement will be excluded
+747.0
+Patients with central nervous system (CNS) metastases must be stable after therapy for CNS metastases (such as surgery, radiotherapy or stereotactic radiosurgery) for at least 3 months and must be off steroid treatment prior to study enrollment
+276.0
+Patients with central nervous system 3 (CNS3) leukemia* CNS status must be known prior to enrollment; (Note: the CNS status must be determined based on a sample obtained prior to administration of any systemic or intrathecal chemotherapy, except for steroid pretreatment); B-LLy patients with CNS3 disease are not eligible for this protocol or the COG HR ALL protocol; it is recommended that intrathecal cytarabine be administered at the time of the diagnostic lumbar puncture; this is usually done at the time of the diagnostic bone marrow or venous line placement to avoid a second lumbar puncture; this is allowed prior to registration; systemic chemotherapy must begin within 72 hours of the first dose of intrathecal therapy
+9483.0
+Patients must not have clinical evidence of central nervous system (CNS) involvement by lymphoma            * Any laboratory or radiographic tests performed to assess CNS involvement must be negative and must be performed within 42 days prior to registration
+155.0
+Patients with uncontrolled central nervous system (CNS) metastasis are not eligible; patients with CNS metastases are to be stable for > 3 months after treatment and off steroid treatment prior to study enrollment
+107.0
+Participants with evidence for central nervous system (CNS) lymphoma on neurological exam and/or with radiographic evidence (if radiographic studies are done) of CNS lymphoma (inclusive of parenchymal, vitreal, or leptomeningeal involvement)
+90.0
+Patients must not have active involvement of the central nervous system (CNS) with MM (by clinical evaluation); patients with documentation of, or clinical signs or symptoms consistent with, CNS involvement of MM must have a lumbar puncture that is negative for CNS involvement of MM; the lumbar puncture must be completed within 14 days prior to registration; patients with no previous history of documented CNS involvement and with no clinical signs or symptoms consistent with CNS involvement are not required to have completed a lumbar puncture prior to registration; note that monitoring of CNS involvement and treatment with intrathecal therapy is recommended during protocol treatment
+130.0
+Patients with a history of prior central nervous system (CNS) metastases or skull lesions with intracranial extension will be required to have a head computed tomography (CT) or magnetic resonance imaging (MRI) at study entry demonstrating no active CNS metastases; patients with skull metastases with associated intracranial soft tissue masses will remain eligible
+62.0
+Adequate central nervous system function defined as:* Patients with a history of central nervous system (CNS) disease must have no clinical or radiological evidence of CNS disease at the time of study enrollment* Patients with seizure disorders may be enrolled if seizures are well controlled on anticonvulsants* CNS toxicity =< grade 2
+74.0
+Central nervous system disease
+70.0
+Known central nervous system metastases
+80.0
+Patient must have no current or prior history of central nervous system (CNS) involvement
+189.0
+Patients must not have active central nervous system (CNS) involvement (by clinical evaluation); patients with previous documented history of CNS involvement of acute leukemia, or with clinical signs or symptoms consistent with CNS involvement of acute leukemia, must have a lumbar puncture which is negative for CNS involvement of acute leukemia; the lumbar puncture must be completed within 14 days prior to registration; patients with no previous history of documented CNS involvement and with no clinical signs or symptoms consistent with CNS involvement are not required to have completed a lumbar puncture before registration; note that treatment with intrathecal therapy is recommended during protocol treatment but CNS analysis during treatment is not required
+38.0
+Active CNS metastases
+52.0
+Patients with central nervous system (CNS) disease are not eligible
+140.0
+Patient must not have a history or presence of clinically relevant central nervous system (CNS) pathology such as epilepsy, seizure, paresis, aphasia, stroke, severe brain injuries, dementia; Parkinson�s disease, cerebellar disease, organic brain syndrome, psychosis, or other significant CNS abnormalities
+509.0
+Patient must be CNS (cerebrospinal fluid [CSF]) negative for leukemia
+509.0
+First relapse of B-ALL, allowable sites of disease include isolated bone marrow, combined bone marrow and CNS and/or testicular, and isolated CNS and/or testicular; extramedullary sites are limited to the CNS and testicles
+598.0
+Patients with retinoblastoma protein (Rb1) positive recurrent, progressive or refractory central nervous system (CNS) tumors
+40.0
+Patients must not have known central nervous system metastasis or a history of central nervous system (CNS) metastases; patients with leptomeningeal disease are not eligible
+600.0
+Patient must not have a history or presence of clinically relevant central nervous system (CNS) pathology such as epilepsy, seizure, paresis, aphasia, stroke, severe brain injuries, dementia, Parkinson�s disease, cerebellar disease, organic brain syndrome, psychosis, active ALL in the CNS confirmed by cerebrospinal fluid (CSF) analysis, or other significant CNS abnormalities
+44.0
+Patients must have a lumbar puncture to determine CNS involvement of ALL within 14 days prior to registration; patients with CNS3 are excluded from the trial; patients with CNS1 or CNS2 will be eligible, but will be monitored for CNS involvement; note that intrathecal methotrexate administered during the pre-study lumbar puncture may count as the first dose of intrathecal therapy required as part of the study
+44.0
+Patients with CNS tumors or known CNS metastases will be excluded from this trial; patients with a history of CNS metastases that have been previously treated may enroll if sequential imaging shows not evidence for active disease; patients with extra axial disease (e.g. skull [bone] metastasis that do not invade the dura) may enroll if there is no evidence for CNS edema associated with the lesion
+484.0
+Patients with known central nervous system (CNS) metastases are not eligible; Note: brain imaging is not an eligibility requirement
+340.0
+Patients with known central nervous system (CNS) involvement may be excluded; however, if CNS disease is cleared before the treatment with nivolumab, patients could be allowed if no permanent CNS damage
+80.0
+NOTE: A lumbar puncture is not required in order to be enrolled on study nor are lumbar punctures recommended at the time of diagnosis; if the diagnosis of APL is known or suspected, diagnostic lumbar punctures in patients with neurologic symptoms should be deferred until any coagulopathy is corrected; if central nervous system (CNS) disease is suspected or proven, a computed tomography (CT) or magnetic resonance imaging (MRI) should be considered to rule out the possibility of an associated chloroma; if CNS disease is documented, patients are still eligible and will receive protocol directed intrathecal treatments
+158.0
+Patients with central nervous system (CNS) metastases must be stable after therapy for CNS metastases (such as surgery, radiotherapy or stereotactic radiosurgery) for at least 4 weeks and must be off steroid treatment for 2 weeks prior to study enrollment
+66.0
+Patients with known symptomatic, untreated central nervous system (including brain, spinal cord)* Patients who have a history of brain/central nervous system (CNS) metastasis are eligible for the study provided that all the following criteria are met:** Brain/CNS metastases which have been treated** No evidence of disease progression for >= 3 months before the first dose of study drug ** No hemorrhage after treatment** Off-treatment with dexamethasone for 4 weeks before administration of the first dose of TAK-228** No ongoing requirement for dexamethasone or anti-epileptic drugs
+209.0
+Active central nervous system (CNS) leukemia
+30.0
+Patients with untreated central nervous system (CNS) metastases; patients with treated CNS metastases who are off steroids are eligible
+30.0
+Central nervous system (CNS) toxicity including peripheral neuropathy =< grade 2
+44.0
+Radiographic evidence of CNS metastases
+302.0
+Patients with known leptomeningeal or brain metastases should be excluded from this clinical trial; imaging or spinal fluid analysis to exclude central nervous system (CNS) involvement is not required, unless there is clinical suspicion by the treating investigator
+50.0
+Presence of any active central nervous system (CNS) disease at the time of evaluation (parenchymal or leptomeningeal)
+18.0
+Patients must have the status of CNS1 or CNS2 only, and no clinical signs or neurologic symptoms suggestive of CNS leukemia, such as cranial palsy
+56.0
+Central nervous system (CNS) toxicity =< grade 2
+56.0
+Clinical evidence of (parenchymal or meningeal) central nervous system (CNS) involvement or metastasis; in subjects suspected of having CNS disease, a magnetic resonance imaging (MRI) scan of the brain and lumbar puncture should be done to confirm
+24.0
+Optune device application start date must be at least 4 weeks (28 days) from central nervous system (CNS) surgical procedure; excluding ventriculoperitoneal (VP) shunts, endoscopic third ventriculostomy (ETV) for which treatment could start 10 days post procedure; non-CNS surgical procedures such as but not limited to central venous catheter insertion at the discretion of treating physician and study chair
+25.0
+Central nervous system (CNS) status must be determined based on a sample obtained prior to the administration of any systemic or intrathecal chemotherapy, with the exception of steroid pretreatment
+116.0
+Patients with known primary central nervous system (CNS) malignancy or symptomatic CNS metastases are excluded, with the following exceptions:* Patients with asymptomatic untreated CNS disease may be enrolled, provided all of the following criteria are met:** Evaluable or measurable disease outside the CNS** No metastases to brain stem, midbrain, pons, medulla, cerebellum, or within 10 mm of the optic apparatus (optic nerves and chiasm)** No history of intracranial hemorrhage or spinal cord hemorrhage** No ongoing requirement for dexamethasone for CNS disease; patients on a stable dose of anticonvulsants are permitted** No neurosurgical resection or brain biopsy within 28 days prior to cycle 1, day 1* Patients with asymptomatic treated CNS metastases may be enrolled, provided all the criteria listed above are met as well as the following:** Radiographic demonstration of improvement upon the completion of CNS-directed therapy and no evidence of interim progression between the completion of CNS-directed therapy and radiographic screening for the current study** No stereotactic radiation or whole-brain radiation within 28 days prior to cycle 1, day 1** Screening CNS radiographic study >= 4 weeks from completion of radiotherapy and >= 2 weeks from discontinuation of corticosteroids
+35.0
+Patients with known primary central nervous system (CNS) malignancy or symptomatic CNS metastases are excluded, with the following exceptions:* Patients with asymptomatic untreated CNS disease may be enrolled, provided all of the following criteria are met:** Evaluable or measurable disease outside the CNS** No metastases to brain stem, midbrain, pons, medulla, cerebellum, or within 10 mm of the optic apparatus (optic nerves and chiasm)** No history of intracranial hemorrhage or spinal cord hemorrhage** No ongoing requirement for dexamethasone for CNS disease; patients on a stable dose of anticonvulsants are permitted** No neurosurgical resection or brain biopsy within 28 days prior to cycle 1, day 1* Patients with asymptomatic treated CNS metastases may be enrolled, provided all the criteria listed above are met as well as the following:** Radiographic demonstration of improvement upon the completion of CNS directed therapy and no evidence of interim progression between the completion of CNS directed therapy and the screening radiographic study** No stereotactic radiation or whole-brain radiation within 28 days prior to cycle 1, day 1** Screening CNS radiographic study >= 4 weeks from completion of radiotherapy and >= 2 weeks from discontinuation of corticosteroids
+488.0
+Central nervous system (CNS) involvement; CNS status must be confirmed by lumbar puncture* Note: lumbar puncture can be performed at the time of diagnosis and does not need to be repeated unless there is a change in neurological status or it was performed more than 14 days prior to study entry
+90.0
+Patients with known primary central nervous system (CNS) malignancy or symptomatic CNS metastases are excluded, with the following exceptions:* Patients with asymptomatic untreated CNS disease may be enrolled, provided all of the following criteria are met:** Evaluable or measurable disease outside the CNS** No metastases to brain stem, midbrain, pons, medulla, cerebellum, or within 10 mm of the optic apparatus (optic nerves and chiasm)** No history of intracranial hemorrhage or spinal cord hemorrhage** No ongoing requirement for dexamethasone for CNS disease; patients on a stable dose of anticonvulsants are permitted** No neurosurgical resection or brain biopsy within 28 days prior to cycle 1, day 1* Patients with asymptomatic treated CNS metastases may be enrolled, provided all the criteria listed above are met as well as the following:** Radiographic demonstration of improvement upon the completion of CNS directed therapy and no evidence of interim progression between the completion of CNS directed therapy and the screening radiographic study** No stereotactic radiation or whole-brain radiation within 28 days prior to cycle 1, day 1** Screening CNS radiographic study >= 4 weeks from completion of radiotherapy and >= 2 weeks from discontinuation of corticosteroids
+72.0
+Patients with known primary central nervous system (CNS) malignancy or symptomatic CNS metastases are excluded, with the following exceptions:* Patients with asymptomatic untreated CNS disease may be enrolled, provided all of the following criteria are met:** There are no more than 3 lesions, =< 1 cm in size each** Evaluable or measurable disease outside the CNS** No metastases to brain stem, midbrain, pons, medulla, cerebellum, or within 10 mm of the optic apparatus (optic nerves and chiasm)** No history of intracranial hemorrhage or spinal cord hemorrhage** No ongoing requirement for dexamethasone for CNS disease; patients on a stable dose of anticonvulsants are permitted** No neurosurgical resection or brain biopsy within 28 days prior to cycle 1, day 1* Patients with asymptomatic treated CNS metastases may be enrolled, provided all the criteria listed above are met as well as the following:** Radiographic demonstration of improvement upon the completion of CNS directed therapy and no evidence of interim progression between the completion of CNS directed therapy and the screening radiographic study** No stereotactic radiation or whole-brain radiation within 28 days prior to cycle 1, day 1** Screening CNS radiographic study >= 4 weeks from completion of radiotherapy and >= 2 weeks from discontinuation of corticosteroids
+40.0
+CNS toxicity =< grade 2
+146.0
+Patients with active central nervous system leukemia are excluded from this clinical trial; patients with a history of central nervous system (CNS) leukemia but no active disease at the time of enrollment are eligible; the absence of CNS disease must be confirmed by flow cytometric and cytologic examination of the cerebrospinal fluid (CSF) within 7 days of study enrollment
+30.0
+Patients who have a history of clinically relevant CNS pathology such as epilepsy, seizure, paresis, aphasia, stroke, severe brain injuries, dementia, Parkinson�s disease, cerebellar disease, psychosis, or other significant CNS abnormalities; a history of treated CNS leukemia will be allowed if recent CNS studies confirm the absence of active CNS disease at the time of study entry (screening)
+30.0
+Participants with known central nervous system (CNS) involvement with leukemia or who are receiving intrathecal chemotherapy that is either prophylactic or therapeutic; history of CNS involvement that has been completely treated (no longer receiving intrathecal chemotherapy) will be allowed
+48.0
+Patients with symptomatic central nervous system (CNS) metastases or leptomeningeal carcinomatosis should be excluded from this clinical trial because of their poor prognosis and because they often develop progressive neurologic dysfunction that would confound the evaluation of neurologic and other adverse events; exceptions include patients with previously-treated CNS metastases or those with are asymptomatic, subcentimeter metastases, and have no requirement for steroids or anti-seizure medication for at least one week prior to study entry; screening with CNS imaging studies (CT scan or MRI) is required
+132.0
+Patient does not have any documented history of central nervous system (CNS) involvement by mantle cell lymphoma; this includes no evidence of parenchymal brain, spinal cord, or cerebrospinal fluid involvement; radiculopathy symptoms from nerve root compression by lymphoma do not constitute CNS involvement
+689.0
+Patients with isolated central nervous system (CNS), testicular, or other extramedullary site of relapse
+53.0
+Patients must have no clinical evidence of central nervous system (CNS) or pulmonary leukostasis, disseminated intravascular coagulation, or CNS leukemia
+27.0
+Untreated central nervous system (CNS) involvement
+68.0
+Patients must not have clinical evidence of central nervous system involvement by lymphoma; if performed, any laboratory or radiographic tests performed to assess central nervous system (CNS) involvement must be negative
+150.0
+Patients with central nervous system (CNS) metastases must have all lesions adequately treated with stereotactic radiation therapy, craniotomy, gamma knife therapy, or whole brain radiotherapy, with no subsequent evidence of CNS progression; patients must not have required steroids for at least 14 days prior to registration
+94.0
+Patients with known primary central nervous system (CNS) malignancy or symptomatic CNS metastases are excluded
+78.0
+Patients with known brain metastases are excluded from this clinical trial, with the exception of patients whose brain metastatic disease status has remained stable for >= 2 months after treatment of the brain metastases, without steroids or anti-seizure medications; these patients may be enrolled at the discretion of the principal investigator
+74.0
+Patients with active brain metastases or carcinomatous meningitis are excluded from this clinical trial; patients with treated brain metastases, whose brain metastatic disease has remained stable for >= 4 weeks without requiring steroid and anti-seizure medications are eligible to participate
+140.0
+Patients with known brain metastases or carcinomatous meningitis are excluded from this clinical trial, with the exception of patients whose brain metastatic disease status has remained stable for >= 2 months after treatment of the brain metastases; patients should be on stable doses of anti-seizure medications; these patients may be enrolled at the discretion of the principal investigator
+68.0
+Patients with known brain metastases are excluded from this clinical trial, with the exception of patients whose brain metastatic disease status has remained stable for >= 3 months after treatment of the brain metastases, without steroids or anti-seizure medications; these patients may be enrolled at the discretion of the principal investigator
+72.0
+Patients with known active brain metastases or carcinomatous meningitis are excluded from this clinical trial; patients whose brain metastatic disease status has remained stable for >= 4 weeks following treatment of brain metastases are eligible to participate at the discretion of the principal investigator
+72.0
+Patients with clinically or radiologically unstable brain metastases are excluded from this clinical trial* Note: patients with stable brain metastases after treatment, for at least 3 months prior to enrolling on this trial, could participate in the study; patients should be off, or on a stable dose of steroids
+100.0
+Patients with active brain metastases or carcinomatous meningitis are excluded from this clinical trial; patients with treated brain metastases, whose brain metastatic disease has remained stable for >= 4 weeks without requiring steroid and anti-seizure medication are eligible to participate
+24.0
+Patients with active brain metastases or carcinomatous meningitis are excluded from this clinical trial; patients with treated brain metastases, whose brain metastatic disease has remained stable for >= 4 weeks without requiring steroid and anti-seizure medication, are eligible to participate
+35.0
+Patients with active brain metastases or carcinomatous meningitis are excluded from this clinical trial; patients with treated brain metastases, whose brain metastatic disease has remained stable for greater than or equal to 4 weeks without requiring steroid and anti-seizure medications are eligible to participate
+58.0
+Patients with brain metastases (either remote or current) or presence of carcinomatous meningitis are not eligible
+126.0
+Patients with known brain metastases or carcinomatous meningitis are excluded from this clinical trial, with the exception of patients whose brain metastatic disease status has remained stable for >= 1 month after treatment of the brain metastases; patients should not be on anti-seizure medications; these patients may be enrolled at the discretion of the principal investigator
+46.0
+Patients with known brain metastases or carcinomatous meningitis are excluded from this clinical trial, with the exception of patients with brain metastatic disease that has previously been treated and remained stable on MRI >= 2 months after treatment, without steroids or anti-epileptic medications; these patients may be enrolled at the discretion of the principal investigator
+37.0
+Patients with known active brain metastases or carcinomatous meningitis are excluded from this clinical trial; patients whose brain metastatic disease status has remained stable for >= 4 weeks following treatment of brain metastases are eligible to participate at the discretion of the principal investigator
+60.0
+Patients with known brain metastases or carcinomatous meningitis are excluded from this clinical trial, with the exception of patients whose brain metastatic disease status has remained stable for >= 1 month after treatment of the brain metastases; patients on anti-seizure medications or steroid therapy may be enrolled at the discretion of the principal investigator
+38.0
+Patients with known brain metastases should be excluded from this clinical trial
+24.0
+Patients with known brain metastases should be excluded from this clinical trial
+72.0
+Patients with known brain metastases should be excluded from this clinical trial
+42.0
+Patients with known brain metastases should be excluded from this clinical trial; previously treated brain metastases, neurologically stable, and no ongoing or anticipated need for steroid therapy are eligible
+12.0
+Patients with known brain metastases should be excluded from early clinical trials
+92.0
+Patients with known leptomeningeal or brain metastases or spinal cord compression should be excluded from this clinical trial
+250.0
+Patients with known brain metastases should be excluded from this clinical trial
+57.0
+Patients with known brain metastases should be excluded from this clinical trial
+36.0
+Patients with known brain metastases should be excluded from this clinical trial
+12.0
+Participants with known brain metastases should be excluded from this clinical trial
+42.0
+Patients with known brain metastases should be excluded from this clinical trial
+30.0
+Patients with known brain metastases should be excluded from this clinical trial
+46.0
+Patients with known brain metastases should be excluded from this clinical trial
+36.0
+Patients with known brain metastases should be excluded from this clinical trial
+45.0
+Patients with known brain metastases are excluded
+64.0
+Patients with known brain metastases should be excluded from this clinical trial; a scan to confirm the absence of brain metastasis is not required
+70.0
+Patients with known brain metastases should be excluded from this clinical trial
+150.0
+Participants with known brain metastases should be excluded from this clinical trial
+36.0
+Patients with known brain metastases should be excluded from this clinical trial
+24.0
+Patients with known brain metastases should be excluded from this clinical trial except as those described below
+72.0
+Patients with known active or history of brain metastases should be excluded from this clinical trial
+40.0
+Patients with known brain metastases should be excluded from this clinical trial
+22.0

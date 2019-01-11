@@ -1,0 +1,112 @@
+Able to swallow and absorb the medication
+102.0
+Patients must be able to swallow pills
+130.0
+Patients must be able to swallow the drug
+110.0
+Able to swallow and absorb the medication
+102.0
+Patients must be able to swallow pills
+126.0
+Patients must be able to swallow whole capsule
+143.0
+Inability to swallow pills
+250.0
+Patients who are unable to reliably tolerate and/or receive oral medications
+36.0
+Inability to take oral medications on a continuous basis
+276.0
+Participants must be able to take oral medications
+90.0
+Inability to swallow oral medications
+90.0
+Able to swallow and retain oral medication (note: for patients unable to swallow tablets, an oral suspension preparation is acceptable)
+143.0
+Patients must have the ability to swallow oral medication
+491.0
+Ability to swallow liquids
+68.0
+Patients with any condition (e.g., gastrointestinal tract disease resulting in an inability to take oral medication or a requirement for intravenous [IV] alimentation, prior surgical procedures affecting absorption, or active peptic ulcer disease) that impairs their ability to swallow, retain, and/or absorb the drug are excluded
+70.0
+Patients unable to swallow orally administered medication and patients with gastrointestinal disorders likely to interfere with absorption of the study medication
+1500.0
+Able to swallow and retain oral medication
+44.0
+Ability to swallow oral medications
+57.0
+Subjects with any condition that may impair the ability to swallow or absorb oral medications/investigational product including:* Any lesion, whether induced by tumor, radiation or other conditions, which makes it difficult to swallow capsules or pills* Prior surgical procedures affecting absorption including, but not limited to major resection of stomach or small bowel* Active peptic ulcer disease* Malabsorption syndrome
+340.0
+Patients must be able to swallow oral medications
+23.0
+Patients must be able to swallow medication by oral route
+223.0
+Ability to take oral medications
+66.0
+Ability to swallow oral medications
+209.0
+Ability to swallow medication
+30.0
+Ability to swallow oral medications
+30.0
+Patients must be able to swallow and retain oral medications and without gastrointestinal illnesses that would preclude absorption of cediranib or olaparib
+549.0
+Able to swallow and retain oral medications and without gastrointestinal (GI) illnesses that would preclude absorption of cediranib or olaparib
+680.0
+Patients must be able to tolerate oral medications and not have gastrointestinal illnesses that would preclude absorption of cediranib or olaparib
+126.0
+Patients must have the ability to swallow oral dosage forms
+50.0
+Patients must be able to take oral medications (i.e., swallow pills whole); patients must not have gastrointestinal tract disease resulting in an inability to take oral medication or a requirement for intravenous (IV) alimentation, prior surgical procedures that could in the opinion of the treating investigator affect absorption, or active peptic ulcer disease; patients with intractable nausea or vomiting are not eligible
+180.0
+Ability to swallow oral medications
+32.0
+Able to take oral medication and has no history of gastric surgery or pathology
+64.0
+Patient is unable to swallow or keep down oral medication
+48.0
+CLINICAL/LABORATORY CRITERIA: Patients must be able to swallow oral medications and must not have a gastro-intestinal disorder with diarrhea as a major symptom or that may alter absorption such as malabsorption syndromes or gastric resection
+53.0
+Ability to swallow and retain oral medication
+147.0
+Patients must have the ability to swallow and retain oral medication
+348.0
+Patients with any condition (e.g., gastrointestinal tract disease resulting in an inability to take oral medication or a requirement for IV alimentation, prior surgical procedures affecting absorption, or active peptic ulcer disease) that impairs their ability to swallow and retain dasatinib tablets are excluded
+24.0
+Subject is able to swallow and retain oral medication and does not have uncontrolled emesis or gastrointestinal disorders likely to interfere with absorption of the study medication
+72.0
+Patients must be able to swallow oral medications and not have gastrointestinal illnesses that would preclude absorption of cediranib or olaparib
+90.0
+Ability to swallow and retain oral medication
+132.0
+Patients that unable to swallow oral medications are ineligible
+21.0
+Patients must be able to retain oral medication and must not have any clinically significant gastrointestinal abnormalities that may alter absorption such as malabsorption syndrome or major resection of the stomach or bowels; patients who have feeding tubes can enroll in the study provided that the capsules do not need to be modified
+97.0
+Able to swallow and retain orally-administered medication and does not have any clinically significant gastrointestinal abnormalities that may alter absorption such as malabsorption syndrome or major resection of the stomach or bowels
+30.0
+Able to swallow and retain oral medication and must not have any clinically significant gastrointestinal abnormalities that may alter absorption such as malabsorption syndrome or major resection of the stomach or bowels
+40.0
+Able to swallow and retain oral medication and must not have any clinically significant gastrointestinal abnormalities that may alter absorption such as malabsorption syndrome or major resection of the stomach or bowels
+18.0
+Able to swallow and retain oral medication and must not have any clinically significant gastrointestinal abnormalities that may alter absorption such as malabsorption syndrome or major resection of the stomach or bowels
+68.0
+Patients must be able to swallow and retain orally-administered medication
+540.0
+Able to swallow and retain orally-administered medication and does not have any clinically significant gastrointestinal abnormalities that may alter absorption such as malabsorption syndrome or major resection of the stomach or bowels
+68.0
+Able to swallow and retain orally-administered medication and does not have any clinically significant gastrointestinal abnormalities that may alter absorption such as malabsorption syndrome or major resection of the stomach or bowels
+130.0
+Able to swallow and retain oral medication, and must not have any clinically significant gastrointestinal abnormalities that may alter absorption such as malabsorption syndrome or major resection of the stomach or bowels
+32.0
+Able to swallow and retain orally-administered medication and does not have any clinically significant gastrointestinal abnormalities that may alter absorption, such as malabsorption syndrome, bowel obstruction, or major resection of the stomach or bowel
+250.0
+Patients with a bowel obstruction or any other gastrointestinal condition that might affect absorption of the oral drug should be excluded; this would include patients with inability to swallow and retain orally-administered medication, malabsorption syndrome, or those with a major resection of the stomach or bowels
+250.0
+Able to swallow and retain orally-administered medication and does not have any clinically significant gastrointestinal abnormalities that may alter absorption such as malabsorption syndrome or major resection of the stomach or bowels
+35.0
+Able to swallow and retain oral medication and must not have any clinically significant gastrointestinal abnormalities that may alter absorption such as malabsorption syndrome or major resection of the stomach or bowels
+18.0
+Ability to swallow and retain orally-administered medication and does not have any clinically significant gastro-intestinal abnormalities (e.g., malabsorption syndrome or major resection of the stomach or bowel)
+15.0
+Able to swallow orally-administered medication and does not have any clinically significant gastrointestinal abnormalities that may alter absorption such as malabsorption syndrome or major resection of the stomach or small bowel
+27.0

@@ -1,0 +1,216 @@
+Life expectancy of greater than 12 weeks
+36.0
+Life expectancy of greater than 12 weeks
+276.0
+Life expectancy > 3 months
+74.0
+Life expectancy >= 3 months
+48.0
+Life expectancy of greater than 3 months
+40.0
+Life expectancy of greater than 3 months
+107.0
+Life expectancy of > 3 months
+132.0
+Life expectancy > 3 months
+55.0
+Life expectancy of greater than 3 months
+165.0
+Life expectancy of greater than 3 months
+113.0
+Life expectancy of greater than 12 weeks
+42.0
+Life expectancy of greater than 3 months
+140.0
+Life expectancy of greater than 3 months
+72.0
+Life expectancy of at least 6 months
+80.0
+Life expectancy of greater than 3 months
+68.0
+Life expectancy of greater than 12 weeks
+42.0
+Life expectancy of greater than 6 months
+30.0
+Life expectancy of greater than 8 weeks
+73.0
+Life expectancy of greater than 3 months
+80.0
+Life expectancy > 3 months
+72.0
+Life expectancy of greater than 3 months
+70.0
+Life expectancy of less than 3 months
+52.0
+Life expectancy of greater than 3 months
+72.0
+TUMOR BIOPSY SEQUENCING: Life expectancy > 3 months
+700.0
+TREATMENT: Life expectancy > 3 months
+700.0
+Life expectancy of greater than 2 months
+18.0
+Life expectancy of greater than 6 months
+12.0
+Life expectancy of greater than 3 months
+68.0
+Life expectancy of greater than 3 months
+92.0
+Life expectancy of greater than 3 months
+68.0
+Life expectancy of greater than 3 months
+130.0
+Life expectancy of greater than 3 months
+32.0
+Life expectancy of greater than 3 months
+100.0
+Life expectancy of greater than 5 years
+5058.0
+Life expectancy of greater than 3 months
+24.0
+Life expectancy of greater than 3 months
+35.0
+Life expectancy of > 3 months
+44.0
+Life expectancy of greater than 3 months
+35.0
+Life expectancy of greater than 3 months
+57.0
+Patient must have a life expectancy of at least 3 months with appropriate therapy
+340.0
+Life expectancy of greater than 3 months
+90.0
+Estimated life expectancy of greater than 6 months
+36.0
+Life expectancy of greater than 6 months
+80.0
+Life expectancy of greater than 3 months
+18.0
+Life expectancy of greater than 9 months
+37.0
+Life expectancy of greater than 12 weeks
+66.0
+Life expectancy of greater than 12 months
+12.0
+Life expectancy of greater than 3 months
+42.0
+Life expectancy of greater than 12 weeks
+209.0
+Life expectancy of greater than 3 months
+58.0
+Life expectancy of greater than 3 months
+35.0
+Life expectancy of greater than 12 weeks
+30.0
+Life expectancy of greater than 3 months
+30.0
+Life expectancy > 3 months
+46.0
+Life expectancy of greater than 12 weeks
+45.0
+Patient has a life expectancy of greater than 20 weeks
+188.0
+Life expectancy of greater than 12 weeks
+33.0
+Life expectancy of > 2 months
+35.0
+Life expectancy of greater 3 months
+82.0
+Life expectancy of >= 4 months
+126.0
+Life expectancy of greater than 3 months
+37.0
+Life expectancy of greater than 3 months
+50.0
+Life expectancy of greater than 6 months
+46.0
+Life expectancy of greater than 12 months
+15.0
+Life expectancy of greater than 3 months
+46.0
+Life expectancy of greater than 12 weeks
+36.0
+Life expectancy of greater than 3 months
+90.0
+Life expectancy of greater than 3 months
+45.0
+Life expectancy of greater than 3 months
+50.0
+Life expectancy of greater than 3 months
+32.0
+Life expectancy of greater than 3 months
+18.0
+Life expectancy greater than 6 months
+64.0
+Life expectancy of greater than 6 months
+70.0
+Life expectancy of greater than 12 weeks
+51.0
+Life expectancy of greater than 6 months
+150.0
+Life expectancy of greater than 3 months
+36.0
+Patients must have a life expectancy of >= 2 months
+24.0
+Life expectancy > 3 months
+60.0
+Life expectancy of greater than 3 months
+38.0
+Life expectancy of greater than 3 months
+35.0
+Life expectancy of greater than 6 months
+72.0
+Life expectancy of greater than 3 months
+40.0
+Life expectancy of greater than 12 weeks
+30.0
+Must have a life expectancy greater than or equal to 16 weeks
+90.0
+Life expectancy of greater than 12 weeks
+40.0
+Patient must have a life expectancy of at least 3 months with appropriate therapy
+40.0
+Life expectancy of greater than 3 months
+98.0
+Life expectancy of at least 3 months
+70.0
+Life expectancy of greater than 2 months to allow completion of study treatment and assessment of dose-limiting toxicity
+47.0
+Life expectancy of greater than 6 months
+27.0
+Life expectancy > 6 months as assessed by study physician
+78.0
+Patients with a life expectancy of less than one year
+1070.0
+Life expectancy >= 12 weeks
+102.0
+PROCUREMENT: Patients with life expectancy >= 6 weeks
+44.0
+TREATMENT: Patients with life expectancy >= 6 weeks
+44.0
+Participants must have an estimated life expectancy of > 6 weeks
+90.0
+Patients must have a life expectancy of at least 6 weeks
+62.0
+Life expectancy >= 12 weeks
+102.0
+Patients must have a life expectancy of >= 8 weeks
+140.0
+Patients must have a life expectancy >= 12 weeks
+600.0
+Patients must have a life expectancy of at least 8 weeks
+23.0
+Participants must have a life expectancy of 2 years or more
+56.0
+Life expectancy must be estimated by patient�s physician at > 6 months
+99.0
+Patients must have a life expectancy of >= 12 weeks as determined clinically by the treating physician
+126.0
+No comorbid conditions that would cause life expectancy of less than 5 years
+NONE
+Life expectancy > 12 weeks
+20.0
+Patients must have a life expectancy of >= 8 weeks
+90.0
+Must have a life expectancy of at least 12 weeks
+180.0

@@ -1,0 +1,238 @@
+Patients with the following histologic epithelial cell types are eligible: serous adenocarcinoma, endometrioid adenocarcinoma, mucinous adenocarcinoma, undifferentiated carcinoma, clear cell adenocarcinoma, mixed epithelial carcinoma, transitional cell carcinoma, malignant Brenner�s tumor or adenocarcinoma not otherwise specified (N.O.S.); however, the histologic features of the tumor must be compatible with a primary M�llerian epithelial adenocarcinoma
+1070.0
+Patients must have endometrial carcinoma including endometrioid adenocarcinoma, adenocarcinoma with squamous differentiation, mucinous adenocarcinoma, squamous cell carcinoma, mixed carcinoma, undifferentiated carcinoma, clear cell adenocarcinoma, and serous adenocarcinoma histologies
+164.0
+Pathologically (histologically) proven diagnosis of squamous cell carcinoma (including variants such as verrucous carcinoma, spindle cell carcinoma, carcinoma not otherwise specified [NOS], etc.) of the head/neck (oral cavity, oropharynx or larynx); note: hypopharynx primaries are excluded
+700.0
+Participant with histologic confirmation of newly diagnosed squamous cell carcinoma (SCC) of the head and neck
+292.0
+Patient with sinonasal carcinoma
+292.0
+Patient with nasopharyngeal carcinoma
+292.0
+Pathologically proven primary cervical cancer I-IIA with squamous cell carcinoma, adenosquamous carcinoma or adenocarcinoma initially treated with a standard radical hysterectomy with pelvic lymphadenectomy
+360.0
+Patients with the following histologic epithelial cell types are eligible:* Serous adenocarcinoma, endometrioid adenocarcinoma, mucinous adenocarcinoma, undifferentiated carcinoma, clear cell adenocarcinoma, mixed epithelial carcinoma, transitional cell carcinoma, malignant Brenner's Tumor, or adenocarcinoma not otherwise specified (N.O.S.) * However, the histologic features of the tumor must be compatible with a primary M�llerian epithelial adenocarcinoma; if doubt exists, it is recommended that the investigator should have the slides reviewed by an independent pathologist prior to entry * Patients may have co-existing endometrial cancer so long as the primary origin of invasive tumor is  ovarian or peritoneal for clarification of synchronous primary endometrial cancer
+NONE
+Other invasive malignancy =< 5 years prior to registration; exceptions are colonic polyps, non-melanoma skin cancer, ductal carcinoma in situ, bladder carcinoma in situ, or carcinoma-in-situ of the cervix
+1120.0
+Patients with locally advanced, previously untreated squamous cell carcinoma of the vulva
+52.0
+Patients with a histologic diagnosis of squamous cell carcinoma, adenocarcinoma, or adenosquamous cell carcinoma of the cervix, stage IA1 (lymph-vascular space invasion [LVSI]+), IA2, and IB1 (tumor size [maximum visible or palpable]) =< 2 cm), any grade
+600.0
+Patients with other malignancies within the past 2 years, except for adequately treated carcinoma of the cervix or basal or squamous cell carcinomas of the skin or surgically treated early stage solid tumors are ineligible to participate in this study
+110.0
+STEP I: Patients with a history of prior malignancy are eligible provided they were treated with curative intent and do not require active therapy (currently treated basal cell, squamous cell carcinoma of the skin, or carcinoma �in situ� of the cervix or breast are not excluded)
+1080.0
+History of non-breast malignancies (except for in situ cancers treated only by local excision and basal cell and squamous cell carcinomas of the skin) within 5 years prior to randomization
+1636.0
+Prior malignancy within 2 years before enrollment other than curatively treated cutaneous basal cell or squamous cell carcinoma, carcinoma in situ of the cervix, anal intraepithelial neoplasia, or cutaneous Kaposi�s sarcoma (KS); participants with prior malignancies must have completed all therapy at least 2 years before enrollment with no evidence of disease since therapy completion
+70.0
+Pathologically proven diagnosis of a malignant major salivary gland tumor or malignant minor salivary gland tumor of the head and neck of the following histologic subtypes: * Intermediate-grade adenocarcinoma or intermediate-grade mucoepidermoid carcinoma* High-grade adenocarcinoma or high-grade mucoepidermoid carcinoma or salivary duct carcinoma* High-grade acinic cell carcinoma or high-grade (> 30% solid component) adenoid cystic carcinoma* Patients with diagnoses such as undifferentiated or poorly differentiated carcinoma, carcinoma-ex pleomorphic adenoma, carcinoma not otherwise specified (NOS) and others should be considered for this trial
+252.0
+Patients must be disease-free of other prior invasive malignancies for >= 5 years with the exception of curatively-treated basal cell or squamous cell carcinoma of the skin or carcinoma in situ of the cervix; prior early stage breast cancers are also allowed as long as prior treatment did not include aromatase inhibitors
+1000.0
+Patients must have no concurrent malignancy except curatively treated basal or squamous cell carcinoma of the skin or carcinoma in situ of the cervix, breast, or bladder; patients with prior malignancies must be disease-free for >= five years
+36.0
+No other malignancy within 5 years of registration with the exception of basal cell or squamous cell carcinoma of the skin treated with local resection only or carcinoma in situ of the cervix
+2918.0
+Presence of an invasive malignancy other than the study indication under this trial within 3 years of study enrollment except for carcinoma in situ CIS, squamous cell carcinomas of the skin, or basal cell carcinoma of the skin; a diagnosis of an invasive malignancy within 3 years is allowed if both the cure rate is felt to be > 80% and there has been no evidence of disease in the past year
+18.0
+Patients must have histologically or cytological confirmed malignancy in the following disease groups: melanoma that is metastatic or unresectable, non-small cell lung carcinoma, renal cell carcinoma, sarcoma, colon carcinoma, non-Hodgkin lymphoma, squamous cell head and neck carcinoma, or cutaneous squamous cell carcinoma, for which standard curative or palliative measures do not exist or are no longer effective; the primary site may be cutaneous or unknown, but mucosal and ocular primaries are excluded* Note: patients with non-small lung cancer must have had prior epidermal growth factor receptor (EGFR) and anaplastic lymphoma receptor tyrosine kinase (ALK) testing; patients with sensitizing mutations in EGFR or ALK rearrangements should have been treated with prior targeted agents and have had progression or discontinued due to toxicity from these agents
+12.0
+Patients in whom histologic diagnosis is not consistent with ductal adenocarcinoma such as adenosquamous, squamous cell, colloid, islet cell, serous or mucinous cystadenoma or cystadenocarcinoma, carcinoid, small or large cell carcinoma, intraductal oncocytic papillary neoplasms (IOPN), osteoclast-like giant cell tumors, acinar cell carcinoma, pancreatoblastoma, solid pseudopapillary tumors, undifferentiated small cell carcinoma and non-epithelial tumors (sarcomas, gastrointestinal [GI] stromal tumor, lymphoma)
+92.0
+Patients with the following tumors are included in the study:* Patients initially diagnosed with low-grade serous ovarian or peritoneal carcinoma that recur as low-grade serous carcinoma (invasive micropapillary serous carcinoma or invasive grade I serous carcinomas as defined by GOG, Federation of Obstetricians and Gynecologists [FIGO], World Health Organization [WHO] or Silverberg)* Patients initially diagnosed with serous borderline ovarian or peritoneal carcinoma that recur as low-grade serous carcinoma (invasive micropapillary serous carcinoma or invasive grade I serous carcinomas as defined by GOG, FIGO WHO or Silverberg)
+250.0
+Patients with a previous or current malignancy at other sites should be excluded, with the exception of:* Curatively treated local tumors such as carcinoma-in-situ of the cervix, basal or squamous cell carcinoma of the skin* Tumors for which no relapse has been observed within 5 years
+250.0
+Patients must be disease-free of prior invasive malignancies for > 5 years with the exception of curatively-treated basal cell or squamous cell carcinoma of the skin or carcinoma in situ of the cervix* NOTE: If there is a history of prior malignancy, patients must not be receiving other specific treatment for that cancer
+600.0
+Patients must have histologically proven urothelial carcinoma of the bladder; those with mixed histology, including a component of urothelial carcinoma, are eligible; small cell carcinoma, pure adenocarcinoma, and pure squamous cell carcinoma are excluded
+230.0
+Patients must have no concurrent malignancy except curatively treated basal or squamous cell carcinoma of the skin or carcinoma in situ of the cervix, breast, or bladder; patients with prior malignancies must be disease-free for >= five years
+40.0
+Patients must have no concurrent malignancy except curatively treated basal or squamous cell carcinoma of the skin or carcinoma in situ of the cervix, breast, or bladder; patients with prior malignancies must be disease-free for >= three years prior to registration
+23.0
+Solid tumor patients in stage 2 must have a diagnosis of papillary serous, endometrioid or clear cell endometrial carcinoma or, high grade serous, clear cell, endometrioid or mucinous ovarian, fallopian or primary peritoneal carcinoma
+23.0
+No concurrent malignancy other than non-melanoma skin cancer, superficial noninvasive (pTa or pT in situ [is]) transitional cell carcinoma (TCC) of the bladder, contralateral GCT, or intratubular germ cell neoplasia; patients with a prior malignancy, but at least 2 years since any evidence of disease are allowed
+420.0
+Patients must not have other current malignancies, other than basal cell skin cancer, squamous cell skin cancer, in situ cervical cancer, ductal or lobular carcinoma in situ of the breast
+300.0
+Adequately treated carcinoma in situ without current evidence of disease
+52.0
+Has a known additional malignancy that is progressing or requires active treatment; exceptions include basal cell carcinoma of the skin, squamous cell carcinoma of the skin, or in situ cervical cancer that has undergone potentially curative therapy
+36.0
+Patients must have no concurrent malignancy except curatively treated basal or squamous cell carcinoma of the skin or carcinoma in situ of the cervix, breast, or bladder; patients with prior malignancies must be disease-free for >= five years
+23.0
+Patients with any component of small cell carcinoma are not eligible; other variant histologies are permitted provided the predominant (>= 50%) subtype is urothelial carcinoma
+60.0
+Patients in the expansion portion must have:* Histologically confirmed diagnosis of metastatic:** Urothelial carcinoma of the bladder, urethra, ureter, renal pelvis, OR** Clear cell renal cell carcinoma OR** Adenocarcinoma of the bladder OR** Non-resectable squamous cell carcinoma of the penis OR** Squamous cell carcinoma of the bladder AND* Patients with urothelial cancer or renal cell carcinoma must have progressive metastatic disease defined as new or progressive lesions on cross-sectional imaging; patients must have at least:** One measurable site of disease (according to RECIST criteria) or bone disease by NaF PET/CT
+135.0
+Patients must not have other current malignancies, other than basal cell skin cancer, squamous cell skin cancer, in situ cervical cancer, ductal or lobular carcinoma in situ of the breast; patients with other malignancies are eligible if they have been continuously disease-free for > 3 years prior to the time of randomization
+400.0
+Patients with brain metastases from primary germ cell tumors, small cell carcinoma, unknown primary, or lymphoma
+510.0
+Participant is =< 2 years free of another primary malignancy; exceptions include the following:* Basal cell skin cancer * Cervical carcinoma in situ* Anal carcinoma in situ
+42.0
+Must have a histologically confirmed transitional cell carcinoma (TCC, also known as urothelial carcinoma), locally advanced or metastatic
+209.0
+History of non-breast malignancies (except for in situ cancers treated only by local excision and basal cell and squamous cell carcinomas of the skin) within 5 years prior to randomization
+990.0
+Patients with a history of another malignancy except for those who have been disease-free for 2 years; patients with a history of definitively treated non-melanoma skin cancer or squamous cell carcinoma of the cervix are eligible; patients with definitively treated in-situ cancers are eligible, regardless of timeframe
+35.0
+Diagnosis or treatment for another malignancy within 3 years of enrollment, with the exception of complete resection of basal cell carcinoma or squamous cell carcinoma of the skin, any in situ malignancy, or low-risk prostate cancer after curative therapy
+30.0
+If history of prior malignancy, subject should be in complete remission for >= 5 years at the time of registration (with the exception of basal cell or squamous cell carcinoma of the skin treated with local resection)
+110.0
+Patients must have no concurrent malignancy except curatively treated basal or squamous cell carcinoma of the skin or carcinoma in situ of the cervix, breast, or bladder; patients with prior malignancies must be disease-free for >= five years
+75.0
+Any concomitant or prior invasive malignancies with the following curatively treated exceptions:* Treated limited stage basal cell or squamous cell carcinoma of the skin* Carcinoma in situ of the breast or cervix* Primary endometrial cancer meeting the following conditions: stage not greater than IA, grade 1 or 2, no more than superficial myometrial invasion, without vascular or lymphatic invasion; no poorly differentiated subtypes, including papillary serous/serous, clear cell, or other International Federation of Gynecology and Obstetrics (FIGO) grade 3 lesions* Prior cancer treated with a curative intent with no evidence of recurrent disease 3 years following diagnosis and judged by the investigator to be at low risk of recurrence
+549.0
+Any concomitant or prior invasive malignancies with the following curatively treated exceptions:* Treated limited stage basal cell or squamous cell carcinoma of the skin* Carcinoma in situ of the breast or cervix* Primary endometrial cancer meeting the following conditions: stage not greater than IA, grade 1 or 2, no more than superficial myometrial invasion, without vascular or lymphatic invasion; no poorly differentiated subtypes, including papillary serous/serous, clear cell, or other Federation of Gynecology and Obstetrics (FIGO) grade 3 lesions* Prior cancer treated with a curative intent with no evidence of recurrent disease 5 years following diagnosis and judged by the investigator to be at low risk of recurrence
+680.0
+Patients with active malignancies other than NSCLC or prior curatively treated malignancy at high risk of relapse during the study period with the exception of localized squamous or basal cell skin cancers
+82.0
+Patients with concomitant or prior invasive malignancies within the past 3 years; subjects with treated limited stage basal cell or squamous cell carcinoma of the skin or carcinoma in situ of the breast or cervix are eligible
+126.0
+Patients with active malignancies other than NSCLC or prior curatively treated malignancy at high risk of relapse during the study period with the exception of localized squamous or basal cell skin cancers
+36.0
+Patients with previous or concomitant non-breast invasive malignancy; exceptions are limited exclusively to patients with the following previous malignancies, if adequately treated: basal or squamous cell carcinoma of the skin, in situ non-breast carcinoma, contra- or ipsilateral in situ breast carcinoma, stage Ia carcinoma of the cervix
+500.0
+Patients with active malignancies other than NSCLC or prior curatively treated malignancy at high risk of relapse during the study period with the exception of localized squamous or basal cell skin cancers
+50.0
+Patients with a history of any active malignancy requiring on-going treatment, except basal cell carcinoma or squamous cell carcinoma of the skin
+15.0
+Patients with nasopharyngeal carcinoma, skin squamous cell carcinoma (SCC), and salivary gland carcinomas are not eligible
+45.0
+History of other prior malignancy, except squamous cell carcinoma of the cervix or anus, superficial basal cell or squamous cell skin cancer, or other malignancy curatively treated more than 5 years ago before enrollment
+18.0
+Pathologically proven diagnosis of squamous cell carcinoma (including variants such as verrucous carcinoma, spindle cell carcinoma, carcinoma not otherwise specified [NOS]) of the head/neck (oral cavity, oropharynx, hypopharynx or larynx); pathologic stage III or IVA (American Joint Committee on Cancer [AJCC] 8): T3-T4a, N0-3, M0 or T1-T2, N1-3, M0
+345.0
+Prior systemic therapy for renal cell carcinoma
+29.0
+Diagnosis of any second malignancy within the last 5 years prior to cycle 1, day 1, with the exception of those with a negligible risk of metastasis or death, per investigator�s discretion (such as adequately treated carcinoma in situ of the cervix, basal or squamous cell skin cancer, localized prostate cancer treated surgically with curative intent, ductal carcinoma in situ treated surgically with curative intent)
+29.0
+Participant is < 2 years free of another primary malignancy; exceptions include basal cell skin cancer, stage 0-I squamous cell cancer of the skin, cervical carcinoma in situ, anal carcinoma in situ
+36.0
+Institutional confirmation of Mullerian epithelial adenocarcinoma on core biopsy (not cytology or fine needle aspiration) or laparoscopic biopsy; (for phase II of the study formalin-fixed paraffin-embedded [FFPE] tissue should be available for laboratory analysis); patients with the following histologic epithelial cell types are eligible: high grade serous carcinoma, high grade endometrioid carcinoma, clear cell carcinoma, or a combination of these
+147.0
+Patients with mucinous carcinoma, low grade endometrioid carcinoma, low grade serous carcinoma or carcinosarcoma
+147.0
+Rectal cancer histology other than adenocarcinoma (i.e., sarcoma, lymphoma, squamous cell carcinoma, mucosal melanoma, etc.)
+348.0
+No prior malignancy of any type (including ductal breast carcinoma in situ [DCIS]) within the past 5 years except for current diagnosis of breast cancer, and any prior diagnosis of basal or squamous cell carcinoma of the skin or carcinoma in situ of the cervix; patients with a prior history of breast cancer greater than 5 years from study screening may participate in this study
+2936.0
+Patients must have recurrent or persistent endometrial cancer (endometrioid adenocarcinoma, serous adenocarcinoma, undifferentiated carcinoma, mixed epithelial carcinoma or adenocarcinoma not otherwise specified [NOS]); histologic confirmation of the primary tumor is required
+84.0
+Patients must have histologically proven Ta, carcinoma in situ (CIS) or T1 stage urothelial cell carcinoma of the bladder within 90 days prior to registration
+969.0
+Patients must not have pure squamous cell carcinoma or adenocarcinoma
+969.0
+Patients with mixed urothelial carcinoma and a glandular and/or squamous component will be eligible for the trial, but the presence of other histologic variants, pure adenocarcinoma, or pure squamous cell carcinoma, will make a patient ineligible
+148.0
+Upper age limit of =< 18 years of age for medullary thyroid carcinoma (MTC), renal cell carcinoma (RCC) and hepatocellular carcinoma (HCC)
+146.0
+Patients with a known concurrent malignancy that is progressing or requires active treatment; exceptions include basal cell carcinoma of the skin or squamous cell carcinoma of the skin that has undergone potentially curative therapy or carcinoma in situ of the cervix
+30.0
+Patients with a previous history of non-breast malignancy are eligible only if they meet the following criteria for a cancer survivor: (1), and (2)* Has undergone potentially curative therapy for all prior malignancies* Has been considered disease-free for at least 1 year (with the exception of basal cell or squamous cell carcinoma of the skin or carcinoma-in-situ of the cervix)
+60.0
+No concurrent active malignancies are allowed on study for >= 2 years prior to treatment start with the exception of currently treated basal cell or squamous cell carcinoma of the skin, or carcinoma in-situ of the cervix or breast
+48.0
+Patients with concomitant or prior invasive malignancies within the past 5 years; subjects with limited stage basal cell or squamous cell carcinoma of the skin, carcinoma in situ of the breast, or non-muscle invasive bladder cancer, are eligible as long as they received curative intent therapy
+90.0
+Patients must not have poorly differentiated neuroendocrine carcinoma, high-grade neuroendocrine carcinoma, adenocarcinoid, goblet cell carcinoid and small cell carcinoma
+40.0
+Patients with a history of acute myeloid leukemia (AML), or patients with a history of any other primary malignancy within 3 years prior to initiation of treatment on this study; exceptions include: patients with a history of malignancies (other than AML) that were treated curatively and have not recurred within 3 years prior to study entry; resected basal and squamous cell carcinomas of the skin; and completely resected carcinoma in situ of any type
+132.0
+Patient must be disease-free >= 3 years of prior malignancies with the exception of adequately treated non-melanoma skin cancer, adequately treated in situ carcinoma, low grade prostate carcinoma (Gleason grade =< 6) managed with observation that has been stable for at least 6 months
+689.0
+Patient must have recurrent, persistent or metastatic cervical cancer including squamous cell, adenocarcinoma and adenosquamous histologies; mesonephric carcinoma, minimal deviation/adenoma malignum, clear cell carcinoma and gastric type are excluded
+22.0
+Malignancies other than the cervical cancer within 5 years prior to cycle 1, day 1, with the exception of those with a negligible risk of metastasis or death, such as adequately controlled basal cell carcinoma or squamous cell carcinoma of the skin or carcinoma in situ of the breast
+22.0
+Histologically-proven squamous cell carcinoma of the penis
+400.0
+Squamous carcinoma of the urethra
+400.0
+Concurrent malignancy (other than squamous cell carcinoma [SCC] or basal cell carcinoma of non-penile skin) that has required surgical or non-surgical treatment in the last 3 years
+400.0
+Concurrent, active malignancies in addition to that being studied (other than cutaneous squamous cell carcinoma or basal cell carcinoma)
+98.0
+Participants with any concomitant or prior invasive malignancies are ineligible with the following exceptions:* Treated limited-stage basal cell or squamous cell carcinoma of the skin* Carcinoma in situ of the breast or cervix* Prior cancer treated with curative intent with no evidence of recurrent disease 3 years following diagnosis and judged by the investigator to be at low risk of recurrence
+70.0
+Included tumor types* T cell and NK cell lymphomas, including, but not limited to: cutaneous T-cell lymphomas (CTCL), mycosis fungoides (MF), Sezary syndrome (SS), peripheral T-cell lymphoma (PTCL), ALK-positive and ALK-negative anaplastic large cell lymphoma (ALCL), and NK-cell lymphomas* Merkel cell carcinoma* Squamous cell carcinoma of the skin, including keratoacanthomas, vulvar squamous carcinoma, and mixed histology tumors, such as basosquamous carcinoma, and squamous cell carcinoma of unknown primary consistent with skin origin* Other non-melanoma skin cancers** Basal cell carcinoma** Malignant sweat gland tumors, including porocarcinoma, hidradenocarcinoma, spiradenocarcinoma, cylindrocarcinoma, microcystic adnexal carcinoma and related entities, squamoid eccrine ductal carcinoma, cutaneous adenoid cystic carcinoma, digital papillary adenocarcinoma, primary cutaneous mucinous carcinoma, endocrine mucin-producing sweat gland carcinoma, primary cutaneous signet ring cell carcinoma, cutaneous apocrine gland carcinoma, and extraocular sebaceous carcinoma** Adnexal carcinoma** Trichilemmal carcinoma** Extramammary Paget�s disease** Any other rare tumor of the skin with approval of principle investigator (PI)
+68.0
+Patients with invasive lobular carcinoma
+175.0
+Patients must have no concurrent malignancy except curatively treated basal or squamous cell carcinoma of the skin or carcinoma in situ of the cervix, breast, or bladder; patients with prior malignancies must be disease-free for >= 5 years
+30.0
+Patients must have no concurrent malignancy except curatively treated basal or squamous cell carcinoma of the skin or carcinoma in situ of the cervix, breast, or bladder; patients with prior malignancies must be disease-free for >= five years
+35.0
+Patients with known active cutaneous squamous cell carcinoma (includes keratoacanthoma or mixed keratoacanthoma subtype) are not eligible; patients who have fully excised lesions with dermatologic confirmation of absence of disease are eligible
+49.0
+No other prior malignancy is allowed except for the following: adequately treated basal cell or squamous cell skin cancer, in situ cervical cancer, adequately treated stage I or II cancer from which the patient is currently in complete remission, or any other cancer from which the patient has been disease free for five years
+162.0
+No other prior malignancy is allowed except for adequately treated basal cell (or squamous cell) skin cancer, in situ cervical cancer, or other cancer for which the patient has been disease-free for 5 years
+10000.0
+No other prior malignancy is allowed except for the following:            * Adequately treated in situ cancers (stage 0)* Adequately treated basal cell or squamous cell skin cancer* Adequately treated stage I or II cancer from which the patient has been in complete remission or* Any other cancer from which the patient has been disease-free for at least 5 years
+155.0
+No other prior malignancy is allowed except for adequately treated basal cell (or squamous cell) skin cancer, in situ cervical cancer, or other cancer for which the patient has been disease-free for 5 years
+1900.0
+No other prior malignancy is allowed except for the following: adequately treated basal cell or squamous cell skin cancer, in situ cervical cancer, adequately treated stage I or II cancer from which the patient is currently in complete remission, or any other cancer from which the patient has been disease free for five years
+130.0
+No other prior malignancy is allowed except for adequately treated basal cell or squamous cell skin cancer, in situ cervical cancer, or other cancer for which the patient has been disease-free for > 5 years
+491.0
+No other prior malignancy is allowed except for the following: adequately treated basal cell or squamous cell skin cancer, in situ cervical cancer, adequately treated Stage I or II cancer from which the patient is currently in complete remission, or any other cancer from which the patient has been disease-free for five years
+45.0
+Phase II only: No other prior malignancies are allowed except for the following:* Adequately managed stage 0 (carcinoma in situ), I, or II basal cell or squamous cell carcinoma from which the patient is currently in complete remission* Any other cancer from which the patient has been disease-free for three years* Adequately managed stage I or II well differentiated thyroid or prostate cancer is also eligible, wherein the patient is not required to be in complete remission
+140.0
+Any other prior malignancy from which the patient has been disease free for less than 3 years, with the exception of adequately treated and cured basal or squamous cell skin cancer, superficial bladder cancer, carcinoma in situ of any site or any other cancer
+72.0
+Concurrent or prior malignancy except for the following: * Adequately treated basal or squamous cell skin cancer* Adequately treated stage I or II cancer from which the patient is currently in complete remission* Any other cancer from which the patient has been disease-free for 5 years
+80.0
+No other prior malignancy is allowed except for the following: adequately treated basal cell or squamous cell skin cancer, in situ cervical cancer, adequately treated stage I or II cancer from which the patient is currently in complete remission, or any other cancer from which the patient has been disease free for five years; patients with history of RAS mutation-positive tumors are not eligible regardless of interval from the current study; Note: Prospective RAS testing is not required; however, if the results of previous RAS testing are known, they must be used in assessing eligibility
+97.0
+No other prior malignancy is allowed except for the following: adequately treated basal cell or squamous cell skin cancer, in situ cervical cancer, adequately treated stage I or II cancer from which the patient is currently in complete remission, or any other cancer from which the patient has been disease free for five years
+10000.0
+No other prior malignancy is allowed except for the following: adequately treated basal cell or squamous cell skin cancer, in situ cervical cancer, adequately treated stage I or II cancer from which the patient is currently in complete remission, or any other cancer from which the patient has been disease free for five years
+44.0
+No other prior malignancy is allowed except for the following: adequately treated basal cell or squamous cell skin cancer, in situ cervical cancer, adequately treated stage I or II cancer from which the patient is currently in complete remission, or any other cancer from which the patient has been disease free for three years; exception: patients with known history of colon cancer, cancer of the pancreas, or any cancer known to harbor an activating retrovirus-associated deoxyribonucleic acid (DNA) sequence (RAS) mutation are ineligible regardless of stage or time since diagnosis
+280.0
+No other prior malignancy is allowed except for the following: adequately treated basal cell or squamous cell skin cancer, in situ cervical cancer, adequately treated stage I or II cancer from which the patient is currently in complete remission, or any other cancer from which the patient has been disease free for three years
+223.0
+No prior malignancy is allowed except for adequately treated basal (or squamous cell) skin cancer, in situ cervical cancer, in situ breast (ductal or lobular) cancer, or other cancer for which the patient has been disease and treatment-free for two years
+150.0
+No other prior malignancy is allowed except for the following: adequately treated basal cell or squamous cell skin cancer, in situ cervical cancer, adequately treated stage I or II cancer from which the patient is currently in complete remission, or any other cancer from which the patient has been disease free for 3 years; men receiving active surveillance for prostate cancer may also be enrolled
+180.0
+No other prior malignancy is allowed except for the following: adequately treated basal cell or squamous cell skin cancer, in situ cervical cancer, adequately treated stage I or II cancer from which the patient is currently in complete remission, or any other cancer from which the patient has been disease free for five years
+333.0
+Any other prior malignancy from which the patient has been disease free for less than 3 years, with the exception of adequately treated and cured basal or squamous cell skin cancer, superficial bladder cancer, carcinoma in situ of any site or any other cancer
+20.0
+Patients must not have other current malignancies:* Adequately treated basal cell or squamous cell skin cancer, in situ cervical cancer, adequately treated stage I or II cancer from which the patient is currently in complete remission, or any other cancer from which the patient has been disease-free for 3 years prior to the time of registration and they are not receiving any current treatment* Prior or current prostate cancer is excluded** A history of superficial Ta urothelial cancer is permitted (not being currently treated) but T1 or greater disease is excluded
+766.0
+No other prior malignancy is allowed except for the following: adequately treated basal cell or squamous cell skin cancer, adequately treated in situ cancer, adequately treated stage I or II cancer (including multiple primary melanomas) from which the patient is currently in complete remission, or any other cancer from which the patient has been disease free for three years
+77.0
+No other prior malignancy is allowed except for the following:* Adequately managed stage I or II cancer from which the patient is currently in complete remission* Any other cancer from which the patient has been disease free for one year* Adequately managed stage I or II follicular thyroid or prostate cancer is also eligible, wherein patient is not required to be in complete remission
+707.0
+No other prior malignancy is allowed except, for the following: adequately treated basal cell or squamous cell skin cancer, in situ cervical cancer, adequately treated stage I or II cancer from which the patient is currently in complete remission, or any other cancer from which the patient has been disease free for five years
+148.0
+Patients must NOT have previous or concurrent malignancy within 2 years; exceptions are made for patients who meet any of the following conditions:* Adequately treated basal cell or squamous cell skin cancer, superficial bladder cancer OR* Adequately treated stage I or II cancer currently in complete remission, or any other cancer that has been in complete remission for at least 2 years
+40.0
+No other prior invasive malignancy is allowed except for the following: adequately treated basal (or squamous cell) skin cancer, in situ breast or cervical cancer; stage I or II invasive cancer treated with a curative intent without evidence of disease recurrence for at least five years
+1000.0
+No other prior malignancy is allowed except for the following: adequately treated basal cell or squamous cell skin cancer, in situ cervical cancer, adequately treated stage I or II cancer from which the patient is currently in complete remission, or any other cancer from which the patient has been disease free for two years
+64.0
+No second prior malignancy is allowed except for adequately treated basal (or squamous cell) skin cancer, in situ cervical cancer or other cancer for which the patient has been disease free for three years
+150.0
+No other prior malignancy is allowed except for the following: adequately treated basal cell or squamous cell skin cancer, in situ cervical cancer, adequately treated stage 0, I or II cancer from which the patient is currently in complete remission, or any other cancer from which the patient has been disease free for two years
+94.0
+Patient with thyroid cancers
+292.0
+Patient with advanced skin cancers
+292.0
+Patients with known other active cancers; skin cancers (basal or squamous) are exempted
+35.0
+Patients with known active cancers who are on therapy for those cancers at time of screening
+27.0

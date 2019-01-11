@@ -1,0 +1,84 @@
+STEP I: Bilirubin =< 1.5 mg/dL (obtained within 28 days prior to randomization)
+1080.0
+STEP II: Any adverse event related to step 1 therapy must have resolved to grade 2 or less
+1080.0
+STEP II: Hemoglobin >= 8 g/dL (within 28 days prior to randomization to Step II)
+1080.0
+STEP II: Platelet count >= 75,000 cells/mm^3 (within 28 days prior to randomization to Step II)
+1080.0
+STEP II: Absolute neutrophil count >= 1000 cells/mm^3 (within 28 days prior to randomization to Step II)
+1080.0
+STEP II: Calculated creatinine clearance >= 30 mL/min (within 28 days prior to randomization to Step II)
+1080.0
+STEP II: Bilirubin =< 1.5 mg/dL (within 28 days prior to randomization to Step II)
+1080.0
+STEP II: SGPT (ALT) and SGOT (AST) < 2.5 times the upper limit of normal (within 28 days prior to randomization to Step II)
+1080.0
+STEP 2: RANDOMIZATION
+280.0
+RANDOMIZATION (STEP 1)
+345.0
+PRIOR TO STEP ONE RANDOMIZATION:
+186.0
+PRIOR TO STEP TWO RANDOMIZATION:
+186.0
+PHASE II: All patients enrolled in the Phase II portion of this trial must have a history of biopsy-proven ovarian, fallopian tube or primary peritoneal cancer
+102.0
+PHASE II REGISTRATION - INCLUSION CRITERIA
+48.0
+PHASE II REGISTRATION: EXCLUSION CRITERIA:
+48.0
+PHASE I:
+110.0
+PHASE II:
+110.0
+PHASE I AND II:
+110.0
+PHASE I PATIENTS:
+36.0
+PHASE I (ARMS A, B, C, D, E, F, G, H, I, X, Y, Z)
+189.0
+RANDOMIZED PHASE II (ARMS K AND L): Patients must have pathologically confirmed relapsed or refractory classical Hodgkin lymphoma (cHL); a biopsy at any relapse is acceptable; other histologies including lymphocyte predominant (LP) HL are not permitted
+189.0
+RANDOMIZED PHASE II (ARMS K AND L): ECOG-ACRIN performance status between 0-2
+189.0
+RANDOMIZED PHASE II (ARMS K AND L): ANC >= 1500/mcL (1.5 x 0^9/L), obtained within 2 weeks prior to registration
+189.0
+RANDOMIZED PHASE II (ARMS K AND L): Platelets >= 75,000/mcL (75 x 10^9/L), obtained within 2 weeks prior to registration
+189.0
+RANDOMIZED PHASE II (ARMS K AND L): AST/ALT =< 2.5 x upper limit of normal (ULN), obtained within 2 weeks prior to registration
+189.0
+RANDOMIZED PHASE II (ARMS K AND L): Patient must have no current or prior history of CNS involvement
+189.0
+RANDOMIZED PHASE II (ARMS K AND L): All prior therapy must have been completed at least 21 days prior to enrollment (6 weeks for nitrosoureas or mitomycin C); no concomitant anti lymphoma therapy, including systemic corticosteroids for the purpose of treatment of lymphoma are allowed; topical steroids are allowed
+189.0
+RANDOMIZED PHASE II (ARMS K AND L): No history of Steven�s Johnson�s syndrome, TENs syndrome, or motor neuropathy
+189.0
+RANDOMIZED PHASE II (ARMS K AND L): Patients must not have grade 2 or greater peripheral sensory neuropathy
+189.0
+RANDOMIZED PHASE II (ARMS K AND L): Patients must not have NYHA class III or IV heart failure, uncontrolled angina, severe uncontrolled ventricular arrhythmias, or electrocardiographic evidence of acute ischemia
+189.0
+RANDOMIZED PHASE II (ARMS K AND L): Patients must not have previously existing hypersensitivity to brentuximab vedotin or ipilimumab
+189.0
+RANDOMIZED PHASE II (ARMS K AND L): Patients must not have a serious medical or psychiatric illness likely to interfere with study participation
+189.0
+RANDOMIZED PHASE II (ARMS K AND L): Patients must not be participating in any other clinical trial or taking any other experimental medications within 21 days prior to registration
+189.0
+RANDOMIZED PHASE II (ARMS K AND L): Routine vaccinations, including seasonal influenza, should be given at least 2 weeks prior to study treatment; vaccines are not prohibited on study, but must be given at least 6 weeks after cycle 1 and not within 7 days of treatment
+189.0
+RANDOMIZED PHASE II (ARMS K AND L): Patients must not currently be smoking tobacco or other agents
+189.0
+PHASE I PORTION ELIGIBILITY CRITERIA
+97.0
+PHASE II PORTION ELIGIBILITY CRITERIA
+97.0
+PHASE I SUBJECTS ONLY: Patients must not have received prior navitoclax, unless the patient received < 7 days of navitoclax lead-in on this or another study and had to stop for reasons other than toxicity or disease progression; in the phase II portion of the study
+68.0
+Disease status: * Phase 1 (Part A):** Patients must have either measurable or evaluable disease * Phase 2 (Part B):** Ewing sarcoma or peripheral PNET: patients must have measurable disease* Phase 2 (Part C):** Acute lymphoblastic leukemias (ALL): patients with ALL must have an M3 marrow with or without extramedullary site of relapse OR an M2 bone marrow with an extramedullary site of relapse; patients with CNS 3 status are not eligible for enrollment
+148.0
+For Part C (Phase 2): recurrent ALL patients with CNS 3 status are not eligible
+148.0
+Feasibility Phase: Patients must be < 21 years of age at the time of enrollment; please note: the feasibility phase is complete, effective with amendment #1
+337.0
+Tumor amenable to biopsy and willingness to undergo tumor biopsies before and after M6620 (VX-970) treatment during the expansion phase of the trial (biopsies optional during the escalation phase)
+60.0

@@ -1,0 +1,152 @@
+STEP 2 REGISTRATION
+10000.0
+SECOND REGISTRATION (STEP 2)
+155.0
+STEP 0: REGISTRATION (Optional)
+491.0
+Patients with a primary colon or rectal cancer resection who are potentially eligible for S0820 may be pre-registered at Step 0; patients registered to Step 0 will appear on an institutional patient tracking report; patients registered to Step 0 are not registered to the S0820 protocol; to participate in S0820, patients must be registered to Step 1 after patient is consented and evaluation of eligibility; patients registered to S0820 at Step 0 continuing to Step 1 registration must use the same Southwest Oncology Group (SWOG) patient identification (ID) for registration to S0820 Step 1
+491.0
+STEP 1: REGISTRATION
+491.0
+STEP II: Step 2 registration must be within 6 weeks of completing step 1 therapy
+1080.0
+Registration Step 1 � Induction/Re-Induction:
+44.0
+Registration Step 2 � Post-Remission Therapy:
+44.0
+Registration Step 3 � Maintenance: Patients must have adequate marrow function as evidenced by ANC >= 750/mcl within 28 days prior to registration
+44.0
+PRIOR TO STEP 1 REGISTRATION
+606.0
+PRIOR TO STEP 2 REGISTRATION
+606.0
+Documentation of steroid doses within 28 days prior to step 2 registration
+606.0
+STEP 1
+300.0
+PRIOR TO STEP 1 REGISTRATION:
+510.0
+PRIOR TO STEP 2 REGISTRATION:
+510.0
+Within 2 weeks prior to screening step registration and within 4 weeks prior to treatment step registration: Leukocytes >= 3,000/mcL
+6452.0
+Within 2 weeks prior to screening step registration and within 4 weeks prior to treatment step registration: Absolute neutrophil count >= 1,500/mcL
+6452.0
+Within 2 weeks prior to screening step registration and within 4 weeks prior to treatment step registration: Platelets >= 100,000/mcL
+6452.0
+PRIOR TO STEP 1 REGISTRATION
+302.0
+PRIOR TO STEP 2 REGISTRATION
+302.0
+PRE-REGISTRATION (STEP 0)
+345.0
+STEP 1 (REGISTRATION)
+56.0
+STEP 2 (REGISTRATION)
+56.0
+Prostatectomy performed greater than 365 days (1 year) prior to step 1 registration
+612.0
+STEP 1 REGISTRATION
+1000.0
+STEP 2 REGISTRATION
+1000.0
+PRIOR TO STEP 1 REGISTRATION:
+148.0
+PRIOR TO STEP 2 REGISTRATION:
+148.0
+PRIOR TO STEP 1 REGISTRATION
+282.0
+PRIOR TO STEP 2 REGISTRATION
+282.0
+STEP 1 REGISTRATION
+120.0
+PRIOR TO STEP 2 REGISTRATION
+120.0
+Financial clearance for proton therapy treatment prior step 2 registration
+120.0
+PRE-REGISTRATION INCLUSION CRITERIA:
+360.0
+REGISTRATION INCLUSION CRITERIA:
+360.0
+PRE-REGISTRATION
+509.0
+PRE-REGISTRATION ELIGIBILITY CRITERIA:
+195.0
+PRE-REGISTRATION ELIGIBILITY CRITERIA (STEP 0)
+110.0
+PRE-REGISTRATION ELIGIBILITY CRITERIA (STEP 0)
+302.0
+PRE-REGISTRATION ELIGIBILITY CRITERIA:
+130.0
+PRE-REGISTRATION ELIGIBILITY CRITERIA
+30.0
+ADDITIONAL INDUCTION ELIGIBILITY CRITERIA:
+747.0
+Patients treated with prior surgery are eligible for this study if they otherwise meet eligibility criteria
+368.0
+Patients are eligible >= 6 weeks after therapeutic 131I-MIBG provided that all other eligibility criteria are met
+74.0
+ELIGIBILITY CRITERIA FOR ENROLLMENT ON THE RE-TREATMENT STUDY
+180.0
+INTRA-OPERATIVE REGISTRATION/RANDOMIZATION CRITERIA
+2918.0
+POST-OPERATIVE REGISTRATION/RANDOMIZATION CRITERIA
+2918.0
+Note: G-CSF and platelet transfusions cannot be used to increase counts to meet eligibility criteria
+97.0
+RE-REGISTRATION ELIGIBILITY CRITERIA (STEP 2): Patients randomized to Arm 1 may opt to switch to the 3-drug regimen following disease progression; these patients must be re-registered to the study and meet the eligibility criteria below
+97.0
+RE-REGISTRATION ELIGIBILITY CRITERIA (STEP 2): Platelet count >= 50 x 10^9/L
+97.0
+RE-REGISTRATION ELIGIBILITY CRITERIA (STEP 2): AST and ALT < 2.5 x upper limits of normal (ULN)
+97.0
+RE-REGISTRATION ELIGIBILITY CRITERIA (STEP 2): Note: G-CSF and platelet transfusions cannot be used to increase counts to meet eligibility criteria
+97.0
+INDUCTION ELIGIBILITY CRITERIA-STEP 1
+509.0
+POST-INDUCTION THERAPY ELIGIBILITY CRITERIA (PRIOR TO INTENSIFICATION-STEP 2)
+509.0
+Patients should meet the eligibility criteria for RANDOMIZATION TO BLINATUMOMAB OR NO BLINATUMOMAB-STEP 3
+509.0
+ELIGIBILITY CRITERIA FOR SCREENING AND MOLECULAR PROFILING (STEP 0)
+562.0
+ELIGIBILITY CRITERIA FOR RANDOMIZATION (STEP 1): ECOG performance status 0 or 1 within 2 weeks prior to randomization
+562.0
+ELIGIBILITY CRITERIA FOR RANDOMIZATION (STEP 1): Patients must have completed treatment with any investigational agent >= 30 days prior to randomization for protocol therapy, if applicable
+562.0
+ELIGIBILITY CRITERIA FOR RANDOMIZATION (STEP 1): Patients must be randomized within 24 weeks from surgery
+562.0
+ELIGIBILITY CRITERIA FOR RANDOMIZATION (STEP 1): Platelets > 100,000 mm^3
+562.0
+ELIGIBILITY CRITERIA FOR RANDOMIZATION (STEP 1): Aspartate aminotransferase (AST, SGOT) =< 2.5 x ULN
+562.0
+ELIGIBILITY CRITERIA FOR RANDOMIZATION (STEP 1): Alanine aminotransferase (ALT, SGPT) =< 2.5 x ULN
+562.0
+STUDY SITE ELIGIBILITY:
+222.0
+REGISTRATION ELIGIBILITY CRITERIA:
+195.0
+REGISTRATION ELIGIBILITY CRITERIA (STEP 1)
+110.0
+ELIGIBILITY CRITERIA (STEP 1)
+302.0
+REGISTRATION/RANDOMIZATION ELIGIBILITY CRITERIA
+130.0
+ELIGIBILITY CRITERIA FOR PREREGISTRATION (STEP 0):
+766.0
+ELIGIBILITY CRITERIA FOR RANDOMIZATION (STEP 1):
+766.0
+REGISTRATION ELIGIBILITY CRITERIA
+30.0
+INCLUSION CRITERIA FOR SCREENING (STEP 0 - PREREGISTRATION)
+689.0
+INCLUSION CRITERIA FOR TREATMENT ASSIGNMENT (STEP 1)
+689.0
+Patients must have met eligibility criteria for the screening step
+689.0
+Site must verify that there is no known change in the step 1 eligibility since initial registration
+1000.0
+REGISTRATION ELIGIBILITY CRITERIA (STEP 1)
+324.0
+RANDOMIZATION ELIGIBILITY CRITERIA (STEP 2)
+324.0

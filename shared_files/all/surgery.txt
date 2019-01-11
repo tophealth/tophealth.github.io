@@ -1,0 +1,198 @@
+Any major surgery, extensive radiotherapy, chemotherapy with delayed toxicity, biologic therapy, or immunotherapy within 21 days prior to enrollment
+30.0
+No major surgery within 28 days prior to registration
+97.0
+Any major surgery, extensive radiotherapy, chemotherapy with delayed toxicity, biologic therapy, or immunotherapy within 28 days prior to enrollment and/or daily or weekly chemotherapy without the potential for delayed toxicity within 14 days prior to enrollment
+68.0
+Any major surgery, extensive radiotherapy (> 15 days of treatment), chemotherapy with delayed toxicity, biologic therapy, or immunotherapy within 21 days prior to first dose of study treatment and/or daily or weekly chemotherapy without the potential for delayed toxicity within 14 days prior to first dose of study treatment
+130.0
+No history of major surgery =< 14 days prior to registration
+440.0
+No history of major surgery =< 28 days of registration
+34.0
+No major surgery =< 14 days prior to registration
+20.0
+Patients must not have received any major surgery or immunotherapy within 28 days prior to registration
+280.0
+Ibrutinib must be discontinued 7 days before (when possible) until 7 days after major surgery, and 3 days before (when possible) until 3 days after minor surgery; thus, patients to be enrolled on an ibrutinib trial must have completed major surgery > 7 days before initiating treatment, and/or must have completed minor surgery > 3 days before initiating treatment
+52.0
+Patients must not have had major surgery within 28 days prior to registration or be scheduled for surgery during the projected course of protocol treatment; tumor biopsy is allowed
+223.0
+No major surgery within 21 days of registration with stabilization or resolution of surgical adverse events
+110.0
+No major surgery =< 7 days prior to registration and no minor surgery =< 3 days prior to registration (with the exception of intravenous access placement, e.g. Hickman or peripherally inserted central catheter [PICC])
+302.0
+Major surgery within 21 days of starting protocol treatment
+82.0
+Major surgery within 21 days of starting protocol treatment
+50.0
+Major surgery within 30 days prior or during the study period
+46.0
+No major surgery within 28 days prior to randomization
+766.0
+Any major surgery, extensive radiotherapy, chemotherapy with delayed toxicity (e.g. doxorubicin), biologic therapy, or immunotherapy within 21 days prior to enrollment and/or daily or weekly chemotherapy (e.g. sunitinib, sorafenib and pazopanib) without the potential for delayed toxicity within 14 days prior to enrollment
+27.0
+Patients must have recovered to at least a grade =< 1 toxicity eligibility levels due to adverse events (AEs) and/or toxicity of prior chemotherapy or biologic therapy; they must not have had chemotherapy or biologic therapy within 4 weeks (6 weeks for nitrosoureas and mitomycin C, or 2 months for UCN-01), or therapy with tyrosine kinase inhibitors within 5 times the half-life of the inhibitors prior to entering the study; patients must be >= 2 weeks since any prior administration of study drug in an exploratory investigational new drug (IND)/phase 0 study; patients must be >= 1 month since completion of any prior radiation (>= 2 weeks for palliative radiation therapy); however, patients receiving bisphosphonates for any cancer or undergoing androgen deprivation therapy for prostate cancer are eligible for this therapy* Prior therapy with topoisomerase I inhibitors is allowed
+74.0
+Patients must have completed any chemotherapy, radiation therapy, or biologic therapy >= 4 weeks (or 5 half-lives, whichever is shorter) prior to entering the study (6 weeks for nitrosoureas or mitomycin C); patients must be >= 2 weeks since any prior administration of a study drug in a phase 0 or equivalent study and >= 1 week from palliative radiation therapy; patients must have recovered to eligibility levels from prior toxicity or adverse events; treatment with bisphosphonates is permitted
+140.0
+Patients must have completed any chemotherapy, radiation therapy, biologic therapy, or major surgery >= 4 weeks prior to enrollment (6 weeks for nitrosoureas or mitomycin C); patients must be >= 2 weeks since any prior administration of a study drug in a phase 0 or equivalent study, at the discretion of the principal investigator; patients must have recovered to eligibility levels from prior toxicity or adverse events; patients with bone metastases or hypercalcemia on intravenous (IV) bisphosphonate treatment prior to study entry may continue this treatment
+68.0
+Any prior therapy must have been completed >= 4 weeks prior to enrollment on protocol and the participant must have recovered to eligibility levels from prior toxicity; patients should be at least 6 weeks out from nitrosoureas and mitomycin C; prior radiation should have been completed >= 4 weeks prior to study enrollment and all associated toxicities resolved to eligibility levels; patients who have had prior monoclonal antibody therapy must have completed that therapy at least 3 half-lives of the antibody or 6 weeks ago; patients who have received more than a cumulative dose of 350 mg/m^2 of doxorubicin may be enrolled at the discretion of the coordinating center principal investigator (PI) after consultation with a cardiologist and if screening echocardiogram is normal
+70.0
+Patients must have completed any chemotherapy, radiation therapy, surgery, or biologic therapy >= 3 weeks (or >= 5 half-lives, whichever is shorter) prior to entering the study; patients must be >= 2 weeks since any prior administration of a study drug in an exploratory investigational new drug (IND)/phase 0 study or >= 1 week from palliative radiation therapy; patients must have recovered to eligibility levels from prior toxicity or adverse events
+72.0
+TREATMENT: Any prior therapy, radiotherapy, or major surgery must have been completed >= 3 weeks (> 6 weeks for nitrosoureas or mitomycin C) or 5 half-lives of the agent (whichever is shorter) prior to enrollment on protocol, and the participant must have recovered to eligibility levels from prior toxicity; radiofrequency ablation (RFA) of localized lesions should have been performed >= 2 weeks prior to treatment
+700.0
+Patients must have completed radiation therapy or major surgery >= 3 weeks, or biologic therapy or chemotherapy >= 5 half-lives or 3 weeks, whichever is shorter (6 weeks for nitrosoureas and mitomycin C) prior to entering the study; patients must be >= 2 weeks since any prior administration of a study drug in a phase 0 or equivalent study and be >= 1 week from palliative radiation therapy; patients must have recovered to eligibility levels from prior toxicity or adverse events; treatment with bisphosphonates is permitted
+24.0
+Patients must have completed any chemotherapy, radiation therapy, or biologic therapy >= 3 weeks prior to entering the study; patients must be >= 2 weeks since any prior administration of a study drug in a phase 0 or equivalent study; patients must have recovered to eligibility levels from prior toxicity or adverse events; treatment with bisphosphonates is permitted
+35.0
+Patients must have recovered from clinically significant toxicity of prior therapy to grade =< 1 or pre-treatment baseline; the following intervals from previous treatments are required prior to day 1 of study therapy:* 12 weeks from the completion of radiation for recurrent GBM unless there is surgical diagnosis of recurrence or a new lesion that was not previously radiated* 6 weeks from a nitrosourea chemotherapy* 3 weeks from a non-nitrosourea chemotherapy* 4 weeks from an investigational agent (not Food and Drug Administration [FDA] approved) (or 5 half lives, whichever is shorter)* 2 weeks from administration of a non-cytotoxic, FDA-approved agent (e.g., erlotinib, hydroxychloroquine, etc.) (or 5 half lives, whichever is shorter)
+23.0
+Chemotherapy =< 21 days prior to first administration of study treatment and/or monoclonal antibody =< 6 weeks prior to first administration of study treatment
+52.0
+Patients must have completed any chemotherapy, radiation therapy, or biologic therapy >= 4 weeks or 5 half-lives (whichever is shorter) (6 weeks for nitrosoureas or mitomycin C) prior to entering the study; patients must be >= 2 weeks since any prior administration of a study drug in a phase 0 or equivalent study and be >= 2 weeks since any prior palliative radiation or cyberknife therapy; patients must have recovered to grade 1 from prior toxicity or adverse events; patients with bone metastases or hypercalcemia on intravenous bisphosphonate treatment prior to study entry may continue this treatment
+46.0
+Any prior therapy must have been completed at least 4 weeks prior to entry into the study
+36.0
+Patients must have completed any chemotherapy, radiation therapy, surgery, or biologic therapy >= 3 weeks (or >= 5 half-lives, whichever is shorter) prior to entering the study; patients must be >= 2 weeks since any prior administration of a study drug in an exploratory investigational new drug (IND)/phase 0 study and >= 1 week since any palliative radiation therapy; patients must have recovered to eligibility levels from prior toxicity or adverse events
+60.0
+Patients must have recovered to grade 1 or baseline from adverse events (AEs) and/or toxicity of prior chemotherapy or biologic therapy; they must not have had chemotherapy, biologic therapy, or definitive radiotherapy within 4 weeks (6 weeks for nitrosoureas and mitomycin C) or 5 half-lives, whichever is shorter, prior to entering the study; palliative-intent radiotherapy (30 Gy or less) must be completed at least 2 weeks prior to start of treatment, and may not be to a lesion that is included as measurable disease; patients must be >= 2 weeks since any investigational agent administered as part of a phase 0 study (where a sub-therapeutic dose of drug is administered) at the principal investigator's (PI�s) discretion, and should have recovered to grade 1 or baseline from any toxicities
+38.0
+Any prior therapy must have been completed >= 4 weeks or, if known, >= 5 half-lives of the prior agent (whichever is shorter) prior to enrollment on protocol (minimum of 1 week between prior therapy and study enrollment), and the participant must have recovered to eligibility levels from prior toxicity; patients should be at least 6 weeks out from nitrosoureas and mitomycin C; prior definitive radiation should have been completed >= 4 weeks or palliative radiation should have been completed >= 2 weeks prior to study enrollment and all associated toxicities resolved to eligibility levels (patients on study may be eligible for palliative radiotherapy to non-targeted lesions after 2 cycles of therapy at the principal investigator [PI]�s discretion); patients who have had prior monoclonal antibody therapy must have completed that therapy >= 6 weeks (or 3 half-lives of the antibody, whichever is shorter) prior to enrollment on protocol (minimum of 1 week between prior therapy and study enrollment); patients who have received more than a cumulative dose of 350 mg/m^2 of doxorubicin may be enrolled at the discretion of the coordinating center PI, with a screening echocardiogram
+35.0
+Surgery (partial or gross total resection or biopsy) must be performed >= 2 weeks prior to registration; patient must have recovered adequately from the effects of surgery
+360.0
+Patients must not have had major surgery within 6 weeks prior to enrollment on the high risk stratum; patients with history of recent minor surgical procedures (vascular catheter placement, bone marrow evaluation, laparoscopic surgery, liver tumor biopsy) will be eligible
+253.0
+Patients should not be randomized less than 3 weeks post-surgery but will not be acceptable for randomization more than 8 weeks post-surgery
+360.0
+Patients must not have had a previous surgical resection; however, patients may have undergone exploratory thoracotomy, mediastinoscopy, excisional biopsy or similar surgery for the purpose of determining the diagnosis, stage or potential resectability of newly diagnosed lung tumor; at least 28 days must have elapsed since thoracic surgery (excluding mediastinoscopy or other minor surgeries) and patients should have recovered from all associated toxicities at the time of registration; patients must not be planning to undergo a minor surgical procedure while on this study
+162.0
+Previous radical surgery (prostatectomy) or cryosurgery for prostate cancer
+2580.0
+Bilateral mammogram =< 90 days prior to date of surgery; Note: for patients undergoing more than 1 breast operation, this is the date of the first breast surgery for breast cancer treatment
+265.0
+Lumbar CSF must be obtained prior to study enrollment unless medically contraindicated; if a patient undergoes surgery and lumbar CSF cannot be obtained at this time, then it should be performed at least 10 days following surgery before study enrollment; false positive cytology can occur within 10 days of surgery; Note: patients with positive CSF cytology obtained prior to 10 days after surgery may have cytology repeated to determine eligibility
+275.0
+Patient must consent for the appropriate surgery
+600.0
+The patient must have recovered from surgery with the incision completely healed and no signs of infection
+1636.0
+Patients with microscopic positive margins after definitive surgery
+1636.0
+Patients with residual macroscopic disease after surgery
+252.0
+Patients may have received prior surgery (for both the primary and stage IV disease); all adverse events associated with prior surgery must have resolved to =< grade 1 prior to registration
+97.0
+Recent major surgery within a minimum of 4 weeks prior to starting study treatment, with the exception of surgical placement for vascular access
+104.0
+Major surgery within 4 weeks prior to entry into the study, or a surgical incision that is not fully healed
+70.0
+Patients who have received any cytotoxic therapy, immunotherapy, antitumor vaccines, monoclonal antibodies or major surgery in the 4 weeks prior to the start of the study
+52.0
+Have surgery planned within 3 months of consent; patients who have previously received surgery are eligible
+700.0
+Patients who are not currently candidates for radical cystectomy (e.g. patient refuses surgery, comorbidities preclude major surgery, etc.)
+54.0
+Patient must have fully recovered from the effects of prior surgery at least 14 days prior to sub-study registration
+10000.0
+At least 4 weeks must have elapsed since the patient underwent any major surgery (eg. MAJOR: laparotomy, laparoscopy, thoracotomy, VATS [video assisted thorascopic surgery]); there is no restriction on MINOR procedures: (eg. central venous catheter placement, ureteral stent placement or exchange, tumor core or fine-needle aspirate [FNA] biopsy)
+250.0
+Major surgery within 2 weeks prior to randomization: patients must have recovered from any effects of any major surgery
+1500.0
+Prior surgery for the IHC; (liver resection is not allowed)
+182.0
+The patient must have recovered from effects of surgery, postoperative infection, and other complications within 28 days prior to step 2 registration
+606.0
+Patients must be adequately recovered from surgery at the time of randomization
+NONE
+Patients must have discontinued radiation therapy prior to registering to Step 2 of the study and recovered from any adverse events associated with treatment; prior surgery must be >= 2 weeks from registration to Step 2 and patients must be fully recovered from post-surgical complications
+300.0
+Major surgery within 4 weeks of first dose of study drug
+52.0
+Patients who are less than 4 weeks post-operative (op) after major surgery
+36.0
+No clinically significant bleeding (i.e. gastrointestinal [GI] bleed, intracranial bleeding) within 6 months or major surgery within 4 weeks; minor surgeries (i.e. port placement, cataract surgery) are allowed within 2 weeks
+66.0
+Have had recent major surgery within a minimum of 4 weeks prior to starting study treatment, with the exception of surgical placement for vascular access
+50.0
+Patients, who have had a major surgery or significant traumatic injury within 4 weeks of start of study drug, patients who have not recovered from the side effects of any major surgery (defined as requiring general anesthesia) or patients that may require major surgery during the course of the study
+50.0
+Patients may have received prior surgery; at least 28 days must have elapsed since surgery and patient must have recovered from any adverse effects of surgery
+180.0
+Patients must not have any unresolved wounds from previous surgery
+180.0
+Ibrutinib should be held at least 3 to 7 days pre- and post-surgery, depending upon the type of surgery and risk of bleeding
+32.0
+At least 4 weeks since major surgery or radiation therapy
+70.0
+Inability to safely delay surgery by 8 weeks as per surgeon�s discretion
+29.0
+No prior bariatric surgery or planning to undergo this procedure within the next 2 years after study registration
+NONE
+PRIOR/CONCURRENT THERAPY CRITERIA: Patients must not have had a major surgery within 28 days prior to registration; patients must have recovered from any adverse effects of prior surgery to the satisfaction of the treating physician; biopsies and central IV access placement are not considered major surgery
+53.0
+Patients must be enrolled on ALTE07C1 prior to enrollment on ACNS1422* Patients must be enrolled within 36 days of definitive diagnostic surgery (day 0)** Note: patients must begin treatment within 36 days of definitive surgery
+45.0
+Patients who are not candidates for major abdominal surgery due to known medical comorbidities
+147.0
+Major surgery within 4 weeks before randomization
+348.0
+Patients must have recovered from effects of recent surgery, radiotherapy, or chemotherapy; at least 4 weeks must have elapsed since the patient underwent any major surgery (e.g., major: laparotomy, laparoscopy); there is no delay required for minor procedures (e.g., tumor fine-needle aspiration [FNA] or core biopsy, venous access device placement)
+84.0
+Patients must have fully recovered from any adverse effects of major surgery (to =< grade 1) at least 14 days prior to registration
+707.0
+Have had recent major surgery within a minimum of 4 weeks prior to starting study treatment, with the exception of surgical placement for vascular access
+24.0
+Major surgical procedure (as defined by the investigator) within 28 days prior to the first dose of IP; Note: local surgery of isolated lesions for palliative intent is acceptable
+180.0
+Patients must NOT have radiotherapy, or major surgery or active drug therapy for pNET (SSA permitted) within 4 weeks prior to study treatment start
+40.0
+Patients who have had major surgery or trauma within 28 days prior to entering the study; patients must have recovered from any effects of any major surgery and surgical wound should have healed prior to starting treatment
+132.0
+Step 1 registration must occur within 180 days of the initial surgery; within this 180 day interval, a second surgery is permitted in order to achieve GTR, but even with a second surgery, step 1 registration must occur within 180 days of the initial resection
+148.0
+Major surgery must not have occurred within 2 weeks prior to enrollment and patients must have recovered from any effects of any major surgery
+49.0
+Major surgical procedures, or significant traumatic injury =< 14 days prior to registration or anticipation of need for elective or planned major surgical procedure during the course of the study
+48.0
+Invasive procedures defined as follows:* Major surgical procedure, open biopsy or significant traumatic injury within 28 days prior to day 1 therapy* Anticipation of need for major surgical procedures during the course of the study* Core biopsy within 7 days prior to day 1 therapy
+23.0
+Major surgical procedure, open biopsy, or significant traumatic injury within 28 days prior to starting cediranib
+549.0
+Major surgical procedure, open biopsy, or significant traumatic injury within 28 days prior to starting cediranib
+680.0
+Patients who have had or are planning to have the following invasive procedures are not eligible:* Major surgical procedure, laparoscopic procedure, open biopsy or significant traumatic injury within 28 days prior to enrollment* Central line placement or subcutaneous port placement is not considered major surgery; external central lines must be placed at least 3 days prior to enrollment and subcutaneous ports must be placed at least 7 days prior to enrollment* Core biopsy within 7 days prior to enrollment* Fine needle aspirate within 7 days prior to enrollment* Surgical or other wounds must be adequately healed prior to enrollment; Note: for purposes of this study, bone marrow aspirate and biopsy are not considered surgical procedures and therefore are permitted within 14 days prior to start of protocol therapy
+67.0
+A major surgical procedure, open biopsy, or significant traumatic injury within 28 days prior to starting cediranib (percutaneous/endobronchial biopsies are allowed)
+126.0
+No excess risk of bleeding (any of the following):* Bleeding diathesis or coagulopathy* Thrombocytopenia* Major surgical procedure, open biopsy, or significant traumatic injury within the past 28 days or anticipation of need for major surgical procedure during the course of the study* Minor surgical procedures, stereotactic biopsy, fine needle aspiration, or core biopsy within the past 7 days
+130.0
+Major surgical procedure within 28 days prior to cycle 1, day 1 or anticipation of need for a major surgical procedure during the course of the study
+35.0
+Major surgical procedure within 28 days prior to cycle 1, day 1 or anticipation of need for a major surgical procedure during the course of the study
+488.0
+Major surgical procedure within 28 days prior to cycle 1, day 1 and patients must have recovered from any effects of any major surgery; anticipation of need for a major surgical procedure during the course of the study
+72.0
+Major surgical procedure within 28 days prior to cycle 1, day 1 or anticipation of need for a major surgical procedure during the course of the study
+40.0
+Patients who have had or are planning to have the following invasive procedures are not eligible:* Major surgical procedure, laparoscopic procedure, or open biopsy within 28 days prior to enrollment* Central line placement or subcutaneous port placement is not considered major surgery but must be placed at least 3 days prior to enrollment for external lines (e.g., Hickman or Broviac catheter, peripherally inserted central catheter [PICC]) and at least 7 days prior to enrollment for a subcutaneous port* Core biopsy within 7 days prior to enrollment* Fine needle aspirate within 7 days prior to enrollment* Surgical or other wounds must be adequately healed prior to enrollment* NOTE: For purposes of this study, bone marrow aspirate and biopsy are not considered surgical procedures and therefore are permitted within 14 days prior to start of protocol therapy
+146.0
+Major surgical procedure within 28 days prior to cycle 1, day 1 or anticipation of need for a major surgical procedure during the course of the study with the exception of the planned breast cancer surgery that is part of the trial design
+60.0
+A major surgical procedure, open biopsy, or significant traumatic injury within 3 months prior to cycle 1 day 1 (percutaneous/endobronchial/endoscopic biopsies are allowed)
+90.0
+Patients who have had or are planning to have the following invasive procedures are not eligible:* Major surgical procedure, laparoscopic procedure, open biopsy or significant traumatic injury within 28 days prior to enrollment* Subcutaneous port placement or central line placement is not considered major surgery; external central lines must be placed at least 3 days prior to enrollment and subcutaneous ports must be placed at least 7 days prior to enrollment* Core biopsy within 7 days prior to enrollment* Fine needle aspirate within 7 days prior to enrollment* NOTE: For purposes of this study, bone marrow aspirate and biopsy are not considered surgical procedures and therefore are permitted within 14 days prior to start of protocol therapy
+51.0
+Major surgical procedure within 28 days prior to cycle 1, day 1 or anticipation of need for a major surgical procedure during the course of the study
+22.0
+Invasive procedures defined as follows:* Major surgical procedure, open biopsy or significant traumatic injury within 28 days prior to day 1 therapy* Anticipation of need for major surgical procedures during the course of the study* Core biopsy within 7 days prior to day 1 (D1) therapy
+98.0
+Participants may not have a major surgical procedure, open biopsy, or significant traumatic injury within 28 days prior to starting cediranib; anticipation of need for major surgical procedures during the course of the study also excludes patients from the trial
+70.0
+Patients with a major surgical procedure, open biopsy, or significant traumatic injury within 28 days prior to initiation of therapy, or anticipation of need for major surgical procedure during the course of the study other than that defined by protocol are ineligible
+21.0
+Major surgical procedure within 28 days prior to cycle 1, day 1 or anticipation of need for a major surgical procedure during the course of the study
+78.0

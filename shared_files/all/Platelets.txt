@@ -1,0 +1,518 @@
+Platelets (PLT) >= 100,000/mcL
+36.0
+Platelets >= 100,000/mcL
+102.0
+Platelets >= 100,000/mcl
+360.0
+Platelets >= 100,000/mcL
+276.0
+Platelets >= 100,000/mcl
+162.0
+Platelets >= 100,000/mcL
+40.0
+Platelets >= 100,000/mcL
+107.0
+Platelets >= 100,000/mcl
+52.0
+Platelets >= 100,000/mcL
+55.0
+Platelets >= 100,000/mcL
+165.0
+Platelets >= 100,000/mcL
+42.0
+Platelets >= 100,000/mcL
+36.0
+Platelets >= 100,000/mcL
+140.0
+Platelets >= 100,000/mcL
+80.0
+Platelets >= 100,000/mcL
+68.0
+Platelets >= 75,000/mcL
+42.0
+Platelets >= 100,000/mcL
+73.0
+Platelets >= 100,000/mcL
+80.0
+Platelets >= 100,000/mcL
+70.0
+Platelets >= 100,000/mcL
+72.0
+Platelets >= 100,000/mcL (without transfusion)
+12.0
+Platelets >= 100,000/mcL
+68.0
+Platelets greater than or equal to 100,000/mcl
+540.0
+Platelets >= 50,000/mcL
+54.0
+Platelets >= 100,000/mcL
+32.0
+Platelets >= 100,000/mcL
+100.0
+Platelets >= 100,000/mcL
+24.0
+Platelets >= 100,000/mcL
+35.0
+Platelets >= 100,000/mcL
+230.0
+Platelets >= 100,000/mcL
+40.0
+Platelets >= 100,000/mcL
+57.0
+Platelets >= 50,000 cells/mcL (50 x 10^9/L)
+52.0
+Platelets >= 100,000/mcL
+90.0
+Platelets >= 100,000/mcL
+36.0
+Platelets >= 100,000/mcL
+23.0
+Platelets >= 50,000/mcL or recovery to the baseline count
+80.0
+Platelets >= 75,000/mcL
+135.0
+Platelets >= 100,000/mcL
+37.0
+Platelets >= 150,000/mcL
+66.0
+Platelets >= 50,000/mcL
+12.0
+Platelets >= 100,000/mcL
+42.0
+Platelets >= 100,000/mcL
+209.0
+Platelets >= 100,000/mcL
+30.0
+Platelets >= 100,000/mcL
+75.0
+Platelets >= 100,000/mcL (not requiring platelet transfusions)
+50.0
+Platelets >= 100,000/mcL
+30.0
+Platelets >= 100,000/mcL
+549.0
+Platelets >= 100,000/mcL
+680.0
+Platelets >= 100,000/mcL
+46.0
+Platelets >= 100,000/mcL
+45.0
+Platelets >= 100,000/mcL
+82.0
+Platelets >= 100,000/mcL
+126.0
+Platelets >= 100,000/mcL
+150.0
+Platelets >= 100,000/mcL
+50.0
+Platelets >= 75,000/mcL
+46.0
+Platelets >= 100,000/mcL
+15.0
+Platelets >= 100,000/mcL
+46.0
+Platelets >= 50,000/mcL
+36.0
+Platelets >= 100,000/mcL
+90.0
+Platelets >= 100,000/mcL
+45.0
+Platelets >= 75,000/mcL, unless due to marrow involvement by lymphoma in which case a platelet count of >= 30,000/mcL will be used
+50.0
+Platelets >= 100,000/mcL
+46.0
+Platelets > 50,000/mcL
+60.0
+Within 2 weeks prior to initiation of study treatment: Platelets >= 100,000/mcL
+70.0
+Platelets >= 100,000/mcL (without transfusion within 2 weeks prior to cycle 1, day 1)
+29.0
+Platelets >= 100,000/mcL
+51.0
+Platelets >= 100,000/mcL
+150.0
+Platelets >= 100,000/mcL
+48.0
+Platelets >= 100,000/mcL
+20.0
+Platelets >= 75,000/mcl
+84.0
+Platelets >= 100,000/mcL
+60.0
+Platelets >= 100,000/mcL
+38.0
+Platelets >= 100,000/mcL
+70.0
+Platelets >= 100,000/mcL
+24.0
+Platelets >= 100,000/mcL
+35.0
+Platelets >= 100,000/mcL (not requiring platelet transfusions)
+24.0
+Platelets >= 100,000/mcL
+28.0
+Platelets >= 100,000/mcL
+148.0
+Platelets >= 100,000/mcL
+72.0
+Platelets >= 75,000/mcL (>= 50,000 for patients with hematologic malignancies)
+40.0
+Platelets >= 150,000/mcL
+60.0
+Platelets >= 100,000/mcL
+180.0
+Platelets >= 100,000/mcL
+40.0
+Platelets >= 100,000/mcL
+22.0
+Platelets >= 100,000/mcL
+70.0
+Platelets >= 100,000/mcL
+47.0
+Platelets >= 100,000/mcL
+35.0
+Platelets >= 100,000/mcL
+78.0
+Platelet count: >= 50,000/mm^3, transfusion independent (no platelet transfusions within 1 week)
+62.0
+Platelet count >= 100,000/mm^3 (transfusion independent, defined as not receiving platelet transfusions for at least 7 days prior to enrollment)
+77.0
+For patients with solid tumors without known bone marrow involvement: platelet count >= 100,000/mm^3 (transfusion independent, defined as not receiving platelet transfusions for at least 7 days prior to enrollment)
+154.0
+Platelets >= 100,000/mm^3 transfusion independent (no platelet transfusion one week prior to enrollment)
+40.0
+Platelet count >= 75,000 and transfusion independent
+28.0
+For patients with solid tumors without known bone marrow involvement: platelet count >= 100,000/mm^3 (transfusion independent, defined as not receiving platelet transfusions for at least 7 days prior to enrollment)
+148.0
+Platelet count >= 75,000/mm^3 (transfusion independent, defined as not receiving platelet transfusions for at least 7 days prior to enrollment)
+484.0
+* Platelet count >= 100,000/mm^3 (transfusion independent, defined as not receiving platelet transfusions for at least 7 days prior to enrollment)
+81.0
+Platelet count >= 100,000/mm^3 (transfusion independent, defined as not receiving platelet transfusions for at least 7 days prior to enrollment)
+67.0
+For patients with solid tumors without known bone marrow involvement: * Peripheral absolute neutrophil count (ANC) >= 1000/mm^3* Platelet count >= 75,000/mm^3 (transfusion independent, defined as not receiving platelet transfusions for at least 7 days prior to enrollment)* Hemoglobin >= 8.0 g/dl at baseline (may receive packed red blood cell [PRBC] transfusions)
+65.0
+Platelet count >= 100,000/mm^3 (transfusion independent, defined as not receiving platelet transfusions for at least 7 days prior to enrollment)
+36.0
+Platelet count >= 100,000/uL (transfusion independent, defined as not receiving platelet transfusions within a 7 day period prior to enrollment) for patients with solid tumors without bone marrow involvement
+146.0
+For patients with solid tumors without known bone marrow involvement:* Peripheral absolute neutrophil count (ANC) >= 1000/mm^3* Platelet count >= 100,000/mm^3 (transfusion independent, defined as not receiving platelet transfusions for at least 7 days prior to enrollment)* Hemoglobin >= 8.0 g/dl at baseline (may receive red blood cell [RBC] transfusions)
+51.0
+For patients with solid tumors without known bone marrow involvement:* Peripheral absolute neutrophil count (ANC) >= 1000/mm^3* Platelet count >= 100,000/mm^3 (transfusion independent, defined as not receiving platelet transfusions for at least 7 days prior to enrollment)
+49.0
+For patients with solid tumors without known bone marrow involvement:* Peripheral absolute neutrophil count (ANC) >= 1000/mm^3* Platelet count >= 100,000/mm^3 (transfusion independent, defined as not receiving platelet transfusions for at least 7 days prior to enrollment)
+98.0
+For patients with solid tumors without known bone marrow involvement:* Peripheral absolute neutrophil count (ANC) >= 1000/mm^3* Platelet count >= 100,000/mm^3 (transfusion independent, defined as not receiving platelet transfusions for at least 7 days prior to enrollment)
+49.0
+For patients with solid tumors without known bone marrow involvement:* Peripheral absolute neutrophil count (ANC) >= 1000/mm^3* Platelet count >= 100,000/mm^3 (transfusion independent, defined as not receiving platelet transfusions for at least 7 days prior to enrollment)
+49.0
+For patients with solid tumors without known bone marrow involvement:* Peripheral absolute neutrophil count (ANC) >= 1000/mm^3* Platelet count >= 100,000/mm^3 (transfusion independent, defined as not receiving platelet transfusions for at least 7 days prior to enrollment)
+144.0
+For patients with solid tumors without known bone marrow involvement:* Peripheral absolute neutrophil count (ANC) >= 1000/mm^3 within 7 days prior to enrollment * Platelet count >= 100,000/mm^3 (transfusion independent, defined as not receiving platelet transfusions for at least 7 days prior to enrollment)
+49.0
+GENERAL INCLUSION CRITERIA FOR SUBPROTOCOLS: For patients with solid tumors without known bone marrow involvement:* Peripheral absolute neutrophil count (ANC) >= 1000/mm^3* Platelet count >= 100,000/mm^3 (transfusion independent, defined as not receiving platelet transfusions for at least 7 days prior to enrollment
+1500.0
+Platelet count >= 100,000/ul
+729.0
+Platelet count > 75,000/uL
+253.0
+Platelet count >= 100,000/uL
+100.0
+Platelet count >= 100,000/uL
+74.0
+Platelet count >= 100,000/uL (transfusion independent)
+275.0
+Platelet count >= 75,000/uL (transfusion independent)
+74.0
+CD4 count >= 50 cells/ul
+70.0
+Platelet count >= 100,000/uL; Note: no transfusions are permitted 7 days prior to laboratory studies to determine eligibility
+340.0
+Platelet count >= 100,000/uL, obtained within 4 weeks prior to randomization
+300.0
+Platelet count >= 100,000/uL
+400.0
+Platelets >= 75,000 cells /uL (unsupported, defined as no platelet transfusion within 7 days)
+110.0
+INCLUSION CRITERIA FOR STRATUM C: Platelets >= 75,000 cells/uL (unsupported, defined as no platelet transfusion within 7 days)
+110.0
+Platelet count >= 50,000/uL
+44.0
+Absolute CD4 count > 200 cells/uL
+46.0
+Platelet count >= 75,000/uL
+337.0
+CD4+ T-cell count >= 100 cells/uL
+60.0
+Platelet count >= 100,000/uL (transfusion independent)
+45.0
+Platelets >= 100,000/uL (untransfused)
+400.0
+Platelets >= 100,000 cells/uL (75 x 10^9 L); and,
+90.0
+Platelets >= 100,000/ul
+97.0
+Platelets >= 100,000/uL
+72.0
+Platelets >= 100,000/ul
+104.0
+TUMOR BIOPSY SEQUENCING: Platelets >= 100,000/uL (mcL)
+700.0
+TREATMENT: Platelets >= 100,000/uL (mcL)
+700.0
+Platelets >= 100,000/ul (unsupported)
+52.0
+Platelets >= 90 x 10^3/uL
+92.0
+Platelets >= 100,000/uL
+23.0
+Platelets >= 100,000/ul
+280.0
+Platelets >= 100,000/ul
+450.0
+Platelets >= 100,000/ul
+96.0
+Platelets >= 100,000/uL
+58.0
+Platelets >= 100,000/uL
+35.0
+Platelets > 100,000/uL
+188.0
+Platelets >= 100,000/uL
+33.0
+Platelets > 100,000/uL
+32.0
+Platelets >= 100 x 10^3/uL
+714.0
+Platelets >= 100,000/uL
+40.0
+Platelets >= 100,000/uL
+30.0
+Platelets >= 100,000/ul
+50.0
+Platelet count >= 100,000/mm�
+700.0
+Platelet (PLTs) count >= 100,000/mm^3 obtained =< 21 days prior to registration
+360.0
+Platelet count >= 100,000 cells/mcL
+155.0
+Peripheral platelet count (PLT) >= 75,000/mm^3
+48.0
+Platelet count >= 100,000/mm^3
+1120.0
+Platelet count > 100,000
+224.0
+Platelet count >= 100,000/mL within 28 days prior to registration
+1900.0
+STEP I: Untransfused platelet count >= 75,000 cells/mm^3 (obtained within 28 days prior to randomization)
+1080.0
+Platelet count < 100 x 10^9/L
+45.0
+Platelet count > 100,000/mm^3
+2060.0
+Platelet count >= 50 x 10^9/L
+97.0
+Platelet count >= 75,000/mm^3 within 90 days prior to randomization
+150.0
+Platelet count >= 100,000/mm^3
+34.0
+Platelet count >= 100,000 mcl obtained within 28 days prior to sub-study registration
+10000.0
+Platelet count >= 100 x 10^9/L
+250.0
+Platelet count >= 100 x 10^9/L measured within 28 days prior to randomization
+1500.0
+Platelet count >= 100,000/mm^3
+20.0
+Platelet count >= 100,000/mcL
+600.0
+Patients on Part C with acute lymphoblastic leukemia: platelet count >= 20,000/mm^3 (may receive platelet transfusions); these patients must not be known to be refractory to red cell or platelet transfusion
+148.0
+Platelet count > 50,000/mm^3
+125.0
+Platelet count >= 75,000/mm^3
+30.0
+Platelet count >= 100,000/mm^3
+420.0
+Within 6 weeks prior to randomization: Platelet count must be >= 100,000/mm^3
+990.0
+Platelet count >= 100,000/mm^3
+195.0
+Re-registration: platelet count >= 100,000/mm^3
+195.0
+Within 14 days of registration: Platelet count >= 75,000/mm^3
+110.0
+Platelet count >= 100,000/mm^3
+69.0
+Platelet count >= 100,000/mm^3
+130.0
+Platelet count >= 100,000/mm^3
+45.0
+Platelet count >= 75,000/mcL; must be obtained within 28 days prior to registration
+180.0
+Platelet count >= 100,000/ mL within 21 days prior to registration
+333.0
+Platelet count >= 100,000/mm^3
+137.0
+CLINICAL/LABORATORY CRITERIA: Platelet count >= 100,000/mcL; these results must be obtained within 28 days prior to registration
+53.0
+Platelet count must be >= 100,000/mm^3 within 28 days before randomization
+348.0
+Platelet count >= 100,000/mm^3, within 4 weeks of randomization
+766.0
+Platelet count >= 100,000/mm^3
+124.0
+Platelet count >= 100,000 mm^3; platelets >= 75,000 required for patients who received cycle 1 of mFOLFOX6 prior to registration
+700.0
+Platelet count < 100 x 10^9/L
+98.0
+Platelet count >= 75,000/mm^3
+324.0
+Platelets >= 100,000 cells/mm^3
+285.0
+Platelets >= 100,000 cells/mm^3
+37.0
+Platelets >= 70,000 cells/mm^3, within 21 days prior to study entry
+143.0
+Platelets >= 60,000 cells/mm^3; obtained within 14 days prior to study entry
+368.0
+Platelets >= 100,000 cells/mm^3
+252.0
+Platelets >= 100,000 cells/mm^3
+660.0
+Platelets >= 100,000 cells/mm^3
+234.0
+Platelets >= 100,000 cells/mm^3 obtained within 30 days prior to registration
+330.0
+Platelets >= 100,000 cells/mm^3 within 14 days prior to study registration
+440.0
+Platelets >= 100,000 cells/mm^3, within 21 days prior to registration
+924.0
+Platelets >= 100,000 cells/mm^3
+182.0
+Platelets >= 100,000 cells/mm^3
+606.0
+Platelets >= 50,000 cells/mm^3
+360.0
+Platelets >= 50,000 cells/mm^3
+186.0
+Platelets >= 100,000 cells/mm^3
+120.0
+Platelets >= 100,000/mm^3, equivalent to CTCAE v 3.0 grade 0-1
+164.0
+Platelets >= 100,000/mm^3
+545.0
+Within 60 days prior to registration on study: Platelets >= 100,000/mm^3
+2580.0
+Platelets >= 100,000/mm^3
+130.0
+Platelets >= 100,000/mm^3
+110.0
+Platelets >= 100,000/mm^3
+52.0
+Platelets: >= 75,000/mm^3 within 90 days before enrollment
+5058.0
+Platelets >= 50,000 /mm^3
+84.0
+Platelets >= 100,000/mm^3
+44.0
+Platelets >= 30,000/mm^3
+NONE
+Platelets > 100,000 mm^3, must be obtained within 8 weeks prior to screening for protocol therapy
+562.0
+Platelets: >= 100,000/mm^3
+56.0
+Platelets >= 100,000/mm^3
+60.0
+Platelets >= 100,000/mm^3
+126.0
+Platelets >= 100,000/mm^3 within 4 weeks prior to randomization
+345.0
+Platelets >= 100,000/mm^3
+36.0
+Platelets >= 100,000/mm^3
+24.0
+Platelets: >= 100,000 / mm^3
+56.0
+Platelets >= 100,000 cell/mm^3
+612.0
+Platelets >= 100,000/mcL assessed within seven (7) days prior to the start of therapy
+30.0
+REGISTRATION #2 - PRIOR TO CONSOLIDATION CHEMOTHERAPY: Platelets >= 100,000/mcl
+162.0
+Obtained within 30 days of registration: Platelets >= 75,000/mcL or >= 50,000/mcL with documented bone marrow involvement
+24.0
+Platelets >= 100,000/mcL within 28 days prior to registration
+491.0
+Obtained =< 7 days prior to registration: Platelets (PLT) >= 100,000/mm^3
+102.0
+Platelets >= 100,000/L (unsupported), within 14 days of registration and within 7 days of the start of treatment
+180.0
+Platelets >= 75,000/mcL (75 x 10^9/L) obtained within 2 weeks prior to registration
+189.0
+Platelets >= 50,000/mcl within 28 days prior to registration
+44.0
+Registration Step 3 � Maintenance: Patients must have adequate marrow function as evidenced by platelets >= 75,000/mcl within 28 days prior to registration
+44.0
+Obtained within 28 days prior to registration: Platelets >= 75,000/mcL
+223.0
+Within 14 days prior to registration: Platelets >= 100,000/mcL
+143.0
+Platelets greater than or equal to 100,000/mcl, within 14 days prior to registration
+147.0
+Obtained within 28 days prior to registration: Platelets >= 50,000/mcl
+77.0
+Platelets >= 100 x 10^9/L within 14 days prior to registration.
+186.0
+Within 28 days prior to registration: Platelets >= 75,000/mcL
+707.0
+Within 14 days prior to registration: Platelets >= 100,000/mcl
+488.0
+Within 28 days prior to administration of study treatment: Platelets >= 100,000/mcL
+90.0
+Within less than or equal to 14 days prior to registration: Platelets >= 100 x 10^9/L
+40.0
+Within 28 days prior to administration of therapy: Platelets >= 100,000/mcL
+132.0
+Platelets >= 100,000/mcL, obtained within 28 days prior to step 2 registration
+1000.0
+Platelets >= 100,000/mcL within 28 days prior to registration
+64.0
+Platelets >= 75,000/mcL within 28 days prior to registration
+150.0
+Platelets >= 100,000/mcL within 28 days prior to registration
+94.0
+Platelets >= 100 x 10^9/L
+72.0
+Platelets >= 100 x 10^9/L
+30.0
+Platelets >= 100 x 10^9/L
+40.0
+Platelets >= 100 x 10^9/L, within 2 weeks of the first dose of study treatment
+18.0
+Platelets >= 75 x 10^9/L
+68.0
+Platelets >= 100 x 10^9/L
+130.0
+Platelets >= 100 x 10^9/L
+35.0
+Platelets >= 100 x 10^9/L
+18.0
+Platelets (Plt) > 100
+23.0
+Platelets >= 100,000/microliters
+37.0
+Platelets >= 100 x 10^9/L
+36.0
+Platelets >= 100 x 10^9/L
+64.0
+Platelets >= 100 x 10^9/L (transfusion dependent)
+25.0
+Platelets >= 75 x 10^9/L
+68.0
+Platelets >= 100,000 x 10^9 /L
+21.0
+Platelets >= 75 x 10^9/L within 30 days of day 1 of study
+27.0

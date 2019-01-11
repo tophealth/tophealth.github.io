@@ -1,0 +1,60 @@
+Patients are permitted to enroll if they have vitiligo, type I diabetes mellitus, residual hypothyroidism due to autoimmune condition only requiring hormone replacement, psoriasis not requiring systemic treatment, or conditions not expected to recur in the absence of an external trigger (precipitating event)
+80.0
+Patients are permitted to enroll if they have vitiligo, type I diabetes mellitus, residual hypothyroidism due to autoimmune condition only requiring hormone replacement, psoriasis not requiring systemic treatment, or conditions not expected to recur in the absence of an external trigger (precipitating event)
+135.0
+Patients are permitted to enroll if they have vitiligo, type I diabetes mellitus, residual hypothyroidism due to autoimmune condition only requiring hormone replacement, psoriasis not requiring systemic treatment, or conditions not expected to recur in the absence of an external trigger (precipitating event)
+37.0
+Patients are permitted to enroll if they have vitiligo, type I diabetes mellitus, residual hypothyroidism due to autoimmune condition only requiring hormone replacement (such as Hashimoto's thyroiditis), psoriasis not requiring systemic treatment, or conditions not expected to recur in the absence of an external trigger (precipitating event)
+96.0
+NOTE: patients are permitted to enroll if they have vitiligo, type I diabetes mellitus, residual hypothyroidism due to autoimmune condition only requiring hormone replacement, psoriasis not requiring systemic treatment, or conditions not expected to recur in the absence of an external trigger (precipitating event)
+45.0
+Patients are permitted to enroll if they have vitiligo, type I diabetes mellitus, residual hypothyroidism due to autoimmune condition only requiring hormone replacement, psoriasis not requiring systemic treatment, or conditions not expected to recur in the absence of an external trigger (precipitating event)
+29.0
+Patients must not have known or suspected autoimmune disease; subjects with type I diabetes mellitus, hypothyroidism requiring hormone replacement, or skin disorders not requiring systemic treatment are permitted to enroll
+714.0
+Patients must not have an active, known, or suspected autoimmune disease; patients are permitted to enroll if they have vitiligo, type I diabetes mellitus, hypothyroidism only requiring hormone replacement, psoriasis not requiring systemic treatment, or conditions not expected to recur in the absence of an external trigger
+350.0
+No active known or suspected autoimmune disease; the following are permitted: patients with vitiligo, type I diabetes mellitus, residual hypothyroidism due to autoimmune or non-autoimmune condition requiring hormone replacement, asymptomatic hypothyroidism not requiring treatment, psoriasis not requiring systemic treatment, or conditions not expected to recur
+766.0
+Patient with poorly controlled diabetes (defined as fasting glucose level > 200 mg/dL; optimally participants will have glucose < 150 mg/dL) despite attempts to improve glucose control by fasting duration and adjustment of medications
+292.0
+Random or fasting blood glucose within the upper normal limits for age; if the initial blood glucose is a random sample that is outside of the normal limits, then a follow-up fasting blood glucose can be obtained and must be within the upper normal limits for age
+253.0
+Diabetes mellitus or glucose intolerance, defined as a fasting glucose > 125 mg/dL
+224.0
+TREATMENT: Patients who have poorly controlled diabetes (defined as fasting blood glucose of > 160 mg/dL (Common Terminology Criteria for Adverse Events [CTCAE] grade >= 2) and glycated hemoglobin (HgA1c) > 8% are ineligible to receive treatment with everolimus on study; patients with fasting blood glucose > 160 mg/dL may be eligible if the HgA1c < 8%, per PI discretion
+700.0
+It is recommended glucose be drawn fasting >= 8 hrs; glucose < 126 (diabetics 40�75 years of age are not eligible), within 30 days prior to enrollment* If glucose is >= 126 the glucose should be repeated fasting to determine eligibility
+278.0
+Fasting serum glucose =< 130 MG/DL
+40.0
+Fasting serum glucose =< 130 mg/dL
+57.0
+Uncontrolled diabetes (fasting serum glucose > 130 mg/dl) despite best medical management or poorly controlled diabetes mellitus defined as hemoglobin (Hb)A1c > 7%; subjects with a history of transient glucose intolerance due to corticosteroid administration are allowed in this study if all other inclusion/exclusion criteria are met
+57.0
+Patients must have a normal blood sugar level for age to participate; if an initial random draw (ie. non-fasting) blood glucose value is out of range, it is acceptable to repeat this test as a fasting draw
+330.0
+Fasting serum glucose =< 130 mg/dL
+209.0
+Fasting serum glucose =< 130 mg/dL
+30.0
+Uncontrolled diabetes mellitus (fasting plasma glucose > 130 mg/dL)
+30.0
+Patient does not have uncontrolled diabetes mellitus (i.e., fasting blood glucose > 200 mg/dL)
+188.0
+Fasting blood glucose (FBG) < 130 mg/dL
+35.0
+Fasting plasma glucose =< 130 mg/dL (or 7.2 mmol/L)
+36.0
+Patients with uncontrolled diabetes mellitus (fasting blood glucose controlled by medication, =< 200 mg/dL allowed)
+64.0
+Normal blood glucose for age
+24.0
+Within less than or equal to 14 days prior to registration: Fasting serum glucose =< 130 mg/dL
+40.0
+Diabetics are allowed if:* Fasting blood glucose (FBG) =< 130 mg/dL (mmol/L),OR* HbA1c =< 7%
+40.0
+Random or fasting blood glucose =< the upper normal limits for age; if the initial blood glucose is a random sample that is outside of the normal limits, then follow-up fasting blood glucose can be obtained and must be =< the upper normal limits for age
+51.0
+Patients must have a normal blood sugar level for age; if an initial random draw (i.e. non-fasting) blood glucose value is out of range, it is acceptable to repeat this test as a fasting draw
+144.0

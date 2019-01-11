@@ -1,0 +1,580 @@
+Serum total bilirubin =< twice the institutional upper limit of normal (ULN) within 21 days of registration on study (or within 21 days prior to day 1 of chemotherapy post-surgery for those patients having started chemotherapy prior to first step registration)
+545.0
+Total bilirubin within institutional upper limit of normal (IULN)
+162.0
+REGISTRATION #2 - PRIOR TO CONSOLIDATION CHEMOTHERAPY: Total bilirubin =< IULN
+162.0
+Serum creatinine =< 2 x institutional upper limit of normal (IULN), unless due to lymphoma, within 42 day prior to registration
+155.0
+Total bilirubin =< 2 x institutional upper limit of normal (IULN) (unless due to Gilbert syndrome) within 42 days prior to registration
+155.0
+Within 14 days prior to registration: Total bilirubin =< 1.5 x institutional upper limit of normal (IULN)
+130.0
+Patients must have bilirubin =< 2 x IULN within 7 days prior to registration (unless the bilirubin is primarily unconjugated)
+38.0
+Serum bilirubin =< institutional upper limit of normal (IULN) within 28 days prior to sub-study registration; for patients with liver metastases, bilirubin must be =< 5 x IULN
+10000.0
+Total bilirubin =<1.5 x institutional upper limit of normal (IULN)
+35.0
+Patients must have total bilirubin =< 2.0 x IULN within 14 days prior to registration
+44.0
+AST and ALT =< 3.0 x institutional upper limit of normal (IULN) within 14 days prior to registration
+44.0
+Total bilirubin =< 2.0 x IULN within 14 days prior to registration
+44.0
+Registration Step 3 � Maintenance: Patients must have AST and ALT =< 3.0 x institutional upper limit of normal (IULN) within 14 days prior to registration
+44.0
+Registration Step 3 � Maintenance: Patients must have total bilirubin < 2.0 x institutional upper limit of normal (IULN) within 14 days prior to registration
+44.0
+Obtained within 28 days prior to registration: Total bilirubin =< 1.5 x institutional upper limit of normal (IULN)
+223.0
+Total bilirubin =< 1.5 x institutional upper limit of normal (IULN)
+150.0
+Within 14 days prior to registration: Total bilirubin =< 1.5 x institutional upper limit of normal (IULN)
+143.0
+CLINICAL/LABORATORY CRITERIA: Total bilirubin =< 1.5 x institutional upper limit of normal (IULN); these results must be obtained within 28 days prior to registration
+53.0
+Obtained within 28 days prior to registration: Total bilirubin =< 1.5 x institutional upper limit of normal (IULN) (or =< 3.0 x IULN with Gilbert's syndrome)
+77.0
+Within 28 days prior to registration: Total bilirubin =< 2.0 x institutional upper limit of normal (IULN) or for documented/suspected Gilbert�s disease, total bilirubin =< 3.0 x IULN
+707.0
+Total bilirubin =< 1.5 x institutional upper limit of normal (IULN) (except Gilbert�s syndrome, who must have a total bilirubin < 3.0 mg/dL), obtained within 28 days prior to step 2 registration
+1000.0
+Total bilirubin =< 1.5 x institutional upper limit of normal (IULN) except patients with documented Gilbert�s syndrome within 28 days prior to registration
+64.0
+Total bilirubin =< 1.5 x institutional upper limit of normal (IULN) (=< 5 x IULN if secondary to lymphoma, Gilbert�s syndrome, or medication related [e.g., indinavir, tenofovir, atazanavir]) within 28 days prior to registration
+150.0
+Direct bilirubin =< 1.5 x IULN (=< 5 x IULN if secondary to lymphoma) within 28 days prior to registration
+150.0
+Total bilirubin =< 2.5 x institutional upper limit of normal (IULN) (except patients with Gilbert�s syndrome) within 28 days prior to registration
+94.0
+Total bilirubin =< 1.5 x upper limit of normal (ULN)
+729.0
+Total bilirubin =< 1.5 x the upper limit of normal (ULN)
+102.0
+Total bilirubin < 2 x institutional upper limit of normal (ULN)
+700.0
+Total bilirubin =< 1.5 x institutional upper limit of normal (ULN) obtained =< 21 days prior to registration
+360.0
+Total serum bilirubin =< 1.5 times upper limit of normal (ULN) (=< grade 1); if total bilirubin is 2 to 3 mg/dL, but direct bilirubin is normal, then the patient will be considered eligible
+747.0
+Bilirubin less than or equal to 1.5 x upper limit of normal (ULN) (CTCAE grade 1)
+128.0
+Total bilirubin =< 5 x upper limit of normal (ULN)
+276.0
+Total bilirubin < 1.5 x upper limit of normal assessed within seven (7) days prior to the start of therapy
+30.0
+Bilirubin =< 3.0 x upper limit of normal (ULN)
+48.0
+Total bilirubin =< 1.5 x upper limit of normal (ULN)
+1120.0
+TREATMENT: Bilirubin =< 2 x upper limit of normal
+44.0
+Bilirubin < 1.5 times institutional upper limit of normal, within 21 days prior to study entry
+143.0
+Total bilirubin =< 1.5 institutional upper limit of normal (ULN)
+110.0
+Obtained =< 7 days prior to registration: Total bilirubin =< 1.5 x institutional upper limit of normal (ULN)
+102.0
+Serum bilirubin > 1.5 x upper limit of normal (ULN)
+45.0
+Total bilirubin =< 1.5 times upper limit of normal (ULN)
+55.0
+Total bilirubin < 2 x the institutional upper limit of normal (ULN)
+252.0
+Total bilirubin < 2 x institutional upper limit of normal (ULN) within 14 days prior to registration
+660.0
+Total bilirubin =< 1.5 x institutional upper limit of normal (ULN)
+140.0
+Total bilirubin =< 1.5 x upper limit of normal (ULN)
+72.0
+Bilirubin < 1.5 x upper limit of normal (ULN)
+80.0
+Total bilirubin =< 1.5 x institutional upper limit of normal (ULN)
+30.0
+Total bilirubin =< 1.5 within 30 days prior to registration* It is highly recommended but not required that total bilirubin be =< 1.5 upper limit of normal
+330.0
+Total bilirubin =< 1.5 x upper limit of normal (ULN)
+92.0
+Bilirubin less than or equal to 1.5 x institutional/laboratory upper limit of normal (ULN)
+540.0
+Bilirubin =< 1.5 times upper limit of normal
+250.0
+Total bilirubin =< 1.5 x institutional upper limit of normal (ULN), within 21 days prior to registration
+924.0
+Bilirubin =< 1.5 x upper limit of normal (ULN)
+20.0
+Total bilirubin =< 1.5 x institutional upper limit of normal (ULN)
+24.0
+Total bilirubin > 2 times the upper limit of normal
+125.0
+Total bilirubin =< 1.5 x upper limit of normal (ULN)
+40.0
+Bilirubin =< 1.5 upper limit of normal (ULN)
+606.0
+Total bilirubin =< 1.5 x institutional upper limit of normal (ULN)
+35.0
+Total bilirubin =< 1.5 x institutional upper limit of normal (IULN) (or =< 2.5 x upper limit of normal [ULN] with Gilbert�s syndrome)
+280.0
+Total bilirubin =< 1.5 x upper limit of normal (ULN)
+450.0
+Total bilirubin =< 1.5 x upper limit of normal (ULN)
+90.0
+Total bilirubin =< 1.5 x upper limit of normal (ULN)
+42.0
+Total bilirubin =< 1.5 times institutional upper limit of normal (ULN)
+110.0
+INCLUSION CRITERIA FOR STRATUM C: Total bilirubin =< 1.5 times institutional upper limit of normal (ULN)
+110.0
+Total bilirubin =< 1.5 � upper limit of normal (ULN) for the laboratory unless resulting from hemolysis
+30.0
+Total bilirubin =< institutional upper limit of normal (ULN) or =< 1.5 X institutional ULN (if the patient has liver metastases)
+126.0
+Total bilirubin within =< 1.5 times the upper limit of normal (ULN) institutional limits
+680.0
+Total bilirubin less than or equal to the institution's upper limit of normal
+33.0
+Total bilirubin =< 1.5 x the institutional upper limit of normal (ULN)
+126.0
+Total bilirubin < 1.5 upper limit of normal (ULN)
+46.0
+Total bilirubin =< 1.5 x upper limit of normal (ULN)
+45.0
+Total bilirubin =< the upper limit of normal (ULN) within 4 weeks prior to randomization
+345.0
+RECURRENT/ PROGRESSIVE DIPG (STRATUM 1): Total bilirubin =< 1.5 times institutional upper limit of normal (ULN)
+50.0
+NON-PROGRESSED DIPG (STRATUM 2): Total bilirubin =< 1.5 times institutional upper limit of normal (ULN)
+50.0
+Total bilirubin below normal institutional upper limit of normal (ULN)
+48.0
+Bilirubin =< 1.5 x upper limit of normal (ULN), within 14 days prior to registration
+147.0
+Total bilirubin =< 1.5 times institutional upper limit of normal (ULN)
+25.0
+Within 28 days prior to administration of study treatment: Total bilirubin =< 1.5 x the institutional upper limit of normal (ULN)
+90.0
+Within less than or equal to 14 days prior to registration: Total serum bilirubin =< institutional upper limit of normal (ULN)
+40.0
+Within 28 days prior to administration of therapy: Total bilirubin =< 1.5 x institutional upper limit of normal (ULN)
+132.0
+Total bilirubin =< 1.5 x institutional upper limit of normal (ULN)
+40.0
+Total bilirubin =< 1.5 x institutional upper limit of normal (ULN)
+70.0
+Total bilirubin < 4 x institutional upper limit of normal (ULN)
+186.0
+Bilirubin =< 1.5 upper limit of normal (ULN)
+120.0
+Bilirubin (sum of conjugated + unconjugated) =< 1.5 x upper limit of normal (ULN) for age
+77.0
+Bilirubin (sum of conjugated + unconjugated) =< 1.5 x upper limit of normal (ULN) for age
+154.0
+Patients on Part A and Part B: bilirubin (sum of conjugated + unconjugated) =< 1.5 x upper limit of normal (ULN) for age
+148.0
+Patients on Part C with ALL: bilirubin (sum of conjugated + unconjugated) =< 1.5 x ULN for age
+148.0
+Bilirubin (sum of conjugated + unconjugated) =< 1.5 x upper limit of normal (ULN) for age
+484.0
+Bilirubin (sum of conjugated + unconjugated) =< 1.5 x upper limit of normal (ULN) for age
+67.0
+Bilirubin (sum of conjugated + unconjugated) =< 1.5 x upper limit of normal (ULN) for age
+65.0
+Bilirubin (sum of conjugated + conjugated) =< 1.5 x upper limit of normal (ULN) for age
+36.0
+Bilirubin (sum of conjugated + unconjugated) =< 1.5 x upper limit of normal (ULN) for age
+51.0
+Patients with solid tumors: bilirubin (sum of conjugated + unconjugated) =< 1.5 x upper limit of normal (ULN) for age
+49.0
+Bilirubin (sum of conjugated + unconjugated) =< 1.5 x upper limit of normal (ULN) for age
+98.0
+Bilirubin (sum of conjugated + unconjugated) =< 1.5 x upper limit of normal (ULN) for age
+49.0
+Bilirubin (sum of conjugated + unconjugated) =< 1.5 x upper limit of normal (ULN) for age
+49.0
+Bilirubin (sum of conjugated + unconjugated) =< 1.5 x upper limit of normal (ULN) for age
+144.0
+Bilirubin (sum of conjugated + unconjugated) =< 1.5 x upper limit of normal (ULN) for age within 7 days prior to enrollment
+49.0
+GENERAL INCLUSION CRITERIA FOR SUBPROTOCOLS: Bilirubin (sum of conjugated + unconjugated) =< 1.5 x upper limit of normal (ULN) for age
+1500.0
+Bilirubin =< 1.5 x normal
+360.0
+Total bilirubin within =< 1.5 normal institutional limits (patients with Gilbert�s syndrome with total bilirubin up to 2.5 mg/dL is allowed)
+74.0
+Obtained within 30 days of registration: Total bilirubin within normal institutional limits (may be elevated if direct bilirubin normal)
+24.0
+Bilirubin within normal institutional limits within 14 days prior to registration
+234.0
+Total bilirubin < 1.5 x upper limits of normal (ULN)
+2060.0
+Total serum bilirubin within normal institutional limits
+70.0
+Total bilirubin < 1.5 x upper limits of normal (ULN)
+97.0
+RE-REGISTRATION ELIGIBILITY CRITERIA (STEP 2): Total bilirubin < 1.5 x upper limits of normal (ULN)
+97.0
+Total bilirubin within normal institutional limits
+12.0
+Total bilirubin =< 1.5 x upper limits of normal (ULN)
+34.0
+Total bilirubin < 1.5 x institutional upper limit of normal with direct bilirubin within normal limits except for participants with Gilbert�s disease
+23.0
+Total bilirubin within institutional normal limits (or < 2.5 X the ULN for patients with Gilbert�s disease)
+60.0
+Total bilirubin within normal institutional limits
+12.0
+Total bilirubin within normal institutional limits
+209.0
+Total bilirubin within normal institutional limits
+30.0
+Total bilirubin within normal institutional limits
+30.0
+Total bilirubin within normal institutional limits
+15.0
+Total bilirubin within normal institutional limits
+46.0
+Total bilirubin within normal institutional limits
+45.0
+Serum bilirubin =< 2.5 times ULN except for participants who are on atazanavir or indinavir, provided that the participant�s direct bilirubin is within normal institutional limits
+18.0
+Within 2 weeks prior to initiation of study treatment: Total bilirubin within normal institutional limits
+70.0
+Total bilirubin within normal institutional limits
+51.0
+Total bilirubin within normal institutional limits
+150.0
+Total bilirubin within normal institutional limits
+20.0
+Total bilirubin: within normal limits at each study site local laboratory
+36.0
+Total bilirubin within normal institutional limits
+38.0
+Total bilirubin within normal institutional limits
+70.0
+Total bilirubin within normal institutional limits
+40.0
+Bilirubin within institutional normal limits
+50.0
+Total bilirubin < 1.5 x upper limit of normal (ULN) for age
+400.0
+Total bilirubin < 1.5 x upper limit of normal (ULN) for age
+253.0
+Total bilirubin < 1.5 x upper limit of normal (ULN) for age
+693.0
+Total bilirubin =< 1.5 times upper limit of normal (ULN) for age
+275.0
+Total bilirubin =< 1.5 x upper limit of normal for age
+62.0
+Total bilirubin =< 1.5 x ULN for age AND
+74.0
+Total bilirubin < 1.5 times upper limit of normal for age, within 14 days of registration and within 7 days of the start of treatment
+180.0
+Total bilirubin =< 1.5 x upper limit of normal (ULN) for age
+140.0
+Total bilirubin =< 1.5 times upper limit of institutional normal (ULN) for age
+40.0
+Total bilirubin =< 1.5 x upper limit of normal (ULN) for age
+600.0
+Total bilirubin =< 1.5 x upper limit of normal (ULN) for age
+340.0
+Total bilirubin =< 1.5 x upper limit of normal (ULN) for age, and
+330.0
+Total bilirubin =< 1.5 x upper limit of normal (ULN) for age
+81.0
+Total bilirubin =< 1.5 x upper limit of normal (ULN) for age
+90.0
+Total bilirubin =< 1.5 x upper limit of normal (ULN) for age
+44.0
+Total bilirubin =< 1.5 x upper limit of normal (ULN) for age
+337.0
+Direct bilirubin < 1.5 x upper limit of normal (ULN) for age and institution
+56.0
+Total or direct bilirubin =< 1.5 x upper limit of normal (ULN) for age, and
+45.0
+Total bilirubin =< 1.5 x upper limit of normal (ULN) for age
+146.0
+Direct bilirubin =< 1.5 x upper limit of normal (ULN) for age, and
+53.0
+Total bilirubin =< 1.5 x upper limit of normal (ULN) for age
+1680.0
+Bilirubin =< 1.5 x ULN (CTCAE v 3.0 grade 1)
+164.0
+Bilirubin =< 1.5 x ULN
+36.0
+Patients must have a total serum bilirubin =< 1.5 x ULN (grade =< 1) and a serum creatinine =< grade 1
+747.0
+Patients with abnormal liver function will be eligible and will be grouped according to the criteria below* Group A (normal hepatic function)** Bilirubin =< upper limit of normal (ULN) and aspartate aminotransferase (AST) =< ULN* Group B (mild hepatic dysfunction)** B1: bilirubin =< ULN and AST > ULN** B2: bilirubin > ULN but =< 1.5 x ULN and any AST* Group C (moderate hepatic dysfunction)** Bilirubin > 1.5 x ULN to =< 3 x ULN and any AST* Group D (severe hepatic dysfunction) ** Bilirubin > 3 x ULN and up to investigators discretion and any AST* Patients with active hemolysis should be excluded; no distinction will be made between liver dysfunction due to metastases and liver dysfunction due to other causes; registration laboratory investigations will be used to assign a patient to a hepatic function group; liver function tests should be repeated within 24 hours prior to starting initial therapy and may result in the patients' group assignment being altered if different to registration test results
+132.0
+Bilirubin =< 1.5 x ULN
+52.0
+Total bilirubin =< 2.0, within 30 days prior to enrollment
+278.0
+Patients with abnormal hepatic function will be eligible and will be grouped according to criteria summarized below:* Group A: Normal hepatic function** Bilirubin =< ULN** Aspartate aminotransferase (AST) =< ULN* Group B: Mild hepatic dysfunction** B1: bilirubin =< ULN and AST > ULN** B2: ULN < bilirubin =< 1.5 x ULN and any AST* Group C: Moderate hepatic dysfunction** 1.5 x ULN < bilirubin =< 3 x ULN and any AST* Group D: Severe hepatic dysfunction** 3 x ULN < bilirubin =< 10 x ULN and any AST; hepatic function tests should be repeated within 24 hours prior to starting initial therapy and may result in patients� group assignment being altered if different to registration test results
+68.0
+Bilirubin =< 1.5 x ULN; for subjects with liver metastases =< 3 x ULN is allowed
+30.0
+Total serum bilirubin =< 1.5 x ULN
+NONE
+Serum total bilirubin =< 1.5 X upper limit of normal (ULN) or direct bilirubin =< ULN for patients with total bilirubin levels > 1.5 ULN
+36.0
+Total bilirubin < 1.5 x ULN
+58.0
+Total bilirubin =< 1.5 x upper limit of normal (ULN) in absence of Gilbert disease (total bilirubin =< 3 x ULN with Gilbert); also, if hyperbilirubinemia is clearly attributed to liver metastases total bilirubin =< 3 x ULN is permitted
+195.0
+Re-registration: total bilirubin =< 1.5 x ULN in absence of Gilbert disease (total bilirubin =< 3 x ULN with Gilbert); if hyperbilirubinemia is clearly attributed to liver metastases, total bilirubin =< 3 x ULN is permitted
+195.0
+Total bilirubin =< 1.5 x ULN
+23.0
+Total bilirubin =< 1.5 x the institutional ULN
+549.0
+If no known liver metastases: total bilirubin < 1.5 x institutional upper limit of normal (ULN); if known liver metastases, then: total bilirubin < 2.5 x ULN
+46.0
+Total serum bilirubin =< 1.5 x ULN (in patients with known Gilbert syndrome, a total bilirubin =< 3.0 x ULN, with direct bilirubin =< 1.5 x ULN)
+64.0
+Total bilirubin =< 1.5 x ULN (except subjects with Gilbert syndrome, who can have total bilirubin < 3.0 x ULN), within 4 weeks of randomization
+766.0
+Serum total bilirubin: =< 1.5 X ULN OR
+56.0
+Direct bilirubin: =< ULN for patients with total bilirubin levels > 1.5 ULN
+56.0
+Total bilirubin =< 1.5 x ULN within 14 days prior to registration.
+186.0
+Total bilirubin =< 1.5 x institutional upper limit of normal (ULN) (however, patients with known Gilbert disease who have serum bilirubin level =< 3 x ULN may be enrolled)
+35.0
+Within 14 days prior to registration: Total Bilirubin =< 1.5 x ULN (patients with known Gilbert disease who have serum bilirubin level =< 3 x ULN may be enrolled)
+488.0
+Total bilirubin =< 1.5 x upper limit of normal (ULN) (however, patients with known Gilbert disease who have serum bilirubin level =< 3 x ULN may be enrolled)
+72.0
+Total bilirubin =< 1.5 x institutional upper limit of normal (ULN) (however, patients with known Gilbert disease who have serum bilirubin level =< 3 x ULN may be enrolled)
+40.0
+Total bilirubin =< 1.5 x institutional upper limit of normal (ULN) (however, patients with known Gilbert disease who have serum bilirubin level =< 3 x ULN may be enrolled)
+60.0
+Total bilirubin =< 1.5 x institutional upper limit of normal (ULN) (however, patients with known Gilbert disease who have serum bilirubin level =< 3 x ULN may be enrolled)
+22.0
+Total bilirubin:* If no known liver metastases: total bilirubin < 1.5 x institutional upper limit of normal (ULN)* If known liver metastases, then: total bilirubin < 2.5 x ULN
+47.0
+Total bilirubin =< 1.5 x institutional upper limit of normal (ULN) (however, patients with known Gilbert disease who have serum bilirubin level =< 3 x ULN may be enrolled)
+78.0
+Bilirubin* =< 2 x upper limit of normal* In the absence of Gilbert�s disease
+100.0
+Total bilirubin =< 1.5 times the institutional upper limit of normal (ULN), unless elevated secondary to lymphomatous involvement of liver or biliary system, or due to other HIV medications (e.g., indinavir, tenofovir, or atazanavir); if secondary to lymphomatous involvement, an initial upper limit of total bilirubin 5 mg/dL (85.5 uM/L) should be utilized - for direct bilirubin > 1.2 mg/dL (20.5 uM/L)
+90.0
+Total bilirubin must be < 1.5 x the upper limit of normal, unless the elevation of bilirubin is thought to be secondary to Gilbert�s syndrome or combined antiretroviral therapy (cART); if, however, the elevated bilirubin is felt to be secondary to antiretroviral therapy, the total bilirubin must be =< 3.5 mg/dL, provided that the direct bilirubin is normal and the aspartate aminotransferase (AST) and alanine aminotransferase (ALT) =< 3 x the upper limit of normal; also, if the elevated bilirubin is thought to be secondary to cHL the same criteria for hyperbilirubinemia should be applied; however 1 prior cycle of cyclophosphamide is permitted in attempt to make the participant eligible; patients should not be excluded from study participation unless dosing cannot be safely established
+70.0
+Total bilirubin =< 1.5 x institutional upper limit of normal (ULN) (unless due to Gilbert�s disease or disease-related hemolysis, then =< 3.0 x ULN)
+113.0
+Total bilirubin=< 1.5 x upper limit of normal (ULN) (if, however, the participant has Gilbert�s disease or unconjugated hyperbilirubinemia that is considered to be secondary to with atazanavir or indinavir therapy, then the total bilirubin must be =< 3 x ULN)
+42.0
+Bilirubin =< 2 x upper limit of normal (ULN) (unless documented Gilbert�s syndrome, for which bilirubin =< 3 x upper limit of normal [ULN] is permitted) obtained within 2 weeks prior to registration
+189.0
+RANDOMIZED PHASE II (ARMS K AND L): Bilirubin =< 2 x upper limit of normal (ULN) (unless documented Gilbert�s syndrome, for which Bilirubin =< 3 x upper limit of normal [ULN] is permitted); obtained within 2 weeks prior to registration
+189.0
+Total bilirubin =< 1.5 x institutional upper limit of normal (IULN) (or =< 2.5 x ULN for patients with Gilbert�s syndrome)
+97.0
+Serum bilirubin =< 1.5 x institutional upper limit of normal (ULN) except subjects with known Gilbert�s syndrome
+40.0
+Bilirubin =< 1.5 x institutional upper limit of normal (ULN) except subjects with known Gilbert�s syndrome, within 2 weeks of the first dose of study treatment
+18.0
+Direct or total bilirubin < 1.5 x ULN (unless related to Gilbert�s or Meulengracht�s syndrome); the values must be obtained within 48 hours prior to randomization
+509.0
+Total bilirubin < 2.0 mg/dL unless due to Gilbert�s disease, hemolysis or leukemia
+63.0
+Total bilirubin =< 1.5 x institutional upper limit of normal (ULN) (patients with Gilbert�s syndrome may have serum bilirubin > 1.5 � ULN)
+130.0
+Bilirubin =< 1.5 x ULN within 14 days prior to study registration; unless patient has Gilbert�s disease
+440.0
+Total bilirubin =< 1.5 x institutional upper limit of normal; unless due to Gilbert�s syndrome
+100.0
+Total bilirubin =< ULN (institutional upper limit of normal) except elevated total bilirubin < 1.5 x ULN due to Gilbert�s disease or similar syndrome involving slow conjugation of bilirubin, measured within 28 days prior to randomization
+1500.0
+Total bilirubin < 1.5 x institutional upper limit of normal (=< 3 mg/dL in case of Gilbert�s syndrome)
+600.0
+Total bilirubin =< 1.5 x institutional upper limit of normal (ULN) (or =< 2.5 x ULN with Gilbert�s disease)
+230.0
+Total bilirubin =< 1.5 x ULN (institutional upper limit of normal) (patients with Gilbert�s syndrome may have direct bilirubin > 2.5 x ULN)
+44.0
+Total bilirubin =< 1.5 x ULN except subjects with normal direct bilirubin or those with known Gilbert�s syndrome, obtained within 4 weeks prior to randomization
+300.0
+Total bilirubin =< 1.5 x upper limit of normal (ULN) (unless Gilbert�s syndrome or disease infiltration of the liver is present)
+52.0
+Bilirubin =< 1.5 x ULN upper limit of normal (except in patients with documented Gilbert�s disease, who must have a total bilirubin =< 3.0 mg/dL), must be obtained within 8 weeks prior to screening for protocol therapy
+562.0
+ELIGIBILITY CRITERIA FOR RANDOMIZATION (STEP 1): Bilirubin =< 1.5 x ULN (except in patients with documented Gilbert�s disease, who must have a total bilirubin =< 3.0 mg/dL)
+562.0
+Serum bilirubin =< 1.5 x institutional upper limit of normal (ULN) except subjects with known Gilbert�s syndrome
+18.0
+Total bilirubin =< 1.5 x upper limit of normal (ULN); for subjects with known Gilbert�s disease or similar syndrome with slow conjugation of bilirubin, total bilirubin =< 3.0 mg/dL
+135.0
+Total bilirubin =< 1.25 x institutional upper limit of normal (ULN), with the exception of < 2.9 mg/dL for patients with Gilbert�s disease
+66.0
+Total bilirubin =< 1.5 x ULN except subjects with normal direct bilirubin or those with known Gilbert�s syndrome
+400.0
+Within 2 weeks prior to screening step registration and within 4 weeks prior to treatment step registration: Total bilirubin =< 1.5 X institutional upper limit of normal (ULN) (unless documented Gilbert�s syndrome, for which bilirubin =< 3 x institutional ULN is permitted)
+6452.0
+Within 6 weeks prior to randomization: Total bilirubin must be =< upper limit of normal (ULN) for the laboratory (lab) unless the patient has a bilirubin elevation > ULN to 1.5 x ULN due to Gilbert�s disease or similar syndrome involving slow conjugation of bilirubin
+990.0
+PARTICIPANTS NOT ON THE HODGKIN LYMPHOMA EXPANSION COHORT: Total bilirubin =< 1.5 x institutional upper limit of normal (ULN) =< 3 x ULN for subjects with Gilbert�s disease or with atazanavir- or indinavir-induced unconjugated hyperbilirubinemia without aspartate aminotransferase (AST) or alanine aminotransferase (ALT) elevation and must have a total bilirubin less than 3.0 mg/dL, within 2 weeks prior to enrollment
+84.0
+PARTICIPANTS ON THE HODGKIN LYMPHOMA EXPANSION COHORT: Total bilirubin: =<1.5 � institutional upper limit of normal (ULN), or =< 3 x ULN for participants with Gilbert�s disease or with atazanavir- or indinavir-induced unconjugated hyperbilirubinemia without AST or ALT elevation, and must have a total bilirubin less than 3.0 mg/dL), within 2 weeks prior to enrollment
+84.0
+Total bilirubin =< 1.5 x upper limit of normal (ULN); except in case of Gilbert�s disease
+69.0
+Total bilirubin =< 1.5 x upper limit of normal (ULN) unless isolated hyperbilirubinemia attributed to Gilbert�s syndrome
+302.0
+Total bilirubin =< 1.5 x institutional upper limit of normal (ULN); an exception to this may be allowed for participants with Gilbert�s syndrome with documented approval by the protocol chair
+45.0
+Total bilirubin =< 1.5 x upper limit of normal (ULN) (patients with Gilbert�s syndrome may have serum bilirubin > 1.5 ULN)
+82.0
+Total bilirubin =< 1.5 x ULN (patients with Gilbert�s syndrome may have serum bilirubin > 1.5 x ULN)
+50.0
+Total bilirubin =< 1.5 x upper limit of normal (ULN), unless due to Gilbert�s syndrome or hemolysis, in which case =< 3.0 x ULN is allowed
+50.0
+Total bilirubin =< 1.5 x ULN unless Gilbert�s syndrome of disease infiltration of the liver is present
+32.0
+Total bilirubin < 1.5 X upper limit of normal (ULN); or < 3 x institutional ULN for Gilbert�s syndrome or HIV protease inhibitors; or < 5 x ULN and direct bilirubin < 0.7 mg/dL for patients on atazanavir containing HIV regimen
+60.0
+Total bilirubin must be =< ULN (upper limit of normal) for the lab unless the patient has a bilirubin elevation > ULN to 1.5 x ULN due to Gilbert�s disease or similar syndrome involving slow conjugation of bilirubin within 28 days before randomization
+348.0
+Total bilirubin (=< 1.5 mg/dl) normal unless history of Gilbert�s syndrome
+612.0
+Total bilirubin =< 1.5 x normal institutional limits; this will not apply to patients with confirmed Gilbert�s syndrome (persistent or recurrent hyperbilirubinemia [predominantly unconjugated bilirubin] in the absence of evidence of hemolysis or hepatic pathology), who will be allowed in consultation with their physician
+180.0
+Total bilirubin =< 1.5 x local institutional upper limit of normal (ULN)* If elevated total bilirubin is due Gilbert�s disease or disease-related hemolysis then total bilirubin =< 3.0 x local institutional ULN
+48.0
+Total bilirubin =< 2.0 mg/dL unless due to Gilbert�s syndrome, hemolysis, or ineffective hematopoiesis
+27.0
+Total bilirubin > 1.5 times ULN if no liver metastases or > 3 times ULN in the presence of documented Gilbert�s syndrome (unconjugated hyperbilirubinemia) or liver metastases
+98.0
+Serum bilirubin =< 1.5 x institutional upper limit of normal (ULN) (except patients with Gilbert�s syndrome, who can have total bilirubin < 3 mg/DL)
+21.0
+Total bilirubin =< 1.5 x institutional upper limit of normal (ULN), (except for patients with known Gilbert�s syndrome who must have normal direct bilirubin)
+30.0
+Direct bilirubin =< 3 x upper limit of normal (ULN), unless suspected leukemic involvement of the liver
+324.0
+Total bilirubin =< 1.5 x upper limit of normal (ULN), except for patients with known Gilbert�s syndrome
+324.0
+Total bilirubin =< 1.5 x institutional upper limit of normal (ULN) within 30 days of day 1 of study; NOTE: patients with elevated bilirubin secondary to Gilbert�s disease are eligible to participate in the study
+27.0
+Total bilirubin =< 1.5 x institutional upper limit of normal (ULN); =< 3 x institutional ULN if the patient has Gilbert's syndrome
+40.0
+Bilirubin within 1.5 x the upper limit of normal for age, with the exception of those with Gilbert syndrome
+104.0
+Total bilirubin =< 1.5 x institutional upper limit of normal (ULN) (except patients with Gilbert syndrome, who can have total bilirubin < 3.0 mg/dL)
+80.0
+Total bilirubin =< 1.5 x institutional upper limit of normal (ULN) (except patients with Gilbert syndrome, who can have total bilirubin < 3.0 mg/dL)
+37.0
+Bilirubin =< 1.5 x ULN; for patients with Gilbert's syndrome, bilirubin =< 3.0 mg/dL is acceptable
+96.0
+Total bilirubin =< 1.5 upper limit of normal (ULN), with the exception of patients with Gilbert syndrome
+50.0
+Total bilirubin =< 1.5 x institutional upper limit of normal (ULN) (except patients with Gilbert syndrome, who can have total bilirubin < 3.0 mg/dL)
+29.0
+Total bilirubin =< 1.5 x upper limit of normal (ULN) (except in subjects with Gilbert syndrome who must have a total bilirubin < 3.0 x ULN)
+714.0
+Total bilirubin =< 1.5 x upper limit of normal (ULN); unless patient has Gilbert disease
+137.0
+Bilirubin =< 1.5 x ULN (=< 3 x ULN for patients with Gilbert syndrome)
+84.0
+Total bilirubin =< 1.5 X upper limit of normal (ULN), with exception of patients with Gilbert syndrome
+24.0
+Total bilirubin =< 1.5 X upper limit of normal (ULN), with the exception of patients with Gilbert syndrome who are required to have =< 3 X ULN
+24.0
+Total bilirubin < 1.5 x institutional upper limit of normal (with the exception of those with Gilbert syndrome
+28.0
+Total bilirubin =< 1.5 x institutional upper limit of normal (IULN) (except Gilbert's syndrome, who must have a total bilirubin < 3.0 mg/dL)
+148.0
+Total bilirubin =< 1.5 x upper limit of normal (ULN) except in the case of Gilbert disease
+700.0
+Serum total bilirubin =< 1.5 x institutional upper limit of normal (ULN) (patients with Gilbert's syndrome with a total bilirubin < 3.0 mg/dL)
+68.0
+Total bilirubin =< 2 x institutional upper limit of normal
+107.0
+Total bilirubin < 1.5 x institutional upper limit of normal
+165.0
+Total bilirubin =< institutional upper limit of normal
+36.0
+Total bilirubin =< 1.5 X institutional upper limit of normal
+68.0
+Total bilirubin < 1.5 X institutional upper limit of normal
+73.0
+Total bilirubin within =< 1.5 x institutional upper limit of normal
+72.0
+Total bilirubin =< 1.5 x institutional upper limit of normal
+72.0
+TUMOR BIOPSY SEQUENCING: Total bilirubin < 1.5 x institutional upper limit of normal
+700.0
+TREATMENT: Total bilirubin < 1.5 x institutional upper limit of normal
+700.0
+Total bilirubin =< x 1.5 upper limit of institutional normal
+52.0
+Total bilirubin =< 1.5 x institutional upper limit of normal OR > 1.5 x institutional upper limit of normal allowed if direct bilirubin is within normal range
+68.0
+Total bilirubin =< 1.5 x institutional upper limit of normal
+54.0
+Total bilirubin < 1.5 x institutional upper limit of normal OR > 1.5 x institutional upper limit of normal allowed if direct bilirubin is within normal range
+32.0
+Total bilirubin =< 1.5 x institutional upper limit of normal
+57.0
+Total bilirubin =< institutional upper limit of normal
+23.0
+Total bilirubin =< 1.5 x institutional upper limit of normal
+35.0
+Total bilirubin =< institutional upper limit of normal
+75.0
+Total bilirubin =< 1.5 x institutional upper limit of normal
+46.0
+Total bilirubin =< 1.5 x institutional upper limit of normal
+35.0
+Total bilirubin =< 1.5 X institutional upper limit of normal
+37.0
+Total bilirubin =< 1.5 institutional upper limit of normal
+36.0
+Total bilirubin =< 1.5 x institutional upper limit of normal
+36.0
+Total bilirubin within institutional upper limit of normal
+90.0
+Total bilirubin =< 1.5 X institutional upper limit of normal
+60.0
+Total bilirubin =< institutional upper limit of normal
+35.0
+Bilirubin < 1.5 mg/dl
+348.0
+If the patient is to be treated with cisplatin, the serum bilirubin of =< 2.0 mg%
+37.0
+Total bilirubin =< grade 1* Note: If total bilirubin is 2 to 3 mg/dL, but direct bilirubin is normal, then the patient will be considered eligible
+747.0
+Total serum bilirubin =< 1.5 x ULN* NOTE: if total bilirubin is 2-3 mg/dL, but direct bilirubin is normal, then the patient will be considered eligible
+747.0
+Bilirubin =< grade 1* If bilirubin is 2-3 mg/dL, but direct bilirubin is normal then patient will be considered eligible
+747.0
+Total bilirubin < 1.5 mg/dl
+130.0
+Bilirubin =< 1.5 mg/dL (or =< 3.0 mg/dL if due to Gilbert's syndrome) within 28 days prior to registration
+1900.0
+Serum bilirubin =< 2.0 mg/dL within 28 days prior to registration
+491.0
+Direct bilirubin =< 1 mg/dL
+42.0
+Serum direct bilirubin < 2 mg/dl or serum total bilirubin =< 3; NOTE: the above stipulation for normal hepatic function does not apply if liver dysfunction is due to leukemia infiltration
+509.0
+Obtained =< 48 hours prior to registration: Serum direct bilirubin < 2 mg/dL or serum total bilirubin =< 3
+509.0
+Direct bilirubin < 3.0 mg/dL
+598.0
+Total bilirubin < 1.5 mg/dL
+28.0
+Total bilirubin < 2.5 mg/dl
+182.0
+Total bilirubin < 2.0 mg/dL
+188.0
+Bilirubin =< 2.0 mg/dL
+130.0
+Bilirubin =< 1.5 mg/dL (or =< 3.0 mg/dL if due to Gilbert's syndrome or if liver metastases are present)
+333.0
+Total bilirubin =< 2.0 mg/dL
+124.0
+Total bilirubin =< 2.0 mg/dL (except patients with Gilbert syndrome, who can have total bilirubin < 3.0 mg/dL)
+30.0
+Direct bilirubin =< 2.0 mg/dL
+700.0

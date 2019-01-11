@@ -1,0 +1,84 @@
+Known central nervous system (CNS) metastases or seizure disorder; patients with known brain metastases that have been successfully treated and stable for >= 6 months without requirement for corticosteroids and without seizure activity will be eligible
+102.0
+Active seizure or history of seizure disorder
+276.0
+Patients with prior seizure history who have experienced a seizure within the three months prior to enrollment are excluded
+130.0
+Patients with active seizure or history of seizure are not eligible
+107.0
+Patients with seizure disorder may be enrolled if well controlled
+275.0
+Patients with active seizure or a history of seizure are not eligible
+110.0
+History of intractable epilepsy, or uncontrolled seizure disorder
+330.0
+STEP I: Patients must not have active, uncontrolled seizure disorder; patients must have had no seizures in the last 6 months
+1080.0
+Patients receiving glucocorticoids and/or anti-seizure medications are eligible for this study
+75.0
+Patients with a history of encephalitis, multiple sclerosis, or seizures within the last year (from seizure disorder or brain metastasis) should be excluded from this clinical trial
+54.0
+Comorbid conditions: patients are unable to participate due to the following:* Generalized or partial seizure disorder that is uncontrolled at the time of registration; the definition of controlled generalized seizures is patients must be on a stable dose of anti-seizure medication and without generalized seizures for at least 10 days prior to registration; the definition of controlled partial seizures is patients must be on a stable dose of anti-seizure medication for at least 10 days prior to registration; patients with occasional breakthrough partial seizures are allowed at treating physician�s discretion* Grade 3 or 4 thromboembolic disease within 6 months (mo) of registration* Known history of prolonged QT syndrome
+440.0
+Patients with uncontrolled seizure disorder are not eligible; (patients with seizure disorders that do not require antiepileptic drugs, or are well controlled with stable doses of antiepileptic drugs remain eligible)
+598.0
+Patients considered at poor medical risk due to a serious, uncontrolled medical disorder, non-malignant systemic disease or active, uncontrolled infection; examples include, but are not limited to, uncontrolled ventricular arrhythmia, recent (within 3 months) myocardial infarction, uncontrolled major seizure disorder, extensive bilateral lung disease on high resolution computed tomography scan or any psychiatric disorder that prohibits obtaining informed consent
+1500.0
+Uncontrolled seizure disorder
+1400.0
+Intractable seizures while on adequate anticonvulsant therapy�more than 1 seizure per month for the past 2 months
+510.0
+Patient has no known history of seizure disorder
+44.0
+Patients with a history of uncontrolled seizure disorder; including focal or generalized seizure may not have had a seizure within one year prior to registration
+333.0
+Patients with a high risk of seizures should be excluded from the protocol (e.g. those patients with an uncontrolled seizure disorder, and/or patients who have had a focal or generalized seizure within the last 12 months)
+48.0
+Patients must not have active seizure or history of seizure
+143.0
+Active seizure disorder uncontrolled by medication
+348.0
+Patients with seizure disorder requiring medication
+84.0
+Patients with a seizure history will not be permitted on protocol; patients on anticonvulsant medications will not be permitted on study
+60.0
+Patients with active seizures or a history of uncontrolled seizure disorder, including focal or generalized seizure within the past year
+72.0
+Patients with seizure disorder may be enrolled if on non-enzyme inducing anticonvulsants and if seizures are well controlled
+253.0
+Patients who are currently receiving enzyme inducing anticonvulsants are not eligible
+253.0
+Patients must not have received enzyme-inducing anticonvulsants including phenytoin, phenobarbital, valproic acid, or carbamazepine for at least 7 days prior to study enrollment; patients receiving non-enzyme inducing anticonvulsants such as gabapentin or levetiracetam will be eligible
+74.0
+TUMOR BIOPSY SEQUENCING: Patients with history of central nervous system (CNS) metastases who have received treatment and who either have not had seizures or have been on stable doses of anti-seizure medicine and had no seizures for 4 weeks will be eligible; enzyme-inducing anticonvulsants are contraindicated
+700.0
+TREATMENT: Patients with a history of seizures are not eligible to receive veliparib, but patients with a history of CNS metastases who have received treatment and who either have not had seizures or have been on stable doses of anti-seizure medicine and had no seizures for >= 4 weeks will be eligible for other study agents; enzyme inducing anticonvulsants are contraindicated
+700.0
+TREATMENT: Patients with active brain metastases or carcinomatous meningitis are excluded from this clinical trial; patients who have a history of seizures are not eligible to receive veliparib, but patients who have either not had seizures or who have been on stable doses of anti-seizure medicine and had no seizures for 4 weeks will be eligible for other study agents; enzyme-inducing anticonvulsants are contraindicated
+700.0
+Patients with seizure disorder may be enrolled if on non-enzyme inducing anticonvulsants and well controlled
+77.0
+Patients must not currently be receiving enzyme inducing anticonvulsants
+77.0
+Patients with seizure disorder may be enrolled if on non-enzyme inducing anticonvulsants and well controlled
+154.0
+Patients must not have received enzyme inducing anticonvulsants for at least 14 days prior to enrollment
+154.0
+Patients with seizure disorder may be enrolled if on anticonvulsants and well controlled
+81.0
+Patients with seizure disorder may be enrolled if on anticonvulsants and if seizures are well controlled
+56.0
+Central nervous system function defined as:* Patients with seizure disorder may be enrolled if on anticonvulsants and well controlled* Patients must not be in status epilepticus, a coma or on assisted ventilation at the time of study enrollment
+45.0
+Patients with seizure disorder may be enrolled if on anticonvulsants and well controlled
+65.0
+Patients with a known seizure disorder who are receiving non-enzyme inducing anticonvulsants and have well-controlled seizures may be enrolled
+146.0
+Patients with seizure disorder may be enrolled if on non-enzyme inducing anticonvulsants and well controlled
+51.0
+Patients must not have received enzyme-inducing anticonvulsants for at least 7 days prior to enrollment
+51.0
+Patients with seizure disorder may be enrolled if on anticonvulsants and well controlled
+49.0
+Patients with seizure disorder may be enrolled if on anticonvulsants and well controlled
+144.0

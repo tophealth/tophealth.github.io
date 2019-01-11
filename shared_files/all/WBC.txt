@@ -1,0 +1,616 @@
+Absolute neutrophil count >= 1,500/mm^3
+130.0
+Absolute neutrophil count >= 1,500/mm^3
+110.0
+Absolute neutrophil count: >= 750/mm^3
+62.0
+Absolute neutrophil count < 1.5 x 10^9/L
+45.0
+Absolute neutrophil count >= 1.5 x 10^9/L
+72.0
+Absolute neutrophil count >= 1,500/mm^3
+52.0
+Absolute neutrophil count >= 1 x 10^9/L
+68.0
+Neutrophil count >= 1.5 x 10^9/L
+250.0
+Absolute neutrophil count: >= 750/mm^3 within 90 days before enrollment
+5058.0
+Absolute neutrophil count >= 1,000/mm^3
+40.0
+Absolute neutrophil count: >= 1,500/mm^3
+56.0
+Absolute neutrophil count >= 1,500/mm^3
+126.0
+Absolute neutrophil count >= 1,500/microliters
+37.0
+Absolute neutrophil count >= 1,500/mm^3 within 4 weeks prior to randomization
+345.0
+Absolute neutrophil count >= 1,500/mm^3
+36.0
+Absolute neutrophil count >= 1,500/mm^3
+24.0
+Absolute neutrophil count >= 1.0 x 10^9/L
+25.0
+Absolute neutrophil count >= 1500 cells/mm^3
+612.0
+Absolute neutrophil count < 1.5 x 10^9/L
+98.0
+Absolute neutrophil count >= 1500/mcL
+102.0
+Absolute neutrophil count >= 1,500/mcL
+276.0
+Absolute neutrophil count >= 1,000/mcL assessed within seven (7) days prior to the start of therapy
+30.0
+Absolute neutrophil count >= 1,500/mcl
+162.0
+REGISTRATION #2 - PRIOR TO CONSOLIDATION CHEMOTHERAPY: Absolute neutrophil count >= 1,500 mcl
+162.0
+Absolute neutrophil count >= 1,500/mcL
+40.0
+Absolute neutrophil count >= 1,500/mcL
+107.0
+Obtained within 30 days of registration: Absolute neutrophil count >= 1,500/mcL
+24.0
+Absolute neutrophil count >= 1,500/mcL
+55.0
+Absolute neutrophil count >= 1,500/mcL
+165.0
+Absolute neutrophil count >= 1,500/mcL
+42.0
+Absolute neutrophil count >= 1,500/mcL
+36.0
+Absolute neutrophil count >= 1,500/mcL
+140.0
+Absolute neutrophil count >= 1,500/mcL
+68.0
+Absolute neutrophil count >= 1,500/mcL
+42.0
+Absolute neutrophil count >= 1,500/mcL
+73.0
+Absolute neutrophil count >= 1,500/mcL
+80.0
+Absolute neutrophil count >= 1,500/mcL
+70.0
+Absolute neutrophil count >= 1,500/mcL
+72.0
+TUMOR BIOPSY SEQUENCING: Absolute neutrophil count >= 1,000/uL (mcL)
+700.0
+TREATMENT: Absolute neutrophil count >= 1,000/uL (mcL)
+700.0
+Absolute lymphocytes count >= 500/mcL
+12.0
+Absolute neutrophil count >= 1,000/mcL (without hematopoietic growth factors)
+12.0
+Absolute neutrophil count >= 1,500/mcL
+54.0
+Absolute neutrophil count >= 1,200/mcL
+32.0
+Absolute neutrophil count >= 1,500/mcL
+100.0
+Absolute neutrophil count >= 1,500/mcL
+24.0
+Absolute neutrophil count >= 1,500/mcL
+600.0
+Absolute neutrophil count >= 1,500/mcL
+35.0
+Absolute neutrophil count >= 1,500/mcL
+40.0
+Absolute neutrophil count >= 1,500/mcL (patients may be treated with hematopoietic growth factors to achieve or maintain this level)
+44.0
+Absolute neutrophil count >= 1,500/mcL
+57.0
+Absolute neutrophil count >= 750 cells/mcL (0.75 x 10^9/L)
+52.0
+Absolute neutrophil count >= 1,500/mcL
+90.0
+Lymphocyte count > 1,000/mcL
+90.0
+Absolute neutrophil count >= 1,500/mcL
+36.0
+Absolute neutrophil count >= 1,500/mcL
+23.0
+Absolute neutrophil count >= 1,000/mcL
+80.0
+Absolute neutrophil count >= 1,200/mcL
+135.0
+Absolute neutrophil count >= 1,500/mcL
+37.0
+Absolute neutrophil count >= 1,500/mcL
+66.0
+Absolute neutrophil count >= 1,500/mcL
+12.0
+Absolute neutrophil count >= 1,500/mcL** Participants may be receiving growth factor support to meet these criteria
+42.0
+Absolute neutrophil count >= 1,500/mcL
+209.0
+Absolute neutrophil count >= 1,500/mcL
+30.0
+Absolute neutrophil count >= 1,500/mcL
+75.0
+Absolute neutrophil count >= 1,500/mcL
+50.0
+Absolute neutrophil count >= 1,500/mcL
+30.0
+Absolute neutrophil count >= 1,500/mcL
+549.0
+Absolute neutrophil count >= 1,500/mcL
+680.0
+Absolute neutrophil count >= 1,500/mcL
+46.0
+Absolute neutrophil count >= 1,500/mcL
+45.0
+Absolute neutrophil count >= 1,500/mcL
+82.0
+Absolute neutrophil count >= 1,500/mcL
+126.0
+Absolute neutrophil count >= 1,500/mcL
+50.0
+Absolute neutrophil count >= 1,500/mcL
+46.0
+Absolute neutrophil count >= 1,500/mcL
+15.0
+Absolute neutrophil count >= 1,500/mcL
+46.0
+Absolute neutrophil count > 1000/mcL
+36.0
+Absolute neutrophil count >= 1,500/mcL
+90.0
+Absolute neutrophil count >= 1,500/mcL
+45.0
+Absolute neutrophil count >= 1,000/mcL
+50.0
+Absolute neutrophil count > 500/mcL
+60.0
+Within 2 weeks prior to initiation of study treatment: Absolute neutrophil count >= 1,500/mcL
+70.0
+Absolute neutrophil count >= 1,500/mcL
+51.0
+Absolute neutrophil count >= 1,500/mcL without the use of hematopoietic growth factors
+48.0
+Absolute neutrophil count >= 1,500/mcL
+20.0
+Absolute neutrophil count >= 1,500/mcL
+60.0
+Absolute neutrophil count >= 1,500/mcL
+38.0
+Absolute neutrophil count >= 1,500/mcL
+70.0
+Absolute neutrophil count >= 1,000/mcL
+24.0
+Absolute neutrophil count >= 1,500/mcL
+35.0
+Absolute neutrophil count >= 1,500/mcL
+24.0
+Absolute neutrophil count >= 1,000/mcL
+28.0
+Absolute neutrophil count >= 1,500/mcL
+72.0
+Absolute neutrophil count >= 1,000/mcL
+40.0
+Absolute neutrophil count >= 1,500/mcL
+60.0
+Absolute neutrophil count >= 1,500/mcL
+180.0
+Within 28 days prior to administration of study treatment: Absolute neutrophil count >= 1,500/mcL
+90.0
+Within 28 days prior to administration of therapy: Absolute neutrophil count >= 1,500/mcL
+132.0
+Absolute neutrophil count >= 1,500/mcL
+40.0
+Absolute neutrophil count >= 1,500/mcL
+22.0
+Absolute neutrophil count >= 1,500/mcL
+70.0
+Absolute neutrophil count >= 1,000/mcL
+47.0
+Absolute neutrophil count >= 1,500/mcL
+35.0
+Absolute neutrophil count >= 1,500/mcL
+78.0
+Leukocytes >= 3,000/mcL
+40.0
+Obtained within 30 days of registration: Leukocytes >= 3,000/mcL
+24.0
+Leukocytes >= 3,000/mm^3
+110.0
+Leukocytes >= 3,000/mcL
+55.0
+Leukocytes >= 3,000/mcL
+42.0
+Leukocytes >= 3,000/mcL
+80.0
+Leukocytes >= 3,000/mcL
+70.0
+Leukocytes >= 3,000/mcL
+72.0
+Leukocytes >= 3,000/mcL
+12.0
+Leukocytes >= 3,000/mcL
+68.0
+Leukocytes >= 3,000/mcL
+130.0
+Leukocytes >= 3,000/mcL
+32.0
+Leukocytes >= 3,000/mcL
+100.0
+Leukocytes >= 3,000/mcL
+44.0
+Leukocytes >= 3,000/mcL
+57.0
+Leukocytes >= 2,000/mcL
+36.0
+Leukocytes: >= 3,000/mm^3
+56.0
+Leukocytes >= 1,500/mcL
+80.0
+Leukocytes >= 3,000/mcL
+135.0
+Leukocytes >= 3,000/mcL
+12.0
+Leukocytes >= 3,000/mcL
+209.0
+Leukocytes >= 3,000/uL
+35.0
+Leukocytes >= 3,000/mcL
+30.0
+Leukocytes >= 3,000/mcL
+30.0
+Leukocytes >= 3,000/mm^3
+126.0
+Leukocytes >= 3,000/mcL
+45.0
+Leukocytes >= 2,000/uL
+33.0
+Leukocytes >= 3,000/mcL
+126.0
+Leukocytes >= 3,000/mcL
+50.0
+Leukocytes >= 3,000/mcL
+46.0
+Leukocytes >= 3,000/mcL
+15.0
+Leukocytes >= 3,000/mcL
+46.0
+Leukocytes >= 3,000/mcL
+90.0
+Leukocytes >= 3,000/mcL
+45.0
+Leukocytes >= 3,000/mcL
+46.0
+Leukocytes no lower limit
+60.0
+Within 2 weeks prior to initiation of study treatment: Leukocytes >= 3,000/mcL
+70.0
+Leukocytes >= 2,500/mcL
+29.0
+Leukocytes >= 3,000/mcL
+51.0
+Leukocytes >= 3,000/mcL
+150.0
+Leukocytes >= 3,000/mcL
+48.0
+Leukocytes >= 3,000/mcL
+20.0
+Leukocytes >= 3,000/mm^3
+36.0
+Leukocytes >= 3,000/mcL
+38.0
+Leukocytes >= 2,500/mcL
+35.0
+Leukocytes >= 3,000/mcL
+72.0
+Leukocytes >= 2,500/mcL
+60.0
+Within less than or equal to 14 days prior to registration: Leukocytes >= 3,000/mm^3
+40.0
+Leukocytes >= 3,000/mcL
+40.0
+Leukocytes >= 3,000/mcL
+70.0
+Leukocytes >= 3,000/mcL
+47.0
+Leukocytes >= 2,500/mcL
+78.0
+Granulocytes >= 1,500/ul
+729.0
+Absolute granulocytes >= 1500 cells/uL (1.5 x 10^9 L)
+90.0
+Granulocytes >= 1,500/ul
+450.0
+Granulocytes (ANC) >= 1,500/mcl
+50.0
+Peripheral absolute neutrophil count (ANC) >= 1000/mm^3
+77.0
+Peripheral absolute neutrophil count (ANC) >= 750/mm^3
+484.0
+* Peripheral absolute neutrophil count (ANC) >= 1000/mm^3
+81.0
+Peripheral absolute neutrophil count (ANC) >= 1000/mm^3
+67.0
+Peripheral absolute neutrophil count (ANC) >= 1000/mm^3
+36.0
+Absolute neutrophil count (ANC) >= 1,000/uL
+400.0
+Absolute neutrophil count (ANC) > 750/uL
+253.0
+Absolute neutrophil count (ANC) >= 1000/uL
+100.0
+Absolute neutrophil count (ANC) >= 1,500/uL
+74.0
+Absolute neutrophil count (ANC) >= 1.5 x 10^9/L
+132.0
+Peripheral absolute neutrophil count (ANC) >= 1,000/uL
+275.0
+Peripheral absolute neutrophil count (ANC) >= 750/uL
+74.0
+Absolute neutrophil count >= 1,000/uL (unsupported), within 14 days of registration and within 7 days of the start of treatment
+180.0
+Absolute neutrophil count (ANC) >= 1000/uL
+70.0
+Absolute neutrophil count (ANC) >= 1500/uL
+80.0
+Absolute neutrophil count (ANC) >= 1,200/ul
+97.0
+Absolute neutrophil count (ANC) >= 1.5 x 10^9/L
+30.0
+Absolute neutrophil count >= 1,500/uL
+72.0
+Absolute neutrophil count >= 1500/ul
+104.0
+Absolute neutrophil count (ANC) >= 1000/ul (unsupported)
+52.0
+Absolute neutrophil count (ANC) >= 1.0 x 10^9/L
+97.0
+Absolute neutrophil count (ANC) >= 1.2 x 10^9/L
+40.0
+Absolute neutrophil count (ANC) >= 1.2 x 10^9/L, within 2 weeks of the first dose of study treatment
+18.0
+Absolute neutrophil count (ANC) >= 1500/uL
+92.0
+Absolute neutrophil count (ANC) >= 1.2 x 10^9/L
+68.0
+Absolute neutrophil count (ANC) >= 1000/uL
+28.0
+Absolute neutrophil count (ANC) >= 1.5 x 10^9/L
+35.0
+Absolute neutrophil count >= 1,500/uL
+23.0
+Absolute neutrophil count >= 1500/uL; Note: no transfusions are permitted 7 days prior to laboratory studies to determine eligibility
+340.0
+Absolute neutrophil count (ANC) >= 1,200/ul
+280.0
+Absolute neutrophil count (ANC) >= 1,500/uL, obtained within 4 weeks prior to randomization
+300.0
+Absolute neutrophil count (ANC) >= 1.2 x 10^9/L
+18.0
+Absolute neutrophil count (ANC) >= 1,500/ul
+96.0
+Absolute neutrophil count (ANC) >= 1,500/uL
+400.0
+Absolute neutrophil count >= 1,500/uL
+58.0
+Absolute neutrophil count >= 1000 cells/uL
+110.0
+INCLUSION CRITERIA FOR STRATUM C: Absolute neutrophil count >= 1000 cells/uL
+110.0
+Absolute neutrophil count >= 1,500/uL
+35.0
+Absolute neutrophil count (ANC) >= 1,500
+23.0
+Absolute neutrophil count > 1,500/uL
+188.0
+Absolute neutrophil count >= 1,500/uL
+33.0
+Absolute neutrophil count (ANC) >= 1.5 x 10^9/L
+36.0
+Peripheral absolute neutrophil count (ANC) >= 750/uL
+337.0
+Absolute neutrophil count (ANC) > 1,500/uL
+32.0
+Absolute neutrophil count (ANC) >= 1.5 x 10^9/L
+64.0
+Peripheral absolute neutrophil count (ANC) >= 1000/uL
+45.0
+Absolute neutrophil count (ANC) >= 1500/uL
+40.0
+Absolute lymphocyte count (ALC) >= 800/uL
+40.0
+Absolute neutrophil count (ANC) >= 1.2 x 10^9/L
+68.0
+Absolute neutrophil count (ANC) >= 1.5 x 10^9 /L
+21.0
+Absolute neutrophil count >= 1,500/uL
+30.0
+Absolute neutrophil count (ANC) >= 1,500/mcL
+36.0
+Absolute neutrophil count (ANC) >= 1,500/mcl
+360.0
+Absolute neutrophil count (ANC) >= 1,000 cells/mcL within 42 days prior to registration
+155.0
+Absolute neutrophil count (ANC) >= 1,500/mcl
+52.0
+Absolute neutrophil count (ANC) >= 1,500/mL within 28 days prior to registration
+1900.0
+Absolute neutrophil count (ANC) >= 1500/mcL (1.5 x 10^9/L) obtained within 2 weeks prior to registration
+189.0
+RE-REGISTRATION ELIGIBILITY CRITERIA (STEP 2): Absolute neutrophil count (ANC) >= 1.0 x 10^9/L
+97.0
+Absolute neutrophil count (ANC) greater than or equal to 1,500/mcl
+540.0
+Absolute neutrophil count (ANC) >= 1,200/mcL (subjects may be treated with hematopoietic growth factors to achieve or maintain this level)
+130.0
+Absolute neutrophil count (ANC) >= 1,500/mcl obtained within 28 days prior to sub-study registration
+10000.0
+Absolute neutrophil count (ANC) >= 1.5 x 10^9/L measured within 28 days prior to randomization
+1500.0
+Absolute neutrophil count (ANC) >= 1,500/mcL
+230.0
+Absolute neutrophil count (ANC) >= 750/mcl within 28 days prior to registration
+44.0
+Obtained within 28 days prior to registration: Absolute neutrophil count (ANC) >= 1,500/mcL
+223.0
+Absolute neutrophil count (ANC) >= 1,500/mcL
+150.0
+Absolute neutrophil count (ANC) >= 1,000/mcL; must be obtained within 28 days prior to registration
+180.0
+Absolute neutrophil count (ANC) >= 1,500/mcL
+46.0
+Absolute neutrophil count (ANC) of >= 1,500/mL within 21 days prior to registration
+333.0
+Absolute neutrophil count (ANC) >= 1,500/mcL
+150.0
+Within 14 days prior to registration: Absolute neutrophil count (ANC) >= 1,500/mcL
+143.0
+CLINICAL/LABORATORY CRITERIA: Absolute neutrophil count (ANC) >= 1500/mcL; these results must be obtained within 28 days prior to registration
+53.0
+Absolute neutrophil count (ANC) greater than or equal to 1,500/mcl, within 14 days prior to registration; this ANC cannot have been induced by granulocyte colony stimulating factors
+147.0
+Absolute neutrophil count (ANC) >= 1,500/mcl
+84.0
+Obtained within 28 days prior to registration: Absolute neutrophil count (ANC) >= 1,500/mcl
+77.0
+Absolute neutrophil count (ANC) >= 1.5 x 10^9/L within 14 days prior to registration.
+186.0
+Within 28 days prior to registration: ANC >= 1,000/mcL
+707.0
+Within 14 days prior to registration: Absolute neutrophil count (ANC) >= 1,500/mcl
+488.0
+Absolute neutrophil count (ANC) >= 1,500 microliter (mcL)
+148.0
+Within less than or equal to 14 days prior to registration: Absolute neutrophil count (ANC) >= 1.5 x 10^9/L
+40.0
+Absolute neutrophil count (ANC) >= 1,500 microliter (mcL), obtained within 28 days prior to step 2 registration
+1000.0
+Absolute neutrophil count (ANC) >= 1,500/mcL within 28 days prior to registration
+64.0
+Absolute neutrophil count (ANC) >= 1,500/mcL within 28 days prior to registration
+150.0
+Absolute neutrophil count (ANC) >= 1,500/mcL within 28 days prior to registration
+94.0
+Absolute neutrophil count (ANC) >= 1 x 10^9/L within 30 days of day 1 of study
+27.0
+White blood cell count >= 4000 cells/mm^3
+285.0
+White blood cell count (WBC) >= 4,000/ml
+37.0
+B-ALL patients must have an initial white blood cell count < 50,000/uL
+9483.0
+White blood cell (WBC) > 3.0
+224.0
+White blood cells (WBC) >= 3,000 cells/uL (3.0 x 10^9 L) or
+90.0
+Total white blood cells (WBC) >= 4.0 x 10^3/mcL within 28 days prior to registration
+491.0
+White blood cells (WBC) >= 3500/uL
+92.0
+White blood count >= 3,000/uL, obtained within 4 weeks prior to randomization
+300.0
+White blood count >= 3,000/uL
+400.0
+Patients with white blood cell (WBC) > 30,000 are not eligible to start therapy; however, it is permissible to use glucocorticoids and/or hydroxyurea to diminish peripheral WBC to less than 30,000 provided these agents are stopped at least 24 hours prior to the first dose of MLN0128 (TAK-228)
+35.0
+Total absolute phagocyte count (APC = [%neutrophils + %monocytes) x white blood cells [WBC]) is at least 1000/uL
+44.0
+White blood cell count (WBC) >= 2,000/mcL; must be obtained within 28 days prior to registration
+180.0
+White blood cell (WBC) >= 2000/uL
+714.0
+White blood cells >= 2000/uL, within 4 weeks of randomization
+766.0
+Within 28 days prior to administration of study treatment: White blood count (WBC) > 3 x 10^9/L
+90.0
+White blood cell count (WBC) >= 3 x 10^9/L
+132.0
+Absolute neutrophil count (ANC) >= 1,500/mm^3 obtained =< 21 days prior to registration
+360.0
+Absolute neutrophil count (ANC) >= 1,800 cells/mm^3
+285.0
+Absolute neutrophil count (ANC) >= 1,800 cells/mm^3
+37.0
+Absolute neutrophil count (ANC) >= 1,500/mm^3
+545.0
+Within 60 days prior to registration on study: Absolute neutrophil count (ANC) >= 1,500/mm^3
+2580.0
+Absolute neutrophil count (ANC) >= 1200/mm^3
+48.0
+Absolute neutrophil count (ANC) >= 1,500/mm^3
+1120.0
+Absolute neutrophil count (ANC) >= 1,200 cells/mm^3, within 21 days prior to study entry
+143.0
+Within 14 days prior to registration: Absolute neutrophil count (ANC) >= 1,000 cells/mm^3 without growth factor support
+130.0
+Absolute neutrophil count (ANC) >= 1,500 cells/mm^3; obtained within 14 days prior to study entry
+368.0
+STEP I: Absolute neutrophil count >= 1000 cells/mm^3 (obtained within 28 days prior to randomization)
+1080.0
+Obtained =< 7 days prior to registration: Absolute neutrophil count (ANC) >= 1500/mm^3
+102.0
+Absolute neutrophil count (ANC) >= 1,800 cells/mm^3
+252.0
+Absolute neutrophil count (ANC) >= 1,000 cells/mm^3
+234.0
+Absolute neutrophil count (ANC) > 1,000/mm^3
+2060.0
+Absolute neutrophil count (ANC) >= 1,500 cells/mm^3 obtained within 30 days prior to registration
+330.0
+Absolute neutrophil count (ANC) > 750 cells/mm^3 within 90 days prior to randomization
+150.0
+Absolute neutrophil count (ANC) >= 1500 cells/mm^3 within 14 days prior to study registration
+440.0
+Absolute neutrophil count (ANC) >= 1,500/mm^3
+34.0
+Absolute neutrophil count (ANC) >= 1,500 cells/mm^3, within 21 days prior to registration
+924.0
+Absolute neutrophil count (ANC) >= 1,500/mm^3
+20.0
+Absolute neutrophil count (ANC) >= 500 cells/mm^3
+84.0
+Absolute neutrophil count (ANC) >= 1,500 cells/m^3
+182.0
+Absolute neutrophil count (ANC) >= 1,000/mm^3
+30.0
+Absolute neutrophil count (ANC) >= 1,500 cells/mm^3
+606.0
+Absolute neutrophil count (ANC) >= 1500/mm^3
+NONE
+Absolute neutrophil count (ANC) >= 1,500/mm^3
+420.0
+Absolute neutrophil count (ANC) >= 500 cells/mm^3
+360.0
+Absolute neutrophil count (ANC) > 1500 mm^3, must be obtained within 8 weeks prior to screening for protocol therapy
+562.0
+ELIGIBILITY CRITERIA FOR RANDOMIZATION (STEP 1): Absolute neutrophil count (ANC) > 1500 mm^3
+562.0
+Absolute neutrophil count (ANC) >= 1500/mm^3
+60.0
+Within 6 weeks prior to randomization: Absolute neutrophil count (ANC) must be >= 1200/mm^3
+990.0
+Absolute neutrophil count (ANC) >= 1,500/mm^3
+195.0
+Re-registration: ANC >= 1,500/mm^3
+195.0
+Within 14 days of registration: Absolute neutrophil count (ANC) >= 1,500/mm^3
+110.0
+Absolute neutrophil count (ANC) >= 1,500/mm^3
+69.0
+Absolute neutrophil count (ANC) >= 1,500/mm^3
+130.0
+Absolute neutrophil count (ANC) >= 1,500/mm^3
+45.0
+Absolute neutrophil count (ANC) >= 1,500/mm^3
+137.0
+Absolute neutrophil count (ANC) must be >= 1200/mm^3 within 28 days before randomization
+348.0
+Absolute neutrophil count (ANC) >= 1,500/mm^3
+124.0
+Absolute neutrophil count (ANC): >= 1,500 /mm^3
+56.0
+Absolute neutrophil count (ANC) >= 1500 mm^3
+700.0
+Absolute neutrophil count (ANC) >= 750/mm^3
+324.0
+Absolute neutrophil count (ANC) >= 1,000 cells/mm^3
+186.0
+Absolute neutrophil count (ANC) >= 1,500 cells/mm^3
+120.0

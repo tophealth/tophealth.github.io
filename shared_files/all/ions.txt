@@ -1,0 +1,36 @@
+Serum phosphorus calcium, magnesium and potassium >= lower limit of normal (LLN)
+55.0
+Serum calcium and magnesium above the institutional lower limit of normal, within 14 days of registration and within 7 days of the start of treatment
+180.0
+Serum phosphorus >= lower limit of normal (LLN)
+42.0
+Calcium >= LLN
+42.0
+Magnesium >= LLN
+42.0
+Potassium >= LLN
+42.0
+Serum phosphorus, calcium, magnesium and potassium >= lower limit of normal (LLN)
+72.0
+Serum phosphorus >= lower limit of normal (LLN)
+90.0
+Serum calcium >= LLN
+90.0
+Serum magnesium >= LLN
+90.0
+Serum potassium >= LLN
+90.0
+Serum phosphorus >= lower limit of normal (LLN) (if below LLN, for asymptomatic patients replacement may be initiated if clinically indicated without delaying the start of study treatment)
+135.0
+Serum calcium >= LLN (if below LLN, for asymptomatic patients replacement may be initiated if clinically indicated without delaying the start of study treatment)
+135.0
+Serum magnesium >= LLN (if below LLN, for asymptomatic patients replacement may be initiated if clinically indicated without delaying the start of study treatment)
+135.0
+Serum potassium >= LLN (if below LLN, for asymptomatic patients replacement may be initiated if clinically indicated without delaying the start of study treatment)
+135.0
+RECURRENT/ PROGRESSIVE DIPG (STRATUM 1): Potassium >= lower limit of normal (LLN)
+50.0
+RECURRENT/ PROGRESSIVE DIPG (STRATUM 1): Serum total calcium (correct for serum albumin) or ionized calcium >= LLN
+50.0
+NON-PROGRESSED DIPG (STRATUM 2): Serum total calcium (correct for serum albumin) or ionized calcium >= LLN
+50.0

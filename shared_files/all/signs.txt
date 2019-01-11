@@ -1,0 +1,18 @@
+Patients must not have a systemic bacterial, fungal, or viral infection that is not controlled (defined as exhibiting ongoing signs/symptoms related to the infection and without improvement despite appropriate antibiotics or other treatment)
+38.0
+Patients must not have systemic fungal, bacterial, viral or other infection that is not controlled (defined as exhibiting ongoing signs/symptoms related to the infection and without improvement, despite appropriate antibiotics or other treatment)
+44.0
+Signs or symptoms of infection within 2 weeks prior to cycle 1, day 1
+35.0
+Signs or symptoms of infection within 2 weeks prior to cycle 1, day 1
+488.0
+Signs or symptoms of infection within 2 weeks prior to cycle 1, day 1
+40.0
+Signs or symptoms of infection within 2 weeks prior to cycle 1, day 1
+60.0
+Signs or symptoms of infection within 2 weeks prior to cycle 1, day 1
+22.0
+Patients must not have clinical signs or symptoms of active tuberculosis infection
+132.0
+Signs or symptoms of infection within 2 weeks prior to cycle 1, day 1
+78.0

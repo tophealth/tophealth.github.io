@@ -1,0 +1,162 @@
+Patients should avoid concomitant medication known or suspected to prolong QTc interval or cause Torsades De Pointes; if possible, alternative agents should be considered; patients who are receiving drugs that prolong the QTc are eligible if the drug is necessary and no alternatives are available
+77.0
+Correct QT interval (QTc) =< 480 msec; Note: Patients should avoid concomitant medication known or suspected to prolong QTc interval or cause torsades de pointes; if possible, alternative agents should be considered; patients who are receiving drugs that prolong the QTc are eligible if the drug is necessary and no alternatives are available
+154.0
+Corrected QT (QTc) =< 480 msec* Note: Patients should avoid concomitant medication known or suspected to prolong QTc interval or cause Torsades De Pointes; If possible, alternative agents should be considered* Patients who are receiving drugs that prolong the QTc are eligible if the drug is necessary and no alternatives are available
+65.0
+Patients who are receiving drugs that prolong QTc are not eligible
+146.0
+Corrected QT (QTc) interval =< 480 milliseconds; Note: Patients should avoid concomitant medication known or suspected to prolong QTc interval or cause Torsades De Pointes; if possible, alternative agents should be considered; patients who are receiving drugs that prolong the QTc are eligible if the drug is necessary and no alternatives are available
+49.0
+Corrected QT interval (QTc) > 475 milliseconds
+40.0
+Concurrent medications associated with a known risk of corrected QT interval (QTc) prolongation and/or Torsades de Pointes are not allowed within 2 weeks of initiation of study treatment; those medications listed as a possible risk for causing QTc prolongation and Torsades de Pointes will be allowed, although if an alternative medication can be substituted, that would be preferable; granisetron is an acceptable antiemetic on this study, but if a patient must take ondansetron, they may NOT take any other concomitant agents which might impact their QTc
+132.0
+Patients with current evidence of significant cardiovascular disease (New York Heart Association class III or IV cardiac disease), symptomatic congestive heart failure, dilated/hypertrophic or restrictive cardiomyopathy, myocardial infarction (within the past 6 months), unstable angina, unstable arrhythmia or a need for anti-arrhythmic therapy (use of medications for rate control for atrial fibrillation is allowed such as calcium channel blockers and beta-blockers, if stable medication for at least last month prior to initiation of romidepsin treatment and medication not listed as causing Torsades de Pointes), or evidence of acute ischemia on electrocardiogram (ECG); marked baseline prolongation of QT/QTc interval, e.g., repeated demonstration of a QTc interval > 450 msec*; long QT syndrome; the required use of concomitant medication that may cause Torsades de Pointes or may cause a significant prolongation of the QTc* Note: due to difficulties assessing QTc in patients with heart block, they may be eligible if deemed safe by a cardiologist; if a patient must take ondansetron as their antiemetic, their QTc may NOT be over 450 (no exception for patients with heart block)
+132.0
+Patients with significant cardiovascular disease (New York Heart Association class III or IV cardiac disease), symptomatic congestive heart failure, myocardial infarction within the past 6 months, unstable angina, unstable arrhythmia or a need for anti-arrhythmic therapy (use of frequency adjusting medication for atrial fibrillation is allowed, if stable medication for at least last month prior to initiation of belinostat treatment and medication not listed as causing Torsades de Pointes), or evidence of acute ischemia on electrocardiogram (ECG); marked baseline prolongation of QT/corrected QT (QTc) interval, e.g., repeated demonstration of a QTc interval > 450 msec; long QT syndrome; concomitant use of drugs known to prolong the QT interval and/or cause Torsades de Pointes is not allowed during the study or within 2 weeks of study entry; these drugs should also be avoided for up to 4 weeks following discontinuation of study treatment; drugs that may be associated with Torsades de Pointes but lack substantial evidence will be allowed at the discretion of the PI (although it is preferable to substitute an alternate medication), and patients will be closely monitored
+80.0
+History of familial long QT syndrome, or use of medications that may cause QTc interval prolongation
+70.0
+Patients with baseline prolongation of the rate-corrected QT interval (QTc) (e.g., repeated demonstration of QTc interval > 480 milliseconds, or history of congenital long QT syndrome, or torsades de pointes) are ineligible
+40.0
+Baseline prolongation of the rate-corrected QT interval (QTc) (e.g. repeated demonstration of QTc interval > 480 milliseconds, or history of congenital long QT syndrome, or torsades de pointes)
+57.0
+Patients with baseline prolongation of the rate-corrected QT interval (QTc) (e.g., repeated demonstration of QTc interval > 480 milliseconds, or history of congenital long QT syndrome, or torsades de pointes)
+209.0
+Baseline prolongation of the rate-corrected QT interval (QTc) > 480 milliseconds, or history of congenital long QT syndrome, or torsades de pointes
+30.0
+Corrected QT interval (QTc) of < 480 milliseconds
+33.0
+Baseline prolongation of the rate-corrected QT interval (QTc) > 480 milliseconds or history of congenital long QT syndrome or Torsades de pointes
+35.0
+Baseline electrocardiogram (EKG) shows normal corrected QT interval (QTc) interval of =< 470 milliseconds (ms)
+44.0
+Known history of QT/corrected QT (QTc) prolongation or torsades de pointes (TdP); patients who are currently receiving treatment with medication with a known risk to prolong the QT interval or inducing torsades de pointes and the treatment cannot either be discontinued or switched to a different medication prior to starting study drugs
+40.0
+Corrected QT (QTc) interval =< 480 milliseconds
+49.0
+Corrected QT (QTc) interval =< 480 milliseconds
+144.0
+Patients with other factors that increase the risk of QT prolongation or arrhythmic events (e.g., heart failure, hypokalemia, family history of long QT interval syndrome) that meets New York Heart Association (NYHA) class II or above
+180.0
+No known history of prolonged QT syndrome
+34.0
+Resting electrocardiogram (ECG) with corrected QT (QTc) > 470 msec detected on 2 or more time points within a 24 hour period or family history of long QT syndrome; if ECG demonstrates QTc > 470 msec, patient will be eligible only if repeat ECG demonstrates QTc =< 470 msec
+1500.0
+Congenital long QT syndrome
+23.0
+Congenital long QT syndrome or family history of long QT syndrome
+82.0
+Any of the following cardiac criteria:* Mean resting corrected QT interval (QTc using Frederica�s formula [QTcF]) > 470 msec* Any clinically important abnormalities in rhythm, conduction or morphology of resting electrocardiogram (ECG) (e.g., complete left bundle branch block, third degree heart block, second degree heart block)* Congenital long QT syndrome or family history of long QT syndrome
+50.0
+Resting electrocardiogram (ECG) with corrected QT (QTc) > 470 msec on 2 or more time points within a 24 hour period or family history of long QT syndrome
+72.0
+No history of congenital prolonged corrected QT (QTc) syndrome, New York Heart Association (NYHA) class III or IV congestive heart failure (CHF)
+146.0
+Resting ECG with corrected QT (QTc) > 470 msec on two or more time points within a 24 hour period, noted within 14 days of treatment, or family history of long QT syndrome
+90.0
+Patients with congenital long QT syndrome, history of ventricular arrhythmias or heart block
+700.0
+Any of the following cardiac criteria:* Mean resting corrected QT interval (Fridericia's correction formula [QTcF]) > 470 ms ms obtained from 3 electrocardiograms (ECGs), using the screening clinic ECG machine derived corrected QT (QTc) value* Any clinically important abnormalities in rhythm, conduction or morphology of resting ECG (e.g., complete left bundle branch block, third degree heart block, second degree heart block)* Any factors that increase the risk of QTc prolongation or risk of arrhythmic events such as heart failure, hypokalemia, congenital long QT syndrome, family history of long QT syndrome or unexplained sudden death under 40 years of age in first degree relatives or any concomitant medication known to prolong the QT interval
+98.0
+Participants may not have corrected QT (QTc) > 470 msec or family history of long QT syndrome
+70.0
+Diagnosis of narcolepsy, sick sinus syndrome, arrhythmia, or prolonged corrected QT interval (QTc)
+143.0
+Corrected QT (QTc) interval > 500 msec on baseline electrocardiogram (EKG)
+48.0
+Documented history of prolonged QTc interval =< 6 months prior to registration
+48.0
+The subject has a corrected QT interval calculated by the Fridericia formula (QTcF) > 500 ms within 28 days before enrollment; note: if initial QTcF is found to be > 500 ms, two additional electrocardiograms (EKGs) separated by at least 3 minutes should be performed; if the average of these three consecutive results for QTcF is =< 500 ms, the subject meets eligibility in this regard
+55.0
+Corrected QT (QTc) interval =< 450 msecs
+180.0
+Required use of a concomitant medication that can prolong the QT interval
+180.0
+The participant has a corrected QT interval calculated by the Fridericia formula (QTcF) > 500 ms within 28 days before randomization; note: if initial QTcF is found to be > 500 ms, two additional electrocardiogram (ECGs) separated by at least 3 minutes should be performed; if the average of these three consecutive results for QTcF is =< 500 ms, the participant meets eligibility in this regard
+42.0
+The subject has a corrected QT interval calculated by the Fridericia formula (QTcF) > 500 ms =< 7 days before the first dose of study treatment
+72.0
+Patients must not have a corrected QT (QTc) interval >= 480 msecs within 28 days prior to registration
+97.0
+Patients must not have a history of clinically significant arrhythmia, prolonged corrected QT (QTc) interval, or unexplained syncope not thought to be vasovagal in nature within 6 months prior to registration
+38.0
+Patients must not have a screening corrected QT using Fridericia's formula (QTcF) interval > 500 milliseconds (by Fridericia calculation) based on the average of triplicate electrocardiogram (EKG) performed within 7 days prior to registration; note that triplicate EKG is required at other time points
+38.0
+Corrected QT interval (QTc) must be < 500 msec
+73.0
+Mean QTc > 500 msec (with Bazett�s correction) in screening electrocardiogram or history of familial long QT syndrome
+73.0
+Normal ejection fraction (echocardiogram [ECHO] or cardiac MRI) >= 53% (or the institutional normal; if a range is given then the upper value of the range will be used); corrected QT (QTC) or Fridericia's correction formula (QTcF) =< 450 msec
+104.0
+Corrected QT interval (QTc) < 480 msec (with Bazett�s correction) in screening electrocardiogram
+70.0
+Corrected QT interval (QTc) =< 480 msec
+77.0
+Patients must have a corrected QT (QTc) interval of less than 480 msec
+68.0
+Patients who require use of a concomitant medication that can prolong the QT interval
+250.0
+Patients with corrected QT (QTc) interval of > 450 msec or those on medications known to prolong QTc interval
+40.0
+Corrected QT interval using Fridericia's formula (QTcF) interval of > 450 msec at study entry; congenital long QT syndrome
+24.0
+Corrected QT (QTc) interval (Fridericia formula) > 450 msec for men or > 470 msec for women at study entry; history of congenital long QT syndrome
+35.0
+Corrected QT (QTc) interval > 480 msec on baseline electrocardiogram (EKG)
+44.0
+Documented history of prolonged QTc interval =< 6 months prior to registration
+44.0
+Patients must have QTcF (by Fridericia calculation) < 480/msec based on electrocardiogram (EKG) performed within 28 days prior to registration
+44.0
+QT interval corrected by Fridericia's formula (QTcF) > 450 msec on screening electrocardiogram (ECG)
+23.0
+Corrected QT interval (QTc) < 480 msec
+340.0
+Patients must have corrected QT (QTc) =< 480 msec by electrocardiogram (ECG) (corrected using the Bazett�s formula) within 28 days prior to registration
+280.0
+The subject has a corrected QT interval calculated by the Fridericia formula (QTcF) > 500 ms within 28 days before treatment; note: if initial QTcF is found to be > 500 ms, two additional electrocardiograms (EKGs) separated by at least 3 minutes should be performed; if the average of these three consecutive results for QTcF is =< 500 ms, the subject meets eligibility in this regard
+90.0
+Patients with a pre-existing diagnosis of a prolonged QT syndrome (even if corrected QT interval [QTc] is normal at the time of APL diagnosis) are excluded
+158.0
+Patients with a baseline QTc of > 450 msec are excluded; Bazett�s formula is to be used for measurement of the corrected QT interval: the QT interval (msec) divided by the square root of the RR interval (msec)
+158.0
+Patients must have an electrocardiogram (ECG) within 8 weeks prior to registration to screening step and must meet the following cardiac criteria:* Resting corrected QT interval (QTc) =< 480 msec** NOTE: If the first recorded QTc exceeds 480 msec, two additional, consecutive ECGs are required and must result in a mean resting QTc =< 480 msec; it is recommended that there are 10-minute (+/- 5 minutes) breaks between the ECGs* The following only need to be assessed if the mean QTc > 480 msec** Check potassium and magnesium serum levels** Correct any identified hypokalemia and/or hypomagnesemia and may repeat ECG to confirm exclusion of patient due to QTc** For patients with heart rate (HR) 60-100 beats per minute (bpm), no manual read of QTc is required** For patients with baseline HR < 60 or > 100 bpm, manual read of QT by trained personnel is required, with Fridericia correction applied to determine QTc** Patient must not have hypokalemia (value < institutional lower limit of normal)* No factors that increase the risk of QTc prolongation or risk of arrhythmic events such as heart failure, congenital long QT syndrome, family history of long QT syndrome or unexplained sudden death under 40 years of age or any concomitant medication known to prolong the QT interval** NOTE: Patient must be taken off prohibited medication prior to registration to the screening step (Step 0, 2, 4, 6) and remain off these medications thereafter, unless permitted on a subprotocol for the management of treatment related toxicity; patient must be off the drug for at least 5 half-lives prior to registration to the treatment step (Step 1, 3, 5, 7); the medication half-life can be found in the package insert for Food and Drug Administration (FDA) approved drugs
+6452.0
+Corrected QT (QTc) interval >= 450 ms (ie, grade 1 or higher) on electrocardiogram (ECG) prior to initiation of study treatment* If baseline QTc on screening ECG is >= 450 ms (ie, grade 1 or higher):** Check potassium and magnesium serum levels** Correct any identified hypokalemia and/or hypomagnesemia and repeat ECG to confirm QTc interval* For patients with baseline heart rate (HR) < 60 beats per minute (bpm) or > 100 bpm, manual measurement of QT interval by cardiologist is required, with Fridericia correction applied to that manual measurement to determine the QTc for eligibility consideration* Note: For patients with HR 60-100 bpm, manual measurement of QTc interval and use of Fridericia calculation is NOT required
+30.0
+Corrected QT interval (QTc) < 470 milliseconds (msec) on a 12-lead electrocardiogram (ECG) =< 28 days before registration
+110.0
+Patients with a known or screening-period-determined corrected QT (QTc) interval > 450 msec and patients who require a therapy with a drug known to prolong the QT/QTc interval, are ineligible
+75.0
+Fridericia's corrected QT interval (QTcF) =< 450 msec
+50.0
+Corrected QC interval calculated using Fridericia's formula (QTcF) =< 500 msec; ONLY APPLICABLE for patients with NF2 mutation (GSK2256098)
+69.0
+Mean resting corrected QT interval (QTc using Fridericia�s formula [QTcF]) > 470 msec
+82.0
+Consistent corrected QT (QTc) > 450 msec for men and > 470 msec for women by Fridericia formula, on 3 separate electrocardiograms (ECGs); patients with a history of long QTc syndrome or personal or family history of ventricular arrhythmias will be excluded
+37.0
+Fridericia's correction formula (QTcF) =< 470 msec
+36.0
+Mean resting corrected QT interval (QTc using Fridericia�s formula [QTcF]) > 470 msec
+46.0
+Consistent corrected QT (QTc) > 450 msec for men and > 470 msec for women by Fridericia formula, on 3 separate electrocardiograms (ECGs)
+50.0
+Corrected QT (using Bazett's formula [QTcB]) interval < 500 msecs
+56.0
+Patients with a known history of corrected QT (QTc) prolongation (> 480 msec), or known history of ventricular tachycardia, ventricular fibrillation or Torsades de pointes are not eligible
+36.0
+Known cardiac disorder, including:* Uncontrolled hypertension (blood pressure [BP] of >= 150/95 despite medical support/management)* Acute coronary syndrome within 6 months prior to starting treatment* Uncontrolled angina � Canadian Cardiovascular Society grade II-IV despite medical support/management* Heart failure New York Heart Association (NYHA) class II or above* Prior or current cardiomyopathy including but not limited to the following:** Known hypertrophic cardiomyopathy* Known arrhythmogenic right ventricular cardiomyopathy* Baseline left ventricular ejection fraction (LVEF) =< 55%* Previous moderate or severe impairment of left ventricular systolic function (LVEF < 45% on echocardiography or equivalent on multi-gated acquisition scan [MUGA])even if full recovery has occurred* Severe valvular heart disease* Atrial fibrillation with a ventricular rate > 100 beats per minute (bpm) on electrocardiography (ECG) at rest* Fridericia's correction formula (QTcF) interval > 450 msec or other factors that increase the risk of QT prolongation or arrhythmic events (e.g., heart failure, hypokalemia, family history of long QT interval syndrome) are excluded; the use of medication(s) that can prolong corrected QT (QTc) interval is prohibited while treated on this study
+24.0
+Patients with the following cardiac conditions are excluded:* Uncontrolled hypertension (adults: blood pressure [BP] of >= 150/95 despite medical support/management; participants 18 years of age and younger should have a blood pressure =< 95th percentile for age, height and gender; preexisting hypertension in adults should be controlled [either with pharmacological or non-pharmacological methods] at the time of enrollment)* Acute coronary syndrome within 6 months prior to starting treatment* Uncontrolled angina � Canadian Cardiovascular Society grade II-IV despite medical support/management* Heart failure New York Heart Association (NYHA) class II or above* Prior or current cardiomyopathy including but not limited to the following:** Known hypertrophic cardiomyopathy* Known arrhythmogenic right ventricular cardiomyopathy* Baseline left ventricular ejection fraction (LVEF) =< 55%* Previous moderate or severe impairment of left ventricular systolic function (LVEF < 50% on echocardiography or equivalent on Multi-Gated Acquisition Scan [MUGA]) even if full recovery has occurred* Severe valvular heart disease* Atrial fibrillation with a ventricular rate > 100 beats per minute (bpm) on electrocardiogram (ECG) at rest* QT interval corrected according to Fridericia�s formula (QTcF) interval > 450 msec or other factors that increase the risk of QT prolongation or arrhythmic events (e.g., heart failure, hypokalemia, family history of long QT interval syndrome) are excluded.; the use of medication(s) that can prolong QTc interval is prohibited while treated on this study
+28.0
+QTc =< 480 msec; Note: Patients with grade 1 prolonged QTc (450- 480 msec) at the time of study enrollment should have correctable causes of prolonged QTc addressed if possible (i.e., electrolytes, medications)
+146.0
+Mean QT interval corrected for heart rate (QTc) >= 470 ms calculated from electrocardiograms (ECGs) using Fridericia�s correction; abnormal ECGs should be repeated
+180.0
+Corrected QT using Fridericia's formula (QTcF) =< 450 ms
+40.0
+Corrected QT interval, QTc < 480 msec* Note: Repeat echocardiogram is not required if echocardiogram was obtained within 21 days of study enrollment
+700.0

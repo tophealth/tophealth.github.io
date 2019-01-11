@@ -1,0 +1,4 @@
+Patients may have received other prior activating immunotherapies (i.e. checkpoint inhibitors), but must not have received them within 6 months prior to registration, and there must be no serious unresolved complication of therapy at the time of registration; for the purposes of this study monoclonal antibodies and antibody drug conjugates are not considered to be activating immunotherapies and there are no additional time restrictions on prior exposure to these agents (except prior brentuximab vedotin)
+189.0
+RANDOMIZED PHASE II (ARMS K AND L): Patients may not have received other prior activating immunotherapies (i.e. checkpoint inhibitor therapies); for the purposes of this study monoclonal antibodies and antibody drug conjugates are not considered to be activating immunotherapies and there are no additional time restrictions on prior exposure to these agents (except prior brentuximab vedotin)
+189.0

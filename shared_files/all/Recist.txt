@@ -1,0 +1,202 @@
+Patient must have measurable disease per Response Evaluation Criteria in Solid Tumors (RECIST) guidelines
+36.0
+Patients must have newly diagnosed, stage IIA � IV disease and must be entered within eight weeks from surgery; they may have either measurable residual disease by Response Evaluation Criteria In Solid Tumors (RECIST) criteria, or they may have no measurable residual disease; OR, they must have biopsy-proven recurrent disease of any stage and have never received cytotoxic chemotherapy
+128.0
+Patients must have measurable disease as defined by Response Evaluation Criteria in Solid Tumors (RECIST) version 1.1
+40.0
+Patients must show evidence of objective disease progression per Response Evaluation Criteria in Solid Tumors (RECIST) 1 on scans within the 6 month period immediately preceding enrollment; both scans used to determine disease progression should have been obtained within this 6-month period
+70.0
+Part B: Patients must have either measurable disease or must be evaluable for MIBG response without evidence of Response Evaluation Criteria in Solid Tumors (RECIST) measurable lesions; patients with neuroblastoma in bone marrow only are not eligible
+154.0
+Progressive disease defined by RECIST criteria =< 14 months
+34.0
+Patients must have evaluable or measurable disease by Response Evaluation Criteria in Solid Tumors (RECIST) 1.1
+57.0
+Measurable or evaluable disease as assessed by Response Evaluation Criteria in Solid Tumors (RECIST) 1.1 for non-GBM tumors and by Response Assessment in Neuro-Oncology (RANO) criteria for GBM
+23.0
+Patients with confirmed diagnosis of ECD that are asymptomatic and with no visceral involvement are not eligible for this trial (patients with no target lesions as per Response Evaluation Criteria in Solid Tumors [RECIST] 1.1 criteria)
+18.0
+Patients must have measurable or evaluable disease, as defined by Response Evaluation Criteria in Solid Tumors (RECIST) 1.1
+66.0
+Patients must have measurable disease as defined by Response Evaluation Criteria in Solid Tumors (RECIST) version 1.1
+209.0
+For patients enrolled in arm A dose level 4, arm A 14-patients expansion cohort, and arm B (first stage of phase II of TRC102 and pemetrexed) measurable disease is required according to the Response Evaluation Criteria in Solid Tumors (RECIST) criteria for patients with solid tumors and modified RECIST criteria as described by Byrne and Novak for patients with malignant pleural mesothelioma; pleural effusion and ascites are not considered measurable disease
+58.0
+Disease may be measurable (by Response Evaluation Criteria in Solid Tumors [RECIST] 1.1 criteria) or non-measurable but must be present in at least one non-liver site, where presence is defined as 1.5 cm or greater and visualized on PET/CT with [18F]-fluorodeoxyglucose (FDG); patients with effusion only disease or disease only in the liver are not eligible for the study
+99.0
+Patients must have evaluable disease � defined as one of the following:* Response Evaluation Criteria in Solid Tumors (RECIST) 1.1 measurable disease OR* Evaluable disease (defined as solid and/or cystic abnormalities on radiographic imaging that do not meet RECIST 1.1 definitions for target lesions OR ascites and/or pleural effusion that has been pathologically demonstrated to be disease-related) AND a cancer antigen 125 (CA125) that has doubled from the post-treatment nadir and is also greater than 2 times upper limit of normal (ULN)
+549.0
+Phase III study: evaluable disease - defined as RECIST 1.1 measurable disease OR non-measurable disease (defined as solid and/or cystic abnormalities on radiographic imaging that do not meet RECIST 1.1 definitions for target lesions OR ascites and/or pleural effusion that has been pathologically demonstrated to be disease-related in the setting of a cancer antigen [CA]125 >= 2 x upper limit of normal [ULN])
+680.0
+CA-125 only disease without Response Evaluation Criteria in Solid Tumors (RECIST) 1.1 measurable or otherwise evaluable disease
+680.0
+Patients must have measurable or evaluable/non-measurable disease per Response Evaluation Criteria in Solid Tumors (RECIST) 1.1; patients with bone only disease are not eligible; NOTE: for patients with metastatic disease in the liver, tumor burden should not be deemed significant (e.g., to no more than 30% of total liver volume as assessed by local review/investigator)
+45.0
+Patients must have measurable disease by Response Evaluation Criteria in Solid Tumors (RECIST) version (v)1.1
+126.0
+Measurable disease per Response Evaluation Criteria in Solid Tumors (RECIST 1.1)
+50.0
+If BRAFV600-mutant, documented refractory disease to at least one BRAF inhibitor (dabrafenib or vemurafenib) and/or a MEK inhibitor (trametinib or cobimetinib), defined as progression of measurable disease as per Response Evaluation Criteria in Solid Tumors (RECIST) criteria while on treatment; subjects with MAPK inhibitor-intolerance are eligible if they meet criteria
+32.0
+Measurable disease by Response Evaluation Criteria in Solid Tumors (RECIST) version (v) 1.1 or other tumor-specific criteria or disease assessable by physical exam or other methods if not measurable by RECIST
+60.0
+Measurable disease (defined by RECIST v. 1.1) or evaluable disease (defined as solid and/or cystic abnormalities on radiographic imaging that do not meet RECIST 1.1 definitions for target lesions OR ascites and/or pleural effusion that has been pathologically demonstrated to be disease related in the setting of cancer antigen [CA]25 >= 2 x upper limit of normal [ULN])
+488.0
+Documented radiological evidence for disease progression (measurable or nonmeasurable) =< 12 months prior to enrollment* NOTE: If patient has had previous radiation to the marker lesion(s), there must be evidence of progression since the radiation; at least one measurable lesion as per Response Evaluation Criteria in Solid Tumors (RECIST)
+40.0
+Measurable disease as determined by Response Evaluation Criteria in Solid Tumors (RECIST) (version 1.1) criteria
+400.0
+Patients must have measurable or non-measurable disease documented by CT, magnetic resonance imaging (MRI) or PET/CT; the CT from a combined PET/CT may be used to document only non-measurable disease unless the scan is of diagnostic quality; measurable disease must be assessed by CT within 28 days prior to registration; pleural effusions, ascites and laboratory parameters are not acceptable as the only evidence of disease; non-measurable disease must be assessed within 42 days prior to registration; all disease must be assessed and documented on the Baseline Tumor Assessment Form
+162.0
+Patients must have either measurable or evaluable limited-stage DLBCL          * Patients rendered free of measurable or evaluable disease by virtue of biopsy (resection) are also eligible; NOTE: if patient has measurable disease it must be documented on the Lymphoma Baseline Tumor Assessment Form* All measurable disease must be assessed within 28 days prior to registration* Patients with non-measurable disease with or without measurable disease must have all non-measurable disease assessed within 42 days prior to registration
+155.0
+Patients must have measurable disease (Phase I)
+48.0
+Patients must have measurable disease; must have at least one non-nodal lesion
+48.0
+Measurable disease by RECIST criteria* For the lead-in, non-randomized portion of Part I, either measurable or evaluable disease is acceptable* For Part I, randomized portion, measurable disease is required
+107.0
+Patients must have measurable disease within 28 days prior to registration (or prior to initiation of first induction course for patients with prior therapy)
+130.0
+Patients must have at least ONE of the following:* Measurable tumor on magnetic resonance imaging (MRI), computed tomography (CT) scan obtained within 3 weeks prior to study entry; measurable is defined as >= 10 mm in at least one dimension on spiral/helical CT that is metaiodobenzylguanidine (MIBG) avid or demonstrates increased fludeoxyglucose (FDG) uptake on positron emission tomography (PET) scan* MIBG scan obtained within 3 weeks prior to study entry with positive uptake at a minimum of one site; this site must represent disease recurrence after completion of therapy, progressive disease on therapy, or refractory disease during induction* Patients with resistant/refractory soft tissue disease that is not MIBG avid or does not demonstrate increased FDG uptake on PET scan must undergo biopsy to document the presence of viable neuroblastoma; biopsy is not required for patients who have new site of soft tissue disease (radiographic evidence of disease progression) regardless of whether progression occurs while receiving therapy or after completion of therapy* Note: Patients with elevated catecholamines (i.e., > 2 x ULN) only or bone marrow disease only are NOT eligible for this study
+74.0
+Measurable or non-measurable (evaluable) tumor parameter(s); non-measurable tumor parameters will be defined as not having bi-dimensional measurements (i.e., gastric or marrow involvement) but can be followed for response by other diagnostic tests such as gallium, PET imaging and/or bone marrow biopsy
+70.0
+Assessable disease with a positive bone scan and/or measurable disease on computed tomography (CT) scan and/or magnetic resonance imaging (MRI) of the abdomen and pelvis
+80.0
+Patients must have at least one 1.5 cm bidimensional measurable lesion
+42.0
+Patients must have measurable disease; baseline measurements and evaluations must be obtained within 4 weeks of registration to the study; abnormal positron emission tomography (PET) scans will not constitute evaluable disease unless verified by a diagnostic quality computed tomography (CT) scan; patients must use the same imaging modality (CT or PET/CT) throughout the study
+189.0
+RANDOMIZED PHASE II (ARMS K AND L): Patients must have measurable disease; baseline measurements and evaluations must be obtained within 4 weeks of registration to the study; abnormal PET scans will not constitute evaluable disease unless verified by a diagnostic quality CT scan; patients must use the same imaging modality (CT or PET/CT) throughout the study
+189.0
+Patients must have measurable or non-measurable disease; all measurable lesions must be assessed (by physical examination, computed tomography [CT], or magnetic resonance imaging [MRI] scan) within 28 days prior to registration; tests to assess non-measurable disease must be performed within 42 days prior to registration; all disease must be assessed and documented on the baseline tumor assessment form (Response Evaluation Criteria in Solid Tumors [RECIST] 1.1)
+97.0
+Patients must have measurable disease; all measurable lesions must be assessed (by physical examination, CT, or MRI scan) within 28 days prior to registration; tests to assess non-measurable disease must be performed within 42 days prior to registration; patients whose only measurable disease is within a previous radiation therapy port must demonstrate clearly progressive disease (in the opinion of the treating investigator) prior to registration; all disease must be assessed and documented on the baseline tumor assessment form (RECIST 1.1)
+97.0
+All patients must have measurable residual disease defined as tumor measurable in two perpendicular diameters on magnetic resonance imaging (MRI); measurements are required for both the solid and cystic components
+52.0
+Patient must have measurable disease or non-measurable disease, defined as one or more of the following holding true:* Measurable disease:** Serum M-protein >= 1.0 g/dL (>= 0.5 g/dL for IgA or IgM myeloma) and/or** Urine M-protein >= 200 mg/24 hours and/or** Involved serum free light chain level >= 10 mg/dL AND an abnormal serum free light chain ratio* For non-measurable disease:** Baseline marrow burden of myeloma of at least 30%
+97.0
+RE-REGISTRATION ELIGIBILITY CRITERIA (STEP 2): Patient must have measurable disease or non-measurable disease after progression on pomalidomide + dexamethasone, defined as one or more of the following holding true:* Measurable disease:** Serum M-protein >= 0.5 g/dL and/or** Urine M-protein >= 200 mg/24 hours and/or** Involved serum free light chain level >= 10 mg/dL AND an abnormal serum free light chain ratio* For non-measurable disease:** Marrow burden of myeloma of at least 30%
+97.0
+Part C: Patients must have measurable disease by computed tomography (CT) or magnetic resonance imaging (MRI)
+154.0
+Part D: Patients must have measurable disease for Part D
+154.0
+Measurable disease or non-measurable disease; extent of resection: patients with complete resection, partial resection, or biopsy are eligible
+440.0
+Patients must have measurable disease documented by computed tomography (CT) or magnetic resonance imaging (MRI); the CT from a combined positron emission tomography (PET)/CT may be used to document only non-measurable disease unless it is of diagnostic quality; measurable disease must be assessed within 28 days prior to sub-study registration; pleural effusions, ascites and laboratory parameters are not acceptable as the only evidence of disease; non-measurable disease must be assessed within 42 days prior to sub-study registration; all disease must be assessed and documented on the Baseline Tumor Assessment Form; patients whose only measurable disease is within a previous radiation therapy port must demonstrate clearly progressive disease (in the opinion of the treating investigator) prior to registration
+10000.0
+Patients must have measurable disease (in 2-dimensions) on magnetic resonance imaging (MRI) scan of brain and/or spine to assess preliminary evidence of response
+40.0
+Patients must have measurable disease
+20.0
+Patients must have measurable or non-measurable stage III/locally advanced or metastatic carcinoma of the breast where local therapy with curative intent is not possible; lesions must be evaluated =< 4 weeks prior to study randomization; diagnostic-quality computed tomography (CT) scans with both oral and intravenous (IV) contrast are the expected radiologic method, unless an alternative is approved* NOTE: Where baseline imaging has already been performed =< 6 weeks prior to study randomization, repeat imaging may not be required
+600.0
+Measurable disease
+30.0
+Contrast-enhanced computed tomography (CT) scans of the neck, chest, abdomen and pelvis are required; a whole body positron emission tomography (PET)/CT scan with diagnostic quality images and intravenous iodinated contrast may be used in lieu of a contrast enhanced CT of the neck, chest, abdomen and pelvis; contrast may be omitted if the treating investigator believes that exposure to contrast poses an excessive risk to the patient; patients must have measurable disease per Response Evaluation Criteria in Solid Tumors (RECIST) 1.1; all measurable lesions must be assessed within 28 days prior to registration; tests to assess non-measurable disease must be performed within 42 days prior to registration; all disease must be assessed and documented on the Baseline Tumor Assessment Form (RECIST 1.1)
+280.0
+Patients must have measurable disease; all sites of disease must be evaluated within 4 weeks prior to randomization
+300.0
+Patients must have measurable disease based on RECIST 1.1
+36.0
+Patients must have measurable contrast-enhancing disease by magnetic resonance imaging (MRI) imaging within 21 days of starting treatment; patient must be able to undergo MRI of the brain with gadolinium
+23.0
+Patients may have measurable or non-measurable disease documented by computed tomography (CT) or magnetic resonance imaging (MRI) within 42 days prior to registration; the CT from a combined positron emission tomography (PET)/CT may be used only if it is of diagnostic quality; laboratory parameters are not acceptable as the only evidence of disease; in order to qualify as measurable, measurable disease must be outside previous radiation field; all disease must be assessed and documented on the Baseline Tumor Assessment Form (Response Evaluation Criteria in Solid Tumors [RECIST] 1.1)
+223.0
+Patients must have measurable disease per RECIST 1.1 criteria; all sites of disease must be evaluated within 4 weeks prior to randomization
+400.0
+Patients must have measurable disease
+6452.0
+Measurable disease
+195.0
+Re-registration: measurable disease
+195.0
+Documentation of disease:* Histologic documentation: histologically proven intracranial meningioma as documented by central pathology review* Molecular documentation: presence of SMO, PTCH1 or NF2 mutation in tumor sample as documented by central laboratory* Progressive OR residual disease, as defined by the following: ** Residual measurable disease: residual measurable disease immediately after surgery without requirement for progression; for grade I disease, progression pre-operatively needs to be documented, with an increase in size of the measurable primary lesion on imaging by 25% or more (bidirectional area); the change must occur between scans separated by no more than 12 months; residual measurable disease will be defined by bidimensionally measurable lesions with clearly defined margins by MRI scans, with a minimum diameter of 10 mm in both dimensions** Progressive measurable disease: progression defined as an increase in size of the measurable primary lesion on imaging by 25% or more (bidirectional area); the change must occur between scans separated by no more than 12 months** Post radiation patients: patients with measurable and progressive meningioma who have received radiation are potentially eligible, but need to show evidence of progressive disease after completion of radiation; at least 24 weeks must have elapsed from completion of radiation to registration
+69.0
+Measurable disease: measurable disease is defined by a bidimensionally measurable main lesion on MRI or computed tomography (CT) images (MRI preferred) with clearly defined margins; multifocal disease is allowed
+69.0
+Patients must have measurable disease by Response Evaluation Criteria in Solid Tumors (RECIST) 1.1 criteria; baseline measurements and evaluations of all sites of disease must be obtained within 4 weeks prior to randomization and must be acquired by multiphasic computed tomography (CT) or contrast magnetic resonance imaging (MRI)* NOTE: positron emission tomography (PET)-CT scans are allowed provided the CT portion of the exam is equivalent to a diagnostic CT scan and includes both oral and IV contrast
+126.0
+Patients must have measurable disease by Response Evaluation Criteria in Solid Tumors (RECIST) 1.1, defined as at least one lesion that can be accurately measured in at least one dimension >= 10 mm (>= 1 cm) by computed tomography (CT) imaging or magnetic resonance imaging (MRI) within 42 days prior to registration; the CT from a combined positron emission tomography (PET)/CT may be used only if it is of diagnostic; laboratory parameters are not acceptable as the only evidence of disease
+82.0
+Patients must have measurable disease by Response Evaluation Criteria in Solid Tumors (RECIST) 1.1, defined as at least one lesion that can be accurately measured in at least one dimension >= 10 mm (>= 1 cm) by computed tomography (CT) imaging or magnetic resonance imaging (MRI) within 28 days prior to start of protocol therapy; the CT from a combined positron emission tomography (PET)/CT may be used if it is of diagnostic quality; laboratory parameters are not acceptable as the only evidence of disease
+36.0
+Patients must have measurable disease in the pancreas; computed tomography (CT) scans or magnetic resonance imaging (MRIs) used to assess measurable disease must have been completed within 28 days prior to registration; all disease must be assessed and documented on the baseline tumor assessment form
+150.0
+Measurable disease by RECIST 1.1
+46.0
+Measurable disease
+45.0
+Patients must also have measurable disease, defined as at least one lesion that can be accurately measured in at least one dimension; disease X-rays, scans or physical examinations used for tumor measurement must have been completed within 28 days prior to registration; if there is clinical suspicion for bone metastases at the time of enrollment (at the discretion of the investigator), bone scan should be performed at baseline (within 42 days prior to registration); all disease must be assessed and documented on the Baseline Tumor Assessment form
+180.0
+Patients must have measurable or non-measurable disease; patients must have a chest/abdominal/pelvis computed tomography (CT) scan (or positron emission tomography [PET]/CT of diagnostic quality, conventional or spiral) prior to registration; if the patient is unable to undergo CT with IV contrast due to allergy or renal insufficiency, a non-contrast CT may be performed; all scans needed for assessment of measurable disease must be performed within 28 days prior to registration; non-measurable disease must be assessed within 42 days prior to registration; all disease must be assessed and documented on the Baseline Tumor Assessment Form
+333.0
+Measurable disease
+137.0
+Patients must have metastatic disease that is measurable; computed tomography (CT) scans or magnetic resonance imaging (MRI)s used to assess measurable disease must have been completed within 28 days prior to registration; CT scans or MRIs used to assess non-measurable disease must have been completed within 42 days prior to registration; all disease must be assessed and documented on the Baseline Tumor Assessment Form
+143.0
+DISEASE RELATED CRITERIA: Patients must have measurable disease documented by computed tomography (CT) or magnetic resonance imaging (MRI) within 28 days prior to registration; the CT from a combined positron emission tomography (PET)/CT may be used only if it is of diagnostic quality; non-measurable disease must be assessed within 42 days prior to registration; all known sites of disease must be assessed and documented on the baseline tumor assessment form (Response Evaluation Criteria in Solid Tumors [RECIST 1.1])
+53.0
+COHORT A: Patients must have histologically or cytologically confirmed primary desmoplastic melanoma that is deemed resectable; the decision to perform surgery on patients must be based on good clinical judgment; eligible patients for surgical resection must have disease that, in the judgment of the surgeon, is deemed completely resectable resulting in free surgical margins; patients must have residual disease after initial biopsy which can be measurable or non-measurable disease per Response Evaluation Criteria in Solid Tumors (RECIST) 1.1; residual disease can either be confirmed with fine-needle aspiration (FNA) or if measurable disease is present, no FNA needs to be obtained OR
+77.0
+Contrast-enhanced computed tomography (CT) scans of the chest, abdomen and pelvis are required; a whole body positron emission tomography (PET)/CT scan with diagnostic quality images and intravenous iodinated contrast may be used in lieu of a contrast enhanced CT of the chest, abdomen and pelvis; imaging of the head and neck is required only if the patient has a head/neck primary; contrast may be omitted if the treating investigator believes that exposure to contrast poses an excessive risk to the patient; if skin lesions are being followed as measurable disease, photograph with a ruler included and physician measurements, must be kept in the patient�s chart as source documentation; all measurable lesions must be assessed within 28 days prior to registration; tests to assess non-measurable disease must be performed within 42 days prior to registration; all disease must be assessed and documented on the baseline tumor assessment form (RECIST 1.1)
+77.0
+Patients must have measurable disease as per RECIST (version 1.1)
+24.0
+Patients must have a diagnostic quality computed tomography (CT) scan or magnetic resonance imaging (MRI), performed within 28 days prior to registration, which demonstrates measurable disease, as defined in RECIST v. 1.1; all disease must be assessed and documented on the S1609 Baseline Tumor Assessment Form
+707.0
+There must be measurable disease at study entry* Note: a measurable node must have an LDi (longest diameter) greater than 1.5 cm; a measurable extranodal lesion should have an LDi greater than 1.0 cm; all tumor measurements must be recorded in millimeters (or decimal fractions of centimeters)
+90.0
+Must not have received any prior radiation to any sites of measurable disease
+90.0
+Patients must have measurable disease by RECIST v1.1, or evaluable disease with bone metastases demonstrated by Tc99 bone scan; patients with bone metastases only are allowed (NOTE: nodes >= 1.5 cm (not >= 2 cm) in the short axis are considered measurable, per The Prostate Cancer Working Group 3 [PCWG3])
+90.0
+Patients must have measurable disease
+40.0
+For the expansion cohort only: measurable disease by RECIST v1.1 with at least one measurable target lesion
+40.0
+Patients must have localized disease with a primary tumor >= 5 cm by magnetic resonance imaging (MRI) or computed tomography (CT) scan
+40.0
+Patients must have measurable disease per Response Evaluation Criteria in Solid Tumors (RECIST) 1.1; contrast-enhanced computed tomography (CT) scans of the neck, chest, abdomen and pelvis are required; a whole body positron emission tomography (PET)/CT scan with diagnostic quality images and intravenous iodinated contrast may be used in lieu of a contrast enhanced CT of the chest, abdomen and pelvis; imaging of the head and neck is required only if the patient has a head/neck primary; contrast may be omitted if the treating investigator believes that exposure to contrast poses an excessive risk to the patient; if skin lesions are being followed as measurable disease, photograph with a ruler included and physician measurements, must be kept in the patients chart as source documentation; all measurable lesions must be assessed within 28 days prior to registration; tests to assess non-measurable disease must be performed within 42 days prior to registration; all disease must be assessed and documented on the baseline tumor assessment form (RECIST 1.1)
+64.0
+Patients must have measurable (defined by at least 1 cm x 1 cm) contrast-enhancing disease by magnetic resonance imaging (MRI) imaging within 21 days of starting treatment
+35.0
+Patients must have measurable disease per RECIST 1.1; computed tomography (CT) scans or magnetic resonance imaging (MRI)s used to assess measurable disease must have been completed within 28 days prior to registration; if the only measurable disease is cutaneous or subcutaneous, lesions must be at least 10 mm in greatest dimension and able to be serially recorded using calipers and photographs; tests used to assess non-measurable disease must have been performed within 42 days prior to registration; all disease must be assessed and documented on the Baseline Tumor Assessment Form
+94.0
+Have measurable disease outside of biopsy site present per immune related (ir)RECIST criteria
+78.0
+Patients must have measurable or evaluable disease
+74.0
+Participants must have measurable or evaluable disease
+130.0
+Radiologically measurable or clinically evaluable disease
+1120.0
+Patients must have measurable or evaluable disease
+68.0
+Patients must have measurable or evaluable disease
+330.0
+Part A: Patients must have either measurable or evaluable disease
+154.0
+Parts A & C: patients must have either measurable or evaluable disease
+484.0
+Parts B, D & E: patients must have measurable disease for Parts B1-B6, D1-D5, E3 and E4; melanoma patients in Part B7 must have either measurable or evaluable disease; neuroblastoma patients in Parts B8 and D6 must be evaluable for MIBG response without evidence of RECIST measurable lesions
+484.0
+Disease status:* Part A: Patients must have either measurable or evaluable disease* Parts B and C: Patients must have measurable disease on imaging
+81.0
+CA-125 only disease without RECIST 1.1 measurable or otherwise evaluable disease
+549.0
+Patients must have measurable or evaluable disease
+46.0
+Patients must have either measurable or evaluable disease
+67.0
+Patients must have either measurable or evaluable disease
+65.0
+Patients must have either measurable or evaluable disease
+36.0
+Patients must have measurable or evaluable disease
+38.0
+Patients must have either measurable or evaluable disease
+51.0

@@ -1,0 +1,28 @@
+Fasting cholesterol =< 300 mg/dL and triglycerides =< 2.5 x IULN obtained within 28 days prior to registration; patients may be on lipid lowering agents to reach these values
+1900.0
+TREATMENT: For patients on everolimus, fasting serum cholesterol =< 300 mg/dL OR =< 7.75 mmol/L AND fasting triglycerides =< 2.5 x upper limit of normal (ULN); NOTE: in case one or both of these thresholds are exceeded, the patient can receive everolimus on study only after initiation of appropriate lipid lowering medication with follow up documentation of values below the above cut-off
+700.0
+Fasting triglycerides =< 300 mg/dL
+57.0
+Metabolic: fasting serum glucose (=< 130 mg/dL) and fasting triglycerides =< 300 mg/dL
+23.0
+Fasting triglycerides =< 300 mg/dL
+209.0
+Fasting triglycerides =< 300 mg/dL (3.42 mmol/L)
+36.0
+Fasting cholesterol less than or equal to 300 mg/dl; fasting triglycerides less than or equal to 300 mg/dl
+84.0
+Within less than or equal to 14 days prior to registration: Fasting triglycerides =< 300 mg/dL
+40.0
+Serum triglyceride level =< 300 mg/dL (=< 3.42 mmol/L)
+253.0
+Serum triglyceride =< 300 mg/dL (applicable only for dose levels that include isotretinoin) (note that a non-fasting triglyceride value could be obtained, if this is > 300 mg/dL then a fasting triglyceride should be obtained and patient will be eligible if the fasting level is =< 300 mg/dL)
+62.0
+Fasting triglyceride =< 2.5 x ULN
+34.0
+Fasting triglyceride =< 200 mg/dL; ONLY APPLICABLE for patients with NF2 mutation (GSK2256098)
+69.0
+Serum triglyceride level =< 300 mg/dL
+51.0
+Serum triglyceride level =< 300 mg/dL within 7 days prior to enrollment
+49.0

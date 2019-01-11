@@ -1,0 +1,46 @@
+Patients receiving corticosteroids are not eligible; patients must have been off corticosteroids for 7 days prior to start of chemotherapy
+253.0
+Corticosteroids: patients who are receiving dexamethasone must be on a stable or decreasing dose for at least 1 week prior to registration
+180.0
+Patients must be maintained on a stable corticosteroid regimen (no increase for 5 days) prior to the start of treatment
+36.0
+Patients receiving corticosteroids are eligible for this trial
+77.0
+Patients receiving corticosteroids who have not been on a stable or decreasing dose of corticosteroid for at least 7 days prior to enrollment are not eligible
+154.0
+Corticosteroids: patients who are receiving dexamethasone or other corticosteroids must be on a stable or decreasing dose for at least 1 week prior to enrollment; it is recommended that patients be off all steroid therapy or receive the least dose that will control their neurologic symptoms
+40.0
+Patients receiving corticosteroids who have not been on a stable or decreasing dose of corticosteroid for at least 7 days prior to enrollment are not eligible
+148.0
+Solid tumor patients must be off corticosteroids prior to registration; if GBM patient is receiving corticosteroids, patient must be on a stable or decreasing dose of corticosteroids for at least 5 days prior to baseline magnetic resonance imaging (MRI) or computed tomography (CT); if steroids are added or the steroids dose is increased between the date of the screening MRI or CT and the start of treatment, a new baseline MRI or CT is required
+23.0
+Patients receiving corticosteroids who have not been on a stable or decreasing dose of corticosteroid for at least 7 days prior to enrollment are not eligible
+67.0
+Must have been taking a stable dose of corticosteroids for symptom management for at least 1 week before baseline MRI
+130.0
+If patient is on corticosteroids, the dose must be stable or decreasing for at least 5 days prior to enrollment
+25.0
+Corticosteroid dose must be stable or decreasing for at least 5 days prior to the baseline MRI scan
+70.0
+Patients must be maintained on a stable corticosteroid regimen (no increase for 5 days) prior to the baseline MRI
+30.0
+Patients must be able to undergo MRI of the brain with gadolinium; patients must be maintained on a stable or decreasing dose of corticosteroid regimen (no increase for 5 days) prior to this baseline MRI
+35.0
+Stable dose of corticosteroid >= 14 days prior to registration
+330.0
+Patients requiring daily systemic corticosteroids are not eligible; patients must not have received systemic corticosteroids within 7 days prior to enrollment; if used to modify immune adverse events related to prior therapy, >= 14 days must have elapsed since last dose of corticosteroid; Note: use of topical or inhaled corticosteroids will not render a patient ineligible
+484.0
+Corticosteroids: Patients receiving corticosteroids must have been on a stable or decreasing dose of corticosteroid for at least 7 days prior to enrollment; if used to modify immune adverse events related to prior therapy, >= 14 days must have elapsed since last dose of corticosteroid
+65.0
+Patients receiving corticosteroids who have not been on a stable or decreasing dose of corticosteroid for at least 7 days prior to enrollment are not eligible; if used to modify immune adverse events related to prior therapy, >= 14 days must have elapsed since last dose of corticosteroid
+36.0
+Patients requiring corticosteroids who have not been on a stable or decreasing dose of corticosteroid for the 7 days prior to enrollment are not eligible; if used to modify immune adverse events related to prior therapy, >= 14 days must have elapsed since last dose of corticosteroid
+146.0
+Corticosteroids: If used to modify immune adverse events related to prior therapy, >= 14 days must have elapsed since last dose of corticosteroid
+51.0
+Patients receiving corticosteroids must have been on a stable or decreasing dose of corticosteroid for at least 7 days prior to enrollment; if used to modify immune adverse events related to prior therapy, >= 14 days must have elapsed since last dose of corticosteroid
+51.0
+Patients receiving corticosteroids who have not been on a stable or decreasing dose of corticosteroid for at least 7 days prior to enrollment are not eligible; if used to modify immune adverse events related to prior therapy, >= 14 days must have elapsed since last dose of corticosteroid
+49.0
+Patients receiving corticosteroids who have not been on a stable or decreasing dose of corticosteroid for at least 7 days prior to enrollment are not eligible; if used to modify immune adverse events related to prior therapy, >= 14 days must have elapsed since last dose of corticosteroid
+49.0
