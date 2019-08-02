@@ -37,6 +37,14 @@ people:
       url: https://twitter.com/girly_bits
 
 
+- name: Davar Ardalan
+  pic: 4
+  position: Data Storyteller, PIF, GSA
+  social:
+    - title: twitter
+      url: https://twitter.com/@idavar
+
+
 
 # NOTE: Replacing this next line with your own URL
 production_url : https://tophealth.github.io
