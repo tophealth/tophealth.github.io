@@ -13,36 +13,48 @@ author :
   feedburner : nil
 
 people:
-- name: Kristen Honey, PhD, PMP
-  pic: 1
-  position: Innovator in Residence, HHS
-  social:
-    - title: twitter
-      url: https://twitter.com/khoney
 
-
-- name: Gil Alterovitz, PhD, FACMI
-  pic: 2
-  position: Presidential Innovation Fellow, GSA
-  social:
+  - name: Gil Alterovitz, PhD, FACMI
+    pic: 2
+    position: Presidential Innovation Fellow, GSA
+    social:
     - title: twitter
       url: https://twitter.com/GilAlterov
 
+  - name: Davar Ardalan
+    pic: 4
+    position: Data Storyteller, PIF, GSA
+    social:
+      - title: twitter
+        url: https://twitter.com/@idavar
 
-- name: Irina Muchnik
-  pic: 3
-  position: Developer, Data Scientist, CFPB
-  social:
-    - title: twitter
-      url: https://twitter.com/girly_bits
+  - name: Lucinda Gish
+    pic: 6
+    position: Health Data Specialist, Navy
 
 
-- name: Davar Ardalan
-  pic: 4
-  position: Data Storyteller, PIF, GSA
-  social:
-    - title: twitter
-      url: https://twitter.com/@idavar
+  - name: Kristen Honey, PhD, PMP
+    pic: 1
+    position: Innovator in Residence, HHS
+    social:
+      - title: twitter
+        url: https://twitter.com/khoney
+
+
+  - name: Irina Muchnik
+    pic: 3
+    position: Developer, Data Scientist, CFPB
+    social:
+      - title: twitter
+        url: https://twitter.com/girly_bits
+
+  - name: Anniebell Stewart
+    pic: 5
+    position: Coordinator, HUD
+
+
+
+
 
 
 
