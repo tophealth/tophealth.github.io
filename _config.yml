@@ -4,7 +4,6 @@
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-
 title : TOP Health Sprint
 author :
   name : Irina Muchnik
@@ -52,18 +51,6 @@ people:
   - name: Anniebell Stewart
     pic: 5
     position: Coordinator, HUD
-
-
-
-
-
-
-- name: Davar Ardalan
-  pic: 4
-  position: Data Storyteller, PIF, GSA
-  social:
-    - title: twitter
-      url: https://twitter.com/@idavar
 
 
 
